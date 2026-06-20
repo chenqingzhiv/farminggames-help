@@ -1,31 +1,44 @@
 # 🌾 种田游戏攻略
 
-欢迎来到种田游戏攻略站！这里是所有种田/农场/模拟经营游戏的数据库和攻略大全。
+<div class="game-hero-card">
+<a href="stardev/" class="game-hero-card-inner game-card-stardew" style="display:block;">
+<div class="game-card-title">🌟 星露谷物语</div>
+<div class="game-card-sub">像素风种田巅峰 · 全平台 · 最完整攻略</div>
+<div class="game-card-links">
+  <span class="game-card-link">🌱 作物利润表</span>
+  <span class="game-card-link">🐟 鱼类图鉴</span>
+  <span class="game-card-link">💝 NPC好感表</span>
+  <span class="game-card-link">🧑‍🍳 工匠利润</span>
+  <span class="game-card-link">🌷 季节攻略</span>
+</div>
+</a>
+</div>
 
----
+<div class="game-hero-card">
+<a href="farmingsim/" class="game-hero-card-inner game-card-farmsim" style="display:block;">
+<div class="game-card-title">🚜 模拟农场25</div>
+<div class="game-card-sub">最真实农业模拟 · 农机操作 · 经营管理</div>
+<div class="game-card-links">
+  <span class="game-card-link">📖 完整攻略</span>
+</div>
+</a>
+</div>
 
-## 🎮 覆盖游戏
-
-<div class="grid cards" markdown>
-
--   :star: **Stardew Valley** — 星露谷物语完整攻略
--   :tractor: **Farming Simulator** — 模拟农场系列指南
--   :cow: **牧场物语** — 全系列耕种攻略
--   :seedling: **珊瑚岛** — Coral Island 新手到精通
--   :palm_tree: **动物森友会** — 岛屿生活指南
--   :corn: **Graveyard Keeper** — 墓场物语全攻略
-
+<div class="game-hero-card">
+<a href="palia/" class="game-hero-card-inner game-card-palia" style="display:block;">
+<div class="game-card-title">🏹 Palia 帕利亚</div>
+<div class="game-card-sub">种田+MMO · 免费游玩 · 社区温暖</div>
+<div class="game-card-links">
+  <span class="game-card-link">📖 完整攻略</span>
+</div>
+</a>
 </div>
 
 ---
 
-## 📊 热门内容
+> 📢 持续更新中！更多种田游戏攻略即将上线。
 
--   [种田游戏完整列表](database/games.md)
--   [新手入门指南](guides/index.md)
-
----
-
-## 📰 最新更新
-
--   2026-06-20: 站点上线！持续建设中...
+<div class="feedback-section">
+<h2>💬 有建议或反馈？</h2>
+<p>欢迎在任意游戏页面底部留言，帮助我们做得更好！</p>
+</div>

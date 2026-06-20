@@ -1,0 +1,121 @@
+/* farminggames.help - Custom Styles */
+
+/* Game Section Backgrounds */
+.md-main .md-content {
+  position: relative;
+}
+
+/* Stardew Valley - warm farm green */
+.stardew-bg::before {
+  content: '';
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background-image: url('../images/bg/stardew-bg.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  opacity: 0.15;
+  z-index: -1;
+}
+
+/* Farming Simulator - golden field */
+.farmsim-bg::before {
+  content: '';
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background-image: url('../images/bg/farmsim-bg.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  opacity: 0.15;
+  z-index: -1;
+}
+
+/* Palia - magical purple */
+.palia-bg::before {
+  content: '';
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background-image: url('../images/bg/palia-bg.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  opacity: 0.15;
+  z-index: -1;
+}
+
+/* Background gradient overlay for all pages */
+body::before {
+  content: '';
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: 
+    radial-gradient(ellipse at 20% 50%, rgba(34, 197, 94, 0.08), transparent 50%),
+    radial-gradient(ellipse at 80% 50%, rgba(251, 191, 36, 0.05), transparent 50%);
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* Frosted glass effect on cards */
+.md-typeset .admonition,
+.md-typeset details {
+  backdrop-filter: blur(8px);
+  background: rgba(26, 26, 31, 0.7) !important;
+  border-color: rgba(255, 255, 255, 0.1) !important;
+}
+
+/* Hover card effects */
+article .md-content__inner a:not(.md-button) {
+  transition: all 0.2s ease;
+}
+
+/* Glassmorphism main content */
+.md-main__inner {
+  position: relative;
+  z-index: 1;
+}
+
+.md-content {
+  background: rgba(16, 18, 22, 0.5);
+  backdrop-filter: blur(6px);
+  border-radius: 8px;
+  padding: 0 8px;
+}
+
+/* Table glassmorphism */
+.md-typeset table:not(.md-typeset__table) {
+  background: rgba(26, 26, 31, 0.6);
+  backdrop-filter: blur(4px);
+}
+
+/* Code blocks glass */
+.md-typeset code {
+  background: rgba(255, 255, 255, 0.08);
+}
+
+/* Header glassmorphism */
+.md-header {
+  backdrop-filter: blur(16px);
+  background: rgba(16, 18, 22, 0.75) !important;
+}
+
+/* Feedback section style */
+.feedback-card {
+  background: rgba(34, 197, 94, 0.08);
+  border: 1px solid rgba(34, 197, 94, 0.2);
+  border-radius: 12px;
+  padding: 20px;
+  margin-top: 40px;
+  backdrop-filter: blur(4px);
+}
+
+.feedback-card h2 {
+  color: #22c55e;
+  font-size: 1.2rem;
+  margin-bottom: 8px;
+}
+
+.feedback-card p {
+  color: #9b9a95;
+  font-size: 0.9rem;
+}
