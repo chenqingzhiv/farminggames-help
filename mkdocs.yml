@@ -32,6 +32,14 @@ theme:
 
 plugins:
   - search
+  - git-revision-date-localized:
+      enabled: true
+      type: timeago
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
+      cache_safe: true
   - glightbox
 
 extra_javascript:
