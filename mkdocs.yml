@@ -60,7 +60,12 @@ nav:
   - 🏠 首页: index.md
   - 🌾 种田游戏数据库:
     - 游戏列表: database/games.md
+    - 🌱 全季节作物利润表: stardev/crops.md
+    - 🐟 鱼类图鉴与价格: stardev/fish.md
+    - 💝 NPC礼物好感表: stardev/npc-gifts.md
+    - 🧑‍🍳 工匠制品利润对比: stardev/artisan.md
   - 📖 攻略指南:
     - 总览: guides/index.md
+    - 🌷 春季完整攻略: stardev/spring-guide.md
   - 📰 更新日志: news/index.md
   - ℹ️ 关于本站: about.md
