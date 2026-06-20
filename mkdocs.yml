@@ -77,13 +77,20 @@ nav:
   - 🌾 种田游戏数据库:
     - 游戏列表: database/games.md
   - 🌟 星露谷物语:
+    - 🏠 游戏总览: stardev/encyclopedia.md
     - 🌱 全季节作物利润表: stardev/crops.md
     - 🐟 鱼类图鉴与价格: stardev/fish.md
     - 💝 NPC礼物好感表: stardev/npc-gifts.md
     - 🧑‍🍳 工匠制品利润对比: stardev/artisan.md
+    - 🍳 烹饪食谱大全: stardev/cooking.md
     - 🌷 春季完整攻略: stardev/spring-guide.md
-    - ☀️🍁❄️ 夏秋冬攻略: stardev/seasons.md
-    - 📚 完整图鉴: stardev/encyclopedia.md
+    - ☀️ 夏季完整攻略: stardev/summer-guide.md
+    - 🍁 秋季完整攻略: stardev/fall-guide.md
+    - ❄️ 冬季完整攻略: stardev/winter.md
+    - ⛏️ 采矿/矿洞全攻略: stardev/mining.md
+    - 🏠 农场布局规划: stardev/farm-layout.md
+    - 🎣 钓鱼完全指南: stardev/fishing.md
+    - 🎪 节日活动日历: stardev/festivals.md
     - 📬 反馈建议: stardev/feedback.md
   - 🚜 模拟农场25:
     - 完整攻略: farmingsim/index.md
