@@ -36,6 +36,9 @@ plugins:
 extra_javascript:
   - assets/js/utterances.js
 
+extra_css:
+  - assets/css/custom.css
+
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
