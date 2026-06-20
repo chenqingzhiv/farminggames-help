@@ -87,9 +87,13 @@ nav:
     - 📬 反馈建议: stardev/feedback.md
   - 🚜 模拟农场25:
     - 完整攻略: farmingsim/index.md
+    - 🆕 新手起步指南: farmingsim/getting-started.md
+    - 🌽 作物利润全表: farmingsim/crops.md
+    - 🚜 农机选购指南: farmingsim/machinery.md
     - 📬 反馈建议: farmingsim/feedback.md
   - 🏹 Palia帕利亚:
     - 完整攻略: palia/index.md
+    - 🆕 新手完整攻略: palia/guide.md
     - 📬 反馈建议: palia/feedback.md
   - 📖 新手入门指南:
     - 新手攻略: guides/newbie.md
