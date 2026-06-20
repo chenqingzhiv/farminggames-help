@@ -1,0 +1,66 @@
+site_name: 种田游戏攻略
+site_url: https://farminggames.help
+site_description: 种田/农场/模拟经营游戏攻略数据库 - Stardew Valley, Farming Simulator, 牧场物语等
+site_author: farming-games
+
+theme:
+  name: material
+  language: zh
+  palette:
+    - scheme: slate
+      primary: green
+      accent: lime
+      toggle:
+        icon: material/lightbulb
+        name: 切换到亮色模式
+    - scheme: default
+      primary: green
+      accent: lime
+      toggle:
+        icon: material/lightbulb-outline
+        name: 切换到深色模式
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.path
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+    - header.autohide
+
+plugins:
+  - search
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+  - admonition
+  - pymdownx.details
+  - tables
+  - attr_list
+  - md_in_html
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/
+  generator: false
+
+copyright: Copyright &copy; 2026 种田游戏攻略
+
+nav:
+  - 🏠 首页: index.md
+  - 🌾 种田游戏数据库:
+    - 游戏列表: database/games.md
+  - 📖 攻略指南:
+    - 总览: guides/index.md
+  - 📰 更新日志: news/index.md
+  - ℹ️ 关于本站: about.md
