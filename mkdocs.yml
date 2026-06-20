@@ -35,6 +35,7 @@ plugins:
 
 extra_javascript:
   - assets/js/utterances.js
+  - assets/js/game-bg.js
 
 extra_css:
   - assets/css/custom.css
