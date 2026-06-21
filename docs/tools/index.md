@@ -29,7 +29,7 @@ Interactive tools powered by verified game data. Updated regularly.
 | **[📦 Mods Guide](mods/)** | Curated mod recommendations for Stardew Valley |
 | **[💾 Save File Guide](saves/)** | Edit your save files safely |
 | **[🗺️ Interactive Map](interactive-map/)** | Explore the valley with clickable regions |
-| **[🧮 Profit Calculator](../stardew/profit-calc/)** | All-in-one profit tables |
+| **[🧮 Profit Calculator](../stardev/profit-calc/)** | All-in-one profit tables |
 
 ---
 
@@ -44,4 +44,4 @@ Interactive tools powered by verified game data. Updated regularly.
 
 *Some links are affiliate links — we earn a small commission at no extra cost to you.*
 
-*Have an idea for a tool? [Let us know](../feedback/)!*
+*Have an idea for a tool? [Send us feedback](https://game-guide.club/feedback/)!*

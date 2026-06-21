@@ -10,9 +10,9 @@ A day-by-day walkthrough to build a thriving farm, complete Community Center bun
 ---
 
 **Quick links:**
-- [Spring (Days 1-28)](#spring)
-- [Summer (Days 1-28)](#summer)
-- [Fall (Days 1-28)](#fall)
+- [Spring (Days 1-28)](#spring-year-1)
+- [Summer (Days 1-28)](#summer-year-1)
+- [Fall (Days 1-28)](#fall-year-1)
 - [Winter Prep](#winter-preparation)
 
 ---
