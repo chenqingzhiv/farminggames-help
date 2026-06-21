@@ -68,8 +68,8 @@ Select a season and your skills to see the **most profitable crops** ranked by p
 
 <div class="feedback-section">
   <h3>💬 Data accuracy</h3>
-  <p>All data verified against Stardew Valley 1.6 wiki. Found an error? <a href="../../feedback/">Let us know</a>.</p>
+  <p>All data verified against Stardew Valley 1.6 wiki. Found an error? <a href="../../../feedback/">Let us know</a>.</p>
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
-<script src="../../assets/js/tools/stardew-profit-planner.js"></script>
+<script src="../../../assets/js/tools/stardew-profit-planner.js"></script>
