@@ -6,6 +6,7 @@ site_author: farming-games
 theme:
   name: material
   language: zh
+  custom_dir: overrides
   palette:
     - scheme: slate
       primary: green
@@ -32,6 +33,12 @@ theme:
 
 plugins:
   - search
+  - blog:
+      enabled: true
+      blog_dir: news
+      post_dir: "{blog}/posts"
+      post_url_format: "{slug}"
+      blog_toc: false
   - git-revision-date-localized:
       enabled: true
       type: timeago
@@ -98,7 +105,9 @@ nav:
     - 🌱 全季节作物利润表: stardev/crops.md
     - 🐟 鱼类图鉴与价格: stardev/fish.md
     - 💝 NPC礼物好感表: stardev/npc-gifts.md
+    - 🏆 作物Tier排名: stardev/tier-list.md
     - 🧑‍🍳 工匠制品利润对比: stardev/artisan.md
+    - 💰 赚钱计算器: stardev/profit-calc.md
     - 🍳 烹饪食谱大全: stardev/cooking.md
     - 🌷 春季完整攻略: stardev/spring-guide.md
     - ☀️ 夏季完整攻略: stardev/summer-guide.md

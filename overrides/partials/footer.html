@@ -1,0 +1,33 @@
+<!-- Custom footer with affiliate links and disclosures -->
+<footer class="md-footer">
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        {% if config.copyright %}
+          <div class="md-footer-copyright__highlight">
+            {{ config.copyright }}
+          </div>
+        {% endif %}
+        <div class="md-footer-affiliate">
+          <p style="font-size: 0.75rem; color: var(--md-default-fg-color--light); margin-top: 0.5rem;">
+            ⚠️ <strong>免责声明 / Affiliate Disclosure</strong>：本站部分链接为 affiliate 链接（如 Amazon、Steam 等）。
+            当您通过这些链接购买商品时，我们可能会获得少量佣金，但这不会影响您的购买价格。
+            所有攻略内容均为独立编写，不受赞助商影响。
+            感谢您对本站的支持！
+          </p>
+        </div>
+      </div>
+      {% if config.extra.social %}
+        <div class="md-footer-social">
+          {% for social in config.extra.social %}
+            <a href="{{ social.link }}" target="_blank" rel="noopener" title="{{ social.name }}">
+              {% if social.icon %}
+                <span class="twemoji">{% include ".icons/" ~ social.icon ~ ".svg" %}</span>
+              {% endif %}
+            </a>
+          {% endfor %}
+        </div>
+      {% endif %}
+    </div>
+  </div>
+</footer>

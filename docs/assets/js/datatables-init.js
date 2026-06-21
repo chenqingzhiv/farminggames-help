@@ -16,6 +16,8 @@
             }
             // 只处理有至少2行数据（表头+1行数据）的表格
             if ($table.find('tr').length >= 2) {
+                // 自动添加 .datatable 类以支持 CSS 样式
+                $table.addClass('datatable');
                 try {
                     $table.DataTable({
                         language: {

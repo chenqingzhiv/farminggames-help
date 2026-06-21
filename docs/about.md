@@ -16,6 +16,10 @@
 
 -   GitHub: [github.com/chenqingzhiv](https://github.com/)
 
+## 免责声明 / Affiliate Disclosure
+
+本站部分外部链接为 affiliate 链接（如 Amazon、Steam 等）。当您通过这些链接购买商品时，我们可能会获得少量佣金，但这不会影响您的购买价格。所有攻略内容均为独立编写，不受赞助商影响。感谢您对本站的支持！
+
 ---
 
 *本站为纯静态攻略站，内容持续更新中。*
