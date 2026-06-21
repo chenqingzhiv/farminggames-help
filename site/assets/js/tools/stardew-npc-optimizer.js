@@ -1,6 +1,7 @@
 /**
- * Stardew Valley 1.6 NPC Friendship Optimizer
- * All NPCs with loved/liked gifts, weekly gift tracker, happiness budget calculator
+ * Stardew Valley 1.6 NPC Friendship Optimizer (Enhanced)
+ * All NPCs with loved/liked gifts, weekly gift tracker, birthday reminders,
+ * weekly schedules, and universal gift reference.
  * Data verified against official Stardew Valley Wiki (1.6.15)
  * Sources: https://stardewvalleywiki.com/Friendship, https://stardewvalleywiki.com/Gifts
  */
@@ -46,107 +47,78 @@ const NPCS = [
   { id: "wizard",    name: "Wizard",    avatar: "🧙",  born: "Winter 17", loves: ["Book of Mysteries", "Book of Stars", "Purple Mushroom", "Solar Essence", "Super Cucumber", "Void Essence"], likes: ["All Artisan Goods", "Daffodil", "Dandelion", "Nautilus Shell", "Quartz"], hates: ["Clay", "Holly"], birthday: "Winter 17" }
 ];
 
+// ── Weekly Schedules (approximate locations by day) ──
+const WEEKLY_SCHEDULES = {
+  "Abigail":   { "Mon": "Home (kitchen)", "Tue": "Home (room)", "Wed": "Pierre's", "Thu": "Home (room)", "Fri": "Saloon (evening)", "Sat": "Home (room)", "Sun": "Home (room)" },
+  "Alex":      { "Mon": "Home (gridball)", "Tue": "Beach (morning)", "Wed": "Home", "Thu": "Home", "Fri": "Saloon (evening)", "Sat": "Museum", "Sun": "Home" },
+  "Elliott":   { "Mon": "Home (cabin)", "Tue": "Library", "Wed": "Home (cabin)", "Thu": "Bridge (beach)", "Fri": "Saloon (evening)", "Sat": "Home (cabin)", "Sun": "Home (cabin)" },
+  "Emily":     { "Mon": "Home", "Tue": "Saloon (evening)", "Wed": "Home", "Thu": "Home", "Fri": "Saloon (evening)", "Sat": "Home", "Sun": "Home" },
+  "Haley":     { "Mon": "Home", "Tue": "Community (fountain)", "Wed": "Home (room)", "Thu": "Home", "Fri": "Saloon (evening)", "Sat": "Home", "Sun": "Home" },
+  "Harvey":    { "Mon": "Clinic", "Tue": "Clinic", "Wed": "Clinic", "Thu": "Clinic", "Fri": "Clinic", "Sat": "Home", "Sun": "Home" },
+  "Leah":      { "Mon": "Home (cabin)", "Tue": "Forest (by pond)", "Wed": "Home (cabin)", "Thu": "Saloon (evening)", "Fri": "Home (cabin)", "Sat": "Forest (by pond)", "Sun": "Home (cabin)" },
+  "Maru":      { "Mon": "Home (room)", "Tue": "Clinic (evening)", "Wed": "Home (room)", "Thu": "Home (room)", "Fri": "Saloon (evening)", "Sat": "Home (room)", "Sun": "Home (room)" },
+  "Penny":     { "Mon": "Home (Trailer)", "Tue": "Library", "Wed": "Home (Trailer)", "Thu": "Home (Trailer)", "Fri": "Home (Trailer)", "Sat": "Town (by tree)", "Sun": "Home (Trailer)" },
+  "Sam":       { "Mon": "Home (room)", "Tue": "Home (room)", "Wed": "1 Willow (guitar)", "Thu": "Home (room)", "Fri": "Saloon (evening)", "Sat": "Town (skateboard)", "Sun": "Home (room)" },
+  "Sebastian": { "Mon": "Home (basement)", "Tue": "Home (basement)", "Wed": "Home (basement)", "Thu": "Railroad (smoking)", "Fri": "Saloon (evening)", "Sat": "Home (basement)", "Sun": "Home (basement)" },
+  "Shane":     { "Mon": "Home (room)", "Tue": "Marnie's (room)", "Wed": "Saloon (evening)", "Thu": "Marnie's (room)", "Fri": "Saloon (evening)", "Sat": "Marnie's (room)", "Sun": "Marnie's (room)" },
+  "Caroline":  { "Mon": "Home (kitchen)", "Tue": "Home", "Wed": "Home", "Thu": "Home (sunroom)", "Fri": "Home", "Sat": "Home", "Sun": "Home" },
+  "Clint":     { "Mon": "Blacksmith", "Tue": "Blacksmith", "Wed": "Blacksmith", "Thu": "Blacksmith", "Fri": "Saloon (evening)", "Sat": "Blacksmith", "Sun": "Blacksmith" },
+  "Demetrius": { "Mon": "Home (lab)", "Tue": "Home (lab)", "Wed": "Home (lab)", "Thu": "Home (lab)", "Fri": "Home (lab)", "Sat": "Home (lab)", "Sun": "Home (lab)" },
+  "Dwarf":     { "Mon": "Mines (level 5)", "Tue": "Mines (level 5)", "Wed": "Mines (level 5)", "Thu": "Mines (level 5)", "Fri": "Mines (level 5)", "Sat": "Mines (level 5)", "Sun": "Mines (level 5)" },
+  "Evelyn":    { "Mon": "Home (garden)", "Tue": "Home", "Wed": "Home", "Thu": "Home", "Fri": "Home", "Sat": "Home", "Sun": "Home" },
+  "George":    { "Mon": "Home (TV)", "Tue": "Home (TV)", "Wed": "Home (TV)", "Thu": "Home (TV)", "Fri": "Home (TV)", "Sat": "Home (TV)", "Sun": "Home (TV)" },
+  "Gus":       { "Mon": "Saloon", "Tue": "Saloon", "Wed": "Saloon", "Thu": "Saloon", "Fri": "Saloon", "Sat": "Saloon", "Sun": "Saloon" },
+  "Jas":       { "Mon": "Home (Marnie's)", "Tue": "Town (playground)", "Wed": "Home (Marnie's)", "Thu": "Town (playground)", "Fri": "Home (Marnie's)", "Sat": "Home (Marnie's)", "Sun": "Home (Marnie's)" },
+  "Jodi":      { "Mon": "Home (kitchen)", "Tue": "Home", "Wed": "Home", "Thu": "Home", "Fri": "Home", "Sat": "Pierre's", "Sun": "Home" },
+  "Kent":      { "Mon": "Home", "Tue": "Town (by river)", "Wed": "Home", "Thu": "Home", "Fri": "Saloon (evening)", "Sat": "Home", "Sun": "Home" },
+  "Krobus":    { "Mon": "Sewers", "Tue": "Sewers", "Wed": "Sewers", "Thu": "Sewers", "Fri": "Sewers", "Sat": "Sewers", "Sun": "Sewers" },
+  "Leo":       { "Mon": "Ginger Island (parrot)", "Tue": "Ginger Island (parrot)", "Wed": "Ginger Island (parrot)", "Thu": "Ginger Island (parrot)", "Fri": "Ginger Island (parrot)", "Sat": "Ginger Island (parrot)", "Sun": "Mountain (after 6yr)" },
+  "Lewis":     { "Mon": "Home", "Tue": "Town (mayor's)", "Wed": "Home", "Thu": "Home", "Fri": "Saloon (evening)", "Sat": "Home", "Sun": "Home" },
+  "Linus":     { "Mon": "Tent (mountains)", "Tue": "Spa (bathhouse)", "Wed": "Tent (mountains)", "Thu": "Tent (mountains)", "Fri": "Tent (mountains)", "Sat": "Bus Stop", "Sun": "Tent (mountains)" },
+  "Marnie":    { "Mon": "Home (ranch)", "Tue": "Home (ranch)", "Wed": "Home (ranch)", "Thu": "Home (ranch)", "Fri": "Home (ranch)", "Sat": "Home (ranch)", "Sun": "Home (ranch)" },
+  "Pam":       { "Mon": "Home (trailer)", "Tue": "Home (trailer)", "Wed": "Home (trailer)", "Thu": "Saloon (evening)", "Fri": "Saloon (evening)", "Sat": "Home (trailer)", "Sun": "Home (trailer)" },
+  "Pierre":    { "Mon": "Pierre's", "Tue": "Pierre's", "Wed": "Pierre's (closed)", "Thu": "Pierre's", "Fri": "Pierre's", "Sat": "Pierre's", "Sun": "Pierre's (closed)" },
+  "Robin":     { "Mon": "Home (carpentry)", "Tue": "Home (carpentry)", "Wed": "Home (carpentry)", "Thu": "Home (carpentry)", "Fri": "Home (carpentry)", "Sat": "Home (carpentry)", "Sun": "Home (carpentry)" },
+  "Sandy":     { "Mon": "Desert (Oasis)", "Tue": "Desert (Oasis)", "Wed": "Desert (Oasis)", "Thu": "Desert (Oasis)", "Fri": "Desert (Oasis)", "Sat": "Desert (Oasis)", "Sun": "Desert (Oasis)" },
+  "Vincent":   { "Mon": "Home (Jodi's)", "Tue": "Town (playground)", "Wed": "Home (Jodi's)", "Thu": "Town (playground)", "Fri": "Home (Jodi's)", "Sat": "Home (Jodi's)", "Sun": "Home (Jodi's)" },
+  "Willy":     { "Mon": "Fish Shop", "Tue": "Fish Shop", "Wed": "Fish Shop", "Thu": "Fish Shop", "Fri": "Fish Shop", "Sat": "Fish Shop", "Sun": "Fish Shop" },
+  "Wizard":    { "Mon": "Tower", "Tue": "Tower", "Wed": "Tower", "Thu": "Tower", "Fri": "Tower", "Sat": "Tower", "Sun": "Tower" }
+};
+
 // ── Universal Gift Reference ──
 const UNIVERSAL = {
   loves: ["Prismatic Shard", "Rabbit's Foot"],  // except Penny hates Rabbit's Foot
   likes: ["All Artisan Goods", "All Cooked Dishes", "All Flowers", "All Foraged Items", "All Fruit", "Diamond", "Gold Bar", "Iridium Bar", "Maple Syrup", "Minerals"],
-  dislikes: ["All Fish (except Carp)", "All Ores", "All Refined Minerals", "Clay", "Farming Tools", "Furniture", "Garbage", "Hazelnut", "Hops", "Miner's Trestle", "Oil of Garlic", "Sap", "Seaweed", "Slime", "Tackle", "Tea Set", "Torch", "Truffle Oil"],
-  hates: ["All Bait", "All Dinosaur Mayonnaise", "All Fishing Tackle", "Artifact", "Bomb", "Cherry Bomb", "Crafting Trash", "Goldfish", "Gunther (secret note)", "Honey", "Mega Bomb", "Pagoda", "Paper", "Pill", "Rotten Plant", "Rusty Spoon", "Solid Gold Lewis", "Strange Bun", "Trash", "Weathered Floor"]
+  neutrals: ["All Bread", "All Eggs (except Void Egg)", "All Fertilizer", "All Flour", "All Geodes", "All Milk", "All Oil", "All Seeds", "All Sugar", "All Trash", "Clam", "Coral", "Duck Feather", "Rain Shell", "Nautilus Shell", "Rainbow Shell", "Spring Onion", "Sweet Pea", "Truffle", "Wheat"],
+  dislikes: ["All Fish (except Carp)", "All Ores", "All Refined Minerals", "Clay", "Farming Tools", "Furniture", "Garbage", "Hazelnut", "Hops", "Oil of Garlic", "Sap", "Seaweed", "Slime", "Tackle", "Torch", "Truffle Oil"],
+  hates: ["All Bait", "All Dinosaur Mayonnaise", "All Fishing Tackle", "Artifact", "Bomb", "Cherry Bomb", "Crafting Trash", "Goldfish", "Honey", "Mega Bomb", "Rotten Plant", "Rusty Spoon", "Solid Gold Lewis", "Strange Bun", "Trash", "Weathered Floor"]
 };
 
 // ── Friendship Points System ──
 const FRIENDSHIP = {
-  maxHearts: 10,  // 14 for spouse
+  maxHearts: 10,
   pointsPerHeart: 250,
   giftWeekly: { standard: 1, birthday: 1 },
-  
-  // Gift quality multipliers
   quality: {
-    loved: { base: 80, birthday: 640, star: { normal: 80, silver: 80, gold: 80, iridium: 80 } },
-    liked: { base: 45, birthday: 360, star: { normal: 45, silver: 45, gold: 45, iridium: 45 } },
+    loved: { base: 80, birthday: 640 },
+    liked: { base: 45, birthday: 360 },
     neutral: { base: 20, birthday: 160 },
     disliked: { base: -20, birthday: -160 },
     hated: { base: -40, birthday: -320 }
   },
-  
-  // Talking to NPC gives 20 points (once per day)
   talkPoints: 20,
-  
-  // Hearts progression
   heartsToPoints: function(hearts) { return hearts * this.pointsPerHeart; },
   pointsToHearts: function(points) { return Math.floor(points / this.pointsPerHeart); },
-  
-  // Calculate gifts needed
   giftsToMax: function(currentHearts, giftType) {
     const pointsNeeded = (this.maxHearts - currentHearts) * this.pointsPerHeart;
     const perGift = giftType === "loved" ? 80 : 45;
     return Math.ceil(pointsNeeded / perGift);
-  },
-
-  // Calculate weekly budget (2 loved gifts + 1 birthday gift)
-  weeklyBudgetLabel: function(dateConfig) {
-    const lovedCosts = {
-      "Prismatic Shard": 0, "Rabbit's Foot": 340, "Diamond": 750,
-      "Amethyst": 100, "Aquamarine": 180, "Emerald": 250, "Jade": 200, "Ruby": 250, "Topaz": 80,
-      "Beer": 250, "Pizza": 300, "Coffee": 150, "Pale Ale": 350, "Wine": 400,
-      "Chocolate Cake": 200, "Pink Cake": 450, "Pumpkin Pie": 400,
-      "Cactus Fruit": 75, "Coconut": 100, "Hot Pepper": 40,
-      "Cheese Cauliflower": 300, "Pepper Poppers": 200, "Salmon Dinner": 300
-    };
-    return lovedCosts;
   }
-};
-
-// ── Easy-to-find universal loved/liked items with prices ──
-const BUDGET_ITEMS = [
-  { name: "Diamond", price: 750, type: "Mineral", category: "loved_universal", npcs: "Clint, Harvey, Krobus, Maru, Penny, Willy, +more" },
-  { name: "Amethyst", price: 100, type: "Mineral", category: "cheap_loved", npcs: "Abigail, Clint, Emily, Dwarf" },
-  { name: "Emerald", price: 250, type: "Mineral", category: "cheap_loved", npcs: "Clint, Emily, Dwarf, Penny" },
-  { name: "Ruby", price: 250, type: "Mineral", category: "cheap_loved", npcs: "Clint, Emily, Dwarf" },
-  { name: "Topaz", price: 80, type: "Mineral", category: "cheap_loved", npcs: "Clint, Emily, Dwarf" },
-  { name: "Jade", price: 200, type: "Mineral", category: "cheap_loved", npcs: "Clint, Dwarf" },
-  { name: "Frozen Tear", price: 75, type: "Mineral", category: "cheap_loved", npcs: "Sebastian" },
-  { name: "Cactus Fruit", price: 75, type: "Fruit", category: "cheap_loved", npcs: "Linus, Pam, Sam, Sandy" },
-  { name: "Coconut", price: 100, type: "Fruit", category: "cheap_loved", npcs: "Haley, Linus, Sandy" },
-  { name: "Hot Pepper", price: 40, type: "Crop", category: "cheap_loved", npcs: "Lewis, Shane" },
-  { name: "Beer", price: 250, type: "Artisan", category: "cheap_loved", npcs: "Pam, Shane" },
-  { name: "Pizza", price: 300, type: "Cooking", category: "cheap_loved", npcs: "Sam, Shane" },
-  { name: "Coffee", price: 150, type: "Cooking", category: "cheap_loved", npcs: "Harvey" },
-  { name: "Mead", price: 200, type: "Artisan", category: "cheap_loved", npcs: "Willy" },
-  { name: "Pale Ale", price: 350, type: "Artisan", category: "cheap_loved", npcs: "Pam" },
-  { name: "Sunflower", price: 80, type: "Crop", category: "cheap_loved", npcs: "Haley" },
-  { name: "Wine", price: 400, type: "Artisan", category: "medium", npcs: "Elliott, Harvey, Leah, Pam, Robin, +more" },
-  { name: "Mayonnaise", price: 190, type: "Artisan", category: "universal_like", npcs: "Universal liked (most NPCs)" },
-  { name: "Cheese", price: 230, type: "Artisan", category: "universal_like", npcs: "Universal liked (most NPCs)" },
-  { name: "Honey", price: 100, type: "Artisan", category: "universal_like", npcs: "Robin loves, most like" },
-  { name: "Apple", price: 100, type: "Fruit", category: "universal_like", npcs: "Universal liked" },
-  { name: "Apricot", price: 50, type: "Fruit", category: "universal_like", npcs: "Universal liked" },
-  { name: "Orange", price: 100, type: "Fruit", category: "universal_like", npcs: "Gus loves, universal liked" },
-  { name: "Peach", price: 140, type: "Fruit", category: "universal_like", npcs: "Robin loves, universal liked" },
-  { name: "Pomegranate", price: 140, type: "Fruit", category: "universal_like", npcs: "Elliott loves, universal liked" },
-  { name: "Cherry", price: 80, type: "Fruit", category: "universal_like", npcs: "Universal liked" },
-  { name: "Salmonberry", price: 5, type: "Forage", category: "free_forage", npcs: "Universal liked (except Seb hates)" },
-  { name: "Daffodil", price: 0, type: "Forage", category: "free_forage", npcs: "Universal liked (most NPCs)" },
-  { name: "Dandelion", price: 0, type: "Forage", category: "free_forage", npcs: "Universal liked (most NPCs)" },
-  { name: "Leek", price: 0, type: "Forage", category: "free_forage", npcs: "George loves, universal liked" },
-];
-
-// ── Quick Reference: Universal items to avoid ──
-const AVOID = ["Clay", "Holly", "Nautilus Shell", "Quartz"];
-
-// ── Season/Birthday index ──
-const BIRTHDAYS = {
-  "Spring": ["Jas (Spr 4)", "Kent (Spr 4)", "Lewis (Spr 7)", "Vincent (Spr 10)", "Haley (Spr 14)", "Pam (Spr 18)", "Shane (Spr 20)", "Pierre (Spr 26)", "Emily (Spr 27)"],
-  "Summer": ["Gus (Sum 4)", "Jas (Sum 4)", "Maru (Sum 10)", "Alex (Sum 13)", "Leo (Sum 14)", "Sam (Sum 17)", "Demetrius (Sum 19)", "Dwarf (Sum 22)", "Willy (Sum 24)"],
-  "Fall": ["Penny (Fall 2)", "Elliott (Fall 5)", "Abigail (Fall 13)", "Sandy (Fall 15)", "Marnie (Fall 18)", "Robin (Fall 21)", "George (Fall 24)"],
-  "Winter": ["Krobus (Win 1)", "Linus (Win 3)", "Caroline (Win 7)", "Sebastian (Win 10)", "Jodi (Win 11)", "Harvey (Win 14)", "Wizard (Win 17)", "Evelyn (Win 20)", "Leah (Win 23)", "Clint (Win 26)"]
 };
 
 // ── Gift Tracker (localStorage) ──
 function getTracker() {
-  try {
-    return JSON.parse(localStorage.getItem("sdvNpcTracker") || "{}");
-  } catch (e) { return {}; }
+  try { return JSON.parse(localStorage.getItem("sdvNpcTracker") || "{}"); } catch (e) { return {}; }
 }
 
 function saveTracker(data) {
@@ -167,20 +139,6 @@ function updateTrackerUI() {
   const today = new Date().toISOString().slice(0, 10);
   const todayGifts = tracker[today] || {};
   
-  // Check current and last ~5 days
-  const recent = {};
-  for (let i = 0; i < 7; i++) {
-    const d = new Date();
-    d.setDate(d.getDate() - i);
-    const key = d.toISOString().slice(0, 10);
-    if (tracker[key]) {
-      Object.entries(tracker[key]).forEach(([id, gifted]) => {
-        if (gifted && !recent[id]) recent[id] = key;
-      });
-    }
-  }
-  
-  // Update gift buttons
   document.querySelectorAll(".gift-btn").forEach(btn => {
     const npcId = btn.dataset.npc;
     const gifted = !!todayGifts[npcId];
@@ -188,16 +146,9 @@ function updateTrackerUI() {
     btn.className = `gift-btn ${gifted ? 'gifted' : ''}`;
   });
   
-  // Update gifted count
   const count = Object.values(todayGifts).filter(Boolean).length;
   const countEl = document.getElementById("gifted-count");
   if (countEl) countEl.textContent = `Gifted: ${count} NPCs today`;
-  
-  // Save all checkboxes state
-  document.querySelectorAll(".npc-checkbox").forEach(cb => {
-    const npcId = cb.dataset.npc;
-    // Reset to checkbox state
-  });
 }
 
 // ── Render NPC Table ──
@@ -209,9 +160,13 @@ function renderNPCTable(filter) {
   const season = document.getElementById("season-filter")?.value || "all";
   
   const filtered = NPCS.filter(npc => {
-    if (term && !npc.name.toLowerCase().includes(term) && 
-        !npc.loves.some(g => g.toLowerCase().includes(term)) &&
-        !npc.likes.some(g => g.toLowerCase().includes(term))) return false;
+    if (term) {
+      const nameMatch = npc.name.toLowerCase().includes(term);
+      const giftMatch = npc.loves.some(g => g.toLowerCase().includes(term)) ||
+                        npc.likes.some(g => g.toLowerCase().includes(term));
+      const idMatch = npc.id.toLowerCase().includes(term);
+      if (!nameMatch && !giftMatch && !idMatch) return false;
+    }
     if (season !== "all") {
       const npcSeason = npc.born.split(" ")[0];
       if (npcSeason !== season) return false;
@@ -219,21 +174,26 @@ function renderNPCTable(filter) {
     return true;
   });
   
+  const tracker = getTracker();
+  const today = new Date().toISOString().slice(0, 10);
+  const todayGifts = tracker[today] || {};
+  
   tbody.innerHTML = filtered.map(npc => {
     const lovesStr = npc.loves.join(", ");
     const likesStr = npc.likes.join(", ");
     const isBirthday = isBirthdayToday(npc);
+    const gifted = !!todayGifts[npc.id];
     return `
-    <tr>
-      <td><strong>${npc.avatar} ${npc.name}</strong>${isBirthday ? ' 🎂' : ''}</td>
+    <tr${isBirthday ? ' style="border: 2px solid #eab308;"' : ''}>
+      <td><strong>${npc.avatar} ${npc.name}</strong>${isBirthday ? '<span style="color:#eab308;"> 🎂</span>' : ''}</td>
       <td style="font-size:0.8em; opacity:0.7;">${npc.born}</td>
       <td><span class="loved-tag">${lovesStr}</span></td>
       <td><span class="liked-tag" style="opacity:0.7;">${likesStr}</span></td>
       <td style="text-align:center;">
-        <button class="gift-btn" data-npc="${npc.id}" onclick="toggleGifted('${npc.id}')">🎁 Mark Gifted</button>
+        <button class="gift-btn ${gifted ? 'gifted' : ''}" data-npc="${npc.id}" onclick="toggleGifted('${npc.id}')">${gifted ? '✅ Gifted' : '🎁 Mark Gifted'}</button>
       </td>
       <td style="text-align:center; font-size:0.85em;">
-        ${isBirthday ? '🎂 +640pts' : '+80pts (loved) / +45pts (liked)'}
+        ${isBirthday ? '<span style="color:#eab308;">🎂 +640pts</span>' : '+80pts / +45pts'}
       </td>
     </tr>`;
   }).join("");
@@ -243,29 +203,126 @@ function renderNPCTable(filter) {
 
 function isBirthdayToday(npc) {
   const now = new Date();
-  // Approximate: use today's month and date roughly mapped to seasons
   const month = now.getMonth();
   const date = now.getDate();
   const dayOfYear = month * 30 + date;
   
-  // SDV birthday mapping (approximate real-world dates)
-  const bdMap = {
-    "Spring": 60 + 30,  // Spring ~ Mar-Apr
-    "Summer": 150 + 30,  // Summer ~ Jun-Jul
-    "Fall": 240 + 30,    // Fall ~ Sep-Oct
-    "Winter": 330 + 30   // Winter ~ Dec-Jan
-  };
-  
-  const [season, _dayStr] = npc.born.split(" ");
-  const day = parseInt(_dayStr);
   const bdOffset = {
     "Spring": 79, "Summer": 171, "Fall": 264, "Winter": 355
   };
   
-  const todayOffset = dayOfYear;
+  const [season, _dayStr] = npc.born.split(" ");
+  const day = parseInt(_dayStr);
   const npcOffset = bdOffset[season] + (day || 1) - 1;
   
-  return Math.abs(todayOffset - npcOffset) <= 3;  // 3-day window
+  return Math.abs(dayOfYear - npcOffset) <= 3;
+}
+
+// ── Birthday Widget (enhanced) ──
+function renderBirthdayWidget() {
+  const widget = document.getElementById("birthday-widget");
+  if (!widget) return;
+  
+  const now = new Date();
+  const month = now.getMonth();
+  
+  let currentSeason;
+  if (month >= 2 && month <= 4) currentSeason = "Spring";
+  else if (month >= 5 && month <= 7) currentSeason = "Summer";
+  else if (month >= 8 && month <= 10) currentSeason = "Fall";
+  else currentSeason = "Winter";
+  
+  // Sort all NPCs by proximity to today
+  const todayOffset = month * 30 + now.getDate();
+  const bdOffset = { "Spring": 79, "Summer": 171, "Fall": 264, "Winter": 355 };
+  
+  const sorted = NPCS.map(n => {
+    const [s, d] = n.born.split(" ");
+    const day = parseInt(d);
+    const offset = bdOffset[s] + day - 1;
+    let diff = offset - todayOffset;
+    if (diff < 0) diff += 365;
+    return { ...n, _offset: offset, _diff: diff };
+  }).sort((a, b) => a._diff - b._diff);
+  
+  // Next upcoming birthday
+  const next = sorted[0];
+  // Current season birthdays
+  const seasonBirthdays = sorted.filter(n => n._diff <= 60).slice(0, 6);
+  
+  widget.innerHTML = `
+    <div style="display:flex; flex-wrap:wrap; gap:12px; align-items:center; margin-bottom:12px;">
+      <span style="font-size:1.1em; font-weight:bold;">🎂 Birthdays</span>
+      <span style="font-size:0.85em; opacity:0.7;">${currentSeason}</span>
+    </div>
+    ${next ? `
+    <div style="background:rgba(234,179,8,0.15); border:1px solid rgba(234,179,8,0.4); border-radius:12px; padding:12px 16px; margin-bottom:12px; display:flex; align-items:center; gap:12px;">
+      <span style="font-size:1.5em;">⏰</span>
+      <div>
+        <strong style="color:#eab308;">Next Up: ${next.avatar} ${next.name}</strong>
+        <span style="font-size:0.85em; opacity:0.7; margin-left:8px;">${next.born} (in ~${Math.round(next._diff / 30)} weeks)</span>
+      </div>
+    </div>` : ''}
+    <div style="display:flex; flex-wrap:wrap; gap:8px;">
+      ${seasonBirthdays.map(n => `
+        <span style="background:${n._diff < 14 ? 'rgba(234,179,8,0.2)' : 'rgba(255,255,255,0.05)'}; padding:6px 14px; border-radius:20px; font-size:0.85em;${n._diff < 14 ? ' border:1px solid rgba(234,179,8,0.3);' : ''}">
+          ${n.avatar} ${n.name} — ${n.born}
+          ${n._diff < 14 ? ' 🔜' : ''}
+        </span>
+      `).join("")}
+    </div>
+    <p style="font-size:0.8em; opacity:0.6; margin-top:10px;">💡 Birthday gifts give 8x friendship points (640 instead of 80)!</p>
+  `;
+}
+
+// ── Weekly Schedule Panel ──
+function renderSchedule() {
+  const el = document.getElementById("schedule-table-body");
+  if (!el) return;
+  
+  const days = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
+  
+  el.innerHTML = NPCS.sort((a, b) => a.name.localeCompare(b.name)).map(npc => {
+    const schedule = WEEKLY_SCHEDULES[npc.name];
+    if (!schedule) return '';
+    return `
+    <tr>
+      <td><strong>${npc.avatar} ${npc.name}</strong></td>
+      ${days.map(d => `<td style="font-size:0.8em; max-width:140px;">${schedule[d] || '—'}</td>`).join("")}
+    </tr>`;
+  }).join("");
+}
+
+// ── Universal Gift Reference ──
+function renderUniversalGifts() {
+  const el = document.getElementById("universal-gifts");
+  if (!el) return;
+  
+  el.innerHTML = `
+    <div style="display:grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap:12px;">
+      <div class="uni-card uni-loves">
+        <h4 style="color:#22c55e; margin:0 0 8px 0;">💖 Universal Loves</h4>
+        <span class="uni-item">${UNIVERSAL.loves.join('</span><span class="uni-item">')}</span>
+        <p style="font-size:0.75em; opacity:0.6; margin-top:8px;">⚠️ Penny hates Rabbit's Foot</p>
+      </div>
+      <div class="uni-card uni-likes">
+        <h4 style="color:#3b82f6; margin:0 0 8px 0;">👍 Universal Likes</h4>
+        <span class="uni-item">${UNIVERSAL.likes.join('</span><span class="uni-item">')}</span>
+      </div>
+      <div class="uni-card uni-neutral">
+        <h4 style="color:#a855f7; margin:0 0 8px 0;">➖ Universal Neutrals</h4>
+        <span class="uni-item">${UNIVERSAL.neutrals.join('</span><span class="uni-item">')}</span>
+      </div>
+      <div class="uni-card uni-dislikes">
+        <h4 style="color:#f97316; margin:0 0 8px 0;">👎 Universal Dislikes</h4>
+        <span class="uni-item">${UNIVERSAL.dislikes.join('</span><span class="uni-item">')}</span>
+      </div>
+      <div class="uni-card uni-hates">
+        <h4 style="color:#ef4444; margin:0 0 8px 0;">❌ Universal Hates</h4>
+        <span class="uni-item">${UNIVERSAL.hates.join('</span><span class="uni-item">')}</span>
+      </div>
+    </div>
+  `;
 }
 
 // ── Init ──
@@ -277,46 +334,7 @@ document.addEventListener("DOMContentLoaded", function() {
   if (seasonFilter) seasonFilter.addEventListener("change", () => renderNPCTable(searchInput?.value || ""));
   
   renderNPCTable("");
-  
-  // Birthday widget
   renderBirthdayWidget();
+  renderSchedule();
+  renderUniversalGifts();
 });
-
-function renderBirthdayWidget() {
-  const widget = document.getElementById("birthday-widget");
-  if (!widget) return;
-  
-  const now = new Date();
-  const month = now.getMonth();
-  
-  // Check current season (Northern hemisphere game setting)
-  let currentSeason;
-  if (month >= 2 && month <= 4) currentSeason = "Spring";
-  else if (month >= 5 && month <= 7) currentSeason = "Summer";
-  else if (month >= 8 && month <= 10) currentSeason = "Fall";
-  else currentSeason = "Winter";
-  
-  const upcoming = NPCS.filter(n => {
-    const [nSeason, nDay] = n.born.split(" ");
-    if (nSeason !== currentSeason && nSeason !== getNextSeason(currentSeason)) return false;
-    return true;
-  }).sort((a, b) => {
-    const aDay = parseInt(a.born.split(" ")[1]);
-    const bDay = parseInt(b.born.split(" ")[1]);
-    return aDay - bDay;
-  }).slice(0, 5);
-  
-  widget.innerHTML = `
-    <h4>🎂 This Month's Birthdays</h4>
-    <div style="display:flex; flex-wrap:wrap; gap:8px;">
-      ${upcoming.map(n => `<span style="background:rgba(201,169,110,0.2); padding:6px 12px; border-radius:20px; font-size:0.85em;">${n.avatar} ${n.name} — ${n.born}</span>`).join("")}
-    </div>
-    <p style="font-size:0.8em; opacity:0.6; margin-top:12px;">💡 Birthday gifts give 8x friendship points!</p>
-  `;
-}
-
-function getNextSeason(s) {
-  const seasons = ["Spring", "Summer", "Fall", "Winter"];
-  const idx = seasons.indexOf(s);
-  return seasons[(idx + 1) % 4];
-}

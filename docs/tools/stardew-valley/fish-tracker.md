@@ -1,11 +1,11 @@
 ---
 title: "Stardew Valley Fish Collection Tracker"
-description: "Interactive fish collection checklist for Stardew Valley 1.6 — track all 70+ fish by season, location, and time."
+description: "Interactive fish collection checklist for Stardew Valley 1.6 — track all 70+ fish by season, location, weather, and time."
 ---
 
 # 🐟 Stardew Valley Fish Collection Tracker
 
-Track your progress toward catching every fish in Stardew Valley 1.6. Check off fish as you catch them — progress saves in your browser.
+Track your progress toward catching every fish in Stardew Valley 1.6. Check off fish as you catch them — progress saves in your browser. Filter by season, weather, location, and caught status.
 
 ---
 
@@ -21,7 +21,7 @@ Track your progress toward catching every fish in Stardew Valley 1.6. Check off 
     <div id="progress-label" style="font-size:2em; font-weight:bold; color:#c9a96e;">0%</div>
   </div>
   <div id="progress-text" style="opacity:0.7;">0 / 0 fish caught</div>
-  <button onclick="resetTracker()" style="padding:6px 16px; border-radius:8px; border:1px solid rgba(239,68,68,0.4); background:transparent; color:#ef4444; cursor:pointer; font-size:0.8em; margin-left:auto;">🔄 Reset</button>
+  <button onclick="resetTracker()" style="padding:6px 16px; border-radius:8px; border:1px solid rgba(239,68,68,0.4); background:transparent; color:#ef4444; cursor:pointer; font-size:0.8em; margin-left:auto;">🔄 Reset All</button>
 </div>
 
 ### 🎣 Legendary Fish
@@ -30,12 +30,12 @@ Track your progress toward catching every fish in Stardew Valley 1.6. Check off 
 
 ---
 
-## 🔍 Filter
+## 🔍 Filters
 
 <div style="display:flex; flex-wrap:wrap; gap:12px; margin:16px 0; padding:16px; background:rgba(255,255,255,0.03); border-radius:12px; align-items:center;">
   <div>
     <label style="font-size:0.8em; opacity:0.7;">🔎 Search</label><br>
-    <input type="text" id="fish-search" placeholder="Search fish or location..." style="padding:8px 16px; border-radius:8px; border:1px solid rgba(255,255,255,0.1); background:rgba(0,0,0,0.3); color:#e8e6e1; min-width:200px;">
+    <input type="text" id="fish-search" placeholder="Fish name, location..." style="padding:8px 16px; border-radius:8px; border:1px solid rgba(255,255,255,0.1); background:rgba(0,0,0,0.3); color:#e8e6e1; min-width:200px;">
   </div>
   <div>
     <label style="font-size:0.8em; opacity:0.7;">🌸 Season</label><br>
@@ -48,24 +48,36 @@ Track your progress toward catching every fish in Stardew Valley 1.6. Check off 
     </select>
   </div>
   <div>
+    <label style="font-size:0.8em; opacity:0.7;">🌤️ Weather</label><br>
+    <select id="filter-weather" style="padding:8px 16px; border-radius:8px; border:1px solid rgba(255,255,255,0.1); background:rgba(0,0,0,0.3); color:#e8e6e1;">
+      <option value="all">☀️/🌧️ Both</option>
+      <option value="Sun">☀️ Sunny only</option>
+      <option value="Rain">🌧️ Rainy only</option>
+    </select>
+  </div>
+  <div>
     <label style="font-size:0.8em; opacity:0.7;">📍 Location</label><br>
     <select id="filter-location" style="padding:8px 16px; border-radius:8px; border:1px solid rgba(255,255,255,0.1); background:rgba(0,0,0,0.3); color:#e8e6e1;">
       <option value="all">All Locations</option>
       <option value="Ocean">🌊 Ocean</option>
       <option value="River">🏞️ River</option>
-      <option value="Lake">🏞️ Lake</option>
-      <option value="Forest">🌲 Forest</option>
-      <option value="Mtn">🏔️ Mountains</option>
+      <option value="Lake (Mtn)">💧 Lake (Mountain)</option>
+      <option value="Forest Pond">🌲 Forest Pond</option>
       <option value="Desert">🏜️ Desert</option>
-      <option value="Island">🏝️ Ginger Island</option>
-      <option value="Crab">🦀 Crab Pot</option>
+      <option value="Sewer">🚰 Sewer</option>
+      <option value="Mutant Bug Lair">🪲 Mutant Bug Lair</option>
+      <option value="Witch's Swamp">🧙 Witch's Swamp</option>
+      <option value="Ginger Island">🏝️ Ginger Island</option>
+      <option value="Crab Pot">🦀 Crab Pot</option>
     </select>
   </div>
   <div>
-    <label style="font-size:0.8em; opacity:0.7;">&nbsp;</label><br>
-    <label style="font-size:0.85em;">
-      <input type="checkbox" id="hide-caught"> Hide caught fish
-    </label>
+    <label style="font-size:0.8em; opacity:0.7;">🎣 Status</label><br>
+    <select id="caught-toggle" style="padding:8px 16px; border-radius:8px; border:1px solid rgba(255,255,255,0.1); background:rgba(0,0,0,0.3); color:#e8e6e1;">
+      <option value="all">All fish</option>
+      <option value="caught">✅ Caught only</option>
+      <option value="uncaught">⬜ Uncaught only</option>
+    </select>
   </div>
 </div>
 
@@ -114,6 +126,7 @@ Track your progress toward catching every fish in Stardew Valley 1.6. Check off 
 - **Rain** = Catfish, Walleye, Eel, Shad become available
 - **Ginger Island** fish are available year-round
 - **Legendary fish** can only be caught once per save file!
+- Use the **Weather filter** to find rain-specific fish, or **Caught/Uncaught toggle** to see only what's missing
 
 ---
 

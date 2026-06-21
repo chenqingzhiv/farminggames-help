@@ -1,47 +1,121 @@
----
-title: "Tools & Resources"
-description: "Exclusive tools for farming game enthusiasts — profit calculators, NPC gift planners, fish trackers, and more."
----
+# 🛠️ Interactive Tools
 
-# 🛠️ Tools & Resources
-
-Interactive tools powered by verified game data. Updated regularly.
+**Farm smarter, not harder.** Calculators, trackers, and planners for Stardew Valley, Farming Simulator, Palia, and more cozy farming games.
 
 ---
 
-## 🌿 Stardew Valley
+## 🌟 Stardew Valley Tools
 
-| Tool | Description | Tech |
-|:-----|:------------|:-----|
-| **[🧮 Crop Profit Planner](stardew-valley/profit-planner/)** | Interactive profit calculator — sort by season, artisan vs raw, Chart.js chart | Chart.js + DataTables |
-| **[💞 NPC Friendship Optimizer](stardew-valley/npc-friendship/)** | Find the fastest path to 10 hearts — all 33 NPCs, gift search, birthday calendar, weekly tracker | Chart.js + localStorage |
-| **[🐟 Fish Collection Tracker](stardew-valley/fish-tracker/)** | Track all 70+ fish with season/location/time filters, progress bar, legendary check | localStorage + Filters |
-| **[🛒 Buy Stardew Valley on Steam](https://store.steampowered.com/app/413150/)** | *Affiliate link* | |
+<div class="tools-grid-home">
+  <div class="tool-card-home">
+    <div class="tool-icon">🌱</div>
+    <div class="tool-info">
+      <h4>Crop Profit Planner</h4>
+      <p>Plan crops with season filter · fertilizer comparison · batch select</p>
+    </div>
+    <span class="status status-live">Live</span>
+  </div>
+  <div class="tool-card-home">
+    <div class="tool-icon">🧑‍🌾</div>
+    <div class="tool-info">
+      <h4>Crop Profit Comparison</h4>
+      <p>Full table of 50+ crops · sortable · compare side-by-side</p>
+    </div>
+    <span class="status status-live">Live</span>
+  </div>
+  <div class="tool-card-home">
+    <div class="tool-icon">💞</div>
+    <div class="tool-info">
+      <h4>NPC Friendship Optimizer</h4>
+      <p>Gift search · weekly schedule · birthday reminders</p>
+    </div>
+    <span class="status status-live">Live</span>
+  </div>
+  <div class="tool-card-home">
+    <div class="tool-icon">🐟</div>
+    <div class="tool-info">
+      <h4>Fish Collection Tracker</h4>
+      <p>Track all fish · season/weather/location filters · caught toggle</p>
+    </div>
+    <span class="status status-live">Live</span>
+  </div>
+  <div class="tool-card-home">
+    <div class="tool-icon">⛏️</div>
+    <div class="tool-info">
+      <h4>Mining Floor Tracker</h4>
+      <p>Track Mines & Skull Cavern · monster kills · Guild rewards</p>
+    </div>
+    <span class="status status-live">Live</span>
+  </div>
+  <div class="tool-card-home">
+    <div class="tool-icon">🏛️</div>
+    <div class="tool-info">
+      <h4>Community Center Tracker</h4>
+      <p>Track all 6 rooms · bundles & items · progress save</p>
+    </div>
+    <span class="status status-live">Live</span>
+  </div>
+  <div class="tool-card-home">
+    <div class="tool-icon">💰</div>
+    <div class="tool-info">
+      <h4>Profit Calculator</h4>
+      <p>Quick crop profit estimate</p>
+    </div>
+    <span class="status status-live">Live</span>
+  </div>
+  <div class="tool-card-home">
+    <div class="tool-icon">🗺️</div>
+    <div class="tool-info">
+      <h4>Interactive Map</h4>
+      <p>Clickable valley map with markers</p>
+    </div>
+    <span class="status status-live">Live</span>
+  </div>
+</div>
 
 ---
 
-## 🎮 General Tools
+## 🚜 Multi-Game Tools
 
-| Tool | Description |
-|:-----|:------------|
-| **[📊 Game Comparison](game-comparison/)** | Compare 12+ farming games side by side |
-| **[📅 Release Calendar](release-calendar/)** | Track all upcoming farming games 2026-2027 |
-| **[📦 Mods Guide](mods/)** | Curated mod recommendations for Stardew Valley |
-| **[💾 Save File Guide](saves/)** | Edit your save files safely |
-| **[🗺️ Interactive Map](interactive-map/)** | Explore the valley with clickable regions |
-| **[🧮 Profit Calculator](../stardev/profit-calc/)** | All-in-one profit tables |
-
----
-
-> 🛒 [**Buy Stardew Valley on Steam**](https://store.steampowered.com/app/413150/) — Support the developer!
-> 
-> 🛒 [**Buy Farming Simulator 25 on Steam**](https://store.steampowered.com/app/2131630/) —   
-> 🛒 [**Buy Palia**](https://palia.com/) *(Free to play)*  
-> 🛒 [**Buy Fields of Mistria on Steam**](https://store.steampowered.com/app/1929130/) —  
-> 🛒 [**Buy Coral Island on Steam**](https://store.steampowered.com/app/1158160/) —  
-> 🛒 [**Buy My Time at Sandrock on Steam**](https://store.steampowered.com/app/1084600/) —  
-> 🛒 [**Buy Sun Haven on Steam**](https://store.steampowered.com/app/1432860/) —
-
-*Some links are affiliate links — we earn a small commission at no extra cost to you.*
-
-*Have an idea for a tool? [Send us feedback](https://game-guide.club/feedback/)!*
+<div class="tools-grid-home">
+  <div class="tool-card-home">
+    <div class="tool-icon">🛠️</div>
+    <div class="tool-info">
+      <h4>Profit Calculator</h4>
+      <p>Calculate profit for any crop setup across games</p>
+    </div>
+    <span class="status status-live">Live</span>
+  </div>
+  <div class="tool-card-home">
+    <div class="tool-icon">📦</div>
+    <div class="tool-info">
+      <h4>Mods Guide</h4>
+      <p>Curated mod recommendations + install guide</p>
+    </div>
+    <span class="status status-live">Live</span>
+  </div>
+  <div class="tool-card-home">
+    <div class="tool-icon">💾</div>
+    <div class="tool-info">
+      <h4>Save Editors & Saves</h4>
+      <p>Upload, edit, and share saves</p>
+    </div>
+    <span class="status status-live">Live</span>
+  </div>
+  <div class="tool-card-home">
+    <div class="tool-icon">📅</div>
+    <div class="tool-info">
+      <h4>Release Calendar</h4>
+      <p>Upcoming cozy game releases</p>
+    </div>
+    <span class="status status-live">Live</span>
+  </div>
+  <div class="tool-card-home">
+    <div class="tool-icon">🎮</div>
+    <div class="tool-info">
+      <h4>Game Comparison</h4>
+      <p>8 cozy farming games compared</p>
+    </div>
+    <span class="status status-live">Live</span>
+  </div>
+</div>

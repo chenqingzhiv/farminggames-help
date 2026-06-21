@@ -68,6 +68,12 @@ extra_javascript:
   - assets/vendor/jquery.min.js
   - assets/vendor/datatables.js
   - assets/js/datatables-init.js
+  - assets/js/tools/stardew-profit-planner.js
+  - assets/js/tools/stardew-npc-optimizer.js
+  - assets/js/tools/stardew-fish-tracker.js
+  - assets/js/tools/community-center.js
+  - assets/js/tools/mining-tracker.js
+  - assets/js/tools/crop-compare.js
 
 extra_css:
   - assets/css/custom.css
@@ -104,6 +110,9 @@ nav:
     - 🌱 Crop Profit Planner: tools/stardew-valley/profit-planner.md
     - 💞 NPC Friendship Optimizer: tools/stardew-valley/npc-friendship.md
     - 🐟 Fish Collection Tracker: tools/stardew-valley/fish-tracker.md
+    - ⛏️ Mining Floor Tracker: tools/stardew-valley/mining-tracker.md
+    - 🧑‍🌾 Crop Profit Comparison: tools/stardew-valley/crop-compare.md
+    - 🏛️ Community Center Tracker: tools/stardew-valley/community-center.md
     - 🗺️ Interactive Map: tools/interactive-map.md
     - 💾 Save Editors & Saves: tools/saves.md
     - 📦 Mods Guide: tools/mods.md

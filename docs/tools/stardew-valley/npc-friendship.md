@@ -1,11 +1,11 @@
 ---
 title: "Stardew Valley NPC Friendship Optimizer"
-description: "Interactive NPC gift guide for Stardew Valley 1.6 — find the fastest path to 10 hearts with every villager."
+description: "Interactive NPC gift guide for Stardew Valley 1.6 — find the fastest path to 10 hearts with every villager, with weekly schedules and universal gift reference."
 ---
 
 # 💞 Stardew Valley NPC Friendship Optimizer
 
-Find the fastest way to everyone's heart. Search by NPC or gift name, track your weekly gifts, and plan your birthday presents.
+Find the fastest way to everyone's heart. Search by NPC or gift name, track your weekly gifts, plan your birthday presents, check schedules, and browse universal gift preferences.
 
 ---
 
@@ -22,7 +22,7 @@ Find the fastest way to everyone's heart. Search by NPC or gift name, track your
 <div style="display:flex; flex-wrap:wrap; gap:12px; margin:16px 0; padding:16px; background:rgba(255,255,255,0.04); border-radius:12px; align-items:center;">
   <div>
     <label style="font-size:0.85em; opacity:0.7;">🔎 Search NPC or gift</label><br>
-    <input type="text" id="npc-search" placeholder="Search name or gift..." style="padding:8px 16px; border-radius:8px; border:1px solid rgba(255,255,255,0.1); background:rgba(0,0,0,0.3); color:#e8e6e1; min-width:240px; font-size:0.95em;">
+    <input type="text" id="npc-search" placeholder="Search name or gift item..." style="padding:8px 16px; border-radius:8px; border:1px solid rgba(255,255,255,0.1); background:rgba(0,0,0,0.3); color:#e8e6e1; min-width:240px; font-size:0.95em;">
   </div>
   <div>
     <label style="font-size:0.85em; opacity:0.7;">🎂 Birthday season</label><br>
@@ -54,6 +54,40 @@ Find the fastest way to everyone's heart. Search by NPC or gift name, track your
     </tbody>
   </table>
 </div>
+
+---
+
+## 📅 Weekly NPC Schedule
+
+Check where each NPC can be found on any day of the week.
+
+<div style="overflow-x:auto;">
+  <table class="datatable" style="width:100%; font-size:0.85em;">
+    <thead>
+      <tr>
+        <th>NPC</th>
+        <th>Mon</th>
+        <th>Tue</th>
+        <th>Wed</th>
+        <th>Thu</th>
+        <th>Fri</th>
+        <th>Sat</th>
+        <th>Sun</th>
+      </tr>
+    </thead>
+    <tbody id="schedule-table-body">
+      <!-- Populated by JS -->
+    </tbody>
+  </table>
+</div>
+
+---
+
+## 🎁 Universal Gift Reference
+
+This shows what items are universally loved, liked, neutral, disliked, or hated by **all** NPCs (with exceptions noted).
+
+<div id="universal-gifts"></div>
 
 ---
 
@@ -167,4 +201,23 @@ Find the fastest way to everyone's heart. Search by NPC or gift name, track your
   color: #22c55e;
 }
 .datatable th { background: rgba(201,169,110,0.1); }
+.uni-card {
+  background: rgba(255,255,255,0.03);
+  border-radius: 10px;
+  padding: 14px;
+  border: 1px solid rgba(255,255,255,0.08);
+}
+.uni-card.uni-loves { border-color: rgba(34,197,94,0.3); }
+.uni-card.uni-likes { border-color: rgba(59,130,246,0.3); }
+.uni-card.uni-neutral { border-color: rgba(168,85,247,0.3); }
+.uni-card.uni-dislikes { border-color: rgba(249,115,22,0.3); }
+.uni-card.uni-hates { border-color: rgba(239,68,68,0.3); }
+.uni-item {
+  display: inline-block;
+  background: rgba(255,255,255,0.06);
+  padding: 2px 8px;
+  border-radius: 6px;
+  font-size: 0.78em;
+  margin: 2px;
+}
 </style>
