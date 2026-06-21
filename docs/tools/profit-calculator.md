@@ -300,3 +300,7 @@ setTimeout(calculate, 100);
 #results { margin: 20px 0; }
 #profitChart { margin-top: 20px; border-radius: 12px; }
 </style>
+
+---
+
+> 🛒 [**Buy Stardew Valley on Steam**](https://store.steampowered.com/app/413150/) — Support the developer!

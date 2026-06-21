@@ -95,3 +95,7 @@ This pack gives you quality-of-life improvements without changing the core game 
 ---
 
 > 🔗 All mods listed are from Nexus Mods. Always download from trusted sources.
+
+---
+
+> 🛒 [**Buy Stardew Valley on Steam**](https://store.steampowered.com/app/413150/) — Support the developer!

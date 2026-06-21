@@ -170,3 +170,9 @@ $(document).ready(function() {
 ---
 
 > **Data sources:** Steam store pages, Steam reviews, official game websites, Cozy Game Reviews. All prices in USD and may vary by region. Last updated: June 2026.
+
+---
+
+> 🛒 [**Buy Stardew Valley on Steam**](https://store.steampowered.com/app/413150/) · [Farming Sim 25](https://store.steampowered.com/app/2131630/) · [Fields of Mistria](https://store.steampowered.com/app/1929130/) · [Coral Island](https://store.steampowered.com/app/1158160/) · [Sandrock](https://store.steampowered.com/app/1084600/) · [Sun Haven](https://store.steampowered.com/app/1432860/)
+>
+> *Affiliate links — we earn a small commission at no extra cost to you.*

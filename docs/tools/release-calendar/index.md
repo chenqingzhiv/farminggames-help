@@ -175,3 +175,9 @@ $(document).ready(function() {
 ## 📬 Get Notified
 
 Bookmark this page — we update it weekly as new dates are confirmed. If you know of a game we missed, let us know!
+
+---
+
+> 🛒 [**Buy Stardew Valley on Steam**](https://store.steampowered.com/app/413150/) · [Farming Sim 25](https://store.steampowered.com/app/2131630/) · [Fields of Mistria](https://store.steampowered.com/app/1929130/) · [Coral Island](https://store.steampowered.com/app/1158160/) · [Sandrock](https://store.steampowered.com/app/1084600/) · [Sun Haven](https://store.steampowered.com/app/1432860/)
+>
+> *Affiliate links — we earn a small commission at no extra cost to you.*

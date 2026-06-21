@@ -82,3 +82,9 @@ Pre-made save files to jump-start your farm:
 | [Save Backup](https://www.nexusmods.com/stardewvalley/mods/435) | Auto-backup your saves |
 | [Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533) | Skip the loading splash screens |
 | [Time Speed](https://www.nexusmods.com/stardewvalley/mods/1009) | Control game speed |
+
+---
+
+> 🛒 [**Buy Stardew Valley on Steam**](https://store.steampowered.com/app/413150/) — Support the developer!
+>
+> *This page contains affiliate links. We earn a small commission at no extra cost to you.*

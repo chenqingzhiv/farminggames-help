@@ -206,3 +206,7 @@ function showRegion(region) {
   line-height: 1.8;
 }
 </style>
+
+---
+
+> 🛒 [**Buy Stardew Valley on Steam**](https://store.steampowered.com/app/413150/) — Support the developer!

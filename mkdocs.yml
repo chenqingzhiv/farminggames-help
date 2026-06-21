@@ -99,10 +99,16 @@ copyright: Copyright &copy; 2026 Farming Games Help
 nav:
   - 🏠 Home: index.md
   - 🛠️ Tools:
+    - tools/index.md
     - 💰 Crop Profit Calculator: tools/profit-calculator.md
+    - 🌱 Crop Profit Planner: tools/stardew-valley/profit-planner.md
+    - 💞 NPC Friendship Optimizer: tools/stardew-valley/npc-friendship.md
+    - 🐟 Fish Collection Tracker: tools/stardew-valley/fish-tracker.md
     - 🗺️ Interactive Map: tools/interactive-map.md
     - 💾 Save Editors & Saves: tools/saves.md
     - 📦 Mods Guide: tools/mods.md
+    - 🎮 Game Comparison: tools/game-comparison/index.md
+    - 📅 Release Calendar: tools/release-calendar/index.md
   - 🌾 Game Database:
     - Game List: database/games.md
   - 🌟 Stardew Valley:
@@ -150,11 +156,4 @@ nav:
     - Newbie Guide: guides/newbie.md
     - Overview: guides/index.md
   - 📰 News: news/index.md
-  - 🛠️ Tools:
-    - tools/index.md
-    - 🌱 Crop Profit Planner: tools/stardew-valley/profit-planner.md
-    - 🎮 Game Comparison: tools/game-comparison/index.md
-    - 📅 Release Calendar: tools/release-calendar/index.md
-    - 💾 Save Editor Guide: tools/saves.md
-    - 🔧 Mods Guide: tools/mods.md
   - ℹ️ About: about.md
