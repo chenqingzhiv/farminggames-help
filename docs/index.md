@@ -1,44 +1,144 @@
-# 🌾 Farming Games Help
-
-<div class="game-hero-card">
-<a href="stardev/" class="game-hero-card-inner game-card-stardew" style="display:block;">
-<div class="game-card-title">🌟 Stardew Valley</div>
-<div class="game-card-sub">The ultimate pixel farming sim · All platforms · Complete guide hub</div>
-<div class="game-card-links">
-  <span class="game-card-link">🌱 Crop Profits</span>
-  <span class="game-card-link">🐟 Fish Guide</span>
-  <span class="game-card-link">💝 NPC Gifts</span>
-  <span class="game-card-link">🧑‍🍳 Artisan Goods</span>
-  <span class="game-card-link">🌷 Season Guides</span>
-</div>
-</a>
-</div>
-
-<div class="game-hero-card">
-<a href="farmingsim/" class="game-hero-card-inner game-card-farmsim" style="display:block;">
-<div class="game-card-title">🚜 Farming Simulator 25</div>
-<div class="game-card-sub">The most realistic farming sim · Machinery · Management</div>
-<div class="game-card-links">
-  <span class="game-card-link">📖 Full Guide</span>
-</div>
-</a>
-</div>
-
-<div class="game-hero-card">
-<a href="palia/" class="game-hero-card-inner game-card-palia" style="display:block;">
-<div class="game-card-title">🏹 Palia</div>
-<div class="game-card-sub">Cozy MMO · Free to play · Warm community</div>
-<div class="game-card-links">
-  <span class="game-card-link">📖 Full Guide</span>
-</div>
-</a>
+<div class="home-hero">
+  <h1>Your <span class="gradient">Farming Games</span> Hub</h1>
+  <p>Complete guides, calculators, and databases for Stardew Valley, Farming Simulator, Palia, and more cozy farming games.</p>
+  <div class="hero-stats">
+    <div class="hero-stat"><div class="hero-stat-num">50+</div><div class="hero-stat-label">Guides</div></div>
+    <div class="hero-stat"><div class="hero-stat-num">8</div><div class="hero-stat-label">Tools</div></div>
+    <div class="hero-stat"><div class="hero-stat-num">8</div><div class="hero-stat-label">Games</div></div>
+  </div>
 </div>
 
 ---
 
-> 📢 More guides coming soon! New farming games added regularly.
+<h2 class="section-title-home">Featured Games <span class="sub">· 8 titles</span></h2>
 
-<div class="feedback-section">
-<h2>💬 Have feedback or suggestions?</h2>
-<p>Leave a comment at the bottom of any game page — we'd love to hear from you!</p>
+<div class="game-hero-card">
+<div class="game-hero-card-inner game-card-stardew">
+<div class="game-card-title">🌟 Stardew Valley</div>
+<div class="game-card-sub">⭐ Most Popular</div>
+<p>Complete hub — crops, fish, NPC gifts, artisan goods, season guides, tools, and more.</p>
+<div class="game-card-links">
+  <a href="stardev/crops/" class="game-card-link">🌸 Crops</a>
+  <a href="stardev/fish/" class="game-card-link">🐟 Fish</a>
+  <a href="stardev/npc-gifts/" class="game-card-link">💝 Gifts</a>
+  <a href="tools/interactive-map/" class="game-card-link">🗺️ Map</a>
+  <a href="stardev/profit-calc/" class="game-card-link">🧮 Profit Calc</a>
+  <a href="stardev/tier-list/" class="game-card-link">📊 Tier List</a>
+</div>
+</div>
+</div>
+
+<div class="game-hero-card">
+<div class="game-hero-card-inner game-card-farmsim">
+<div class="game-card-title">🚜 Farming Simulator 25</div>
+<div class="game-card-sub">🚜 Simulation</div>
+<p>Machinery guide, crop profit, new player tips, and all the latest FS25 content.</p>
+<div class="game-card-links">
+  <a href="farmingsim/" class="game-card-link">📖 Full Guide</a>
+  <a href="farmingsim/crops/" class="game-card-link">🌽 Crops</a>
+  <a href="farmingsim/machinery/" class="game-card-link">🚜 Machinery</a>
+</div>
+</div>
+</div>
+
+<div class="game-hero-card">
+<div class="game-hero-card-inner game-card-palia">
+<div class="game-card-title">🏹 Palia</div>
+<div class="game-card-sub">🏹 MMO</div>
+<p>Cozy MMO guide — beginner tips, quests, relationships, and farming guide.</p>
+<div class="game-card-links">
+  <a href="palia/" class="game-card-link">📖 Full Guide</a>
+  <a href="palia/guide/" class="game-card-link">👶 Beginner</a>
+</div>
+</div>
+</div>
+
+For Fields of Mistria, Coral Island, Sandrock, Sun Haven and more, see the [full game list](database/games/).
+
+---
+
+<h2 class="section-title-home">Interactive Tools <span class="sub">· calculators & planners</span></h2>
+
+<div class="tools-grid-home">
+  <div class="tool-card-home">
+    <div class="tool-icon">🌱</div>
+    <h4>Crop Profit Planner</h4>
+    <p>Compare crop ROI season by season.</p>
+    <span class="badge">Stardew</span>
+  </div>
+  <div class="tool-card-home">
+    <div class="tool-icon">💞</div>
+    <h4>NPC Friendship Optimizer</h4>
+    <p>Track gifts & optimize relationships.</p>
+    <span class="badge">Stardew</span>
+  </div>
+  <div class="tool-card-home">
+    <div class="tool-icon">🐟</div>
+    <h4>Fish Collection Tracker</h4>
+    <p>Track all 70+ fish by season & location.</p>
+    <span class="badge">Stardew</span>
+  </div>
+  <div class="tool-card-home">
+    <div class="tool-icon">🗺️</div>
+    <h4>Interactive Map</h4>
+    <p>Clickable valley map with markers.</p>
+    <span class="badge">Stardew</span>
+  </div>
+  <div class="tool-card-home">
+    <div class="tool-icon">🧮</div>
+    <h4>Profit Calculator</h4>
+    <p>Calculate profit for any crop setup.</p>
+    <span class="badge">Multi</span>
+  </div>
+  <div class="tool-card-home">
+    <div class="tool-icon">📦</div>
+    <h4>Mods Guide</h4>
+    <p>Curated mod recommendations + install guide.</p>
+    <span class="badge">Multi</span>
+  </div>
+</div>
+
+[View all tools →](tools/)
+
+---
+
+<h2 class="section-title-home">Latest Guides <span class="sub">· updated weekly</span></h2>
+
+<div class="article-preview-card">
+  <div class="article-thumb"></div>
+  <div class="article-body-home">
+    <h4>🌷 Stardew Valley Spring Guide — Year 1</h4>
+    <p>Maximize your first spring with optimized planting, fishing, and mining strategies for the best start.</p>
+    <div class="article-meta"><span>📅 Jun 21, 2026</span><span>📖 12 min read</span><span class="badge-new">NEW</span></div>
+  </div>
+</div>
+
+<div class="article-preview-card">
+  <div class="article-thumb" style="background:radial-gradient(ellipse at 50% 30%, rgba(251,191,36,0.2), transparent 60%);"></div>
+  <div class="article-body-home">
+    <h4>🚜 FS25 — Best Starting Machinery Loadout</h4>
+    <p>Which tractors, harvesters, and tools give the best bang for your buck in the early game.</p>
+    <div class="article-meta"><span>📅 Jun 19, 2026</span><span>📖 8 min read</span></div>
+  </div>
+</div>
+
+<div class="article-preview-card">
+  <div class="article-thumb" style="background:radial-gradient(ellipse at 40% 60%, rgba(168,85,247,0.2), transparent 60%);"></div>
+  <div class="article-body-home">
+    <h4>🏹 Palia — Beginner's Guide to Your First Week</h4>
+    <p>What to do in your first 7 days: fishing, farming, hunting, and building relationships.</p>
+    <div class="article-meta"><span>📅 Jun 17, 2026</span><span>📖 10 min read</span></div>
+  </div>
+</div>
+
+---
+
+<div class="about-section-home">
+  <h3>🌾 What is Farming Games Help?</h3>
+  <p>We build data-driven guides, interactive calculators, and curated databases for cozy farming & simulation games. Every guide is tested against real game data. Updated weekly. Always free.</p>
+  <div class="about-features">
+    <span>⚡ Accurate data</span>
+    <span>🛠️ Interactive tools</span>
+    <span>📅 Weekly updates</span>
+  </div>
 </div>
