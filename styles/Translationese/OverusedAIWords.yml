@@ -1,0 +1,28 @@
+---
+# Words that AI/translation overuses — makes text sound robotic
+extends: existence
+message: "'%s' — 这个词AI/翻译腔常用，试试换词"
+link: https://vale.sh
+level: suggestion
+scope: sentence
+ignorecase: true
+tokens:
+  - 'crucial'
+  - 'essential'
+  - 'vital'
+  - 'paramount'
+  - 'key'
+  - 'major'
+  - 'significant'
+  - 'various'
+  - 'multiple'
+  - 'numerous'
+  - 'plenty of'
+  - 'lots of'
+  - 'tons of'
+  - 'ensure'
+  - 'guarantee'
+  - 'definitely'
+  - 'certainly'
+  - 'obviously'
+  - 'clearly'

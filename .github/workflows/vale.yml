@@ -1,0 +1,35 @@
+name: Vale - English Quality Check
+on:
+  push:
+    branches: [main, master]
+    paths:
+      - '**.md'
+  pull_request:
+    branches: [main, master]
+    paths:
+      - '**.md'
+  workflow_dispatch:
+
+jobs:
+  vale:
+    name: Check English prose quality
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Vale
+        run: |
+          curl -fsSL https://github.com/vale-cli/vale/releases/download/v3.15.1/vale_3.15.1_Linux_64-bit.tar.gz \
+            -o /tmp/vale.tar.gz
+          tar -xzf /tmp/vale.tar.gz -C /usr/local/bin/ vale
+
+      - name: Run Vale
+        run: |
+          vale --no-wrap --minAlertLevel suggestion docs/ \
+            --config=.vale.ini 2>&1 || true
+
+      - name: Summary
+        run: |
+          echo "## Vale English Quality Report" >> $GITHUB_STEP_SUMMARY
+          vale --no-wrap --minAlertLevel warning docs/ \
+            --config=.vale.ini 2>&1 >> $GITHUB_STEP_SUMMARY || true

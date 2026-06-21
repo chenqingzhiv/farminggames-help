@@ -1,0 +1,65 @@
+---
+# Detects common patterns from AI-translated / Chinese-to-English content
+# These are technically correct but mark the text as "non-native sounding"
+extends: existence
+message: "'%s' — 这句读起来像AI翻译，建议改成更自然的说法"
+link: https://vale.sh
+level: warning
+ignorecase: true
+scope: sentence
+tokens:
+  # Overly formal transition words (AI hallmark)
+  - 'Furthermore,'
+  - 'Moreover,'
+  - 'Additionally,'
+  - 'Consequently,'
+  - 'Thereby'
+  - 'Hence,'
+  - 'Thus,'
+
+  # Wordy AI constructions
+  - 'It is important to note that'
+  - 'It is worth noting that'
+  - 'It should be noted that'
+  - 'It is recommended to'
+  - 'It is advisable to'
+  - 'Please note that'
+  - 'As we all know'
+  - 'As everyone knows'
+  - 'Needless to say'
+
+  # Translation filler words
+  - 'in order to'
+  - 'not only...but also'
+  - 'On the one hand'
+  - 'On the other hand'
+  - 'Last but not least'
+  - 'First and foremost'
+
+  # Unnatural verbs (translation tells)
+  - 'utilize'
+  - 'utilization'
+  - 'commence'
+  - 'endeavor'
+  - 'facilitate'
+  - 'leverage'
+  - 'leverage the power of'
+  - 'harness the power of'
+
+  # AI/translation formula phrases
+  - 'When it comes to'
+  - 'When it comes down to'
+  - 'In the realm of'
+  - 'In the world of'
+  - 'A wide range of'
+  - 'A variety of'
+  - 'A plethora of'
+  - 'Countless'
+  - 'Incredibly'
+  - 'Unbelievably'
+  - 'Truly'
+  - 'Absolutely'
+  - 'Essentially'
+  - 'Basically'
+  - 'Ultimately'
+  - 'Undoubtedly'

@@ -1,0 +1,35 @@
+---
+# AI formulaic sentence starts — these make every paragraph look the same
+extends: existence
+message: "%s — AI 常用句式开头，建议换种说法"
+link: https://vale.sh
+level: warning
+ignorecase: true
+scope: sentence
+tokens:
+  - In this guide, we
+  - In this article, we
+  - This guide will
+  - This article will
+  - In this section,
+  - Let.s dive into
+  - Let.s take a look
+  - Let.s explore
+  - Let.s see how
+  - Without further ado
+  - Without further delay
+  - If you.re looking for
+  - If you want to
+  - If you.re wondering
+  - Have you ever wondered
+  - Have you ever thought about
+  - Dive into the world of
+  - Dive into the exciting world of
+  - Welcome to the world of
+  - Welcome to our guide
+  - Here.s everything you need to
+  - Here.s a comprehensive guide
+  - Here is everything you need to know
+  - Everything you need to know about
+  - The ultimate guide to
+  - Your ultimate guide to

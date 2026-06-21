@@ -1,0 +1,9 @@
+---
+# Detects passive voice — Chinese translation overuses it
+extends: existence
+message: "'%s' — 被动语态，建议改成主动语态"
+link: https://vale.sh
+level: suggestion
+ignorecase: true
+raw:
+  - '(am|are|is|was|were|be|been|being)\s+(?!able|going|not|used to|supposed to|willing|likely|about to|probably|already|always|also|still|just|even|ever|never|almost|nearly|barely|hardly|scarcely|quite|rather|somewhat)(\w+ed|(\w+en))'
