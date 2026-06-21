@@ -1,17 +1,17 @@
-# 📖 攻略指南
+# 📖 Guide Index
 
-## 新手入门
+## Beginner Guides
 
--   Stardew Valley 第一年生存指南（即将上线）
--   Farming Simulator 新手教程（即将上线）
--   牧场物语新手村指南（即将上线）
+-   Stardew Valley First Year Survival Guide (Coming Soon)
+-   Farming Simulator Beginner Tutorial (Coming Soon)
+-   Story of Seasons Beginner Village Guide (Coming Soon)
 
-## 进阶技巧
+## Advanced Tips
 
--   最赚钱的作物排行（即将上线）
--   自动化农场搭建（即将上线）
--   全成就解锁路线（即将上线）
+-   Most Profitable Crop Rankings (Coming Soon)
+-   Automated Farm Setup (Coming Soon)
+-   Full Achievement Unlock Routes (Coming Soon)
 
 ---
 
-> 🚧 攻略内容持续建设中...
+> 🚧 Guide content is continuously under construction...

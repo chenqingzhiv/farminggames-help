@@ -1,51 +1,51 @@
-# Palia 帕利亚 — 完整攻略
+# Palia — Complete Guide
 
-## 游戏概览
+## Game Overview
 
-- **开发商**: Singularity 6
-- **平台**: PC / NS
-- **类型**: 种田MMO（免费）
-- **特点**: 多人在线种田+冒险
+- **Developer**: Singularity 6
+- **Platform**: PC / NS
+- **Genre**: Farming MMO (Free-to-Play)
+- **Features**: Multiplayer online farming + adventure
 
-## 新手必做
+## Beginner Must-Dos
 
-### 1-10级快速升级
+### Fast Leveling 1-10
 
-1. **完成新手教程** → 解锁基础工具
-2. **种小麦**（3天成熟，烹饪基础）
-3. **钓鱼** → 初期最快赚钱方式
-4. **采矿** → 升级工具的重要材料
+1. **Complete the tutorial** → Unlock basic tools
+2. **Plant wheat** (3-day maturity, cooking staple)
+3. **Fish** → Fastest early-game money maker
+4. **Mine** → Important materials for tool upgrades
 
-### 赚钱最快方式
+### Fastest Money-Making Methods
 
-| 方式 | 时薪 | 条件 |
+| Method | Hourly Rate | Requirements |
 |------|------|------|
-| 钓鱼（漩涡点） | 3K-5K | 钓鱼技能4+ |
-| 稀有虫捕捉 | 2K-4K | 高级捕虫网 |
-| 烹饪任务 | 1K-2K | 厨房升级 |
-| 种棉花 | 1K-3K | 种子解锁 |
+| Fishing (hotspots) | 3K-5K | Fishing skill 4+ |
+| Rare bug catching | 2K-4K | Advanced bug net |
+| Cooking quests | 1K-2K | Kitchen upgrade |
+| Growing cotton | 1K-3K | Seeds unlocked |
 
-## 最佳升级路线
+## Best Leveling Path
 
-| 技能 | 优先 | 推荐升级方式 |
+| Skill | Priority | Recommended Method |
 |------|------|------------|
-| 钓鱼 | ⭐⭐⭐ | 每日漩涡点 |
-| 采集 | ⭐⭐⭐ | 边走边摘 |
-| 烹饪 | ⭐⭐ | 做订单赚钱 |
-| 园艺 | ⭐⭐⭐ | 每天种满 |
-| 捕虫 | ⭐ | 有空再升 |
-| 采矿 | ⭐⭐ | 刷新时去 |
+| Fishing | ⭐⭐⭐ | Daily hotspots |
+| Foraging | ⭐⭐⭐ | Pick as you go |
+| Cooking | ⭐⭐ | Fulfill orders for money |
+| Gardening | ⭐⭐⭐ | Plant every day |
+| Bug Catching | ⭐ | Level up when you have time |
+| Mining | ⭐⭐ | Go when ore respawns |
 
-## 社交要素
+## Social Features
 
-- **好友系统** — 可以一起种田钓鱼
-- **房屋系统** — 可自定义装修
-- **节日活动** — 不定期限时任务
-- **NPC好感** — 送礼物解锁剧情
+- **Friend System** — Farm and fish together
+- **Housing System** — Customizable decoration
+- **Festival Events** — Limited-time quests
+- **NPC Affinity** — Give gifts to unlock story
 
-## 新手避坑
+## Beginner Pitfalls
 
-1. ❌ **别急着扩建房子** — 先升级工具
-2. ✅ **每天做完NPC任务** — 经验来源
-3. ✅ **捡地上的所有材料** — 都有用
-4. ❌ **别卖稀有材料** — 后期升级要用
+1. ❌ **Don't rush to expand your house** — Upgrade tools first
+2. ✅ **Complete NPC quests daily** — Source of XP
+3. ✅ **Pick up all materials on the ground** — They're all useful
+4. ❌ **Don't sell rare materials** — You'll need them for later upgrades

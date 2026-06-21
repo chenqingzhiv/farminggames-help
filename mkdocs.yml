@@ -1,11 +1,11 @@
-site_name: 种田游戏攻略
+site_name: Farming Games Help
 site_url: https://farminggames.help
-site_description: 种田/农场/模拟经营游戏攻略数据库 - Stardew Valley, Farming Simulator, 牧场物语等
+site_description: Complete guides & databases for cozy farming games - Stardew Valley, Farming Simulator, Palia, and more
 site_author: farming-games
 
 theme:
   name: material
-  language: zh
+  language: en
   custom_dir: overrides
   palette:
     - scheme: slate
@@ -13,13 +13,13 @@ theme:
       accent: lime
       toggle:
         icon: material/lightbulb
-        name: 切换到亮色模式
+        name: Switch to light mode
     - scheme: default
       primary: green
       accent: lime
       toggle:
         icon: material/lightbulb-outline
-        name: 切换到深色模式
+        name: Switch to dark mode
   features:
     - navigation.tabs
     - navigation.tabs.sticky
@@ -94,42 +94,42 @@ extra:
       link: https://github.com/
   generator: false
 
-copyright: Copyright &copy; 2026 种田游戏攻略
+copyright: Copyright &copy; 2026 Farming Games Help
 
 nav:
-  - 🏠 首页: index.md
-  - 🌾 种田游戏数据库:
-    - 游戏列表: database/games.md
-  - 🌟 星露谷物语:
-    - 🏠 游戏总览: stardev/encyclopedia.md
-    - 🌱 全季节作物利润表: stardev/crops.md
-    - 🐟 鱼类图鉴与价格: stardev/fish.md
-    - 💝 NPC礼物好感表: stardev/npc-gifts.md
-    - 🏆 作物Tier排名: stardev/tier-list.md
-    - 🧑‍🍳 工匠制品利润对比: stardev/artisan.md
-    - 💰 赚钱计算器: stardev/profit-calc.md
-    - 🍳 烹饪食谱大全: stardev/cooking.md
-    - 🌷 春季完整攻略: stardev/spring-guide.md
-    - ☀️ 夏季完整攻略: stardev/summer-guide.md
-    - 🍁 秋季完整攻略: stardev/fall-guide.md
-    - ❄️ 冬季完整攻略: stardev/winter.md
-    - ⛏️ 采矿/矿洞全攻略: stardev/mining.md
-    - 🏠 农场布局规划: stardev/farm-layout.md
-    - 🎣 钓鱼完全指南: stardev/fishing.md
-    - 🎪 节日活动日历: stardev/festivals.md
-    - 📬 反馈建议: stardev/feedback.md
-  - 🚜 模拟农场25:
-    - 完整攻略: farmingsim/index.md
-    - 🆕 新手起步指南: farmingsim/getting-started.md
-    - 🌽 作物利润全表: farmingsim/crops.md
-    - 🚜 农机选购指南: farmingsim/machinery.md
-    - 📬 反馈建议: farmingsim/feedback.md
-  - 🏹 Palia帕利亚:
-    - 完整攻略: palia/index.md
-    - 🆕 新手完整攻略: palia/guide.md
-    - 📬 反馈建议: palia/feedback.md
-  - 📖 新手入门指南:
-    - 新手攻略: guides/newbie.md
-    - 总览: guides/index.md
-  - 📰 更新日志: news/index.md
-  - ℹ️ 关于本站: about.md
+  - 🏠 Home: index.md
+  - 🌾 Game Database:
+    - Game List: database/games.md
+  - 🌟 Stardew Valley:
+    - 📖 Game Overview: stardev/encyclopedia.md
+    - 🌱 Crop Profit Guide: stardev/crops.md
+    - 🐟 Fish Prices & Locations: stardev/fish.md
+    - 💝 NPC Gift Guide: stardev/npc-gifts.md
+    - 🏆 Crop Tier List: stardev/tier-list.md
+    - 🧑‍🍳 Artisan Goods Guide: stardev/artisan.md
+    - 💰 Profit Calculator: stardev/profit-calc.md
+    - 🍳 Cooking Recipes: stardev/cooking.md
+    - 🌷 Spring Guide: stardev/spring-guide.md
+    - ☀️ Summer Guide: stardev/summer-guide.md
+    - 🍁 Fall Guide: stardev/fall-guide.md
+    - ❄️ Winter Guide: stardev/winter.md
+    - ⛏️ Mining Guide: stardev/mining.md
+    - 🏠 Farm Layouts: stardev/farm-layout.md
+    - 🎣 Fishing Guide: stardev/fishing.md
+    - 🎪 Festivals Calendar: stardev/festivals.md
+    - 📬 Feedback: stardev/feedback.md
+  - 🚜 Farming Simulator 25:
+    - 🚜 Full Guide: farmingsim/index.md
+    - 👶 Getting Started: farmingsim/getting-started.md
+    - 🌽 Crop Profit Guide: farmingsim/crops.md
+    - 🚜 Machinery Guide: farmingsim/machinery.md
+    - 📬 Feedback: farmingsim/feedback.md
+  - 🏹 Palia:
+    - 📖 Full Guide: palia/index.md
+    - 👶 Beginner's Guide: palia/guide.md
+    - 📬 Feedback: palia/feedback.md
+  - 📖 Beginner Guides:
+    - Newbie Guide: guides/newbie.md
+    - Overview: guides/index.md
+  - 📰 News: news/index.md
+  - ℹ️ About: about.md

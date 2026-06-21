@@ -1,19 +1,19 @@
-# 📬 反馈与建议
+# 📬 Feedback & Suggestions
 
-> 欢迎留下你对星露谷物语攻略的意见、建议或补充！
+> Welcome! Leave your comments, suggestions, or additions about the Stardew Valley guides!
 
-## 如何反馈
+## How to Give Feedback
 
-你可以通过以下方式留下你的想法：
+You can share your thoughts in the following ways:
 
-1. **在下方评论区留言**（需要 GitHub 账号）
-2. 提出你想看的攻略主题
-3. 指出攻略中的错误或遗漏
-4. 分享你的游戏心得
+1. **Leave a comment below** (requires a GitHub account)
+2. Suggest guide topics you'd like to see
+3. Point out errors or omissions in the guides
+4. Share your game tips and experiences
 
 ---
 
-**所有反馈都会帮助我们做得更好！**
+**All feedback helps us improve!**
 
 <script src="https://utteranc.es/client.js"
         repo="chenqingzhiv/farminggames-help"

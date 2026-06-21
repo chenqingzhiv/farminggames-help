@@ -1,30 +1,30 @@
 ---
-title: 星露谷物语夏季完整攻略
-description: 星露谷物语夏季攻略 — 夏季作物推荐、蓝莓赚大钱、钓鱼指南、夏日活动
+title: Stardew Valley Complete Summer Guide
+description: Stardew Valley Summer Guide — Summer crop recommendations, blueberries for big money, fishing guide, summer events
 ---
 
-# ☀️ 夏季完整攻略
+# ☀️ Complete Summer Guide
 
-夏季是星露谷物语**赚钱的黄金期**！蓝莓+啤酒花双剑合璧，日入过万不是梦。
+Summer is the **golden season for earning money** in Stardew Valley! Blueberries + Hops are a killer combo, earning over 10,000g per day.
 
-## 夏季作物推荐
+## Summer Crop Recommendations
 
-| 作物 | 单价 | 种到成熟 | 持续收获 | 单季收入 | 推荐度 |
-|:----|:----|:---------|:---------|:---------|:------|
-| **蓝莓** 🫐 | 80g/3颗 | 13天 | 每4天 | **超级高** | ⭐⭐⭐⭐⭐ |
-| **啤酒花** 🍺 | 25g | 11天 | 每天 | 酿酒暴利 | ⭐⭐⭐⭐⭐ |
-| **甜瓜** 🍈 | 250g | 12天 | 一次 | 高 | ⭐⭐⭐ |
-| **玉米** 🌽 | 50g | 14天 | 每4天 | 夏秋两季 | ⭐⭐⭐ |
-| **辣椒** 🌶️ | 40g | 5天 | 每3天 | 中 | ⭐⭐ |
-| **番茄** 🍅 | 60g | 11天 | 每天 | 中 | ⭐⭐ |
-| **萝卜** 🥕 | 90g | 6天 | 一次 | 前期 | ⭐ |
-| **小麦** 🌾 | 25g | 4天 | 一次 | 制酒 | ⭐ |
+| Crop | Price | Days to Mature | Regrowth | Season Income | Rating |
+|:-----|:------|:---------------|:---------|:--------------|:-------|
+| **Blueberry** 🫐 | 80g/3 berries | 13 days | Every 4 days | **Super High** | ⭐⭐⭐⭐⭐ |
+| **Hops** 🍺 | 25g | 11 days | Daily | Keg profits | ⭐⭐⭐⭐⭐ |
+| **Melon** 🍈 | 250g | 12 days | One-time | High | ⭐⭐⭐ |
+| **Corn** 🌽 | 50g | 14 days | Every 4 days | Summer & Fall | ⭐⭐⭐ |
+| **Hot Pepper** 🌶️ | 40g | 5 days | Every 3 days | Medium | ⭐⭐ |
+| **Tomato** 🍅 | 60g | 11 days | Daily | Medium | ⭐⭐ |
+| **Radish** 🥕 | 90g | 6 days | One-time | Early | ⭐ |
+| **Wheat** 🌾 | 25g | 4 days | One-time | Beer-making | ⭐ |
 
-**开荒建议：蓝莓×60+啤酒花×40+甜瓜×20**
+**New farm suggestion: Blueberries×60 + Hops×40 + Melons×20**
 
-## 夏季节日
+## Summer Festivals
 
-| 日期 | 节日 | 准备 |
-|:----|:-----|:-----|
-| 夏11-13 | 夜市 | 带鱼竿钓深海鱼 |
-| 夏28 | 月光水母 | 晚上9点到海边 |
+| Date | Festival | Preparation |
+|:-----|:---------|:------------|
+| Summer 11-13 | Night Market | Bring fishing rod for deep-sea fish |
+| Summer 28 | Moonlight Jellies | Go to the beach at 9PM |

@@ -1,41 +1,41 @@
-# Stardew Valley — 完整图鉴
+# Stardew Valley — Complete Encyclopedia
 
-## 可采集物品
+## Forageable Items
 
-| 季节 | 物品 | 地点 | 价格 |
+| Season | Item | Location | Price |
 |------|------|------|------|
-| 春 | 野山葵 | 农场/森林 | 50G |
-| 春 | 水仙花 | 皮埃尔小店 | 30G |
-| 春 | 蒲公英 | 农场 | 40G |
-| 春 | 韭葱 | 山区 | 60G |
-| 春 | 羊肚菌 | 秘密森林 | 150G |
-| 夏 | 香料莓 | 巴士站 | 80G |
-| 夏 | 葡萄 | 农场/森林 | 80G |
-| 夏 | 甜豌豆 | 农场 | 60G |
-| 秋 | 黑莓 | 农场/森林 | 60G |
-| 秋 | 普通蘑菇 | 秘密森林 | 60G |
-| 秋 | 榛子 | 农场 | 70G |
-| 冬 | 冬青 | 农场/森林 | 100G |
-| 冬 | 水晶果 | 矿井 | 150G |
-| 冬 | 雪山药 | 山区 | 100G |
+| Spring | Wild Horseradish | Farm/Forest | 50G |
+| Spring | Daffodil | Pierre's General Store | 30G |
+| Spring | Dandelion | Farm | 40G |
+| Spring | Leek | Mountain | 60G |
+| Spring | Morel | Secret Woods | 150G |
+| Summer | Spice Berry | Bus Stop | 80G |
+| Summer | Grape | Farm/Forest | 80G |
+| Summer | Sweet Pea | Farm | 60G |
+| Fall | Blackberry | Farm/Forest | 60G |
+| Fall | Common Mushroom | Secret Woods | 60G |
+| Fall | Hazelnut | Farm | 70G |
+| Winter | Holly | Farm/Forest | 100G |
+| Winter | Crystal Fruit | Mines | 150G |
+| Winter | Snow Yam | Mountain | 100G |
 
-## 矿物大全
+## Complete Mineral Guide
 
-### 晶洞可开出的宝石
+### Gems from Geodes
 
-| 晶洞类型 | 价格 | 常见产出 |
+| Geode Type | Price | Common Drops |
 |---------|------|---------|
-| 普通晶洞 | 25G | 矿石/黏土 |
-| 冰封晶洞 | 25G | 冰系宝石 |
-| 岩浆晶洞 | 25G | 火系宝石 |
-| 万象晶洞 | 25G | 全随机 |
+| Regular Geode | 25G | Ore/Clay |
+| Frozen Geode | 25G | Ice-type Gems |
+| Magma Geode | 25G | Fire-type Gems |
+| Omni Geode | 25G | Full Random |
 
-## 鱼类图鉴补充
+## Fish Guide Supplement
 
-| 鱼种 | 难度 | 最佳钓点 | 需要技能 |
+| Fish | Difficulty | Best Spot | Skill Required |
 |------|------|---------|---------|
-| 传说之鱼 | 110 | 春季雨天山区 | 钓鱼10级 |
-| 绯红鱼 | 95 | 夏季沙滩码头 | 钓鱼10级 |
-| 变种鲤鱼 | 80 | 下水道 | 钓鱼10级 |
-| 冰川鱼 | 100 | 冬季箭头岛 | 钓鱼10级 |
-| 章鱼 | 95 | 夏季沙滩 | 钓鱼9级 |
+| Legend | 110 | Spring rainy day Mountain Lake | Fishing Level 10 |
+| Crimsonfish | 95 | Summer Beach Pier | Fishing Level 10 |
+| Mutant Carp | 80 | Sewers | Fishing Level 10 |
+| Glacierfish | 100 | Winter Arrowhead Island | Fishing Level 10 |
+| Octopus | 95 | Summer Beach | Fishing Level 9 |

@@ -1,146 +1,146 @@
 ---
-title: 模拟农场25 新手起步指南
-description: 模拟农场25从零开始的完整新手教程，涵盖开局选择、基础操作、第一个赚钱路线
+title: Farming Simulator 25 Beginner Guide
+description: Complete beginner tutorial for Farming Simulator 25 from scratch, covering starting choices, basic controls, and the first profit route
 ---
 
-# 🚜 模拟农场25 新手起步指南
+# 🚜 Farming Simulator 25 Beginner Guide
 
-## 开局选择
+## Starting Choices
 
-### 选择地图
+### Choosing a Map
 
-| 地图 | 特点 | 推荐度 |
+| Map | Features | Recommendation |
 |:----|:-----|:------|
-| Riverbend Springs | 新手友好，田块规整 | ⭐⭐⭐⭐⭐ |
-| Hutan Pantai | 东南亚风格，小块梯田 | ⭐⭐⭐ |
-| Zielonka | 欧洲风格，中型农场 | ⭐⭐⭐⭐ |
+| Riverbend Springs | Beginner-friendly, orderly fields | ⭐⭐⭐⭐⭐ |
+| Hutan Pantai | Southeast Asian style, small terraced fields | ⭐⭐⭐ |
+| Zielonka | European style, medium farms | ⭐⭐⭐⭐ |
 
-**推荐新手选 Riverbend Springs** — 田块规整，道路平坦，商店距离适中。
+**Recommended for beginners: Riverbend Springs** — orderly fields, flat roads, and shops at a reasonable distance.
 
-### 游戏模式
+### Game Modes
 
-| 模式 | 说明 | 推荐 |
+| Mode | Description | Recommendation |
 |:----|:-----|:----|
-| 新农人 | 已配有基础设备和田地，直接开干 | **新手首选** |
-| 农场主 | 资金充足，田大，适合有经验的 | ❌ 新手别选 |
-| 从零开始 | 只有空地+少量资金，一切自己买 | ❌ 有一定经验再试 |
+| New Farmer | Comes with basic equipment and fields, ready to go | **Best for beginners** |
+| Farm Manager | Plenty of funds, large fields, suitable for experienced players | ❌ Don't pick as a beginner |
+| Start from Scratch | Only empty land + small funds, buy everything yourself | ❌ Try after some experience |
 
 ---
 
-## 第一天必做
+## Day 1 Must-Dos
 
-### 1️⃣ 熟悉操作
+### 1️⃣ Get Familiar with Controls
 
-| 操作 | 按键(PC) |
+| Action | Key (PC) |
 |:----|:---------|
-| 上车/下车 | **F** |
-| 启动引擎 | **E** |
-| 油门/刹车 | **W/S** |
-| 打开菜单 | **Esc** |
-| 地图 | **M** |
-| 雇佣工人 | **H** |
-| Tab切换车辆 | **Tab** |
+| Get in/out of vehicle | **F** |
+| Start engine | **E** |
+| Accelerate/Brake | **W/S** |
+| Open menu | **Esc** |
+| Map | **M** |
+| Hire worker | **H** |
+| Switch vehicle via Tab | **Tab** |
 
-### 2️⃣ 检查你的资产
+### 2️⃣ Check Your Assets
 
-开局后按 **M** 打开地图，查看：
-- 你的田地在哪（绿色高亮）
-- 自家农场位置（有房子图标）
-- 商店在哪（工具图标）
-- 收购站在哪（不同颜色图标）
+Press **M** to open the map and check:
+- Where your fields are (green highlight)
+- Where your farm is (house icon)
+- Where the shop is (tool icon)
+- Where selling points are (different colored icons)
 
-### 3️⃣ 第一笔收入
+### 3️⃣ First Income
 
-**最快的赚钱方式：**
+**Fastest way to make money:**
 
-1. 开拖拉机去你的田地
-2. 按 **V** 切换工具 → 选中犁或播种机
-3. 按 **H** 雇佣工人帮忙干活
-4. 自己去开另一台车运货赚外快
+1. Drive the tractor to your field
+2. Press **V** to switch tools → select plow or seeder
+3. Press **H** to hire a worker to help
+4. Drive another vehicle to haul goods for extra cash
 
 ---
 
-## 第一个种植季
+## First Growing Season
 
-### 作物选择
+### Crop Selection
 
-| 作物 | 生长时间 | 利润 | 适合新手 |
+| Crop | Growth Time | Profit | Good for Beginners |
 |:----|:---------|:----|:---------|
-| 🌾 小麦 | 快 | 中等 | ✅ 最佳选择 |
-| 🌽 玉米 | 中 | 中高 | ✅ 稳 |
-| 🌻 向日葵 | 快 | 中 | ✅ 可种 |
-| 大麦 | 快 | 低 | ❌ 利润低 |
-| 油菜 | 中 | 中 | ✅ 还行 |
+| 🌾 Wheat | Fast | Medium | ✅ Best choice |
+| 🌽 Corn | Medium | Medium-High | ✅ Steady |
+| 🌻 Sunflowers | Fast | Medium | ✅ Plantable |
+| Barley | Fast | Low | ❌ Low profit |
+| Canola | Medium | Medium | ✅ Decent |
 
-**建议首种：小麦** — 生长快、利润稳、还能喂牛。
+**Suggested first crop: Wheat** — grows fast, steady profit, and can feed cows.
 
-### 种植流程
+### Planting Process
 
 ```
-犁地 → 施肥 → 播种 → 等待生长 → 收割 → 销售
- |       |       |          |        |
- 可选   推荐   必须       看天气   看价格
+Plow → Fertilize → Seed → Wait for Growth → Harvest → Sell
+ |        |        |          |           |
+Optional  Recommended  Required  Watch weather  Watch prices
 ```
 
 ---
 
-## 进阶路线
+## Progression Path
 
-### 什么时候升级设备？
+### When to Upgrade Equipment?
 
-| 信号 | 该升级了 |
+| Signal | Time to upgrade |
 |:----|:---------|
-| 总是在等工人干完活 | ✅ 买第二台拖拉机 |
-| 收割太慢 | ✅ 升级收割机 |
-| 没地方存粮 | ✅ 扩建粮仓 |
-| 赚到$200,000+ | ✅ 买新田地 |
+| Always waiting for workers to finish | ✅ Buy a second tractor |
+| Harvesting too slow | ✅ Upgrade harvester |
+| No space to store grain | ✅ Expand silo |
+| Earned $200,000+ | ✅ Buy new land |
 
-### 推荐购买顺序
+### Recommended Purchase Order
 
 ```
-1. 第二台拖拉机 + 拖车 → 跑运输赚钱
-2. 更大的播种机 → 提高效率
-3. 自己的收割机 → 不用租
-4. 新田地 → 扩大规模
-5. 动物棚 → 养牛/羊/鸡
+1. Second tractor + trailer → haul goods for profit
+2. Larger seeder → improve efficiency
+3. Own harvester → no more renting
+4. New land → expand scale
+5. Animal pen → raise cows/sheep/chickens
 ```
 
-### 养鸡入门
+### Raising Chickens Basics
 
-**鸡是最划算的起步养殖：**
-- ❌ 成本低（鸡舍约$5,000）
-- ✅ 每天收蛋，稳赚不赔
-- ✅ 不需要大量饲料（散养就行）
-- ✅ 鸡蛋自动送到谷仓，省心
+**Chickens are the most cost-effective starting livestock:**
+- ❌ Low cost (coop ~$5,000)
+- ✅ Collect eggs daily, guaranteed profit
+- ✅ Don't need much feed (free-range works)
+- ✅ Eggs auto-deliver to the coop, hassle-free
 
 ---
 
-## 常见新手问题
+## Common Beginner Questions
 
-### ❓ 为什么工人不动了？
-可能遇到了：树挡路、没燃料、工具没放下。按 **H** 重新雇佣。
+### ❓ Why did my worker stop moving?
+Possible issues: tree in the way, out of fuel, tool not lowered. Press **H** to re-hire.
 
-### ❓ 钱不够怎么办？
-- 去银行**贷款**（按P打开菜单 → 财务）
-- 做**合同任务**（地图上蓝色图标）
-- 先种便宜作物，别一上来就买最贵的设备
+### ❓ Not enough money?
+- Take out a **loan** (Press P → Menu → Finances)
+- Do **contract missions** (blue icons on the map)
+- Start with cheap crops, don't buy the most expensive equipment right away
 
-### ❓ 怎么卖粮？
-1. 收割后粮食自动存在粮仓里
-2. 开车拖车到粮仓按 **R** 装粮
-3. 看地图上哪个收购站价格高
-4. 开过去按 **R** 卸货 → 收钱
+### ❓ How to sell grain?
+1. Harvested grain is automatically stored in the silo
+2. Drive a trailer to the silo and press **R** to load
+3. Check which selling point has the best price on the map
+4. Drive there and press **R** to unload → get paid
 
 ---
 
-## 效率技巧
+## Efficiency Tips
 
-| 技巧 | 说明 |
+| Tip | Description |
 |:----|:-----|
-| 🏃 **Tab切车** | 不用下车，直接Tab切换到附近车辆 |
-| 🗺️ **用地图看价格** | 各收购站实时价格，挑最贵的卖 |
-| 🤝 **做合同** | 帮别人干活赚钱，还能用自己的设备练手 |
-| 💰 **价格波动** | 等价格高的时候再卖，别急着低价抛 |
-| 🚜 **租不如买** | 频繁用的设备直接买，偶尔用的租 |
+| 🏃 **Tab to Switch** | No need to get out, just Tab to switch to nearby vehicles |
+| 🗺️ **Use Map to Check Prices** | Real-time prices at each selling point, sell to the highest |
+| 🤝 **Do Contracts** | Earn money helping others, and practice with your equipment |
+| 💰 **Price Fluctuations** | Wait for high prices to sell, don't rush to sell low |
+| 🚜 **Rent vs Buy** | Buy frequently used equipment, rent occasional use |
 
-> **核心思路：** 先种小麦攒第一桶金 → 买第二台车跑运输 → 扩大田地 → 养鸡 → 买收割机 → 规模化种植。从第3个小时开始，你应该已经有稳定的现金流了。
+> **Core strategy:** First plant wheat to save your seed money → buy a second vehicle for hauling → expand fields → raise chickens → buy a harvester → scale up planting. By your 3rd hour, you should have a steady cash flow.

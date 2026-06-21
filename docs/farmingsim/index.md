@@ -1,54 +1,54 @@
-# 模拟农场25 — 完整攻略
+# Farming Simulator 25 — Complete Guide
 
-## 游戏概览
+## Game Overview
 
-- **开发商**: Giants Software
-- **平台**: PC / PS5 / Xbox Series X|S
-- **类型**: 农场模拟
-- **特点**: 最真实的农机模拟
+- **Developer**: Giants Software
+- **Platform**: PC / PS5 / Xbox Series X|S
+- **Genre**: Farming Simulation
+- **Features**: Most realistic machinery simulation
 
-## 新手起步
+## Getting Started
 
-### 第1天：接手农场
+### Day 1: Taking Over the Farm
 
-1. **卖掉初始拖拉机** — 太老，效率低
-2. **租一台中型拖拉机**（每日费用≈利润）
-3. **耕种3块小田地**（约5-10英亩）
-4. **种大豆**（新手期利润最高）
+1. **Sell the starting tractor** — too old, inefficient
+2. **Rent a medium tractor** (daily cost ≈ profit)
+3. **Cultivate 3 small fields** (about 5-10 acres)
+4. **Plant soybeans** (highest profit for beginners)
 
-### 作物利润表
+### Crop Profit Table
 
-| 作物 | 生长周期 | 售价/千升 | 利润/英亩/年 |
+| Crop | Growth Period | Price/1000L | Profit/Acre/Year |
 |------|---------|-----------|------------|
-| 大豆 | 4月 | $3,800 | ⭐⭐⭐⭐ |
-| 玉米 | 6月 | $2,200 | ⭐⭐⭐ |
-| 小麦 | 5月 | $1,800 | ⭐⭐ |
-| 油菜 | 4月 | $3,200 | ⭐⭐⭐ |
-| 向日葵 | 4月 | $3,500 | ⭐⭐⭐⭐ |
-| 棉花 | 8月 | $4,500 | ⭐⭐⭐⭐⭐ |
+| Soybeans | 4 months | $3,800 | ⭐⭐⭐⭐ |
+| Corn | 6 months | $2,200 | ⭐⭐⭐ |
+| Wheat | 5 months | $1,800 | ⭐⭐ |
+| Canola | 4 months | $3,200 | ⭐⭐⭐ |
+| Sunflowers | 4 months | $3,500 | ⭐⭐⭐⭐ |
+| Cotton | 8 months | $4,500 | ⭐⭐⭐⭐⭐ |
 
-## 最佳投资路线
+## Best Investment Path
 
-| 顺序 | 投资 | 成本 | 收益 |
+| Order | Investment | Cost | Benefit |
 |------|------|------|------|
-| 1 | 中型拖拉机 | $150K | 耕种效率+50% |
-| 2 | 播种机+收割机 | $200K | 全程机械化 |
-| 3 | 第二块田 | $100K | 产量翻倍 |
-| 4 | 畜牧棚 | $80K | 稳定被动收入 |
-| 5 | 沼气厂 | $500K | 终极被动收入 |
+| 1 | Medium Tractor | $150K | Cultivation Efficiency +50% |
+| 2 | Seeder + Harvester | $200K | Full Mechanization |
+| 3 | Second Field | $100K | Double Output |
+| 4 | Animal Barn | $80K | Steady Passive Income |
+| 5 | Biogas Plant | $500K | Ultimate Passive Income |
 
-## 畜牧指南
+## Animal Husbandry Guide
 
-| 动物 | 买入成本 | 日收益 | 产品 |
+| Animal | Purchase Cost | Daily Profit | Product |
 |------|---------|--------|------|
-| 鸡 | $500(10只) | $200 | 鸡蛋 |
-| 猪 | $5,000/头 | $300 | 猪仔 |
-| 牛 | $3,000/头 | $500 | 牛奶 |
-| 羊 | $2,000/头 | $250 | 羊毛 |
+| Chickens | $500 (10 pcs) | $200 | Eggs |
+| Pigs | $5,000/head | $300 | Piglets |
+| Cows | $3,000/head | $500 | Milk |
+| Sheep | $2,000/head | $250 | Wool |
 
-## 省钱秘笈
+## Money-Saving Tips
 
-1. **租不买** — 用租农机替代买（修理费省）
-2. **地价低时买** — 6月地价最低
-3. **合同做任务** — 帮NPC耕种赚钱
-4. **等季节高峰卖** — 粮价波动大
+1. **Rent, Don't Buy** — Rent equipment instead of buying (save on repairs)
+2. **Buy Land When Cheap** — June has the lowest land prices
+3. **Contract Work** — Help NPCs farm to earn money
+4. **Sell at Seasonal Peaks** — Grain prices fluctuate heavily

@@ -1,85 +1,85 @@
 ---
-title: Palia 帕利亚 完整新手攻略
-description: Palia帕利亚新手入门完整指南，赚钱/钓鱼/狩猎/社交全攻略
+title: Palia Complete Beginner Guide
+description: Palia complete beginner guide, covering fishing, money-making, hunting, social skills and everything
 ---
 
-# 🏹 Palia 帕利亚 完整新手攻略
+# 🏹 Palia Complete Beginner Guide
 
-## 游戏基础
+## Game Basics
 
-### 核心玩法
+### Core Activities
 
-| 玩法 | 解锁等级 | 说明 |
+| Activity | Unlock Level | Description |
 |:----|:---------|:-----|
-| 🎣 钓鱼 | Lv1 | 赚钱最快的方式之一 |
-| 🪵 伐木 | Lv1 | 收集木材建房子 |
-| ⛏️ 采矿 | Lv1 | 矿石+宝石 |
-| 🐞 捕虫 | Lv1 | 做任务用 |
-| 🏹 狩猎 | Lv1 | 皮革+肉 |
-| 🌿 采集 | Lv1 | 野果/野菜 |
-| 🧑‍🍳 烹饪 | Lv3 | 解锁后做食物 |
-| 🪴 园艺 | Lv4 | 种菜种花 |
+| 🎣 Fishing | Lv1 | One of the fastest ways to make money |
+| 🪵 Logging | Lv1 | Collect wood to build your house |
+| ⛏️ Mining | Lv1 | Ores + gems |
+| 🐞 Bug Catching | Lv1 | Used for quests |
+| 🏹 Hunting | Lv1 | Leather + meat |
+| 🌿 Foraging | Lv1 | Wild fruits/vegetables |
+| 🧑‍🍳 Cooking | Lv3 | Unlock to make food |
+| 🪴 Gardening | Lv4 | Grow crops and flowers |
 
-### 等级说明
+### Leveling Info
 
-每种技能独立升级，最高**Lv10**。每升一级解锁新配方/工具/任务。
+Each skill levels independently, max **Lv10**. Each level unlocks new recipes, tools, and quests.
 
 ---
 
-## 🎣 钓鱼全攻略
+## 🎣 Complete Fishing Guide
 
-### 鱼种分布
+### Fish Locations
 
-| 鱼 | 地点 | 时间 | 鱼饵 | 卖价 |
+| Fish | Location | Time | Bait | Sell Price |
 |:---|:-----|:----|:----|:----|
-| 🐟 古戈尔鱼 | 岸边 | 全天 | 蚯蚓 | $120 |
-| 🐟 蓝鳍鳐 | 海湾 | 白天 | 虫饵 | $160 |
-| 🐟 道基鱼 | 溪流 | 全天 | 蚯蚓 | $80 |
-| ⭐ 灯塔鳟 | 海湾 | 夜晚 | 萤火虫 | $650 |
-| ⭐ 翡翠鱼 | 瀑布下 | 白天 | 虫饵 | $850 |
+| 🐟 Goggle Fish | Shore | All day | Worm | $120 |
+| 🐟 Bluefin Ray | Bay | Daytime | Bug Lure | $160 |
+| 🐟 Doki Fish | Stream | All day | Worm | $80 |
+| ⭐ Lighthouse Trout | Bay | Nighttime | Firefly | $650 |
+| ⭐ Jade Fish | Under waterfall | Daytime | Bug Lure | $850 |
 
-### 钓鱼技巧
+### Fishing Tips
 
-| 技巧 | 效果 |
+| Tip | Effect |
 |:----|:-----|
-| ⭕ 只钓带**气泡圈**的水面 | 必有鱼，不浪费体力 |
-| ✅ 鱼上钩后**不要狂点** | 按住鼠标左键，等鱼不动时收线 |
-| 🔴 鱼挣扎时**松手** | 不让鱼线绷断 |
-| 🎣 升级鱼竿 | Lv3解锁强化鱼竿，能钓深海鱼 |
+| ⭕ Only fish at water with **bubble rings** | Guaranteed fish, no wasted energy |
+| ✅ **Don't spam click** when a fish bites | Hold left mouse button, reel in when the fish stops moving |
+| 🔴 **Let go** when the fish struggles | Prevents the line from snapping |
+| 🎣 Upgrade your rod | Lv3 unlocks reinforced rod, can fish deep-sea fish |
 
 ---
 
-## 💰 赚钱路线
+## 💰 Money-Making Routes
 
-### 新手最快赚钱法
+### Fastest Beginner Money-Making
 
-| 方法 | 收入/小时 | 难度 | 说明 |
+| Method | Income/Hour | Difficulty | Description |
 |:----|:---------|:----|:-----|
-| **🎣 钓鱼+卖鱼** | $2,000-3,000 | ⭐ | 开始就能做，无门槛 |
-| 🪵 伐木卖木 | $1,000-1,500 | ⭐ | 边砍边升级 |
-| ⛏️ 采矿卖矿 | $1,500-2,500 | ⭐⭐ | 需要跑地图 |
-| 🧑‍🍳 烹饪出售 | $3,000-5,000 | ⭐⭐⭐ | Lv3以后，利润最高 |
+| **🎣 Fishing + Selling Fish** | $2,000-3,000 | ⭐ | Can do from the start, no requirements |
+| 🪵 Logging and selling wood | $1,000-1,500 | ⭐ | Level up while cutting |
+| ⛏️ Mining and selling ore | $1,500-2,500 | ⭐⭐ | Need to run around the map |
+| 🧑‍🍳 Cooking and selling | $3,000-5,000 | ⭐⭐⭐ | After Lv3, highest profit |
 
-### 每日必做
+### Daily Must-Dos
 
-| 事项 | 收益 |
+| Activity | Reward |
 |:----|:-----|
-| 📬 收邮件 | 可能有朋友送的礼物 |
-| 🎁 给NPC送礼 | 每天每个NPC送一次，提升好感 |
-| 🛒 商店刷新 | 看看有没有限时物品 |
-| 📋 做任务 | 每天随机任务给奖励 |
-| 🎣 钓鱼 | 保底收入 |
+| 📬 Check mail | Possible gifts from friends |
+| 🎁 Give gifts to NPCs | Give one gift to each NPC daily, increases affinity |
+| 🛒 Shop refresh | Check for limited-time items |
+| 📋 Do quests | Daily random quests give rewards |
+| 🎣 Fish | Guaranteed income |
 
 ---
 
-## 🏠 房屋升级
+## 🏠 House Upgrades
 
-| 升级 | 花费 | 效果 |
+| Upgrade | Cost | Effect |
 |:----|:-----|:-----|
-| 🏠 初始帐篷 | 免费 | 6格容量 |
-| 🏡 升级木屋 | $8,000 | 12格+客房 |
-| 🏘️ 升级石屋 | $25,000 | 20格+庭院 |
-| 🏰 升级庄园 | $60,000 | 30格+花园+地下室 |
-| 🛋️ 室内装修 | 不定 | 提升舒适度 |
+| 🏠 Initial Tent | Free | 6 slots of storage |
+| 🏡 Upgrade to Wooden House | $8,000 | 12 slots + guest room |
+| 🏘️ Upgrade to Stone House | $25,000 | 20 slots + courtyard |
+| 🏰 Upgrade to Manor | $60,000 | 30 slots + garden + basement |
+| 🛋️ Interior Decoration | Varies | Increases comfort level |
 
-> **建议：** 先钓鱼攒$8,000升级到木屋，再慢慢装修。不要一上来就盖大房子，留钱买工具升级。
+> **Suggestion:** First fish to save up $8,000 to upgrade to a wooden house, then decorate slowly. Don't build a big house right away — save money for tool upgrades.

@@ -1,124 +1,124 @@
 ---
-title: 星露谷物语烹饪食谱大全
-description: 星露谷物语全烹饪食谱 — 87道料理完整配方表、效果、最佳送礼食谱
+title: Stardew Valley Complete Cooking Recipe Guide
+description: Stardew Valley full cooking recipe guide — 87 dishes complete recipe table, effects, best gift recipes
 ---
 
-# 🍳 烹饪食谱大全
+# 🍳 Complete Cooking Recipe Guide
 
-星露谷物语共有 **87道料理**。烹饪是游戏中最实用的技能——提供战斗BUFF、钓鱼BUFF、回复体力。本攻略涵盖全食谱配方+效果+制作建议。
+Stardew Valley has **87 dishes** in total. Cooking is one of the most practical skills in the game — providing combat buffs, fishing buffs, and energy restoration. This guide covers all recipe formulas + effects + crafting advice.
 
 ---
 
-## 烹饪基础
+## Cooking Basics
 
-### 解锁
-| 条件 | 说明 |
+### Unlocking
+| Condition | Description |
 |:----|:-----|
-| 房屋升级 | 第一次升级后获得厨房 |
-| 电视节目 | 《酱料女皇》每周三、日播放新食谱 |
-| 好友送礼 | 部分食谱来自NPC好感度 |
-| 购买 | 部分食谱在星落酒吧购买 |
+| House Upgrade | Kitchen unlocked after first house upgrade |
+| TV Show | "The Queen of Sauce" airs new recipes every Wednesday and Sunday |
+| Friend Gifts | Some recipes come from NPC friendship levels |
+| Purchase | Some recipes can be bought at the Stardrop Saloon |
 
-### 烹饪设备
-| 设备 | 价格 | 来源 |
+### Cooking Equipment
+| Equipment | Price | Source |
 |:----|:----|:-----|
-| 厨房 | 10,000g | 罗宾升级房屋 |
-| 烤炉 | 2,500g | 罗宾建造 |
+| Kitchen | 10,000g | Robin House Upgrade |
+| Oven | 2,500g | Robin Construction |
 
 ---
 
-## 战斗BUFF食谱（必备）
+## Combat Buff Recipes (Essential)
 
-| 料理 | 效果 | 配方来源 | 材料 |
+| Dish | Effect | Recipe Source | Ingredients |
 |:----|:-----|:---------|:-----|
-| **炒蘑菇 🍄** | +2攻击，+1速度 | 酱料女皇夏14 | 普通蘑菇×1+羊肚菌×1+鸡油菌×1 |
-| **帕尔玛奶酪茄子 🍆** | +3采矿，+1防御 | 酱料女皇后 | 茄子×1+番茄×1 |
-| **南瓜汤 🎃** | +2防御，+1运气 | 罗宾7心好感 | 南瓜×1+牛奶×1 |
-| **爆炒青椒 🌶️** | +1攻击，+1速度 | 酱料女皇秋7 | 辣椒×1+奶酪×1 |
-| **矿工特供 ⛏️** | +3采矿，+1速度 | 酱料女皇后 | 洞穴胡萝卜×2+紫蘑菇×1 |
-| **龙虾浓汤 🦞** | +3钓鱼，+1防御 | 酱料女皇冬14 | 龙虾×1+牛奶×1 |
+| **Fried Mushroom 🍄** | +2 Attack, +1 Speed | Queen of Sauce Summer 14 | Common Mushroom ×1 + Morel ×1 + Chanterelle ×1 |
+| **Eggplant Parmesan 🍆** | +3 Mining, +1 Defense | Queen of Sauce | Eggplant ×1 + Tomato ×1 |
+| **Pumpkin Soup 🎃** | +2 Defense, +1 Luck | Robin 7 Heart Event | Pumpkin ×1 + Milk ×1 |
+| **Pepper Poppers 🌶️** | +1 Attack, +1 Speed | Queen of Sauce Fall 7 | Hot Pepper ×1 + Cheese ×1 |
+| **Miner's Treat ⛏️** | +3 Mining, +1 Speed | Queen of Sauce | Cave Carrot ×2 + Purple Mushroom ×1 |
+| **Lobster Bisque 🦞** | +3 Fishing, +1 Defense | Queen of Sauce Winter 14 | Lobster ×1 + Milk ×1 |
 
 ---
 
-## 钓鱼BUFF食谱（钓鱼必备）
+## Fishing Buff Recipes (Essential for Fishing)
 
-| 料理 | 效果 | 配方来源 | 材料 |
+| Dish | Effect | Recipe Source | Ingredients |
 |:----|:-----|:---------|:-----|
-| **海泡布丁 🧪** | +4钓鱼 ⭐最强 | 酱料女皇 | 沙丁鱼×2+鱿鱼×1 |
-| **鱼汤 🥣** | +1钓鱼 | 酱料女皇 | 鳀鱼×1+番茄×1 |
-| **法式田螺 🐌** | +3钓鱼 | 酱料女皇 | 蜗牛×1+大蒜×1 |
-| **龙虾浓汤 🦞** | +3钓鱼，+1防御 | 酱料女皇马后 | 龙虾×1+牛奶×1 |
-| **烤鱼 🐟** | +2钓鱼，+2体能 | 酱料女皇 | 鲑鱼×2+苋菜×1 |
+| **Seafoam Pudding 🧪** | +4 Fishing ⭐ Best | Queen of Sauce | Sardine ×2 + Squid ×1 |
+| **Fish Stew 🥣** | +1 Fishing | Queen of Sauce | Anchovy ×1 + Tomato ×1 |
+| **Escargot 🐌** | +3 Fishing | Queen of Sauce | Snail ×1 + Garlic ×1 |
+| **Lobster Bisque 🦞** | +3 Fishing, +1 Defense | Queen of Sauce | Lobster ×1 + Milk ×1 |
+| **Grilled Fish 🐟** | +2 Fishing, +2 Energy | Queen of Sauce | Salmon ×2 + Amaranth ×1 |
 
 ---
 
-## 运气BUFF食谱
+## Luck Buff Recipes
 
-| 料理 | 效果 | 配方来源 | 材料 |
+| Dish | Effect | Recipe Source | Ingredients |
 |:----|:-----|:---------|:-----|
-| **幸运午餐 🍀** | +3运气 ⭐ | 酱料女皇 | 海参×1+蓝爵×1+玉米×1 |
-| **秋日丰收 🍁** | +2耕作，+1防御 | 酱料女皇后 | 山药×1+南瓜×1 |
-| **魔法糖冰棍 🍭** | +5运气 ⭐⭐ | 沙漠商人 | 钻石×1+五彩碎片×1 |
+| **Lucky Lunch 🍀** | +3 Luck ⭐ | Queen of Sauce | Sea Cucumber ×1 + Blue Jazz ×1 + Corn ×1 |
+| **Autumn's Bounty 🍁** | +2 Farming, +1 Defense | Queen of Sauce | Yam ×1 + Pumpkin ×1 |
+| **Magic Rock Candy 🍭** | +5 Luck ⭐⭐ | Desert Trader | Diamond ×1 + Prismatic Shard ×1 |
 
 ---
 
-## 体能回复食谱（回血用）
+## Energy Restoration Recipes (Healing)
 
-| 料理 | 回复量 | 配方来源 | 材料 |
+| Dish | Restores | Recipe Source | Ingredients |
 |:----|:-------|:---------|:-----|
-| **沙拉 🥗** | 113HP/50E | 星落酒吧买 | 油×1+醋×1+生菜×1 |
-| **粉红蛋糕 🎂** | 250HP/100E | 酱料女皇 | 甜瓜×1+小麦粉×1+蛋×1+油×1 |
-| **黑莓果派 🥧** | 225HP/90E | 酱料女皇 | 黑莓×4+小麦粉×1+糖×1 |
-| **奶酪通心粉 🧀** | 200HP/80E | 酱料女皇 | 奶酪×1+大蒜×1+小麦粉×1 |
-| **爆米花 🍿** | 125HP/50E | 酱料女皇 | 玉米×1 |
+| **Salad 🥗** | 113HP/50E | Buy at Stardrop Saloon | Oil ×1 + Vinegar ×1 + Lettuce ×1 |
+| **Pink Cake 🎂** | 250HP/100E | Queen of Sauce | Melon ×1 + Wheat Flour ×1 + Egg ×1 + Oil ×1 |
+| **Blackberry Pie 🥧** | 225HP/90E | Queen of Sauce | Blackberry ×4 + Wheat Flour ×1 + Sugar ×1 |
+| **Cheese Cauliflower 🧀** | 200HP/80E | Queen of Sauce | Cheese ×1 + Garlic ×1 + Wheat Flour ×1 |
+| **Popcorn 🍿** | 125HP/50E | Queen of Sauce | Corn ×1 |
 
-**最佳回血组合：奶酪（吃食物）** — 铱星奶酪回血300+，做起来最简单。
+**Best healing combo: Cheese (eat as food)** — Iridium quality Cheese restores 300+ HP and is the easiest to make.
 
 ---
 
-## NPC送礼最佳食谱
+## Best Gift Recipes for NPCs
 
-| NPC | 最爱的食谱 | 材料 |
+| NPC | Loved Recipe | Ingredients |
 |:----|:-----------|:-----|
-| **艾利欧特** | 龙虾浓汤 🦞 | 龙虾+牛奶 |
-| **潘妮** | 罂粟籽松糕 🧁 | 罂粟+小麦粉+糖 |
-| **肯特** | 爆炒青椒 🌶️ | 辣椒+奶酪 |
-| **罗宾** | 南瓜汤 🎃 | 南瓜+牛奶 |
-| **克林特** | 帕尔玛奶酪茄子 🍆 | 茄子+番茄 |
-| **塞巴斯蒂安** | 南瓜浓汤 🎃 | 南瓜+姜 |
+| **Elliott** | Lobster Bisque 🦞 | Lobster + Milk |
+| **Penny** | Poppyseed Muffin 🧁 | Poppy + Wheat Flour + Sugar |
+| **Kent** | Pepper Poppers 🌶️ | Hot Pepper + Cheese |
+| **Robin** | Pumpkin Soup 🎃 | Pumpkin + Milk |
+| **Clint** | Eggplant Parmesan 🍆 | Eggplant + Tomato |
+| **Sebastian** | Pumpkin Soup 🎃 | Pumpkin + Ginger |
 
 ---
 
-## 厨房必备食谱清单
+## Essential Kitchen Recipe Checklist
 
-| 优先级 | 食谱 | 理由 |
+| Priority | Recipe | Reason |
 |:------|:----|:-----|
-| **P0** | 海泡布丁 | +4钓鱼，钓传说鱼必备 |
-| **P0** | 幸运午餐 | +3运气，冲矿洞/钓鱼 |
-| **P1** | 炒蘑菇 | +2攻击，下矿洞 |
-| **P1** | 南瓜汤 | +2防御，打BOSS |
-| **P2** | 沙拉 | 便宜回血 |
-| **P2** | 粉红蛋糕 | 高回血+送礼物 |
+| **P0** | Seafoam Pudding | +4 Fishing, essential for Legendary fish |
+| **P0** | Lucky Lunch | +3 Luck, for mines/fishing |
+| **P1** | Fried Mushroom | +2 Attack, for the mines |
+| **P1** | Pumpkin Soup | +2 Defense, for boss fights |
+| **P2** | Salad | Cheap healing |
+| **P2** | Pink Cake | High healing + gift item |
 
 ---
 
-## 全材料收集
+## Full Ingredient Collection
 
-### 购买渠道
-| 食材 | 价格 | 来源 |
+### Purchase Sources
+| Ingredient | Price | Source |
 |:----|:----|:-----|
-| 小麦粉 | 100g | Pierre商店 |
-| 糖 | 125g | Pierre商店 |
-| 油 | 200g | Pierre商店 |
-| 醋 | 200g | Pierre商店 |
-| 大米 | 200g | Pierre商店 |
-| 咖啡 | 300g | 星落酒吧 |
+| Wheat Flour | 100g | Pierre's General Store |
+| Sugar | 125g | Pierre's General Store |
+| Oil | 200g | Pierre's General Store |
+| Vinegar | 200g | Pierre's General Store |
+| Rice | 200g | Pierre's General Store |
+| Coffee | 300g | Stardrop Saloon |
 
-### 自产食材
-| 食材 | 获取 |
+### Self-Produced Ingredients
+| Ingredient | How to Obtain |
 |:----|:-----|
-| 牛奶 | 奶牛产 |
-| 大蛋/蛋 | 鸡/鸭产 |
-| 奶酪 | 奶酪机加工 |
-| 蛋黄酱 | 蛋黄酱机加工 |
-| 油（自产） | 榨油机（玉米/向日葵/大豆） |
+| Milk | From Cows |
+| Large Egg/Egg | From Chickens/Ducks |
+| Cheese | From Cheese Press |
+| Mayonnaise | From Mayonnaise Machine |
+| Oil (homemade) | From Oil Maker (Corn/Sunflower/Soybean) |

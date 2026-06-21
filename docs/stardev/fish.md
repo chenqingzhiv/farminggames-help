@@ -1,105 +1,105 @@
-# 🐟 鱼类图鉴与价格表
+# 🐟 Fish Guide & Price List
 
-> 数据版本：Stardew Valley 1.6 | 最后更新：2026-06
+> Data version: Stardew Valley 1.6 | Last updated: 2026-06
 
-## 春季鱼类
+## Spring Fish
 
-| 鱼 | 价格 | 位置 | 时间 | 天气 | 难度 |
+| Fish | Price | Location | Time | Weather | Difficulty |
 |:--|:----|:----|:----|:----|:----|
-| 太阳鱼 | 30金 | 河流 | 6AM-7PM | ☀️/🌧️ | ⭐ |
-| 鲶鱼 | 200金 | 河流 | 6AM-12AM | ☀️/🌧️ | ⭐⭐⭐ |
-| 小嘴鲈鱼 | 50金 | 河流 | 6AM-12AM | ☀️/🌧️ | ⭐⭐ |
-| 沙鱼 | 75金 | 沙漠 | 6AM-10PM | ☀️/🌧️ | ⭐⭐⭐ |
-| 鲥鱼 | 28金 | 河流 | 9AM-2AM | 🌧️ | ⭐⭐ |
-| 河豚 | 200金 | 海洋 | 12PM-4PM | ☀️ | ⭐⭐⭐ |
-| 鲱鱼 | 30金 | 海洋 | 6AM-12AM | ☀️/🌧️ | ⭐ |
-| 鳗鱼 | 85金 | 海洋 | 4PM-2AM | 🌧️ | ⭐⭐ |
-| 青花鱼 | 75金 | 海洋 | 6AM-12AM | ☀️/🌧️ | ⭐⭐ |
-| 沙丁鱼 | 40金 | 海洋 | 6AM-12AM | ☀️/🌧️ | ⭐ |
-| 小魟鱼 | 55金 | 湖泊 | 6AM-12AM | ☀️/🌧️ | ⭐⭐ |
-| 鲤鱼 | 30金 | 湖泊 | 6AM-12AM | ☀️/🌧️ | ⭐ |
-| 大头鱼 | 80金 | 湖泊 | 6AM-12AM | ☀️/🌧️ | ⭐⭐ |
-| 鬼鱼 | 45金 | 矿洞 | 6AM-12AM | 任何 | ⭐⭐ |
-| 石鱼 | 65金 | 矿洞 | 6AM-12AM | 任何 | ⭐⭐⭐ |
+| Sunfish | 30g | River | 6AM-7PM | ☀️/🌧️ | ⭐ |
+| Catfish | 200g | River | 6AM-12AM | ☀️/🌧️ | ⭐⭐⭐ |
+| Smallmouth Bass | 50g | River | 6AM-12AM | ☀️/🌧️ | ⭐⭐ |
+| Sandfish | 75g | Desert | 6AM-10PM | ☀️/🌧️ | ⭐⭐⭐ |
+| Shad | 28g | River | 9AM-2AM | 🌧️ | ⭐⭐ |
+| Pufferfish | 200g | Ocean | 12PM-4PM | ☀️ | ⭐⭐⭐ |
+| Herring | 30g | Ocean | 6AM-12AM | ☀️/🌧️ | ⭐ |
+| Eel | 85g | Ocean | 4PM-2AM | 🌧️ | ⭐⭐ |
+| Mackerel | 75g | Ocean | 6AM-12AM | ☀️/🌧️ | ⭐⭐ |
+| Sardine | 40g | Ocean | 6AM-12AM | ☀️/🌧️ | ⭐ |
+| Bullhead | 55g | Lake | 6AM-12AM | ☀️/🌧️ | ⭐⭐ |
+| Carp | 30g | Lake | 6AM-12AM | ☀️/🌧️ | ⭐ |
+| Largemouth Bass | 80g | Lake | 6AM-12AM | ☀️/🌧️ | ⭐⭐ |
+| Ghostfish | 45g | Mines | 6AM-12AM | Any | ⭐⭐ |
+| Stonefish | 65g | Mines | 6AM-12AM | Any | ⭐⭐⭐ |
 
 ---
 
-## 夏季鱼类
+## Summer Fish
 
-| 鱼 | 价格 | 位置 | 时间 | 天气 | 难度 |
+| Fish | Price | Location | Time | Weather | Difficulty |
 |:--|:----|:----|:----|:----|:----|
-| 狗鱼 | 100金 | 河流 | 6AM-12AM | ☀️/🌧️ | ⭐⭐⭐ |
-| 虹鳟鱼 | 75金 | 河流 | 6AM-12AM | ☀️ | ⭐⭐ |
-| 红鲷鱼 | 75金 | 河流 | 6AM-12AM | 🌧️ | ⭐⭐ |
-| 章鱼 | 150金 | 海洋 | 6AM-1PM | ☀️/🌧️ | ⭐⭐⭐⭐ |
-| 金枪鱼 | 100金 | 海洋 | 6AM-12AM | ☀️/🌧️ | ⭐⭐⭐ |
-| 红鲻鱼 | 75金 | 海洋 | 6AM-12AM | ☀️/🌧️ | ⭐⭐ |
-| 比目鱼 | 100金 | 海洋 | 6AM-12AM | ☀️/🌧️ | ⭐⭐⭐ |
-| 水母 | 80金 | 海洋 | 6PM-2AM | ☀️/🌧️ | ⭐⭐ |
-| 河豚 | 200金 | 海洋 | 12PM-4PM | ☀️ | ⭐⭐⭐ |
-| 虎鳟鱼 | 150金 | 湖泊 | 6AM-12AM | ☀️/🌧️ | ⭐⭐⭐ |
-| 鲟鱼 | 200金 | 湖泊 | 6AM-12AM | ☀️/🌧️ | ⭐⭐⭐⭐ |
-| 鲶鱼 | 200金 | 河流 | 6AM-12AM | ☀️/🌧️ | ⭐⭐⭐ |
-| 麻哈脂鲤 | 90金 | 河流 | 任何 | ☀️/🌧️ | ⭐⭐⭐ |
+| Pike | 100g | River | 6AM-12AM | ☀️/🌧️ | ⭐⭐⭐ |
+| Rainbow Trout | 75g | River | 6AM-12AM | ☀️ | ⭐⭐ |
+| Red Snapper | 75g | River | 6AM-12AM | 🌧️ | ⭐⭐ |
+| Octopus | 150g | Ocean | 6AM-1PM | ☀️/🌧️ | ⭐⭐⭐⭐ |
+| Tuna | 100g | Ocean | 6AM-12AM | ☀️/🌧️ | ⭐⭐⭐ |
+| Red Mullet | 75g | Ocean | 6AM-12AM | ☀️/🌧️ | ⭐⭐ |
+| Halibut | 100g | Ocean | 6AM-12AM | ☀️/🌧️ | ⭐⭐⭐ |
+| Jellyfish | 80g | Ocean | 6PM-2AM | ☀️/🌧️ | ⭐⭐ |
+| Pufferfish | 200g | Ocean | 12PM-4PM | ☀️ | ⭐⭐⭐ |
+| Tiger Trout | 150g | Lake | 6AM-12AM | ☀️/🌧️ | ⭐⭐⭐ |
+| Sturgeon | 200g | Lake | 6AM-12AM | ☀️/🌧️ | ⭐⭐⭐⭐ |
+| Catfish | 200g | River | 6AM-12AM | ☀️/🌧️ | ⭐⭐⭐ |
+| Dorado | 90g | River | Any | ☀️/🌧️ | ⭐⭐⭐ |
 
 ---
 
-## 秋季鱼类
+## Fall Fish
 
-| 鱼 | 价格 | 位置 | 时间 | 天气 | 难度 |
+| Fish | Price | Location | Time | Weather | Difficulty |
 |:--|:----|:----|:----|:----|:----|
-| 鲑鱼 | 75金 | 河流 | 6AM-12AM | ☀️/🌧️ | ⭐⭐ |
-| 鲶鱼 | 200金 | 河流 | 6AM-12AM | ☀️/🌧️ | ⭐⭐⭐ |
-| 大眼鱼 | 105金 | 河流 | 12PM-2AM | 🌧️ | ⭐⭐⭐ |
-| 虎鳟鱼 | 150金 | 河流 | 6AM-12AM | ☀️/🌧️ | ⭐⭐⭐ |
-| 沙鱼 | 75金 | 沙漠 | 6AM-10PM | ☀️/🌧️ | ⭐⭐⭐ |
-| 红鲷鱼 | 75金 | 海洋 | 6AM-12AM | 🌧️ | ⭐⭐ |
-| 比目鱼 | 100金 | 海洋 | 6AM-12AM | ☀️/🌧️ | ⭐⭐ |
-| 午夜鲤鱼 | 150金 | 湖泊 | 10PM-2AM | ☀️/🌧️ | ⭐⭐⭐ |
-| 鲑鱼 | 75金 | 河流 | 6AM-12AM | ☀️/🌧️ | ⭐⭐ |
-| 鳗鱼 | 85金 | 海洋 | 4PM-2AM | 🌧️ | ⭐⭐ |
-| 青花鱼 | 75金 | 海洋 | 6AM-12AM | ☀️/🌧️ | ⭐⭐ |
+| Salmon | 75g | River | 6AM-12AM | ☀️/🌧️ | ⭐⭐ |
+| Catfish | 200g | River | 6AM-12AM | ☀️/🌧️ | ⭐⭐⭐ |
+| Walleye | 105g | River | 12PM-2AM | 🌧️ | ⭐⭐⭐ |
+| Tiger Trout | 150g | River | 6AM-12AM | ☀️/🌧️ | ⭐⭐⭐ |
+| Sandfish | 75g | Desert | 6AM-10PM | ☀️/🌧️ | ⭐⭐⭐ |
+| Red Snapper | 75g | Ocean | 6AM-12AM | 🌧️ | ⭐⭐ |
+| Halibut | 100g | Ocean | 6AM-12AM | ☀️/🌧️ | ⭐⭐ |
+| Midnight Carp | 150g | Lake | 10PM-2AM | ☀️/🌧️ | ⭐⭐⭐ |
+| Salmon | 75g | River | 6AM-12AM | ☀️/🌧️ | ⭐⭐ |
+| Eel | 85g | Ocean | 4PM-2AM | 🌧️ | ⭐⭐ |
+| Mackerel | 75g | Ocean | 6AM-12AM | ☀️/🌧️ | ⭐⭐ |
 
 ---
 
-## 冬季鱼类
+## Winter Fish
 
-| 鱼 | 价格 | 位置 | 时间 | 天气 | 难度 |
+| Fish | Price | Location | Time | Weather | Difficulty |
 |:--|:----|:----|:----|:----|:----|
-| 虎鳟鱼 | 150金 | 河流 | 6AM-12AM | ☀️/🌧️ | ⭐⭐⭐ |
-| 鲶鱼 | 200金 | 河流 | 6AM-12AM | ☀️/🌧️ | ⭐⭐⭐ |
-| 冰川鱼 | 1000金 | 河流 | 6AM-12AM | ☀️/🌧️ | ⭐⭐⭐⭐⭐ |
-| 沙鱼 | 75金 | 沙漠 | 6AM-10PM | ☀️/🌧️ | ⭐⭐⭐ |
-| 红鲷鱼 | 75金 | 海洋 | 6AM-12AM | 🌧️ | ⭐⭐ |
-| 金枪鱼 | 100金 | 海洋 | 6AM-12AM | ☀️/🌧️ | ⭐⭐⭐ |
-| 午夜鲤鱼 | 150金 | 湖泊 | 10PM-2AM | ☀️/🌧️ | ⭐⭐⭐ |
-| 鲟鱼 | 200金 | 湖泊 | 6AM-12AM | ☀️/🌧️ | ⭐⭐⭐⭐ |
-| 大头鱼 | 80金 | 湖泊 | 6AM-12AM | ☀️/🌧️ | ⭐⭐ |
-| 鲱鱼 | 30金 | 海洋 | 6AM-12AM | ☀️/🌧️ | ⭐ |
-| 青花鱼 | 75金 | 海洋 | 6AM-12AM | ☀️/🌧️ | ⭐⭐ |
+| Tiger Trout | 150g | River | 6AM-12AM | ☀️/🌧️ | ⭐⭐⭐ |
+| Catfish | 200g | River | 6AM-12AM | ☀️/🌧️ | ⭐⭐⭐ |
+| Glacierfish | 1000g | River | 6AM-12AM | ☀️/🌧️ | ⭐⭐⭐⭐⭐ |
+| Sandfish | 75g | Desert | 6AM-10PM | ☀️/🌧️ | ⭐⭐⭐ |
+| Red Snapper | 75g | Ocean | 6AM-12AM | 🌧️ | ⭐⭐ |
+| Tuna | 100g | Ocean | 6AM-12AM | ☀️/🌧️ | ⭐⭐⭐ |
+| Midnight Carp | 150g | Lake | 10PM-2AM | ☀️/🌧️ | ⭐⭐⭐ |
+| Sturgeon | 200g | Lake | 6AM-12AM | ☀️/🌧️ | ⭐⭐⭐⭐ |
+| Largemouth Bass | 80g | Lake | 6AM-12AM | ☀️/🌧️ | ⭐⭐ |
+| Herring | 30g | Ocean | 6AM-12AM | ☀️/🌧️ | ⭐ |
+| Mackerel | 75g | Ocean | 6AM-12AM | ☀️/🌧️ | ⭐⭐ |
 
 ---
 
-## 传说鱼类（一次钓一条）
+## Legendary Fish (Catch Once)
 
-| 鱼 | 价格 | 位置 | 季节 | 条件 |
+| Fish | Price | Location | Season | Conditions |
 |:--|:----|:----|:----|:----|
-| 春季传说鱼 | 5000金 | 山区湖泊 | 春季 | 雨天，6AM起 |
-| 变异鲤鱼 | 1000金 | 下水道 | 任何 | 无特别 |
-| 冰川鱼 | 1000金 | 箭术岛河流 | 冬季 | 6AM起 |
-| 绯色鱼 | 2000金 | 海洋 | 夏季 | 雨天，12PM起 |
-| 钓鱼大师 | 10000金 | 矿洞底层 | 任何 | 所有鱼都钓到过 |
+| Spring Legend | 5000g | Mountain Lake | Spring | Rainy, from 6AM |
+| Mutant Carp | 1000g | Sewers | Any | None |
+| Glacierfish | 1000g | Arrowhead Island River | Winter | From 6AM |
+| Crimsonfish | 2000g | Ocean | Summer | Rainy, from 12PM |
+| Master Angler | 10000g | Bottom of Mines | Any | Caught all fish |
 
 ---
 
-## 赚钱建议
+## Money-Making Tips
 
-| 优先级 | 鱼 | 理由 |
+| Priority | Fish | Reason |
 |:------|:--|:-----|
-| 🥇 | 春季：鲶鱼 | 200金/条，河鱼下雨天多 |
-| 🥈 | 夏季：章鱼 | 150金/条，但只出现在6AM-1PM |
-| 🥉 | 全年：鲟鱼 | 200金/条，鱼塘产鱼子→高级鱼子酱 |
+| 🥇 | Spring: Catfish | 200g each, more river fish in rain |
+| 🥈 | Summer: Octopus | 150g each, but only appears 6AM-1PM |
+| 🥉 | Year-round: Sturgeon | 200g each, pond produces Roe→Aged Roe |
 
-> **钓鱼是最赚钱的第一年技能。** 春季第一天拿鱼杆，每天钓鱼到2PM结束，日入500-1000金不是问题。
+> **Fishing is the most profitable Year 1 skill.** Grab the rod on Spring 1, fish every day until 2PM, earning 500-1000g/day easily.
 
-> 💡 鱼塘建议：养 **鲟鱼**（产鱼子做鱼子酱）或 **鱿鱼/海参**（做菜送人）。
+> 💡 Fish Pond advice: Stock **Sturgeon** (produces Roe for Caviar) or **Squid/Sea Cucumber** (for cooking gifts).

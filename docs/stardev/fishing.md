@@ -1,195 +1,194 @@
 ---
-title: 星露谷物语钓鱼完全攻略
-description: 星露谷物语钓鱼攻略 — 全鱼类图鉴、钓点、季节分布、钓鱼技巧、钓鱼升级路线
+title: Stardew Valley Complete Fishing Guide
+description: Stardew Valley Fishing Guide — Complete fish species list, fishing spots, seasonal distribution, fishing tips, leveling guide
 ---
 
-# 🎣 钓鱼完全攻略
+# 🎣 Complete Fishing Guide
 
-钓鱼是星露谷物语中最赚钱的技能之一——也是前期最快的赚钱方式。本攻略涵盖从钓鱼小白到传说鱼猎人的完整路线。
-
----
-
-## 钓鱼基础
-
-### 钓鱼等级解锁
-
-| 等级 | 解锁 | 说明 |
-|:----|:-----|:-----|
-| 1 | 训练鱼竿 | 25g，渔获质量较低但更容易 |
-| 2 | 鱼饵 | 在鱼竿上加鱼饵减少咬钩时间 |
-| 3 | 蟹笼配方 | 可以在水里放蟹笼捕捉 |
-| 4 | 回收机 | 回收垃圾获得资源 |
-| 5 | **渔夫/采集者** | 渔夫：鱼多卖25% / 采集者：蟹笼双倍 |
-| 6 | 鱼钩+鱼饵 | 鱼钩减少鱼挣扎时间 |
-| 7 | 寻宝者 | 增加宝箱出现率 |
-| 8 | 软木塞鱼钩 | 增加钓鱼条长度 |
-| 9 | 磁铁 | 吸引更多宝箱 |
-| 10 | **水手/海盗** | 水手：蟹笼出专属鱼 / 海盗：宝箱双倍概率 |
-
-### 鱼竿推荐
-
-| 鱼竿 | 价格 | 解锁等级 | 说明 |
-|:----|:----|:---------|:-----|
-| 竹鱼竿 | 免费 | 初始 | 没法加鱼饵 |
-| 训练鱼竿 | 25g | 1 | 适合新手练手 |
-| 玻璃鱼竿 | 1800g | 2 | 可加鱼饵 |
-| 铱金鱼竿 | 7500g | 6 | 可加鱼饵+鱼钩 |
-| 太空鱼竿 | ？ | 后期 | 万能鱼竿 |
+Fishing is one of the most profitable skills in Stardew Valley — and the fastest way to earn money early on. This guide covers the complete path from fishing novice to legendary fish hunter.
 
 ---
 
-## 全鱼类图鉴
+## Fishing Basics
 
-### 春季鱼
+### Fishing Level Unlocks
 
-| 鱼 | 时间 | 天气 | 地点 | 难度 |
-|:---|:----|:----|:----|:----|
-| 太阳鱼 | 6AM-7PM | 晴/雨 | 河 | ⭐ |
-| 鲷鱼 | 6AM-11PM | 任意 | 河 | ⭐ |
-| 鲶鱼 | 6AM-11PM | 雨 | 河 | ⭐⭐⭐ |
-| 小嘴鲈鱼 | 6AM-11PM | 任意 | 河 | ⭐⭐ |
-| 虹鳟鱼 | 6AM-7PM | 晴 | 河 | ⭐⭐ |
-| 鲑鱼 | 6AM-11PM | 晴/雨 | 河 | ⭐⭐ |
-| 沙丁鱼 | 6AM-7PM | 晴/雨 | 海 | ⭐ |
-| 鳀鱼 | 6AM-11PM | 晴/雨 | 海 | ⭐ |
-| 大比目鱼 | 6AM-11AM | 晴/雨 | 海 | ⭐ |
-| 金枪鱼 | 6AM-7PM | 任意 | 海 | ⭐⭐ |
-| 鳗鱼 | 4PM-2AM | 雨 | 海 | ⭐⭐⭐ |
-| 鳊鱼 | 6AM-11PM | 任意 | 湖 | ⭐⭐ |
-| 大头鱼 | 6AM-11PM | 任意 | 湖 | ⭐⭐ |
+| Level | Unlock | Description |
+|:------|:-------|:------------|
+| 1 | Training Rod | 25g, lower quality catch but easier to use |
+| 2 | Bait | Attach bait to rod to reduce bite time |
+| 3 | Crab Pot Recipe | Place crab pots in water to catch creatures |
+| 4 | Recycling Machine | Recycle trash into resources |
+| 5 | **Fisher/Gatherer** | Fisher: Fish sell for 25% more / Gatherer: Double crab pot yield |
+| 6 | Spinner + Bait | Spinner reduces fish struggle time |
+| 7 | Treasure Hunter | Increases treasure chest spawn rate |
+| 8 | Cork Bobber | Increases fishing bar size |
+| 9 | Magnet | Attracts more treasure chests |
+| 10 | **Mariner/Pirate** | Mariner: Crab pots catch exclusive fish / Pirate: Double treasure chest chance |
 
-### 夏季鱼
+### Fishing Rod Recommendations
 
-| 鱼 | 时间 | 天气 | 地点 | 难度 |
-|:---|:----|:----|:----|:----|
-| 狗鱼 | 6AM-11PM | 任意 | 河 | ⭐⭐⭐ |
-| 玉筋鱼 | 6AM-11PM | 晴/雨 | 海 | ⭐ |
-| 红鲷鱼 | 6AM-7PM | 雨 | 海 | ⭐⭐ |
-| 鲔鱼 | 6AM-7PM | 任意 | 海 | ⭐⭐ |
-| 红鲣 | 6AM-7PM | 晴/雨 | 海 | ⭐⭐ |
-| 章鱼 | 6AM-1PM | 任意 | 海 | ⭐⭐⭐⭐ |
-| 河豚 | 12PM-4PM | 晴 | 海 | ⭐⭐⭐ |
-
-### 秋季鱼
-
-| 鱼 | 时间 | 天气 | 地点 | 难度 |
-|:---|:----|:----|:----|:----|
-| 鲑鱼 | 6AM-11PM | 任意 | 河 | ⭐⭐ |
-| 银鲑 | 6PM-2AM | 雨 | 河 | ⭐⭐ |
-| 鳟鱼 | 6AM-11PM | 任意 | 河 | ⭐⭐ |
-| 大马哈鱼 | 6AM-11PM | 雨 | 河 | ⭐⭐⭐ |
-| 沙丁鱼 | 6AM-7PM | 晴/雨 | 海 | ⭐ |
-| 鳀鱼 | 6AM-11PM | 晴/雨 | 海 | ⭐ |
-| 深海鱼 | 6AM-7PM | 晴/雨 | 海 | ⭐⭐ |
-| 鳗鱼 | 6AM-7PM | 任意 | 海 | ⭐⭐⭐ |
-| 午夜鲤鱼 | 10PM-2AM | 任意 | 湖 | ⭐⭐ |
-
-### 冬季鱼
-
-| 鱼 | 时间 | 天气 | 地点 | 难度 |
-|:---|:----|:----|:----|:----|
-| 鲟鱼 | 6AM-7PM | 任意 | 湖 | ⭐⭐⭐ |
-| 鬼鱼 | 6AM-11PM | 任意 | 湖 | ⭐⭐ |
-| 沙鱼 | 6AM-11PM | 任意 | 沙漠 | ⭐⭐ |
-| 蝎鲤 | 6AM-11PM | 任意 | 沙漠 | ⭐⭐ |
-| 冰川鱼 | 6AM-11PM | 任意 | 箭头岛 | ⭐⭐⭐⭐⭐ |
-
-### 传说鱼（最高难度）
-
-| 鱼 | 季节 | 时间 | 天气 | 条件 |
-|:---|:-----|:----|:----|:-----|
-| 深红鱼 | 夏季 | 6AM-11PM | 任意 | 钓鱼等级5+，东码头 |
-| 冰川鱼 | 冬季 | 6AM-11PM | 任意 | 钓鱼等级7+，箭头岛 |
-| 传说鱼 | 春季 | 6AM-11PM | 雨 | 钓鱼等级10，山间小湖 |
-| 变种鲤鱼 | 任意 | 6AM-11PM | 任意 | 秘密森林 |
-| 绯红鱼 | 秋季 | 6AM-11PM | 雨 | 钓鱼等级10，Joja超市旁 |
-
-**每条传说鱼只能钓一次！卖1500-5000g不等。**
+| Rod | Price | Required Level | Description |
+|:----|:------|:---------------|:------------|
+| Bamboo Pole | Free | Starting | Can't attach bait |
+| Training Rod | 25g | 1 | Good for beginners to practice |
+| Fiberglass Rod | 1800g | 2 | Can attach bait |
+| Iridium Rod | 7500g | 6 | Can attach bait + tackle |
+| Space Rod | ? | Late game | All-purpose rod |
 
 ---
 
-## 钓鱼升级路线
+## Complete Fish Species List
 
-### 第1天-第3天（新手期）
-```
-装备： 竹鱼竿
-地点： 海边的码头
-策略： 钓沙丁鱼+鳀鱼（简单易钓）
-收入： 500-800g/天
-目标： 升到钓鱼2级
-```
+### Spring Fish
 
-### 第4天-第7天（入门期）
-```
-装备： 玻璃鱼竿+鱼饵
-地点： 湖/河
-策略： 鱼饵加快咬钩速度
-收入： 1000-2000g/天
-目标： 升到钓鱼5级
-```
+| Fish | Time | Weather | Location | Difficulty |
+|:-----|:-----|:--------|:---------|:-----------|
+| Sunfish | 6AM-7PM | Sun/Rain | River | ⭐ |
+| Catfish | 6AM-11PM | Rain | River | ⭐⭐⭐ |
+| Smallmouth Bass | 6AM-11PM | Any | River | ⭐⭐ |
+| Rainbow Trout | 6AM-7PM | Sun | River | ⭐⭐ |
+| Salmon | 6AM-11PM | Sun/Rain | River | ⭐⭐ |
+| Sardine | 6AM-7PM | Sun/Rain | Ocean | ⭐ |
+| Anchovy | 6AM-11PM | Sun/Rain | Ocean | ⭐ |
+| Halibut | 6AM-11AM | Sun/Rain | Ocean | ⭐ |
+| Tuna | 6AM-7PM | Any | Ocean | ⭐⭐ |
+| Eel | 4PM-2AM | Rain | Ocean | ⭐⭐⭐ |
+| Bream | 6AM-11PM | Any | Lake | ⭐⭐ |
+| Bullhead | 6AM-11PM | Any | Lake | ⭐⭐ |
 
-### 第8天-第14天（熟练期）
-```
-装备： 铱金鱼竿+鱼饵+鱼钩
-地点： 河+海+湖轮换
-策略： 按季节钓高价鱼
-收入： 3000-5000g/天
-目标： 升到钓鱼10级
-```
+### Summer Fish
+
+| Fish | Time | Weather | Location | Difficulty |
+|:-----|:-----|:--------|:---------|:-----------|
+| Pike | 6AM-11PM | Any | River | ⭐⭐⭐ |
+| Sand Eel | 6AM-11PM | Sun/Rain | Ocean | ⭐ |
+| Red Snapper | 6AM-7PM | Rain | Ocean | ⭐⭐ |
+| Tuna | 6AM-7PM | Any | Ocean | ⭐⭐ |
+| Red Mullet | 6AM-7PM | Sun/Rain | Ocean | ⭐⭐ |
+| Octopus | 6AM-1PM | Any | Ocean | ⭐⭐⭐⭐ |
+| Pufferfish | 12PM-4PM | Sun | Ocean | ⭐⭐⭐ |
+
+### Fall Fish
+
+| Fish | Time | Weather | Location | Difficulty |
+|:-----|:-----|:--------|:---------|:-----------|
+| Salmon | 6AM-11PM | Any | River | ⭐⭐ |
+| Silver Salmon | 6PM-2AM | Rain | River | ⭐⭐ |
+| Trout | 6AM-11PM | Any | River | ⭐⭐ |
+| Walleye | 6AM-11PM | Rain | River | ⭐⭐⭐ |
+| Sardine | 6AM-7PM | Sun/Rain | Ocean | ⭐ |
+| Anchovy | 6AM-11PM | Sun/Rain | Ocean | ⭐ |
+| Deep-sea Fish | 6AM-7PM | Sun/Rain | Ocean | ⭐⭐ |
+| Eel | 6AM-7PM | Any | Ocean | ⭐⭐⭐ |
+| Midnight Carp | 10PM-2AM | Any | Lake | ⭐⭐ |
+
+### Winter Fish
+
+| Fish | Time | Weather | Location | Difficulty |
+|:-----|:-----|:--------|:---------|:-----------|
+| Sturgeon | 6AM-7PM | Any | Lake | ⭐⭐⭐ |
+| Ghostfish | 6AM-11PM | Any | Lake | ⭐⭐ |
+| Sandfish | 6AM-11PM | Any | Desert | ⭐⭐ |
+| Scorpion Carp | 6AM-11PM | Any | Desert | ⭐⭐ |
+| Glacierfish | 6AM-11PM | Any | Arrowhead Island | ⭐⭐⭐⭐⭐ |
+
+### Legendary Fish (Highest Difficulty)
+
+| Fish | Season | Time | Weather | Conditions |
+|:-----|:-------|:-----|:--------|:-----------|
+| Crimsonfish | Summer | 6AM-11PM | Any | Fishing level 5+, East Pier |
+| Glacierfish | Winter | 6AM-11PM | Any | Fishing level 7+, Arrowhead Island |
+| Legend | Spring | 6AM-11PM | Rain | Fishing level 10, Mountain Lake |
+| Mutant Carp | Any | 6AM-11PM | Any | Secret Woods |
+| Angler | Fall | 6AM-11PM | Rain | Fishing level 10, near JojaMart |
+
+**Each legendary fish can only be caught once! Sells for 1500-5000g each.**
 
 ---
 
-## 赚钱钓鱼推荐
+## Fishing Leveling Route
 
-### 春季
+### Days 1-3 (Beginner Phase)
 ```
-⭐ 最赚钱：鲶鱼（雨天，河）
-    价格：200g+  难度：中等
-    搭配：铜锅咖啡+陷阱鱼钩
-```
-
-### 夏季
-```
-⭐ 最赚钱：章鱼（6AM-1PM，海）
-    价格：300g+  难度：极高
-    建议：铱金鱼竿+陷阱鱼钩
+Gear:     Bamboo Pole
+Location: Ocean Pier
+Strategy: Catch Sardines + Anchovies (easy to catch)
+Income:   500-800g/day
+Goal:     Reach Fishing Level 2
 ```
 
-### 秋季
+### Days 4-7 (Apprentice Phase)
 ```
-⭐ 最赚钱：鲑鱼（雨夜）
-    价格：300g+  难度：高
-    搭配：鱼饵加速+鱼饵
+Gear:     Fiberglass Rod + Bait
+Location: Lake/River
+Strategy: Bait speeds up bite time
+Income:   1000-2000g/day
+Goal:     Reach Fishing Level 5
 ```
 
-### 冬季
+### Days 8-14 (Skilled Phase)
 ```
-⭐ 最赚钱：冰川鱼（季节传说鱼）
-    价格：1000g+  难度：极高
-    一次机会，务必钓上来！
+Gear:     Iridium Rod + Bait + Tackle
+Location: Rotate River + Ocean + Lake
+Strategy: Catch high-value fish for the season
+Income:   3000-5000g/day
+Goal:     Reach Fishing Level 10
 ```
 
 ---
 
-## 钓鱼技巧
+## Profitable Fishing Recommendations
 
-### 快速升级法
+### Spring
 ```
-1. 鲤鱼(湖)+太阳鱼只要50经验 → 钓50条升1级
-2. 好运天(电视)加宝箱概率
-3. 完美钓鱼额外+20%经验
-4. 吃鱼汤(+1钓鱼等级)
-5. 雨天钓鱼 = 更多稀有鱼
+⭐ Most Profitable: Catfish (Rainy days, River)
+    Price: 200g+   Difficulty: Medium
+    Pair with: Copper pan coffee + Trap Bobber
 ```
 
-### 最强装备组合
+### Summer
 ```
-铱金鱼竿 + 鱼饵 + 陷阱鱼钩
-= 鱼咬钩快 50% + 鱼挣扎速度下降 33%
+⭐ Most Profitable: Octopus (6AM-1PM, Ocean)
+    Price: 300g+   Difficulty: Extreme
+    Recommended: Iridium Rod + Trap Bobber
 ```
 
-### 传说鱼技巧
-1. 提前存档（起床后）
-2. 吃海泡布丁（+4钓鱼等级）
-3. 用陷阱鱼钩（不是铅质）
-4. 放松心态，手稳很重要
+### Fall
+```
+⭐ Most Profitable: Walleye (Rainy night)
+    Price: 300g+   Difficulty: Hard
+    Pair with: Spinner + Bait
+```
+
+### Winter
+```
+⭐ Most Profitable: Glacierfish (Seasonal Legendary)
+    Price: 1000g+   Difficulty: Extreme
+    One chance — make sure you catch it!
+```
+
+---
+
+## Fishing Tips
+
+### Fast Leveling Method
+```
+1. Carp (Lake) + Sunfish give 50 XP → catch 50 to level up
+2. Lucky days (TV fortune) increase treasure chest chance
+3. Perfect catches give +20% bonus XP
+4. Eat Fish Stew (+1 Fishing Level)
+5. Rainy days = more rare fish
+```
+
+### Best Equipment Combo
+```
+Iridium Rod + Bait + Trap Bobber
+= 50% faster bite time + 33% slower fish escape speed
+```
+
+### Legendary Fish Tips
+1. Save in advance (after waking up)
+2. Eat Seafoam Pudding (+4 Fishing Level)
+3. Use Trap Bobber (not Lead Bobber)
+4. Stay calm — steady hands matter most

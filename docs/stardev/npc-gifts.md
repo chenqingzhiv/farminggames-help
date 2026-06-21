@@ -1,246 +1,246 @@
-# 💝 NPC礼物好感表
+# 💝 NPC Gift Guide
 
-> Stardew Valley 1.6 | 全NPC喜好速查
+> Stardew Valley 1.6 | Quick NPC Preference Reference
 
-## 🌟 基础规则
+## 🌟 Basic Rules
 
-- **生日送礼 ×8倍好感度**（一定要送最爱！）
-- **每周可送两次**，生日不占额度
-- **品质影响**：铱星 > 金星 > 普通
-
----
-
-## 🏘️ 鹈鹕镇居民
-
-### 艾比盖尔 （Abigail）
-| 喜爱程度 | 物品 |
-|:--------|:----|
-| ❤️ 最爱 | 紫水晶、南瓜、黑莓脆皮饼、巧克力蛋糕、河豚 |
-| 👍 喜欢 | 所有宝石、料理（除了鱼/素菜） |
-| 👎 不喜欢 | 鸡蛋、蔬菜、石英 |
-
-### 亚历克斯 （Alex）
-| 喜爱程度 | 物品 |
-|:--------|:----|
-| ❤️ 最爱 | 完美早餐、三文鱼晚餐 |
-| 👍 喜欢 | 鸡蛋、所有料理 |
-| 👎 不喜欢 | 野莓、石英 |
-
-### 卡罗琳 （Caroline）
-| 喜爱程度 | 物品 |
-|:--------|:----|
-| ❤️ 最爱 | 夏季灿烂、鱼肉塔可、绿茶 |
-| 👍 喜欢 | 所有料理 |
-| 👎 不喜欢 | 鱼类、肉食 |
-
-### 克林特 （Clint）
-| 喜爱程度 | 物品 |
-|:--------|:----|
-| ❤️ 最爱 | 绿宝石、紫水晶、红宝石、黄水晶、海蓝宝石、翡翠 |
-| 👍 喜欢 | 所有宝石 |
-| 👎 不喜欢 | 野菜、花 |
-
-### 德米特里厄斯 （Demetrius）
-| 喜爱程度 | 物品 |
-|:--------|:----|
-| ❤️ 最爱 | 豆汤、冰淇淋、草莓 |
-| 👍 喜欢 | 水果、料理 |
-| 👎 不喜欢 | 鱼、肉 |
-
-### 艾利欧特 （Elliott）
-| 喜爱程度 | 物品 |
-|:--------|:----|
-| ❤️ 最爱 | 蟹黄糕、石榴、鸭毛 |
-| 👍 喜欢 | 水果、料理（不含鱼） |
-| 👎 不喜欢 | 蔬菜、石英 |
-
-### 艾米丽 （Emily）
-| 喜爱程度 | 物品 |
-|:--------|:----|
-| ❤️ 最爱 | 蓝宝石、海蓝宝石、翡翠、玉、布、羊毛 |
-| 👍 喜欢 | 宝石、料理 |
-| 👎 不喜欢 | 鱼、肉 |
-
-### 艾芙琳 （Evelyn）
-| 喜爱程度 | 物品 |
-|:--------|:----|
-| ❤️ 最爱 | 巧克力蛋糕、烤马铃薯、郁金香 |
-| 👍 喜欢 | 花、料理 |
-| 👎 不喜欢 | 大蒜、扇贝 |
-
-### 乔治 （George）
-| 喜爱程度 | 物品 |
-|:--------|:----|
-| ❤️ 最爱 | 韭葱、炸蘑菇 |
-| 👍 喜欢 | 蔬菜、水果 |
-| 👎 不喜欢 | 调味品 |
-
-### 格斯 （Gus）
-| 喜爱程度 | 物品 |
-|:--------|:----|
-| ❤️ 最爱 | 钻石、橙子、意式烤面包 |
-| 👍 喜欢 | 所有料理 |
-| 👎 不喜欢 | 野菜 |
-
-### 哈维 （Harvey）
-| 喜爱程度 | 物品 |
-|:--------|:----|
-| ❤️ 最爱 | 咖啡、腌菜、葡萄酒、超级餐 |
-| 👍 喜欢 | 水果、料理 |
-| 👎 不喜欢 | 垃圾/废物 |
-
-### 贾斯 （Jas）
-| 喜爱程度 | 物品 |
-|:--------|:----|
-| ❤️ 最爱 | 粉红蛋糕、葡萄干布丁、仙女玫瑰 |
-| 👍 喜欢 | 花、水果 |
-| 👎 不喜欢 | 蒜、韭葱 |
-
-### 乔迪 （Jodi）
-| 喜爱程度 | 物品 |
-|:--------|:----|
-| ❤️ 最爱 | 巧克力蛋糕、煎饼、蔬菜杂烩 |
-| 👍 喜欢 | 料理 |
-| 👎 不喜欢 | 鱼 |
-
-### 肯特 （Kent）
-| 喜爱程度 | 物品 |
-|:--------|:----|
-| ❤️ 最爱 | 焦糖、炸鳗鱼、脆皮烤鸭 |
-| 👍 喜欢 | 料理 |
-| 👎 不喜欢 | 野菜 |
-
-### 莉亚 （Leah）
-| 喜爱程度 | 物品 |
-|:--------|:----|
-| ❤️ 最爱 | 山羊奶酪、白酒、沙拉、马铃薯 |
-| 👍 喜欢 | 水果、蔬菜（尤其野生） |
-| 👎 不喜欢 | 生鱼 |
-
-### 刘易斯 （Lewis）
-| 喜爱程度 | 物品 |
-|:--------|:----|
-| ❤️ 最爱 | 辣椒、烤羊肉、红薯 |
-| 👍 喜欢 | 水果、蔬菜 |
-| 👎 不喜欢 | 鱼 |
-
-### 莱纳斯 （Linus）
-| 喜爱程度 | 物品 |
-|:--------|:----|
-| ❤️ 最爱 | 椰子、仙人掌果、鲑鱼晚餐 |
-| 👍 喜欢 | 野生采集物 |
-| 👎 不喜欢 | 加工品 |
-
-### 玛妮 （Marnie）
-| 喜爱程度 | 物品 |
-|:--------|:----|
-| ❤️ 最爱 | 钻石、粉红蛋糕、南瓜派 |
-| 👍 喜欢 | 动物制品、水果 |
-| 👎 不喜欢 | 肉 |
-
-### 玛鲁 （Maru）
-| 喜爱程度 | 物品 |
-|:--------|:----|
-| ❤️ 最爱 | 钻石、金条、铱锭、电池、草莓 |
-| 👍 喜欢 | 矿石、宝石 |
-| 👎 不喜欢 | 野菜 |
-
-### 潘姆 （Pam）
-| 喜爱程度 | 物品 |
-|:--------|:----|
-| ❤️ 最爱 | 电池、萝卜、仙人掌果、啤酒 |
-| 👍 喜欢 | 蔬菜、水果 |
-| 👎 不喜欢 | 花 |
-
-### 潘妮 （Penny）
-| 喜爱程度 | 物品 |
-|:--------|:----|
-| ❤️ 最爱 | 钻石、绿宝石、罂粟、甜瓜、汤 |
-| 👍 喜欢 | 蔬菜、水果 |
-| 👎 不喜欢 | 酒 |
-
-### 皮埃尔 （Pierre）
-| 喜爱程度 | 物品 |
-|:--------|:----|
-| ❤️ 最爱 | 炒饭、意式烤面包 |
-| 👍 喜欢 | 蔬菜 |
-| 👎 不喜欢 | 鱼 |
-
-### 罗宾 （Robin）
-| 喜爱程度 | 物品 |
-|:--------|:----|
-| ❤️ 最爱 | 意大利面、山羊奶酪、水果沙拉 |
-| 👍 喜欢 | 水果、料理 |
-| 👎 不喜欢 | 野菜 |
-
-### 山姆 （Sam）
-| 喜爱程度 | 物品 |
-|:--------|:----|
-| ❤️ 最爱 | 仙人掌果、枫糖棒、披萨、虎眼石 |
-| 👍 喜欢 | 水果 |
-| 👎 不喜欢 | 蔬菜 |
-
-### 塞巴斯蒂安 （Sebastian）
-| 喜爱程度 | 物品 |
-|:--------|:----|
-| ❤️ 最爱 | 黑曜石、南瓜汤、生鱼片、紫水晶 |
-| 👍 喜欢 | 鱼、宝石 |
-| 👎 不喜欢 | 肉 |
-
-### 谢恩 （Shane）
-| 喜爱程度 | 物品 |
-|:--------|:----|
-| ❤️ 最爱 | 辣椒、啤酒、披萨 |
-| 👍 喜欢 | 料理 |
-| 👎 不喜欢 | 蔬菜 |
-
-### 文森特 （Vincent）
-| 喜爱程度 | 物品 |
-|:--------|:----|
-| ❤️ 最爱 | 粉红蛋糕、葡萄、椰菜花 |
-| 👍 喜欢 | 水果、花 |
-| 👎 不喜欢 | 蔬菜 |
-
-### 威利 （Willy）
-| 喜爱程度 | 物品 |
-|:--------|:----|
-| ❤️ 最爱 | 南瓜、钻石、啤酒、鳗鱼 |
-| 👍 喜欢 | 鱼、宝石 |
-| 👎 不喜欢 | 垃圾 |
+- **Birthday gift ×8 friendship points** (always give a Loved gift!)
+- **Gifts twice per week**, birthday doesn't count toward limit
+- **Quality matters**: Iridium > Gold > Normal
 
 ---
 
-## 🌲 不可结婚NPC
+## 🏘️ Pelican Town Residents
 
-### 法师 （Wizard）
-| 喜爱程度 | 物品 |
+### Abigail
+| Like Level | Items |
 |:--------|:----|
-| ❤️ 最爱 | 紫水晶、黑曜石、超级黄瓜、太阳精华、虚空精华 |
-| 👍 喜欢 | 宝石、矿石 |
-| 👎 不喜欢 | 日常食物 |
+| ❤️ Love | Amethyst, Pumpkin, Blackberry Cobbler, Chocolate Cake, Pufferfish |
+| 👍 Like | All Gems, Cooking (except Fish/Vegetarian dishes) |
+| 👎 Dislike | Eggs, Vegetables, Quartz |
 
-### 科罗布斯 （Krobus）
-| 喜爱程度 | 物品 |
+### Alex
+| Like Level | Items |
 |:--------|:----|
-| ❤️ 最爱 | 钻石、铱锭、虚空蛋黄酱、野生山葵 |
-| 👍 喜欢 | 虚空物品 |
-| 👎 不喜欢 | 普通食物 |
+| ❤️ Love | Complete Breakfast, Salmon Dinner |
+| 👍 Like | Eggs, All Cooking |
+| 👎 Dislike | Wild Berries, Quartz |
+
+### Caroline
+| Like Level | Items |
+|:--------|:----|
+| ❤️ Love | Summer Spangle, Fish Taco, Green Tea |
+| 👍 Like | All Cooking |
+| 👎 Dislike | Fish, Meat |
+
+### Clint
+| Like Level | Items |
+|:--------|:----|
+| ❤️ Love | Emerald, Amethyst, Ruby, Topaz, Aquamarine, Jade |
+| 👍 Like | All Gems |
+| 👎 Dislike | Wild Greens, Flowers |
+
+### Demetrius
+| Like Level | Items |
+|:--------|:----|
+| ❤️ Love | Bean Hotpot, Ice Cream, Strawberry |
+| 👍 Like | Fruit, Cooking |
+| 👎 Dislike | Fish, Meat |
+
+### Elliott
+| Like Level | Items |
+|:--------|:----|
+| ❤️ Love | Crab Cakes, Pomegranate, Duck Feather |
+| 👍 Like | Fruit, Cooking (without fish) |
+| 👎 Dislike | Vegetables, Quartz |
+
+### Emily
+| Like Level | Items |
+|:--------|:----|
+| ❤️ Love | Sapphire, Aquamarine, Jade, Topaz, Cloth, Wool |
+| 👍 Like | Gems, Cooking |
+| 👎 Dislike | Fish, Meat |
+
+### Evelyn
+| Like Level | Items |
+|:--------|:----|
+| ❤️ Love | Chocolate Cake, Baked Potato, Tulip |
+| 👍 Like | Flowers, Cooking |
+| 👎 Dislike | Garlic, Scallop |
+
+### George
+| Like Level | Items |
+|:--------|:----|
+| ❤️ Love | Leek, Fried Mushroom |
+| 👍 Like | Vegetables, Fruit |
+| 👎 Dislike | Seasonings |
+
+### Gus
+| Like Level | Items |
+|:--------|:----|
+| ❤️ Love | Diamond, Orange, Bruschetta |
+| 👍 Like | All Cooking |
+| 👎 Dislike | Wild Greens |
+
+### Harvey
+| Like Level | Items |
+|:--------|:----|
+| ❤️ Love | Coffee, Pickles, Wine, Super Meal |
+| 👍 Like | Fruit, Cooking |
+| 👎 Dislike | Trash/Junk |
+
+### Jas
+| Like Level | Items |
+|:--------|:----|
+| ❤️ Love | Pink Cake, Plum Pudding, Fairy Rose |
+| 👍 Like | Flowers, Fruit |
+| 👎 Dislike | Garlic, Leek |
+
+### Jodi
+| Like Level | Items |
+|:--------|:----|
+| ❤️ Love | Chocolate Cake, Pancakes, Vegetable Medley |
+| 👍 Like | Cooking |
+| 👎 Dislike | Fish |
+
+### Kent
+| Like Level | Items |
+|:--------|:----|
+| ❤️ Love | Caramel, Fried Eel, Crispy Duck |
+| 👍 Like | Cooking |
+| 👎 Dislike | Wild Greens |
+
+### Leah
+| Like Level | Items |
+|:--------|:----|
+| ❤️ Love | Goat Cheese, Wine, Salad, Potato |
+| 👍 Like | Fruit, Vegetables (especially foraged) |
+| 👎 Dislike | Raw Fish |
+
+### Lewis
+| Like Level | Items |
+|:--------|:----|
+| ❤️ Love | Hot Pepper, Roasted Lamb, Sweet Potato |
+| 👍 Like | Fruit, Vegetables |
+| 👎 Dislike | Fish |
+
+### Linus
+| Like Level | Items |
+|:--------|:----|
+| ❤️ Love | Coconut, Cactus Fruit, Salmon Dinner |
+| 👍 Like | Foraged Goods |
+| 👎 Dislike | Processed Goods |
+
+### Marnie
+| Like Level | Items |
+|:--------|:----|
+| ❤️ Love | Diamond, Pink Cake, Pumpkin Pie |
+| 👍 Like | Animal Products, Fruit |
+| 👎 Dislike | Meat |
+
+### Maru
+| Like Level | Items |
+|:--------|:----|
+| ❤️ Love | Diamond, Gold Bar, Iridium Bar, Battery Pack, Strawberry |
+| 👍 Like | Ores, Gems |
+| 👎 Dislike | Wild Greens |
+
+### Pam
+| Like Level | Items |
+|:--------|:----|
+| ❤️ Love | Battery Pack, Radish, Cactus Fruit, Beer |
+| 👍 Like | Vegetables, Fruit |
+| 👎 Dislike | Flowers |
+
+### Penny
+| Like Level | Items |
+|:--------|:----|
+| ❤️ Love | Diamond, Emerald, Poppy, Melon, Soup |
+| 👍 Like | Vegetables, Fruit |
+| 👎 Dislike | Alcohol |
+
+### Pierre
+| Like Level | Items |
+|:--------|:----|
+| ❤️ Love | Fried Rice, Bruschetta |
+| 👍 Like | Vegetables |
+| 👎 Dislike | Fish |
+
+### Robin
+| Like Level | Items |
+|:--------|:----|
+| ❤️ Love | Pasta, Goat Cheese, Fruit Salad |
+| 👍 Like | Fruit, Cooking |
+| 👎 Dislike | Wild Greens |
+
+### Sam
+| Like Level | Items |
+|:--------|:----|
+| ❤️ Love | Cactus Fruit, Maple Bar, Pizza, Tiger Eye |
+| 👍 Like | Fruit |
+| 👎 Dislike | Vegetables |
+
+### Sebastian
+| Like Level | Items |
+|:--------|:----|
+| ❤️ Love | Obsidian, Pumpkin Soup, Sashimi, Amethyst |
+| 👍 Like | Fish, Gems |
+| 👎 Dislike | Meat |
+
+### Shane
+| Like Level | Items |
+|:--------|:----|
+| ❤️ Love | Hot Pepper, Beer, Pizza |
+| 👍 Like | Cooking |
+| 👎 Dislike | Vegetables |
+
+### Vincent
+| Like Level | Items |
+|:--------|:----|
+| ❤️ Love | Pink Cake, Grape, Cauliflower |
+| 👍 Like | Fruit, Flowers |
+| 👎 Dislike | Vegetables |
+
+### Willy
+| Like Level | Items |
+|:--------|:----|
+| ❤️ Love | Pumpkin, Diamond, Beer, Eel |
+| 👍 Like | Fish, Gems |
+| 👎 Dislike | Junk |
 
 ---
 
-## 💡 送礼技巧
+## 🌲 Non-Marriageable NPCs
 
-1. **最容易弄到的礼物：**
-   - 咖啡（哈维最爱，酒吧买，全年送）
-   - 紫水晶（艾比盖尔最爱，矿洞挖）
-   - 钻石（几乎所有NPC都至少喜欢）
+### Wizard
+| Like Level | Items |
+|:--------|:----|
+| ❤️ Love | Amethyst, Obsidian, Super Cucumber, Solar Essence, Void Essence |
+| 👍 Like | Gems, Ores |
+| 👎 Dislike | Everyday Food |
 
-2. **每周送礼路线：**
-   - 周一：去酒吧买咖啡→送哈维/谢恩/潘姆
-   - 周中：送身边遇到的NPC
-   - 周末：集中送还没送到位的
+### Krobus
+| Like Level | Items |
+|:--------|:----|
+| ❤️ Love | Diamond, Iridium Bar, Void Mayonnaise, Wild Horseradish |
+| 👍 Like | Void Items |
+| 👎 Dislike | Normal Food |
 
-3. **结婚候选人可以拿花束攻略：**
-   - 送最爱礼物直到10心
-   - 皮埃尔店买花束→送→变恋爱关系
-   - 继续送礼直到14心→买美人鱼吊坠求婚
+---
+
+## 💡 Gift-Giving Tips
+
+1. **Easiest gifts to obtain:**
+   - Coffee (Harvey loves it, buy at Saloon, available year-round)
+   - Amethyst (Abigail loves it, mine it)
+   - Diamond (almost all NPCs at least like it)
+
+2. **Weekly gift route:**
+   - Monday: Go to the Saloon, buy coffee → give to Harvey/Shane/Pam
+   - Mid-week: Gift NPCs you run into
+   - Weekend: Focus on anyone you missed
+
+3. **Bachelor/Bachelorette guide using bouquet:**
+   - Give loved gifts until 10 hearts
+   - Buy bouquet from Pierre's → give it → become relationship
+   - Keep gifting until 14 hearts → buy Mermaid Pendant to propose

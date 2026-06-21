@@ -1,48 +1,48 @@
 ---
-title: 模拟农场25 作物利润全表
-description: 模拟农场25全作物种植利润对比，最佳种植作物推荐，化肥/产量/价格分析
+title: Farming Simulator 25 Complete Crop Profit Table
+description: Farming Simulator 25 complete crop profit comparison, best crop recommendations, fertilizer/yield/price analysis
 ---
 
-# 🌽 模拟农场25 作物利润全表
+# 🌽 Farming Simulator 25 Complete Crop Profit Table
 
-## 基础作物对比
+## Basic Crop Comparison
 
-| 作物 | 生长期(月) | 基础产量 | 基准价 | 最高价 | 亩利润 | 适合 |
+| Crop | Growth (months) | Base Yield | Base Price | Max Price | Profit/Acre | Suitable For |
 |:----|:---------|:--------|:------|:------|:------|:----|
-| 🌾 小麦 | 8-9月 | 2,200L | $260 | $390 | ⭐⭐⭐ | ✅ 新手首选 |
-| 🌽 玉米 | 9-10月 | 2,800L | $180 | $280 | ⭐⭐⭐⭐ | ✅ 中期 |
-| 🌻 向日葵 | 7-8月 | 1,800L | $340 | $510 | ⭐⭐⭐⭐ | ✅ 收益稳 |
-| 大麦 | 7-8月 | 2,100L | $210 | $320 | ⭐⭐ | ❌ 利润低 |
-| 油菜 | 8-9月 | 1,600L | $380 | $560 | ⭐⭐⭐⭐ | ✅ 价高 |
-| 大豆 | 9-10月 | 1,500L | $450 | $680 | ⭐⭐⭐⭐⭐ | ✅ 利润王 |
-| 燕麦 | 7-8月 | 2,000L | $230 | $350 | ⭐⭐ | ⚠️ 喂马用 |
+| 🌾 Wheat | 8-9 months | 2,200L | $260 | $390 | ⭐⭐⭐ | ✅ Beginner favorite |
+| 🌽 Corn | 9-10 months | 2,800L | $180 | $280 | ⭐⭐⭐⭐ | ✅ Mid-game |
+| 🌻 Sunflowers | 7-8 months | 1,800L | $340 | $510 | ⭐⭐⭐⭐ | ✅ Steady returns |
+| Barley | 7-8 months | 2,100L | $210 | $320 | ⭐⭐ | ❌ Low profit |
+| Canola | 8-9 months | 1,600L | $380 | $560 | ⭐⭐⭐⭐ | ✅ High price |
+| Soybeans | 9-10 months | 1,500L | $450 | $680 | ⭐⭐⭐⭐⭐ | ✅ Profit king |
+| Oats | 7-8 months | 2,000L | $230 | $350 | ⭐⭐ | ⚠️ Feed for horses |
 
-## 高价值作物
+## High-Value Crops
 
-| 作物 | 特点 | 亩利润 | 适合玩家 |
+| Crop | Features | Profit/Acre | Best For |
 |:----|:-----|:-------|:--------|
-| 🥔 土豆 | 产量高，但需特殊播种机 | ⭐⭐⭐⭐ | 中期玩家 |
-| 🧅 洋葱 | 同土豆，需专用设备 | ⭐⭐⭐⭐ | 中期玩家 |
-| 🌾 水稻 | 需水田，特殊种植法 | ⭐⭐⭐⭐⭐ | 后期玩家 |
-| 🍇 葡萄 | 多年生，一次种多年收 | ⭐⭐⭐⭐⭐ | 长期规划 |
-| 🫒 橄榄 | 同葡萄，需压榨设备 | ⭐⭐⭐⭐ | 长期规划 |
+| 🥔 Potatoes | High yield, but needs special planter | ⭐⭐⭐⭐ | Mid-game players |
+| 🧅 Onions | Same as potatoes, needs special equipment | ⭐⭐⭐⭐ | Mid-game players |
+| 🌾 Rice | Needs paddy fields, special planting method | ⭐⭐⭐⭐⭐ | Late-game players |
+| 🍇 Grapes | Perennial, plant once harvest for years | ⭐⭐⭐⭐⭐ | Long-term planning |
+| 🫒 Olives | Same as grapes, needs press equipment | ⭐⭐⭐⭐ | Long-term planning |
 
-## 木本作物（多年生）
+## Woody Crops (Perennial)
 
-| 作物 | 种植成本 | 年维护 | 年收入 | 回收期 | 总评 |
+| Crop | Planting Cost | Annual Maintenance | Annual Income | Payback Period | Overall Rating |
 |:----|:--------|:------|:------|:------|:----|
-| 🌲 松树 | 低 | 极低 | $3,000/亩 | 4-5年 | 种了就不管 |
-| 🍎 苹果 | 中 | 中 | $8,000/亩 | 2-3年 | 果园收益好 |
-| 🍇 葡萄 | 中高 | 中 | $12,000/亩 | 2年 | 酒庄赚钱 |
+| 🌲 Pine Trees | Low | Very Low | $3,000/acre | 4-5 years | Plant and forget |
+| 🍎 Apples | Medium | Medium | $8,000/acre | 2-3 years | Good orchard returns |
+| 🍇 Grapes | Medium-High | Medium | $12,000/acre | 2 years | Winery profit |
 
-## 化肥效果
+## Fertilizer Effects
 
-| 施肥次数 | 产量加成 | 建议 |
+| Fertilizations | Yield Bonus | Suggestion |
 |:---------|:--------|:-----|
-| 0次（不施肥） | 基准产量 | ❌ 浪费地 |
-| 1次 | +15% | ✅ 起步至少1次 |
-| 2次 | +30% | ✅ 中期必做 |
-| 3次（完美） | +50% | ⭐ 追求极致产量 |
+| 0 times (no fertilizer) | Base yield | ❌ Wasting the field |
+| 1 time | +15% | ✅ At least 1 to start |
+| 2 times | +30% | ✅ Must-do at mid-game |
+| 3 times (perfect) | +50% | ⭐ Pursuing maximum yield |
 
-> **核心策略：** 新手期种小麦攒钱 → 中期转向日葵/油菜 → 后期种大豆+葡萄。
-> 施肥2次是性价比最高的选择，3次边际效益递减。
+> **Core strategy:** Save money with wheat as a beginner → pivot to sunflowers/canola mid-game → plant soybeans + grapes late-game.
+> 2 fertilizations offer the best value; the marginal benefit of a 3rd is diminishing.

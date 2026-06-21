@@ -1,54 +1,54 @@
-# 种田游戏 — 新手入门指南
+# Farming Games — Beginner Guide
 
-## 新手常见问题
+## Common Beginner Questions
 
-### 第一年春天做什么？
+### What to do in Spring of Year 1?
 
-1. ✅ 清理农场（树枝/石头/杂草）
-2. ✅ 开垦15块地（不要太多，精力不够）
-3. ✅ 种防风草（4天成熟，新手期主力）
-4. ✅ 钓鱼（初期额外收入）
-5. ✅ 和NPC打招呼（为好感铺垫）
+1. ✅ Clear the farm (branches/rocks/weeds)
+2. ✅ Till 15 plots (don't overdo it, energy is limited)
+3. ✅ Plant parsnips (4-day maturity, beginner staple)
+4. ✅ Fish (early extra income)
+5. ✅ Greet NPCs (lay the foundation for friendship)
 
-### 应该先升级什么？
+### What should I upgrade first?
 
-| 优先级 | 升级 | 原因 |
+| Priority | Upgrade | Reason |
 |--------|------|------|
-| 1 | **背包** | 空间不够影响效率 |
-| 2 | **浇水壶** | 一次浇更多地 |
-| 3 | **锄头** | 开垦更快 |
-| 4 | **斧头** | 砍树攒木 |
-| 5 | **镐子** | 挖矿采石头 |
+| 1 | **Backpack** | Limited space hurts efficiency |
+| 2 | **Watering Can** | Water more crops at once |
+| 3 | **Hoe** | Till soil faster |
+| 4 | **Axe** | Chop trees for wood |
+| 5 | **Pickaxe** | Mine for ores and stone |
 
-## 赚钱时间线
+## Money-Making Timeline
 
-### 第1年春
+### Spring of Year 1
 
-| 周 | 收入目标 | 主要收入 |
+| Week | Income Target | Main Income Source |
 |----|---------|---------|
-| 第1周 | 5K | 钓鱼+采集 |
-| 第2周 | 10K | 第一批收获 |
-| 第3周 | 20K | 钓鱼升级 |
-| 第4周 | 50K | 草莓节 |
+| Week 1 | 5K | Fishing + Foraging |
+| Week 2 | 10K | First harvest |
+| Week 3 | 20K | Fishing upgrade |
+| Week 4 | 50K | Strawberry Festival |
 
-### 第1年夏 - 第2年
+### Summer Year 1 - Year 2
 
-| 季节 | 目标 | 策略 |
+| Season | Goal | Strategy |
 |------|------|------|
-| 夏 | 100K | 蓝莓海量种植 |
-| 秋 | 200K | 蔓越莓海量种植 |
-| 冬 | 100K | 矿洞挖矿卖宝石 |
-| 第2年 | 500K+ | 工匠制品流 |
+| Summer | 100K | Mass plant blueberries |
+| Fall | 200K | Mass plant cranberries |
+| Winter | 100K | Mine ores and sell gems |
+| Year 2 | 500K+ | Artisan goods processing |
 
-## 神器收藏家
+## Artifact Collector
 
-### 最好卖的宝石
+### Best-Selling Gems
 
-| 宝石 | 基础价 | 获取方式 |
+| Gem | Base Price | How to Obtain |
 |------|--------|---------|
-| 钻石 | 750G | 矿井40层+ |
-| 翡翠 | 200G | 矿井各层 |
-| 红宝石 | 250G | 矿井60层+ |
-| 紫水晶 | 150G | 矿井各层 |
-| 海蓝宝石 | 200G | 矿井40/80层+ |
-| 黄玉 | 120G | 矿井各层 |
+| Diamond | 750G | Mines floor 40+ |
+| Jade | 200G | Various mine floors |
+| Ruby | 250G | Mines floor 60+ |
+| Amethyst | 150G | Various mine floors |
+| Aquamarine | 200G | Mines floor 40/80+ |
+| Topaz | 120G | Various mine floors |

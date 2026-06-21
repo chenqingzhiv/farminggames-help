@@ -1,160 +1,160 @@
 ---
-title: 星露谷物语矿洞攻略
-description: 星露谷物语矿洞完整攻略 — 1-120层攻略、怪物图鉴、矿石价值、冲层技巧
+title: Stardew Valley Mining Guide
+description: Stardew Valley Complete Mining Guide — Floors 1-120攻略, Monster Guide, Ore Values, Descending Tips
 ---
 
-# ⛏️ 矿洞全攻略
+# ⛏️ Complete Mining Guide
 
-矿洞是星露谷物语的核心内容之一——**钱、矿石、宝石、武器**都来自矿洞。本攻略涵盖从1层冲到120层的完整路线。
-
----
-
-## 矿洞基础
-
-### 解锁条件
-| 条件 | 说明 |
-|:----|:-----|
-| 时间 | 春季第5天后 |
-| 事件 | 早上收到Joja的"破剑"邮件 |
-| 地点 | 山脉东北方（过桥） |
-
-### 重要机制
-
-| 机制 | 说明 |
-|:----|:-----|
-| **电梯** | 每5层解锁一个电梯站（5/10/15…） |
-| **矿车** | 完成社区中心"黑曜石"收集包解锁快速交通 |
-| **层数** | 共120层，每10层一个地形变化 |
-| **时间** | 矿洞内2:00AM强制晕倒（损失1000g+） |
+Mining is one of the core activities in Stardew Valley — **money, ore, gems, and weapons** all come from the mines. This guide covers the complete route from floor 1 to floor 120.
 
 ---
 
-## 1-120层完整攻略
+## Mining Basics
 
-### 第1-30层（泥土层）
+### Unlock Conditions
+| Condition | Description |
+|:----------|:------------|
+| Time | After Spring Day 5 |
+| Event | Receive Joja's "Broken Sword" mail in the morning |
+| Location | Northeast of the mountains (cross the bridge) |
 
-| 层数 | 地形 | 主要矿物 | 怪物 |
-|:----|:-----|:--------|:----|
-| 1-10 | 泥土 | 铜矿、石英 | 史莱姆、蝙蝠 |
-| 11-20 | 泥土 | 铜矿 | 史莱姆、石魔 |
-| 21-30 | 泥土 | 铁矿 | 石魔、蝙蝠 |
+### Important Mechanics
 
-**冲层建议：** 前30层快速冲，每层看一眼有矿石就收。不要停留太久。
-
-### 第31-50层（冰地层）
-
-| 层数 | 地形 | 主要矿物 | 怪物 |
-|:----|:-----|:--------|:----|
-| 31-40 | 冰地 | 铁矿、金矿 | 冰球、冰蝠 |
-| 41-50 | 冰地 | 金矿 | 鬼魂、骷髅 |
-
-**关键掉落：** 冰冻晶球（41+层大量），存档以后去铁匠铺开。
-
-### 第51-70层（深地层）
-
-| 层数 | 地形 | 主要矿物 | 怪物 |
-|:----|:-----|:--------|:----|
-| 51-60 | 深地 | 金矿 | 暗影人、骷髅 |
-| 61-70 | 深地 | 金矿 | 暗影武士、蝙蝠 |
-
-**冲层建议：** 从这开始建议带 **炸弹** 开路，比镐子快5倍。
-
-### 第71-90层（熔岩层）
-
-| 层数 | 地形 | 主要矿物 | 怪物 |
-|:----|:-----|:--------|:----|
-| 71-80 | 熔岩 | 金矿 | 熔岩球、红蝠 |
-| 81-90 | 熔岩 | 金矿 | 暗影萨满、熔岩蝙蝠 |
-
-**危险：** 暗影萨满有减血DEBUFF，带足食物。
-
-### 第91-110层（暗地层）
-
-| 层数 | 地形 | 主要矿物 | 怪物 |
-|:----|:-----|:--------|:----|
-| 91-100 | 暗地 | 铱矿（少量） | 紫色史莱姆、骷髅大怪 |
-| 101-110 | 暗地 | 铱矿（少量） | 暗影怪物、飞蛇 |
-
-**冲层建议：** 从这里开始用大量炸弹，不恋战，只为找梯子/洞口。
-
-### 第111-120层（终极层）
-
-| 层数 | 地形 | 主要矿物 | 怪物 |
-|:----|:-----|:--------|:----|
-| 111-119 | 暗地 | 铱矿 | 极难怪物 |
-| **120** | 宝箱层 | — | 获得"钢剑"（永久） |
+| Mechanic | Description |
+|:---------|:------------|
+| **Elevator** | Unlocks a stop every 5 floors (5/10/15…) |
+| **Minecart** | Complete the Community Center "Blacksmith's" bundle to unlock fast travel |
+| **Floors** | 120 floors total, terrain changes every 10 floors |
+| **Time** | Passing out at 2:00AM in the mines costs 1000g+ |
 
 ---
 
-## 矿石价值表
+## Floors 1-120 Complete Guide
 
-| 矿物 | 卖价 | 用途 |
-|:----|:----|:-----|
-| 铜矿石 | 5g | 工具升级/熔炼 |
-| 铁矿石 | 10g | 工具升级/熔炼 |
-| 金矿石 | 25g | 工具升级/熔炼 |
-| 铱矿石 | 100g | 终极工具/装备 |
-| 石英 | 25g | 精炼石英/玻璃 |
-| 火水晶 | 100g | 送礼（水手最爱） |
-| 钻石 | 750g | 送礼/赚钱 |
-| 翡翠 | 200g | 周日沙漠商人换楼梯 |
-| 红宝石 | 250g | 周一沙漠商人换辣味辣椒 |
-| 五彩碎片 | 2000g | 银河武器/博物馆 |
+### Floors 1-30 (Dirt Layer)
+
+| Floors | Terrain | Main Minerals | Monsters |
+|:-------|:--------|:--------------|:---------|
+| 1-10 | Dirt | Copper Ore, Quartz | Slimes, Bats |
+| 11-20 | Dirt | Copper Ore | Slimes, Stone Golems |
+| 21-30 | Dirt | Iron Ore | Stone Golems, Bats |
+
+**Descending advice:** Rush through the first 30 floors. Look for visible ore on each floor but don't stay too long.
+
+### Floors 31-50 (Ice Layer)
+
+| Floors | Terrain | Main Minerals | Monsters |
+|:-------|:--------|:--------------|:---------|
+| 31-40 | Ice | Iron Ore, Gold Ore | Frost Jellies, Frost Bats |
+| 41-50 | Ice | Gold Ore | Ghosts, Skeletons |
+
+**Key drops:** Frozen Geodes (lots from floor 41+), save them to open at the blacksmith later.
+
+### Floors 51-70 (Deep Earth Layer)
+
+| Floors | Terrain | Main Minerals | Monsters |
+|:-------|:--------|:--------------|:---------|
+| 51-60 | Deep Earth | Gold Ore | Shadow People, Skeletons |
+| 61-70 | Deep Earth | Gold Ore | Shadow Warriors, Bats |
+
+**Descending advice:** Starting from here, it's recommended to use **bombs** to clear paths — 5x faster than a pickaxe.
+
+### Floors 71-90 (Lava Layer)
+
+| Floors | Terrain | Main Minerals | Monsters |
+|:-------|:--------|:--------------|:---------|
+| 71-80 | Lava | Gold Ore | Lava Sprites, Red Bats |
+| 81-90 | Lava | Gold Ore | Shadow Shamans, Lava Bats |
+
+**Danger:** Shadow Shamans have a health-reducing debuff — bring plenty of food.
+
+### Floors 91-110 (Dark Earth Layer)
+
+| Floors | Terrain | Main Minerals | Monsters |
+|:-------|:--------|:--------------|:---------|
+| 91-100 | Dark Earth | Iridium Ore (sparse) | Purple Slimes, Big Skeletons |
+| 101-110 | Dark Earth | Iridium Ore (sparse) | Shadow Monsters, Serpents |
+
+**Descending advice:** From here, use lots of bombs. Don't linger — just look for ladders/holes.
+
+### Floors 111-120 (Ultimate Layer)
+
+| Floors | Terrain | Main Minerals | Monsters |
+|:-------|:--------|:--------------|:---------|
+| 111-119 | Dark Earth | Iridium Ore | Very difficult monsters |
+| **120** | Treasure Floor | — | Obtain "Steel Sword" (permanent) |
 
 ---
 
-## 冲层技巧
+## Ore Value Table
 
-### 速度冲层法（推荐）
+| Mineral | Sell Price | Uses |
+|:--------|:-----------|:-----|
+| Copper Ore | 5g | Tool upgrades/Smelting |
+| Iron Ore | 10g | Tool upgrades/Smelting |
+| Gold Ore | 25g | Tool upgrades/Smelting |
+| Iridium Ore | 100g | Ultimate tools/Equipment |
+| Quartz | 25g | Refined Quartz/Glass |
+| Fire Quartz | 100g | Gifts (Mariner loves it) |
+| Diamond | 750g | Gifts/Money |
+| Jade | 200g | Trade for staircases at Desert Trader on Sundays |
+| Ruby | 250g | Trade for Spicy Eel at Desert Trader on Mondays |
+| Prismatic Shard | 2000g | Galaxy Weapon/Museum |
+
+---
+
+## Descending Tips
+
+### Speed Descending Method (Recommended)
 ```
-装备： 金镐+钢剑+炸弹×50+沙拉×10
-策略： 进层→看矿→没矿就放炸弹找洞口/梯子→下层
-目标： 每层不超过30秒
-成果： 从1冲到120层约2-3小时游戏内时间
+Gear:     Gold Pickaxe + Steel Sword + Bombs×50 + Salad×10
+Strategy: Enter floor → Scan for ore → No ore? Drop bombs to find hole/ladder → Next floor
+Goal:     No more than 30 seconds per floor
+Result:   About 2-3 in-game hours from floor 1 to 120
 ```
 
-### 摸矿冲层法（缺资源时）
+### Mining Descending Method (When resources are low)
 ```
-装备： 铜/铁镐+基础剑+食物×10
-策略： 进层→收看得见的矿→找梯子→下层
-目标： 边收资源边冲层
-适合： 前期缺铜铁矿的时候
+Gear:     Copper/Iron Pickaxe + Basic Sword + Food×10
+Strategy: Enter floor → Collect visible ore → Find ladder → Next floor
+Goal:     Collect resources while descending
+Best for: Early game when lacking copper/iron
 ```
 
-### 炸弹冲层法（后期快速）
+### Bomb Descending Method (Late game, fast)
 ```
-装备： 金/铱镐+银河剑+炸弹×200+咖啡×5
-策略： 进层→往中间放炸弹→找洞口→下层
-目标： 每层10秒
-适合： 专门找铱矿/开宝箱
+Gear:     Gold/Iridium Pickaxe + Galaxy Sword + Bombs×200 + Coffee×5
+Strategy: Enter floor → Drop bombs in the middle → Find hole → Next floor
+Goal:     10 seconds per floor
+Best for: Specifically looking for iridium/treasure chests
 ```
 
 ---
 
-## 必拿物品
+## Must-Get Items
 
-| 物品 | 层数 | 获取方式 | 价值 |
-|:----|:-----|:---------|:-----|
-| 钢剑 | 120层宝箱 | 到120层自动获得 | ⭐ 前期最佳武器 |
-| 彩石 | 1-120随机 | 怪物掉落/宝箱 | 换银河剑必备 |
-| 钻石 | 50+层 | 宝石节点/怪物 | 复制机产钻石赚钱 |
-| 恐龙蛋 | 贯穿 | 开晶球/宝箱 | 孵化恐龙+恐龙蛋酒 |
+| Item | Floor | How to Get | Value |
+|:-----|:------|:-----------|:------|
+| Steel Sword | Floor 120 chest | Auto-obtained when reaching floor 120 | ⭐ Best early weapon |
+| Prismatic Shard | 1-120 random | Monster drops/Chests | Required for Galaxy Sword |
+| Diamond | Floor 50+ | Gem nodes/Monsters | Copy with crystalarium for profit |
+| Dinosaur Egg | Throughout | Opening geodes/Chests | Hatch dinosaur + Dinosaur Mayo |
 
 ---
 
-## 冬天下矿特别策略
+## Winter Mining Special Strategy
 
-冬季是冲矿洞的**最佳时期**——户外不能种地，整天泡矿洞：
+Winter is the **best time** to rush the mines — since you can't plant outdoors, you can spend all day in the mines:
 
 ```
-建议冬季日程：
-6:00   起床收温室
-6:30   直奔矿洞
-6:30-13:00 冲层（带食物+炸弹）
-13:00-17:00 收集矿石+晶球
-17:00-18:00 矿洞门口摸黑曜石
-18:00-19:00 回家卖货
-19:00-22:00 熔炼矿石+加工
+Recommended winter schedule:
+6:00     Wake up, harvest greenhouse
+6:30     Head straight to the mines
+6:30-13:00    Descend (bring food + bombs)
+13:00-17:00   Collect ore + geodes
+17:00-18:00   Gather obsidian near mine entrance
+18:00-19:00   Go home and sell goods
+19:00-22:00   Smelt ore + processing
 ```
 
-**冬季冲洞目标：** 第一年冬季结束前冲到120层，解锁钢剑+全电梯。
+**Winter mining goal:** Reach floor 120 before the end of your first winter, unlocking the Steel Sword + all elevators.

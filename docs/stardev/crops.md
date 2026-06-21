@@ -1,106 +1,106 @@
-# 🌱 全季节作物利润表
+# 🌱 Full Season Crop Profit Table
 
-> 数据版本：Stardew Valley 1.6 | 最后更新：2026-06
+> Data version: Stardew Valley 1.6 | Last updated: 2026-06
 
-## 春季作物
+## Spring Crops
 
-| 作物 | 种子价格 | 生长天数 | 续收 | 卖价 | 每日利润 | 备注 |
+| Crop | Seed Price | Growth Days | Regrowth | Sell Price | Daily Profit | Notes |
 |:-----|:--------|:--------|:----|:----|:--------|:-----|
-| 草莓 🍓 | 100金 | 8天 | 每4天 | 120金 | **20.83金/天** | 🏆 春季最强 |
-| 蓝莓 🫐 | 80金 | 13天 | 每4天 | 50金 | 20.80金/天 | 续收作物 |
-| 花椰菜 🥦 | 80金 | 12天 | 否 | 175金 | 7.92金/天 | 巨型作物 |
-| 土豆 🥔 | 50金 | 6天 | 否 | 80金 | 5.00金/天 | 有机会出多颗 |
-| 甘蓝 🥬 | 70金 | 6天 | 否 | 110金 | 6.67金/天 | |
-| 防风草 🌿 | 20金 | 4天 | 否 | 35金 | 3.75金/天 | 新手首选 |
-| 大黄 🥬 | 100金 | 13天 | 否 | 220金 | 9.23金/天 | |
-| 郁金香 🌷 | 20金 | 6天 | 否 | 30金 | 1.67金/天 | 装饰用 |
-| 蓝爵士 💐 | 30金 | 7天 | 否 | 50金 | 2.86金/天 | 装饰用 |
-| 咖啡豆 ☕ | 2500金 | 10天 | 每2天 | 15金 | 18.5金/天 | 前期买不起 |
+| Strawberry 🍓 | 100g | 8 days | Every 4 days | 120g | **20.83g/day** | 🏆 Best in Spring |
+| Blueberry 🫐 | 80g | 13 days | Every 4 days | 50g | 20.80g/day | Regrow crop |
+| Cauliflower 🥦 | 80g | 12 days | No | 175g | 7.92g/day | Giant crop |
+| Potato 🥔 | 50g | 6 days | No | 80g | 5.00g/day | Chance for multiple |
+| Kale 🥬 | 70g | 6 days | No | 110g | 6.67g/day | |
+| Parsnip 🌿 | 20g | 4 days | No | 35g | 3.75g/day | Beginner favorite |
+| Rhubarb 🥬 | 100g | 13 days | No | 220g | 9.23g/day | |
+| Tulip 🌷 | 20g | 6 days | No | 30g | 1.67g/day | Decorative |
+| Blue Jazz 💐 | 30g | 7 days | No | 50g | 2.86g/day | Decorative |
+| Coffee Bean ☕ | 2500g | 10 days | Every 2 days | 15g | 18.5g/day | Can't afford early |
 
-**春季推荐：** 草莓 > 土豆 > 花椰菜
+**Spring Recommendation:** Strawberry > Potato > Cauliflower
 
 ---
 
-## 夏季作物
+## Summer Crops
 
-| 作物 | 种子价格 | 生长天数 | 续收 | 卖价 | 每日利润 | 备注 |
+| Crop | Seed Price | Growth Days | Regrowth | Sell Price | Daily Profit | Notes |
 |:-----|:--------|:--------|:----|:----|:--------|:-----|
-| 蓝莓 🫐 | 80金 | 13天 | 每4天 | 50金 | **20.80金/天** | 🏆 夏季冠军 |
-| 杨桃 ⭐ | 400金 | 13天 | 否 | 750金 | 26.92金/天 | 酿酒用 |
-| 啤酒花 🌿 | 60金 | 11天 | 每天 | 25金 | 16.50金/天 | 酿酒利润高 |
-| 甜瓜 🍈 | 80金 | 12天 | 否 | 250金 | 14.17金/天 | 巨型作物 |
-| 辣椒 🌶️ | 40金 | 5天 | 每3天 | 40金 | 10.67金/天 | |
-| 番茄 🍅 | 50金 | 11天 | 每4天 | 60金 | 9.26金/天 | |
-| 玉米 🌽 | 150金 | 14天 | 每4天 | 50金 | 7.50金/天 | 跨秋季 |
-| 向日葵 🌻 | 200金 | 8天 | 每2天 | 80金 | 4.00金/天 | 产种子 |
-| 萝卜 🥕 | 40金 | 6天 | 否 | 90金 | 8.33金/天 | |
-| 虞美人 🌺 | 100金 | 7天 | 否 | 140金 | 5.71金/天 | |
+| Blueberry 🫐 | 80g | 13 days | Every 4 days | 50g | **20.80g/day** | 🏆 Summer Champion |
+| Starfruit ⭐ | 400g | 13 days | No | 750g | 26.92g/day | For Kegging |
+| Hops 🌿 | 60g | 11 days | Daily | 25g | 16.50g/day | High Keg profit |
+| Melon 🍈 | 80g | 12 days | No | 250g | 14.17g/day | Giant crop |
+| Hot Pepper 🌶️ | 40g | 5 days | Every 3 days | 40g | 10.67g/day | |
+| Tomato 🍅 | 50g | 11 days | Every 4 days | 60g | 9.26g/day | |
+| Corn 🌽 | 150g | 14 days | Every 4 days | 50g | 7.50g/day | Spans into Fall |
+| Sunflower 🌻 | 200g | 8 days | Every 2 days | 80g | 4.00g/day | Produces seeds |
+| Radish 🥕 | 40g | 6 days | No | 90g | 8.33g/day | |
+| Poppy 🌺 | 100g | 7 days | No | 140g | 5.71g/day | |
 
-**夏季推荐：** 杨桃（酿酒）> 蓝莓 > 啤酒花
+**Summer Recommendation:** Starfruit (Keg) > Blueberry > Hops
 
 ---
 
-## 秋季作物
+## Fall Crops
 
-| 作物 | 种子价格 | 生长天数 | 续收 | 卖价 | 每日利润 | 备注 |
+| Crop | Seed Price | Growth Days | Regrowth | Sell Price | Daily Profit | Notes |
 |:-----|:--------|:--------|:----|:----|:--------|:-----|
-| 蔓越莓 🫐 | 240金 | 10天 | 每3天 | 75金 | **18.89金/天** | 🏆 秋季王者 |
-| 南瓜 🎃 | 100金 | 13天 | 否 | 320金 | 16.92金/天 | 巨型作物 |
-| 葡萄 🍇 | 60金 | 10天 | 每3天 | 80金 | 16.00金/天 | |
-| 茄子 🍆 | 20金 | 7天 | 每5天 | 60金 | 11.20金/天 | |
-| 红薯 🍠 | 60金 | 12天 | 否 | 160金 | 8.33金/天 | |
-| 山药 🫘 | 60金 | 10天 | 否 | 160金 | 10.00金/天 | |
-| 苋菜 🌿 | 70金 | 7天 | 否 | 150金 | 11.43金/天 | |
-| 白菜 🥬 | 50金 | 6天 | 否 | 80金 | 5.00金/天 | |
-| 玫瑰仙子 🌹 | 200金 | 12天 | 否 | 290金 | 7.50金/天 | 生日礼物 |
+| Cranberry 🫐 | 240g | 10 days | Every 3 days | 75g | **18.89g/day** | 🏆 Fall King |
+| Pumpkin 🎃 | 100g | 13 days | No | 320g | 16.92g/day | Giant crop |
+| Grape 🍇 | 60g | 10 days | Every 3 days | 80g | 16.00g/day | |
+| Eggplant 🍆 | 20g | 7 days | Every 5 days | 60g | 11.20g/day | |
+| Sweet Potato 🍠 | 60g | 12 days | No | 160g | 8.33g/day | |
+| Yam 🫘 | 60g | 10 days | No | 160g | 10.00g/day | |
+| Amaranth 🌿 | 70g | 7 days | No | 150g | 11.43g/day | |
+| Bok Choy 🥬 | 50g | 6 days | No | 80g | 5.00g/day | |
+| Fairy Rose 🌹 | 200g | 12 days | No | 290g | 7.50g/day | Birthday gift |
 
-**秋季推荐：** 蔓越莓 > 南瓜 > 葡萄
+**Fall Recommendation:** Cranberry > Pumpkin > Grape
 
 ---
 
-## 全年最赚钱作物 TOP 10
+## Top 10 Most Profitable Crops All Year
 
-| 排名 | 作物 | 季节 | 每日利润 | 种植建议 |
+| Rank | Crop | Season | Daily Profit | Planting Advice |
 |:----|:-----|:-----|:--------|:--------|
-| 🥇 | 杨桃 ⭐ | 夏 | 26.92金/天 | 酿酒后可卖3150金 |
-| 🥈 | 草莓 🍓 | 春 | 20.83金/天 | 第二年春天大量种 |
-| 🥉 | 蓝莓 🫐 | 夏 | 20.80金/天 | 工会品质肥料 |
-| 4 | 蔓越莓 🫐 | 秋 | 18.89金/天 | 秋季经济支柱 |
-| 5 | 啤酒花 🌿 | 夏 | 16.50金/天 | 酿酒用 |
-| 6 | 南瓜 🎃 | 秋 | 16.92金/天 | 可巨型+3000金 |
-| 7 | 甜瓜 🍈 | 夏 | 14.17金/天 | 可巨型 |
-| 8 | 花椰菜 🥦 | 春 | 7.92金/天 | 可巨型 |
-| 9 | 甘蓝 🥬 | 春 | 6.67金/天 | |
-| 10 | 土豆 🥔 | 春 | 5.00金/天 | 多颗掉落 |
+| 🥇 | Starfruit ⭐ | Summer | 26.92g/day | Sells for 3150g when kegged |
+| 🥈 | Strawberry 🍓 | Spring | 20.83g/day | Mass plant in Year 2 Spring |
+| 🥉 | Blueberry 🫐 | Summer | 20.80g/day | Use Quality Fertilizer |
+| 4 | Cranberry 🫐 | Fall | 18.89g/day | Fall economic pillar |
+| 5 | Hops 🌿 | Summer | 16.50g/day | For Kegging |
+| 6 | Pumpkin 🎃 | Fall | 16.92g/day | Can be giant + 3000g |
+| 7 | Melon 🍈 | Summer | 14.17g/day | Can be giant |
+| 8 | Cauliflower 🥦 | Spring | 7.92g/day | Can be giant |
+| 9 | Kale 🥬 | Spring | 6.67g/day | |
+| 10 | Potato 🥔 | Spring | 5.00g/day | Multi-drop chance |
 
 ---
 
-## 酿酒利润 TOP 5
+## Top 5 Keg Profit
 
-| 作物 | 普通卖价 | 桶酿酒 | 增值 |
+| Crop | Base Price | Keg Wine | Multiplier |
 |:----|:--------|:------|:----|
-| 杨桃 | 750金 | 2250金 | 3倍 |
-| 甜瓜 | 250金 | 750金 | 3倍 |
-| 南瓜 | 320金 | 610金 | 1.9倍 |
-| 啤酒花 | 25金 | 300金 | **12倍** |
-| 小麦 | 10金 | 200金 | 20倍 |
+| Starfruit | 750g | 2250g | 3x |
+| Melon | 250g | 750g | 3x |
+| Pumpkin | 320g | 610g | 1.9x |
+| Hops | 25g | 300g | **12x** |
+| Wheat | 10g | 200g | 20x |
 
-> **啤酒花是酿酒效率之王！** 虽然单价不高，但每天收一次，11天长成后每天产，全年酿酒流水线。
+> **Hops are the Keg efficiency king!** Though the base price is low, they're harvested daily, take 11 days to mature, then produce every day — a year-round Keg assembly line.
 
 ---
 
-## 温室内种植推荐
+## Greenhouse Planting Recommendations
 
-| 优先级 | 作物 | 理由 |
+| Priority | Crop | Reason |
 |:-----|:-----|:-----|
-| 1 | 杨桃 ⭐ | 全年持续种，酿酒卖 |
-| 2 | 啤酒花 🌿 | 每天收，酿酒暴利 |
-| 3 | 咖啡豆 ☕ | 批量种，每天喝咖啡加速 |
-| 4 | 蓝莓 🫐 | 续收，不费精力 |
-| 5 | 蔓越莓 🫐 | 续收，冬季补充 |
+| 1 | Starfruit ⭐ | Grow year-round, Keg and sell |
+| 2 | Hops 🌿 | Daily harvest, huge Keg profit |
+| 3 | Coffee Bean ☕ | Mass plant, drink coffee daily for speed boost |
+| 4 | Blueberry 🫐 | Regrows, low effort |
+| 5 | Cranberry 🫐 | Regrows, winter supplement |
 
 ---
 
-> 💡 **新手贴士：** 第一年春季主要靠钓鱼赚钱。防风草种够完成献祭就行，把钱留着买 **草莓**（春13日蛋节买）。
+> 💡 **Beginner Tip:** In the first year, Spring is mainly about making money by fishing. Only grow enough parsnips to complete the bundle, save your gold for **Strawberries** (buy at Egg Festival on Spring 13).
 
-> 💡 **中级贴士：** 解锁温室后，立刻在温室里种杨桃+啤酒花。配合小桶，日入过万不是梦。
+> 💡 **Intermediate Tip:** Once you unlock the Greenhouse, immediately plant Starfruit + Hops in it. With Kegs, earning over 10k/day is easy.

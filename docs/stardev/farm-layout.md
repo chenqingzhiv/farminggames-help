@@ -1,207 +1,212 @@
 ---
-title: 星露谷物语农场布局规划
-description: 星露谷物语农场布局方案 — 新手入门布局、经济型布局、美观型布局、全自动布局指南
+title: Stardew Valley Farm Layout Planning
+description: Stardew Valley Farm Layout Guide — Beginner layout, economic layout, aesthetic layout, fully automated layout
 ---
 
-# 🏠 农场布局规划
+# 🏠 Farm Layout Planning
 
-好的布局 = **省时 + 赚钱 + 好看**。本攻略提供从新手到毕业的全阶段布局方案。
-
----
-
-## 布局黄金法则
-
-| 法则 | 说明 |
-|:----|:-----|
-| **1. 集中灌溉** | 耕地集中一片，洒水器覆盖最大化 |
-| **2. 动线最优** | 每天从家→信箱→农舍→温室→畜棚，走直线 |
-| **3. 模块化** | 四大区域：种植区+畜牧区+加工区+装饰区 |
-| **4. 留空间** | 建筑可以移动，但路和树的位置提前规划好 |
+A good layout = **time-saving + profitable + beautiful**. This guide provides layout plans for every stage from beginner to endgame.
 
 ---
 
-## 🌱 新手布局（第一年春季）
+## Golden Rules of Layout
 
-**目标：用最少的钱最大化种植面积**
+| Rule | Description |
+|:-----|:------------|
+| **1. Centralized Irrigation** | Concentrate farming in one area for maximum sprinkler coverage |
+| **2. Optimal Pathing** | Daily route: House → Mailbox → Farmhouse → Greenhouse → Barn, in a straight line |
+| **3. Modular Design** | Four main zones: Planting Zone + Animal Zone + Processing Zone + Decoration Zone |
+| **4. Leave Room** | Buildings can be moved, but plan roads and tree positions in advance |
+
+---
+
+## 🌱 Beginner Layout (First Year Spring)
+
+**Goal: Maximize planting area with minimal money**
 
 ```
 ┌─────────────────────────────────┐
-│       庄园入口                    │
+│       Farm Entrance               │
 │   ┌──────┐                       │
-│   │  房屋  │                      │
+│   │ House │                      │
 │   └──────┘                       │
 │        │                         │
 │     ┌──┴────────────┐            │
-│     │   小耕地(40格)  │  ← 手动浇水 │
-│     │  防风草+土豆   │            │
+│     │  Small Plot    │  ← Hand-water │
+│     │  (40 tiles)    │            │
+│     │  Parsnip+Potato│            │
 │     └───────────────┘            │
 │        │                         │
 │     ┌──┴────────────┐            │
-│     │   木箱+箱子    │            │
-│     │  熔炉+砧板     │            │
+│     │  Chests+Boxes  │           │
+│     │  Furnace+Anvil │           │
 │     └───────────────┘            │
 │                                  │
-│   🐔 鸡舍（后期再建）              │
+│   🐔 Coop (build later)          │
 └─────────────────────────────────┘
 ```
 
-**第一年春季重点：** 不追求布局，先赚钱升级工具。春季末存够买铜/铁洒水器的钱。
+**First Spring Focus:** Don't worry about layout — earn money and upgrade tools first. Save enough by the end of spring to buy Copper/Iron Sprinklers.
 
 ---
 
-## 💰 经济型布局（第一年夏季）
+## 💰 Economic Layout (First Year Summer)
 
-**目标：洒水器覆盖 + 最大化种植收入**
+**Goal: Sprinkler coverage + Maximize planting income**
 
 ```
 ┌─────────────────────────────────┐
-│  房屋  │                       │
-│        │                       │
-│   ┌────┴──────────────┐        │
-│   │ 铜洒水器  ★  ★  ★  │       │
-│   │ (3×3每台，覆盖8格) │ ← 重点 │
-│   └───────────────────┘        │
-│        │                       │
-│  ┌─────┴──────┐  ┌────┴────┐  │
-│  │ 蓝莓×40    │  │ 啤酒花×24 │ │
-│  │ 收入王     │  │ 酿酒用   │  │
-│  └────────────┘  └─────────┘  │
-│        │                       │
-│  ┌─────┴──────┐                │
-│  │ 鸡舍×1     │ ← 产蛋赚钱    │
-│  │ 牛棚×1     │                │
-│  └────────────┘                │
+│   House  │                     │
+│          │                     │
+│   ┌──────┴──────────────┐      │
+│   │ Copper Sprinkler     │      │
+│   │  ★  ★  ★           │      │
+│   │ (3×3 each, covers 8) │ ← Key │
+│   └─────────────────────┘      │
+│          │                     │
+│  ┌───────┴──────┐  ┌────┴────┐│
+│  │ Blueberries   │  │ Hops×24 ││
+│  │ ×40           │  │ For wine││
+│  │ Money King    │  │ making  ││
+│  └──────────────┘  └─────────┘│
+│          │                     │
+│  ┌───────┴──────┐              │
+│  │ Coop×1       │ ← Eggs for  │
+│  │ Barn×1       │   profit    │
+│  └──────────────┘              │
 └─────────────────────────────────┘
 ```
 
-**关键：** 夏季结束前至少要有 **8台铜洒水器**（覆盖64格），秋季就不用手动浇水了。
+**Key:** Before summer ends, have at least **8 Copper Sprinklers** (covering 64 tiles) so you won't need to hand-water in fall.
 
 ---
 
-## 🌿 中期布局（第一年秋季-第二年）
+## 🌿 Mid-Game Layout (First Year Fall - Year 2)
 
-**目标：铁洒水器 + 酒桶 + 蓄棚**
+**Goal: Iron Sprinklers + Kegs + Barn**
 
 ```
 ┌─────────────────────────────────┐
-│  房屋    │   装饰区（树+路）     │
-│          │                      │
-│  ┌───────┴─────────┐            │
-│  │  铁洒水器覆盖区   │            │
-│  │  ★★★★★★★★       │  ← 168格    │
-│  │  ★★★★★★★★       │  蔓越莓/南瓜│
-│  │  ★★★★★★★★       │            │
-│  └──────────────────┘            │
-│          │                      │
-│  ┌───────┴────┐  ┌────┴──────┐  │
-│  │ 谷仓(牛)   │  │ 谷仓(羊)   │  │
-│  │ 奶酪机×4   │  │ 织布机×4   │  │
-│  └────────────┘  └───────────┘  │
-│          │                      │
-│  ┌───────┴────┐                 │
-│  │ 鸡舍（兔+鸵）│ ← 动物制品加工 │
-│  │ 蛋黄酱机×4  │                 │
-│  └────────────┘                 │
-│          │                      │
-│      ┌───┴─────────┐            │
-│      │ 酒厂+罐头厂  │            │
-│      │ 小桶×20     │ ← 果酒加工 │
-│      └─────────────┘            │
+│   House      │ Decoration Zone  │
+│              │ (Trees + Paths)  │
+│  ┌───────────┴─────────┐        │
+│  │ Iron Sprinkler Zone  │        │
+│  │  ★★★★★★★★           │ ← 168  │
+│  │  ★★★★★★★★           │   tiles│
+│  │  ★★★★★★★★           │ Cran./ │
+│  └──────────────────────┘ Pumpkin│
+│              │                  │
+│  ┌───────────┴────┐  ┌────┴────┐│
+│  │ Barn (Cows)    │  │ Barn    ││
+│  │ Cheesemaker×4  │  │ (Sheep) ││
+│  └────────────────┘  │ Loom×4  ││
+│              │      └─────────┘│
+│  ┌───────────┴────┐            │
+│  │ Coop           │ ← Animal   │
+│  │ (Rabbits+Ost.) │   products │
+│  │ Mayonnaise×4   │   process  │
+│  └────────────────┘            │
+│              │                 │
+│      ┌───────┴─────────┐       │
+│      │ Winery+Preserves│       │
+│      │ Kegs×20         │ ←Wine │
+│      └─────────────────┘       │
 └─────────────────────────────────┘
 ```
 
 ---
 
-## 🌟 高级布局（第二年+）
+## 🌟 Advanced Layout (Year 2+)
 
-**目标：铱洒水器全覆盖+全自动+美观**
+**Goal: Full Iridium Sprinkler coverage + Full automation + Aesthetics**
 
 ```
 ┌─────────────────────────────────┐
-│ 房屋+温室  │   果园（果树一圈）  │
-│            │                    │
-│  温室内种植│                    │
-│  上古水果  │                    │
-│  永久收入  │                    │
-│            │                    │
-│  ┌─────────┴──────────┐         │
-│  │ 铱洒水器全覆盖     │         │
-│  │ ★★★★★★★★★★★★★★    │ ← 自动洒 │
-│  │ ★★★★★★★★★★★★★★    │ 上古水果 │
-│  │ ★★★★★★★★★★★★★★    │ ×320格   │
-│  └────────────────────┘         │
-│            │                    │
-│  ┌─────────┴──────────┐         │
-│  │ 全动物区            │         │
-│  │ 鸡舍×2+谷仓×2+鸵房 │ ← 自动 │
-│  │ 自动收集器          │         │
-│  └────────────────────┘         │
-│            │                    │
-│  ┌─────────┴──────────┐         │
-│  │ 巨型酒厂            │         │
-│  │ 小桶×120+罐头×40   │ ← 加工 │
-│  └────────────────────┘         │
-│            │                    │
-│  ┌─────────┴──────────┐         │
-│  │ 宝石复制机×30      │ ← 被动 │
-│  │ 钻石产出≈40000/月  │  收入   │
-│  └────────────────────┘         │
+│ House+Greenhouse │ Orchard      │
+│                  │ (Fruit trees │
+│  Greenhouse      │  in a ring) │
+│  Ancient Fruit   │             │
+│  Permanent       │             │
+│  Income          │             │
+│                  │             │
+│  ┌───────────────┴──────────┐  │
+│  │ Iridium Sprinkler Full   │  │
+│  │ ★★★★★★★★★★★★★★          │  │
+│  │ ★★★★★★★★★★★★★★          │← │
+│  │ ★★★★★★★★★★★★★★          │  │
+│  └──────────────────────────┘  │
+│                  │             │
+│  ┌───────────────┴──────────┐  │
+│  │ Full Animal Zone         │  │
+│  │ Coop×2+Barn×2+Ostrich   │  │
+│  │ Auto-Grabbers           │  │
+│  └──────────────────────────┘  │
+│                  │             │
+│  ┌───────────────┴──────────┐  │
+│  │ Mega Winery               │  │
+│  │ Kegs×120+Preserves×40    │  │
+│  └──────────────────────────┘  │
+│                  │             │
+│  ┌───────────────┴──────────┐  │
+│  │ Crystalarium×30          │  │
+│  │ Diamond≈40000/month      │  │
+│  └──────────────────────────┘  │
 └─────────────────────────────────┘
 ```
 
 ---
 
-## 布局进阶技巧
+## Layout Advanced Tips
 
-### 果树布局（高效版）
+### Fruit Tree Layout (Efficient Version)
 ```
 ★ ★ ★ ★ ★ ★ 
-★ 空 空 空 ★  ← 内部走道
-★ 空 空 空 ★  
+★   empty  ★  ← Internal path
+★   empty  ★  
 ★ ★ ★ ★ ★ ★
-每棵树间距2格，留走道摘果
+Each tree spaced 2 tiles apart, leave paths for harvesting
 ```
-果树种在温室边缘更省地。
+Planting fruit trees along the greenhouse edge saves more space.
 
-### 酒厂布局（小桶摆放）
+### Winery Layout (Keg Placement)
 ```
-路 桶 桶 桶 路 桶 桶 桶 路
-路 桶 桶 桶 路 桶 桶 桶 路
-→ 走道 → 两排一通道，放/收果酒不卡位
+Path Keg Keg Keg Path Keg Keg Keg Path
+Path Keg Keg Keg Path Keg Keg Keg Path
+→ Corridor → Two rows with one aisle — won't block when placing/collecting wine
 ```
 
-### 自动收集器路径
+### Auto-Grabber Path
 ```
-鸡舍/谷仓门口 → 自动收集器（罗宾处购买）
-→ 直接放入加工机 → 成品送箱子
-全程不手动
+Coop/Barn entrance → Auto-Grabber (purchased from Robin)
+→ Load directly into processing machines → Products go to chests
+Fully hands-free
 ```
 
 ---
 
-## 农场类型选择建议
+## Farm Type Selection Guide
 
-| 农场类型 | 适合 | 难度 |
-|:---------|:-----|:-----|
-| **标准农场** | 新手 ✅ 最大空间 | ⭐ 简单 |
-| **河边农场** | 钓鱼爱好者 🎣 | ⭐⭐ |
-| **森林农场** | 采集党 🌲 | ⭐⭐ |
-| **山顶农场** | 矿工 ⛏️ | ⭐⭐⭐ |
-| **荒野农场** | 战斗狂 ⚔️ | ⭐⭐⭐ |
-| **四角农场** | 联机/模块化 | ⭐ |
-| **沙滩农场** | 挑战玩家 💪 | ⭐⭐⭐⭐ |
+| Farm Type | Best For | Difficulty |
+|:----------|:---------|:-----------|
+| **Standard Farm** | Beginners ✅ Most space | ⭐ Easy |
+| **Riverland Farm** | Fishing enthusiasts 🎣 | ⭐⭐ |
+| **Forest Farm** | Foraging fans 🌲 | ⭐⭐ |
+| **Hill-top Farm** | Miners ⛏️ | ⭐⭐⭐ |
+| **Wilderness Farm** | Combat lovers ⚔️ | ⭐⭐⭐ |
+| **Four Corners Farm** | Multiplayer/Modular | ⭐ |
+| **Beach Farm** | Challenge players 💪 | ⭐⭐⭐⭐ |
 
-**新手推荐：标准农场或四角农场。**
+**Beginner recommendation: Standard Farm or Four Corners Farm.**
 
 ---
 
-## ❓ 布局常见问题
+## ❓ Layout FAQ
 
-**Q: 布局要一次规划好吗？**  
-A: 不用。建筑可以找罗宾搬家（免费！），但路和树可以先规划。
+**Q: Do I need to plan the layout all at once?**  
+A: No. Buildings can be moved by Robin (free!), but roads and trees can be planned in advance.
 
-**Q: 什么时候开始规划最终布局？**  
-A: 第一年冬季，这时候地都开了，钱也有余裕了。
+**Q: When should I start planning the final layout?**  
+A: First year winter — by then all the land is cleared and you have some money to spare.
 
-**Q: 铱洒水器什么时候能大量获取？**  
-A: 到矿洞80层以后，开晶球+打怪掉落铱矿，做成铱洒水器。
+**Q: When can I get lots of Iridium Sprinklers?**  
+A: After reaching floor 80+ in the mines, open geodes and kill monsters for iridium ore, then craft iridium sprinklers.

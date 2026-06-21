@@ -1,33 +1,33 @@
 ---
-title: 星露谷物语秋季完整攻略
-description: 星露谷物语秋季攻略 — 秋季最赚钱作物、蔓越莓致富、博览会1000星币攻略
+title: Stardew Valley Complete Fall Guide
+description: Stardew Valley Fall Guide — Most profitable fall crops, cranberry fortune, Stardew Valley Fair 1000-star guide
 ---
 
-# 🍁 秋季完整攻略
+# 🍁 Complete Fall Guide
 
-秋季是星露谷物语**最赚钱的季节**！蔓越莓持续产出+南瓜高价，配合酿酒收入翻倍。
+Fall is the **most profitable season** in Stardew Valley! Cranberries provide continuous yield + Pumpkins sell at a high price, combined with keg profits to double your income.
 
-## 秋季作物推荐
+## Fall Crop Recommendations
 
-| 作物 | 单价 | 种到成熟 | 持续收获 | 单季收入 | 推荐度 |
-|:----|:----|:---------|:---------|:---------|:------|
-| **蔓越莓** 🫐 | 75g/2颗 | 7天 | 每2天 | **最高** | ⭐⭐⭐⭐⭐ |
-| **南瓜** 🎃 | 320g | 13天 | 一次 | 高 | ⭐⭐⭐⭐ |
-| **苋菜** 🌿 | 150g | 7天 | 一次 | 中 | ⭐⭐ |
-| **茄子** 🍆 | 60g | 7天 | 每4天 | 中 | ⭐⭐ |
-| **山药** 🥔 | 160g | 10天 | 一次 | 中 | ⭐ |
+| Crop | Price | Days to Mature | Regrowth | Season Income | Rating |
+|:-----|:------|:---------------|:---------|:--------------|:-------|
+| **Cranberries** 🫐 | 75g/2 berries | 7 days | Every 2 days | **Highest** | ⭐⭐⭐⭐⭐ |
+| **Pumpkin** 🎃 | 320g | 13 days | One-time | High | ⭐⭐⭐⭐ |
+| **Amaranth** 🌿 | 150g | 7 days | One-time | Medium | ⭐⭐ |
+| **Eggplant** 🍆 | 60g | 7 days | Every 4 days | Medium | ⭐⭐ |
+| **Yam** 🥔 | 160g | 10 days | One-time | Medium | ⭐ |
 
-**开荒建议：蔓越莓×80+南瓜×40**
+**New farm suggestion: Cranberries×80 + Pumpkins×40**
 
-## 秋季节日
+## Fall Festivals
 
-| 日期 | 节日 | 重点 |
-|:----|:-----|:-----|
-| 秋16 | Stardew博览会 | 提前存铱星+钻石+果酒 |
-| 秋27 | 万灵节 | 拿黄金南瓜 |
+| Date | Festival | Key Point |
+|:-----|:---------|:----------|
+| Fall 16 | Stardew Valley Fair | Save Iridium-quality items + Diamonds + Wine in advance |
+| Fall 27 | Spirit's Eve | Get the Golden Pumpkin |
 
-## 秋季关键：为冬季做准备
+## Fall Key: Prepare for Winter
 
-1. 升级洒水器（为温室做准备）
-2. 存种子（春季1抢种）
-3. 解锁温室（如果还没）
+1. Upgrade sprinklers (prepare for the greenhouse)
+2. Stockpile seeds (for Spring 1 planting rush)
+3. Unlock the greenhouse (if you haven't yet)

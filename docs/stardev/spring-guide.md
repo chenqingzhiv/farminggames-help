@@ -1,119 +1,119 @@
-# 🌷 春季完整攻略
+# 🌷 Complete Spring Guide
 
-> 来自Stardew Valley 1.6 | 让你第一个春天就赢在起跑线上
+> From Stardew Valley 1.6 | Win from the very start of your first spring
 
-## 春1日：从零开始
+## Spring Day 1: Starting from Zero
 
-### 早上（8AM-11AM）
-1. **拿种子** — 一开始有15个防风草种子
-2. **清理农地** — 砍10-15棵树，清出15格地种下
-3. **跟村民打招呼** — 走出家门，跟遇到的第一个人聊两句
-4. **接任务** — 去公告板接"帮助需要"任务
+### Morning (8AM-11AM)
+1. **Get Seeds** — You start with 15 parsnip seeds
+2. **Clear Farmland** — Chop 10-15 trees, clear 15 tiles and plant
+3. **Greet Villagers** — Walk out of your house and chat with the first person you meet
+4. **Accept Quests** — Check the bulletin board for "Help Wanted" quests
 
-### 上午（11AM-3PM）
-5. **去海滩** — 沿着铁路方向走，去海滩找威利
-6. **拿鱼杆** — 威利会给您一根训练鱼杆
-7. **钓鱼！** — 从2PM到睡觉前都在海边钓鱼
+### Late Morning (11AM-3PM)
+5. **Go to the Beach** — Head toward the railroad direction, go to the beach to find Willy
+6. **Get a Fishing Rod** — Willy will give you a training rod
+7. **Fish!** — Fish at the seaside from 2PM until bedtime
 
-> 🎣 **第一天的关键：钓鱼！** 防风草种下去不用管，第一天剩下的时间全部用来钓鱼，能赚500-1000金。
+> 🎣 **Key on Day 1: Fishing!** Once parsnips are planted, spend the rest of Day 1 fishing to earn 500-1000g.
 
-### 为什么第一天不浇水？
-防风草4天后才收，春2日再浇水也来得及。第一天的黄金时间是**去拿鱼杆**。
-
----
-
-## 春1-5日：存第一桶金
-
-| 天数 | 要做的事 |
-|:----|:--------|
-| 春1 | 种15个防风草、拿鱼杆、钓鱼（目标1000金） |
-| 春2 | 浇水、钓鱼（去矿山湖，那里鱼更值钱） |
-| 春3 | 买更多防风草种子（如有钱）、钓鱼 |
-| 春4 | 收第一批防风草、卖给皮埃尔 |
-| 春5 | 下矿洞（解锁需要的铜矿石） |
+### Why Not Water on Day 1?
+Parsnips take 4 days to harvest, watering on Spring 2 is still fine. The golden time on Day 1 is **getting the fishing rod**.
 
 ---
 
-## 春5-13日：准备草莓
+## Spring Days 1-5: Earn Your First Gold
 
-**草莓节（春13日）是最重要的节日！** 一颗草莓种200金，能种多少就种多少。
+| Day | To Do |
+|:----|:------|
+| Spring 1 | Plant 15 parsnips, get fishing rod, fish (goal 1000g) |
+| Spring 2 | Water crops, fish (go to mountain lake — fish are worth more there) |
+| Spring 3 | Buy more parsnip seeds (if you have money), fish |
+| Spring 4 | Harvest first parsnips, sell to Pierre |
+| Spring 5 | Go to the mines (unlock needed copper ore) |
 
-### 存钱路线
+---
+
+## Spring Days 5-13: Prepare for Strawberries
+
+**The Strawberry Festival (Spring 13) is the most important event!** One strawberry seed costs 200g — plant as many as you can.
+
+### Money Saving Route
 
 ```
-第一天：钓鱼 → 约1000金
-第二-五天：继续钓鱼+下矿 → 约3000金
-第六-十二天：钓鱼+挖矿 → 约5000-8000金
-春13日：全部买草莓！ 一颗100金，能买多少买多少
+Day 1:       Fish → about 1000g
+Days 2-5:    Keep fishing + mining → about 3000g
+Days 6-12:   Fishing + mining → about 5000-8000g
+Spring 13:   Buy all strawberries! 100g each, buy as many as you can
 ```
 
-> **春13日前留1万金**，买100颗草莓种下去。每个草莓收4次，到夏季前能赚至少8000金。
+> **Save 10,000g before Spring 13**, buy 100 strawberry seeds and plant them. Each strawberry yields 4 harvests, earning at least 8000g before summer.
 
 ---
 
-## 春14-28日：稳步发展
+## Spring Days 14-28: Steady Development
 
-| 天数 | 要做的事 |
-|:----|:--------|
-| 春14-20 | 收草莓（每4天收一次）、下矿到30层、升级背包 |
-| 春21-24 | 继续挖矿、钓鱼、赚夏季种子钱 |
-| 春25-28 | 清地（把枯掉的作物挖掉）、买夏季种子 |
+| Day | To Do |
+|:----|:------|
+| Spring 14-20 | Harvest strawberries (every 4 days), mine to floor 30, upgrade backpack |
+| Spring 21-24 | Continue mining, fishing, earn money for summer seeds |
+| Spring 25-28 | Clear the field (remove dead crops), buy summer seeds |
 
-**春28日必做清单：**
-- ✅ 至少买50个蓝莓种子（80金/个）
-- ✅ 升级到铜制工具（至少十字镐）
-- ✅ 背包至少升级到第二个档次
-
----
-
-## 春季赚钱对比
-
-| 赚钱方式 | 日收入 | 适合 | 建议 |
-|:--------|:------|:----|:----|
-| 钓鱼 🎣 | 500-1500金/天 | 新手 | **春季最好方法** |
-| 种草莓 🍓 | 300-800金/天 | 有地有人 | 春13后主要收入 |
-| 挖矿 ⛏️ | 200-500金/天 | 喜欢矿洞 | 找铜铁的同时赚钱 |
-| 采集 🍄 | 100-300金/天 | 闲暇时间 | 顺路捡就行 |
+**Spring 28 To-Do List:**
+- ✅ Buy at least 50 blueberry seeds (80g each)
+- ✅ Upgrade to copper tools (at least the pickaxe)
+- ✅ Upgrade backpack to at least the second tier
 
 ---
 
-## 春季社区中心献祭
+## Spring Money-Making Comparison
 
-> 春季一定要完成的献祭（不然要等明年）
-
-| 献祭项目 | 需要物品 | 完成奖励 |
-|:--------|:--------|:--------|
-| 春季作物 | 防风草、土豆、花椰菜各5个（金星） | 春季种子 |
-| 春季采集 | 野山葵、韭葱、蒲公英、羊肚菌各1个 | 春季种子30个 |
-| 春季鱼类 | 太阳鱼、鲶鱼、沙鱼、鲥鱼各1个 | 威利解锁物品 |
-| 春季兔子脚 | 找到1个兔子脚 | 运气永久+1 |
-
-> 💡 **羊肚菌**（春季采集献祭）比较难找，在**春15-18日**去秘密森林就能找到。
+| Method | Daily Income | Suitable For | Recommendation |
+|:-------|:-------------|:-------------|:---------------|
+| Fishing 🎣 | 500-1500g/day | Beginners | **Best spring method** |
+| Strawberries 🍓 | 300-800g/day | Have land & time | Main income after Spring 13 |
+| Mining ⛏️ | 200-500g/day | Like the mines | Earn while gathering copper/iron |
+| Foraging 🍄 | 100-300g/day | Spare time | Pick up on the way |
 
 ---
 
-## 春季实用小技巧
+## Spring Community Center Bundles
 
-1. **下雨天做什么：**
-   - 下雨不用浇水！去矿洞挖矿一整天
+> Spring bundles you must complete (otherwise you have to wait until next year)
+
+| Bundle | Required Items | Completion Reward |
+|:-------|:---------------|:------------------|
+| Spring Crops | 5 Gold-quality Parsnips, Potatoes, Cauliflowers each | Spring Seeds |
+| Spring Foraging | 1 Wild Horseradish, Leek, Dandelion, Morel each | 30 Spring Seeds |
+| Spring Fish | 1 Sunfish, Catfish, Shad, Salmon each | Willy unlocks items |
+| Spring Rabbit's Foot | Find 1 Rabbit's Foot | Permanent +1 Luck |
+
+> 💡 **Morel** (Spring Foraging bundle) is harder to find — go to the **Secret Woods** around Spring 15-18.
+
+---
+
+## Spring Practical Tips
+
+1. **What to do on rainy days:**
+   - No need to water crops! Spend the whole day mining
    
-2. **体力不够怎么办：**
-   - 野外采集（春葱、韭葱）吃了补体力
-   - 去酒吧吃饭（太贵，不推荐）
+2. **What to do when out of energy:**
+   - Eat foraged food (Spring Onion, Leek) found in the wild to restore energy
+   - Eat at the saloon (too expensive, not recommended)
 
-3. **能省就省：**
-   - 前期不要升级房子/建鸡舍
-   - 把所有钱用来买草莓种子
-   - 工具升级顺序：水壶 > 镐子 > 斧头
+3. **Save where you can:**
+   - Don't upgrade your house or build a coop early on
+   - Spend all your money on strawberry seeds
+   - Tool upgrade order: Watering Can > Pickaxe > Axe
 
-4. **地图彩蛋：**
-   - 春5日左右去**秘密森林**，会刷出羊肚菌
-   - 春13日**没买完草莓别离开！** 买东西时间过了就没了
+4. **Map Secrets:**
+   - Around Spring 5, go to the **Secret Woods** — morels will spawn there
+   - On Spring 13, **don't leave without buying strawberries!** The shop closes once time passes
 
 ---
 
-## 春季小结
+## Spring Summary
 
-> **一句话攻略：** 春1拿鱼杆 → 钓鱼赚钱 → 春13全买草莓 → 春夏之交种蓝莓
+> **One-line guide:** Get the fishing rod on Spring 1 → Earn money fishing → Buy all strawberries on Spring 13 → Plant blueberries at the end of spring
 
-赚钱目标：第一年春天结束时 **总资产 2万金+** ✅
+Money goal: **Total assets of 20,000g+** ✅ by the end of your first spring

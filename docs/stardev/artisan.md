@@ -1,89 +1,89 @@
-# 🧑‍🍳 工匠制品利润对比
+# 🧑‍🍳 Artisan Goods Profit Comparison
 
-> 数据版本：Stardew Valley 1.6 | 要不要建桶？看完这张表你就知道了
+> Data version: Stardew Valley 1.6 | Should you build a Keg? This table will tell you.
 
-## 什么值得加工？
+## What's Worth Processing?
 
-| 原材料 | 基础卖价 | 制品 | 制品卖价 | 增值 | 加工时间 | 每日利润 |
+| Raw Material | Base Price | Product | Product Price | Markup | Processing Time | Daily Profit |
 |:------|:--------|:----|:--------|:----|:--------|:--------|
-| 杨桃 | 750金 | 杨桃酒 | 3150金 | **4.2倍** 🔥 | 7天 | **342金/天** |
-| 甜瓜 | 250金 | 甜瓜酒 | 1050金 | 4.2倍 | 7天 | 114金/天 |
-| 南瓜 | 320金 | 南瓜酒 | 1120金 | 3.5倍 | 7天 | 114金/天 |
-| 啤酒花 | 30金 | 淡啤酒 | 300金 | **10倍** 🔥 | 1.5天 | 180金/天 |
-| 小麦 | 10金 | 啤酒 | 200金 | **20倍** 🔥 | 1天 | 190金/天 |
-| 蓝莓 | 50金 | 蓝莓酒 | 210金 | 4.2倍 | 7天 | 23金/天 |
-| 咖啡豆 | 15金 | 咖啡 | 150金 | 10倍 | 2小时 | 极高 |
-| 玉米 | 50金 | 玉米油 | 170金 | 3.4倍 | 2天 | 60金/天 |
-| 红薯 | 160金 | 红薯汁 | 400金 | 2.5倍 | 2天 | 120金/天 |
-| 萝卜 | 90金 | 萝卜汁 | 225金 | 2.5倍 | 2天 | 67金/天 |
+| Starfruit | 750g | Starfruit Wine | 3150g | **4.2x** 🔥 | 7 days | **342g/day** |
+| Melon | 250g | Melon Wine | 1050g | 4.2x | 7 days | 114g/day |
+| Pumpkin | 320g | Pumpkin Wine | 1120g | 3.5x | 7 days | 114g/day |
+| Hops | 30g | Pale Ale | 300g | **10x** 🔥 | 1.5 days | 180g/day |
+| Wheat | 10g | Beer | 200g | **20x** 🔥 | 1 day | 190g/day |
+| Blueberry | 50g | Blueberry Wine | 210g | 4.2x | 7 days | 23g/day |
+| Coffee Bean | 15g | Coffee | 150g | 10x | 2 hours | Very High |
+| Corn | 50g | Corn Oil | 170g | 3.4x | 2 days | 60g/day |
+| Sweet Potato | 160g | Sweet Potato Juice | 400g | 2.5x | 2 days | 120g/day |
+| Radish | 90g | Radish Juice | 225g | 2.5x | 2 days | 67g/day |
 
 ---
 
-## 酿酒 vs 果酱
+## Keg vs Preserves Jar
 
-| 作物 | 普通价 | 酿酒 | 果酱 | 最佳选择 |
+| Crop | Base Price | Keg (Wine) | Jar (Jelly) | Best Choice |
 |:----|:------|:----|:----|:--------|
-| 杨桃 | 750金 | 3150金 | 1350金 | ✅ 酿酒 |
-| 甜瓜 | 250金 | 1050金 | 570金 | ✅ 酿酒 |
-| 蓝莓 | 50金 | 210金 | 155金 | ✅ 酿酒 |
-| 蔓越莓 | 75金 | 315金 | 215金 | ✅ 酿酒 |
-| 草莓 | 120金 | 540金 | 315金 | ✅ 酿酒 |
-| 土豆 | 80金 | 336金 | 200金 | ✅ 酿酒 |
+| Starfruit | 750g | 3150g | 1350g | ✅ Keg |
+| Melon | 250g | 1050g | 570g | ✅ Keg |
+| Blueberry | 50g | 210g | 155g | ✅ Keg |
+| Cranberry | 75g | 315g | 215g | ✅ Keg |
+| Strawberry | 120g | 540g | 315g | ✅ Keg |
+| Potato | 80g | 336g | 200g | ✅ Keg |
 
-> **结论：酿酒永远比果酱赚钱。** 果酱只有仓库装不下时才做。
+> **Conclusion: Kegging always makes more money than Jelly.** Only use Preserves Jar when you're completely out of Keg space.
 
 ---
 
-## 酒桶 vs 果酱桶
+## Keg vs Preserves Jar Comparison
 
-| 项目 | 小桶（酿酒） | 罐子（果酱） |
+| Item | Keg (Wine) | Jar (Jelly) |
 |:----|:-----------|:-----------|
-| 材料 | 木材30+铜锭1+铁锭1+橡树树脂1 | 木材50+石头40+煤炭8 |
-| 时间 | 7天产出 | 3天产出 |
-| 回报率 | **高** | 中等 |
-| 推荐数量 | 50-200个 | 20-30个 |
-| 用途 | 赚钱主力 | 清库存+送人 |
+| Materials | Wood 30 + Copper Bar 1 + Iron Bar 1 + Oak Resin 1 | Wood 50 + Stone 40 + Coal 8 |
+| Time | 7 days output | 3 days output |
+| Return Rate | **High** | Medium |
+| Recommended Count | 50-200 | 20-30 |
+| Use | Main profit source | Clear inventory + gifts |
 
 ---
 
-## 畜产品加工
+## Animal Product Processing
 
-| 原材料 | 基础价 | 加工品 | 加工价 | 增值 |
+| Raw Material | Base Price | Product | Product Price | Markup |
 |:------|:------|:------|:------|:----|
-| 大壶牛奶 | 190金 | 奶酪 | 230金 | 1.2倍 |
-| 蛋 | 50金 | 蛋黄酱 | 190金 | **3.8倍** 🔥 |
-| 羊毛 | 340金 | 布 | 470金 | 1.4倍 |
-| 山羊奶 | 225金 | 山羊奶酪 | 375金 | 1.7倍 |
-| 鸭蛋 | 95金 | 鸭蛋黄酱 | 275金 | 2.9倍 |
-| 恐龙蛋 | 350金 | 恐龙蛋黄酱 | 800金 | **2.3倍** |
-| 兔子毛 | 420金 | 布 | 470金 | 1.1倍 |
+| Large Milk | 190g | Cheese | 230g | 1.2x |
+| Egg | 50g | Mayonnaise | 190g | **3.8x** 🔥 |
+| Wool | 340g | Cloth | 470g | 1.4x |
+| Goat Milk | 225g | Goat Cheese | 375g | 1.7x |
+| Duck Egg | 95g | Duck Mayonnaise | 275g | 2.9x |
+| Dinosaur Egg | 350g | Dinosaur Mayonnaise | 800g | **2.3x** |
+| Rabbit's Wool | 420g | Cloth | 470g | 1.1x |
 
-> **蛋黄酱是初期最值得做的加工品！** 一个蛋黄酱机一天产一个，卖190金，比鸡蛋贵3.8倍。
+> **Mayonnaise is the best early-game artisan good!** One Mayonnaise Machine produces one per day, sells for 190g — 3.8x the price of an egg.
 
 ---
 
-## 鱼塘利润
+## Fish Pond Profit
 
-| 鱼种 | 鱼塘产物 | 卖价 | 推荐程度 |
+| Fish Type | Pond Product | Sell Price | Recommendation |
 |:----|:--------|:----|:--------|
-| 鲟鱼 🐟 | 鱼子 | 500金/次 | ⭐⭐⭐⭐⭐ |
-| 熔岩鳗鱼 | 鱼子 | 760金/次 | ⭐⭐⭐⭐ |
-| 冰柱鱼 | 鱼子 | 680金/次 | ⭐⭐⭐⭐ |
-| 鱿鱼 🦑 | 鱼子 | 430金/次 | ⭐⭐⭐ |
-| 海参 | 鱼子 | 470金/次 | ⭐⭐⭐ |
-| 河豚 | 鱼子 | 440金/次 | ⭐⭐ |
-| 鲤鱼 | 鱼子 | 130金/次 | ⭐ |
+| Sturgeon 🐟 | Roe | 500g/time | ⭐⭐⭐⭐⭐ |
+| Lava Eel | Roe | 760g/time | ⭐⭐⭐⭐ |
+| Ice Pip | Roe | 680g/time | ⭐⭐⭐⭐ |
+| Squid 🦑 | Roe | 430g/time | ⭐⭐⭐ |
+| Sea Cucumber | Roe | 470g/time | ⭐⭐⭐ |
+| Pufferfish | Roe | 440g/time | ⭐⭐ |
+| Carp | Roe | 130g/time | ⭐ |
 
-> **鲟鱼鱼塘→鱼子→鱼子酱**，这是钱比印钞机还快的生产链！
+> **Sturgeon Pond → Roe → Caviar** — this production chain prints money faster than a money printer!
 
 ---
 
-## 钱该怎么花？中后期经济链
+## How to Spend Your Money: Mid-to-Late Game Economic Chain
 
 ```
-第一年：钓鱼赚钱 → 买种子 → 种草莓（春13）
-第二年：温室杨桃+酿酒 → 日入过万
-第三年：铱星品质全自动 → 姜岛农场满种 → 每天5万+
+Year 1: Fish for money → Buy seeds → Plant Strawberries (Spring 13)
+Year 2: Greenhouse Starfruit + Keg → 10k+/day
+Year 3: Iridium quality automation → Ginger Island full planting → 50k+/day
 ```
 
-> 💡 **最重要一条：** 解锁小桶后，尽快做50-100个小桶。你的赚钱速度会直接翻10倍。
+> 💡 **Most Important Rule:** Once you unlock the Keg, build 50-100 Kegs as fast as possible. Your earning rate will directly increase 10x.

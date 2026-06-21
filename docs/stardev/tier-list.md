@@ -1,116 +1,116 @@
-# 🏆 全作物 Tier 排名
+# 🏆 Complete Crop Tier Ranking
 
-> 数据版本：Stardew Valley 1.6 | 基于每日利润、成长速度、续收能力综合评定
+> Data version: Stardew Valley 1.6 | Based on daily profit, growth speed, and regrow ability
 
 ---
 
-## S 级 — 必种神作
+## S Tier — Must-Plant Legends
 
-这些作物是赚钱的绝对核心，无论新手还是老手都推荐优先种植。
+These crops are the absolute core of profit-making. Recommended for both beginners and veterans.
 
 {{ tier_table([
-    {"name": "杨桃", "tier": "S", "icon": "⭐", "description": "夏季最强作物，基础卖价750金，酿酒后3150金。解锁温室后全年种植，日入26.92金。酿酒流的核心"},
-    {"name": "草莓", "tier": "S", "icon": "🍓", "description": "春季之王！蛋节（春13日）买种子，种下后每4天续收。第二年春大量种植，每日利润20.83金"},
-    {"name": "蓝莓", "tier": "S", "icon": "🫐", "description": "夏季续收三巨头之一。每4天收获一次，单次收3个，精力效率极高。基础日利润20.80金"},
-    {"name": "蔓越莓", "tier": "S", "icon": "🫐", "description": "秋季续收王者。每3天收一次，一次收2个。秋季经济支柱，日利润18.89金"}
-], "S级 — 必种神作") }}
+    {"name": "Starfruit", "tier": "S", "icon": "⭐", "description": "The strongest Summer crop. Base sell price 750g, 3150g when kegged. Grow year-round after unlocking Greenhouse. 26.92g/day. Core of Keg-focused strategy"},
+    {"name": "Strawberry", "tier": "S", "icon": "🍓", "description": "King of Spring! Buy seeds at Egg Festival (Spring 13), regrows every 4 days. Mass plant in Year 2 Spring. 20.83g/day profit"},
+    {"name": "Blueberry", "tier": "S", "icon": "🫐", "description": "One of the Summer regrow giants. Harvest every 4 days, yields 3 berries per harvest. Excellent energy efficiency. 20.80g/day base profit"},
+    {"name": "Cranberry", "tier": "S", "icon": "🫐", "description": "Fall regrow king. Harvest every 3 days, yields 2 per harvest. Fall economic pillar. 18.89g/day profit"}
+], "S Tier — Must-Plant Legends") }}
 
 ---
 
-## A 级 — 优秀作物
+## A Tier — Excellent Crops
 
-虽然不是最强，但配合酿酒/加工后利润可观，或者在特定场景下表现出色。
+Not the absolute strongest, but pairing them with Keg/processing yields great profit, or they excel in specific scenarios.
 
 {{ tier_table([
-    {"name": "啤酒花", "tier": "A", "icon": "🌿", "description": "酿酒效率之王！11天长成后每天收，酿成淡啤酒卖300金（10倍增值）。温室必备，日利润约16.50金"},
-    {"name": "南瓜", "tier": "A", "icon": "🎃", "description": "秋季高价值作物。可巨型作物（收获3-15倍），日利润16.92金。绿洲周四可买种子"},
-    {"name": "甜瓜", "tier": "A", "icon": "🍈", "description": "夏季高价值作物。可巨型，酿酒后1050金。日利润14.17金。送礼佳品"},
-    {"name": "咖啡豆", "tier": "A", "icon": "☕", "description": "前期贵但后期神。种一次永久产，每天收。咖啡提供移动速度buff，批量种植后全自动生产线"},
-    {"name": "花椰菜", "tier": "A", "icon": "🥦", "description": "春季高价值。可巨型作物，是献祭必要作物。日利润7.92金。巨型时收益爆炸"},
-    {"name": "葡萄", "tier": "A", "icon": "🍇", "description": "秋季续收，每3天收一次。酿成葡萄酒后利润可观。日利润16.00金"},
-    {"name": "小麦", "tier": "A", "icon": "🌾", "description": "夏季秋季可种。酿成啤酒20倍增值！配合小桶，可用最短时间获得高回报"}
-], "A级 — 优秀作物") }}
+    {"name": "Hops", "tier": "A", "icon": "🌿", "description": "Keg efficiency king! Harvest daily after 11 days growth. Pale Ale sells for 300g (10x value). Greenhouse essential. ~16.50g/day profit"},
+    {"name": "Pumpkin", "tier": "A", "icon": "🎃", "description": "High-value Fall crop. Can become giant (3-15x harvest). 16.92g/day profit. Seeds available Thursday at Oasis"},
+    {"name": "Melon", "tier": "A", "icon": "🍈", "description": "High-value Summer crop. Can become giant, 1050g when kegged. 14.17g/day profit. Great for gifts"},
+    {"name": "Coffee Bean", "tier": "A", "icon": "☕", "description": "Expensive early but a game-changer later. Plant once, permanent production, daily harvest. Coffee provides speed buff. Full auto-production line at scale"},
+    {"name": "Cauliflower", "tier": "A", "icon": "🥦", "description": "High-value Spring crop. Can become giant. Required for bundles. 7.92g/day profit. Explosive profit when giant"},
+    {"name": "Grape", "tier": "A", "icon": "🍇", "description": "Fall regrow crop, harvest every 3 days. Great profit when made into wine. 16.00g/day profit"},
+    {"name": "Wheat", "tier": "A", "icon": "🌾", "description": "Plantable in Summer and Fall. Beer gives 20x value! Pairs well with Kegs for fast, high-return production"}
+], "A Tier — Excellent Crops") }}
 
 ---
 
-## B 级 — 中规中矩
+## B Tier — Decent
 
-利润尚可，有特定的用途或优势，但在强力作物面前竞争力不足。
+Decent profit with specific uses or advantages, but can't compete with the top-tier crops.
 
 {{ tier_table([
-    {"name": "土豆", "tier": "B", "icon": "🥔", "description": "春季早期赚钱主力。收获时有几率出2-6颗，实际收益波动。日利润约5金，前期推荐"},
-    {"name": "辣椒", "tier": "B", "icon": "🌶️", "description": "夏季续收作物，每3天收一次。是Shane的送礼最爱。日利润10.67金"},
-    {"name": "番茄", "tier": "B", "icon": "🍅", "description": "夏季续收，每4天收一次。日利润9.26金。烹饪食谱需求量大"},
-    {"name": "茄子", "tier": "B", "icon": "🍆", "description": "秋季续收，每5天收一次。日利润11.20金。适合懒得天天收的玩家"},
-    {"name": "甘蓝", "tier": "B", "icon": "🥬", "description": "春季生长快（6天），日利润6.67金。献祭物品，可以快速开场"},
-    {"name": "萝卜", "tier": "B", "icon": "🥕", "description": "夏季快速作物（6天），日利润8.33金。酿酒后225金"},
-    {"name": "山药", "tier": "B", "icon": "🫘", "description": "秋季作物（10天），日利润10金。献祭必需品，地鼠最爱"},
-    {"name": "大黄", "tier": "B", "icon": "🥬", "description": "春季，种子100金（绿洲买），13天成熟。日利润9.23金。可做酒"},
-    {"name": "苋菜", "tier": "B", "icon": "🌿", "description": "秋季快速作物（7天），日利润11.43金。能量恢复不错"}
-], "B级 — 中规中矩") }}
+    {"name": "Potato", "tier": "B", "icon": "🥔", "description": "Early Spring money maker. Chance for 2-6 potatoes per harvest, actual profit varies. ~5g/day profit, recommended early on"},
+    {"name": "Hot Pepper", "tier": "B", "icon": "🌶️", "description": "Summer regrow crop, harvest every 3 days. Shane's favorite gift. 10.67g/day profit"},
+    {"name": "Tomato", "tier": "B", "icon": "🍅", "description": "Summer regrow, harvest every 4 days. 9.26g/day profit. Used in many cooking recipes"},
+    {"name": "Eggplant", "tier": "B", "icon": "🍆", "description": "Fall regrow, harvest every 5 days. 11.20g/day profit. Good for players who don't want to harvest daily"},
+    {"name": "Kale", "tier": "B", "icon": "🥬", "description": "Fast Spring growth (6 days). 6.67g/day profit. Bundle item, good for a quick start"},
+    {"name": "Radish", "tier": "B", "icon": "🥕", "description": "Fast Summer crop (6 days). 8.33g/day profit. 225g when kegged"},
+    {"name": "Yam", "tier": "B", "icon": "🫘", "description": "Fall crop (10 days). 10g/day profit. Bundle requirement, Linus' favorite"},
+    {"name": "Rhubarb", "tier": "B", "icon": "🥬", "description": "Spring, 100g seeds (Oasis), 13 days mature. 9.23g/day profit. Can be made into wine"},
+    {"name": "Amaranth", "tier": "B", "icon": "🌿", "description": "Fast Fall crop (7 days). 11.43g/day profit. Decent energy restoration"}
+], "B Tier — Decent") }}
 
 ---
 
-## C 级 — 不推荐
+## C Tier — Not Recommended
 
-利润低、用途少，除非特殊情况（献祭、送礼、装饰）否则不推荐种植。
+Low profit, limited use. Don't plant unless for specific needs (bundles, gifts, decoration).
 
 {{ tier_table([
-    {"name": "防风草", "tier": "C", "icon": "🌿", "description": "新手入门作物。单价低，日利润仅3.75金。种够献祭所需即可"},
-    {"name": "玉米", "tier": "C", "icon": "🌽", "description": "跨夏季和秋季，但日利润仅7.5金。优点是省地，种一次收两季"},
-    {"name": "向日葵", "tier": "C", "icon": "🌻", "description": "夏季，种子贵（200金），能产种子但利润低。日利润4金。主要用来产油"},
-    {"name": "虞美人", "tier": "C", "icon": "🌺", "description": "夏季花卉，日利润5.71金。主要用于厨师送礼和做幸运午餐"},
-    {"name": "玫瑰仙子", "tier": "C", "icon": "🌹", "description": "秋季花卉，种子200金，日利润7.5金。主要用于Jas送礼"},
-    {"name": "白菜", "tier": "C", "icon": "🥬", "description": "秋季快速作物（6天），日利润5金。种够献祭即可"},
-    {"name": "郁金香", "tier": "C", "icon": "🌷", "description": "春季花卉，日利润1.67金。纯装饰用途，Evelyn最爱"},
-    {"name": "蓝爵士", "tier": "C", "icon": "💐", "description": "春季花卉，日利润2.86金。Sandy最爱的礼物，其他用途有限"}
-], "C级 — 不推荐") }}
+    {"name": "Parsnip", "tier": "C", "icon": "🌿", "description": "Beginner crop. Low price, only 3.75g/day profit. Grow only what you need for bundles"},
+    {"name": "Corn", "tier": "C", "icon": "🌽", "description": "Spans Summer and Fall, but only 7.5g/day profit. Saves space — plant once for two seasons"},
+    {"name": "Sunflower", "tier": "C", "icon": "🌻", "description": "Summer, expensive seeds (200g), produces seeds but low profit. 4g/day profit. Mostly for oil"},
+    {"name": "Poppy", "tier": "C", "icon": "🌺", "description": "Summer flower, 5.71g/day profit. Mainly for Chef gifts and Lucky Lunch"},
+    {"name": "Fairy Rose", "tier": "C", "icon": "🌹", "description": "Fall flower, 200g seeds, 7.5g/day profit. Mainly for Jas gifts"},
+    {"name": "Bok Choy", "tier": "C", "icon": "🥬", "description": "Fast Fall crop (6 days). 5g/day profit. Grow only what you need for bundles"},
+    {"name": "Tulip", "tier": "C", "icon": "🌷", "description": "Spring flower, 1.67g/day profit. Purely decorative. Evelyn's favorite"},
+    {"name": "Blue Jazz", "tier": "C", "icon": "💐", "description": "Spring flower, 2.86g/day profit. Sandy's favorite gift, limited other uses"}
+], "C Tier — Not Recommended") }}
 
 ---
 
-## Tier 评定标准说明
+## Tier Rating Criteria
 
-| 等级 | 日利润范围 | 说明 |
+| Grade | Daily Profit Range | Description |
 |:----|:---------|:----|
-| **S** | >18金/天 | 必种，赚钱核心。优先安排温室+农场主力地块 |
-| **A** | 10-18金/天 | 优秀，配合加工利润更高。推荐适量种植 |
-| **B** | 5-10金/天 | 中规中矩，特定场景有用。新手过渡期可以种 |
-| **C** | <5金/天 | 不推荐纯赚钱，限献祭/送礼/装饰 |
+| **S** | >18g/day | Must-plant, profit core. Prioritize Greenhouse + main farm plots |
+| **A** | 10-18g/day | Excellent, even better with processing. Recommended to plant moderately |
+| **B** | 5-10g/day | Decent, useful in specific scenarios. Fine for beginners in transition |
+| **C** | <5g/day | Not recommended for profit only. Limited to bundles/gifts/decor |
 
-> 💡 **关键建议：** 解锁小桶（Keg）后优先种杨桃/啤酒花酿酒，赚钱速度翻10倍。温室始终种杨桃+啤酒花。
+> 💡 **Key Advice:** Once you unlock the Keg, prioritize Starfruit/Hops for brewing — profit rate increases 10x. Keep Greenhouse planted with Starfruit + Hops year-round.
 
 ---
 
-## 快速参考总表
+## Quick Reference Table
 
-| 作物 | 季节 | Tier | 日利润 | 特点 |
+| Crop | Season | Tier | Daily Profit | Feature |
 |:----|:----|:----|:------|:-----|
-| 杨桃 ⭐ | 夏 | **S** | 26.92金 | 酿酒之王 |
-| 草莓 🍓 | 春 | **S** | 20.83金 | 续收很强 |
-| 蓝莓 🫐 | 夏 | **S** | 20.80金 | 续收很稳 |
-| 蔓越莓 🫐 | 秋 | **S** | 18.89金 | 续收王者 |
-| 啤酒花 🌿 | 夏 | **A** | 16.50金 | 酿酒效率王 |
-| 南瓜 🎃 | 秋 | **A** | 16.92金 | 可巨型 |
-| 甜瓜 🍈 | 夏 | **A** | 14.17金 | 可巨型 |
-| 咖啡豆 ☕ | 春/夏 | **A** | 极高 | 永久产+加速 |
-| 葡萄 🍇 | 秋 | **A** | 16.00金 | 续收酿酒 |
-| 小麦 🌾 | 夏/秋 | **A** | 极高 | 酿酒20倍 |
-| 土豆 🥔 | 春 | **B** | 5.00金 | 多颗掉落 |
-| 辣椒 🌶️ | 夏 | **B** | 10.67金 | 续收 |
-| 番茄 🍅 | 夏 | **B** | 9.26金 | 续收 |
-| 茄子 🍆 | 秋 | **B** | 11.20金 | 续收 |
-| 甘蓝 🥬 | 春 | **B** | 6.67金 | 生长快 |
-| 萝卜 🥕 | 夏 | **B** | 8.33金 | 生长快 |
-| 山药 🫘 | 秋 | **B** | 10.00金 | 献祭 |
-| 苋菜 🌿 | 秋 | **B** | 11.43金 | 生长快 |
-| 防风草 🌿 | 春 | **C** | 3.75金 | 新手入门 |
-| 玉米 🌽 | 夏/秋 | **C** | 7.50金 | 跨两季 |
-| 向日葵 🌻 | 夏 | **C** | 4.00金 | 产种子 |
-| 虞美人 🌺 | 夏 | **C** | 5.71金 | 送礼 |
-| 玫瑰仙子 🌹 | 秋 | **C** | 7.50金 | 送礼 |
-| 白菜 🥬 | 秋 | **C** | 5.00金 | 献祭 |
-| 郁金香 🌷 | 春 | **C** | 1.67金 | 装饰 |
-| 蓝爵士 💐 | 春 | **C** | 2.86金 | 送礼 |
+| Starfruit ⭐ | Summer | **S** | 26.92g | Keg King |
+| Strawberry 🍓 | Spring | **S** | 20.83g | Strong regrow |
+| Blueberry 🫐 | Summer | **S** | 20.80g | Steady regrow |
+| Cranberry 🫐 | Fall | **S** | 18.89g | Regrow King |
+| Hops 🌿 | Summer | **A** | 16.50g | Keg efficiency king |
+| Pumpkin 🎃 | Fall | **A** | 16.92g | Can be giant |
+| Melon 🍈 | Summer | **A** | 14.17g | Can be giant |
+| Coffee Bean ☕ | Spring/Summer | **A** | Very High | Permanent + speed |
+| Grape 🍇 | Fall | **A** | 16.00g | Regrow + Keg |
+| Wheat 🌾 | Summer/Fall | **A** | Very High | Beer 20x |
+| Potato 🥔 | Spring | **B** | 5.00g | Multi-drop |
+| Hot Pepper 🌶️ | Summer | **B** | 10.67g | Regrow |
+| Tomato 🍅 | Summer | **B** | 9.26g | Regrow |
+| Eggplant 🍆 | Fall | **B** | 11.20g | Regrow |
+| Kale 🥬 | Spring | **B** | 6.67g | Fast growth |
+| Radish 🥕 | Summer | **B** | 8.33g | Fast growth |
+| Yam 🫘 | Fall | **B** | 10.00g | Bundle |
+| Amaranth 🌿 | Fall | **B** | 11.43g | Fast growth |
+| Parsnip 🌿 | Spring | **C** | 3.75g | Beginner |
+| Corn 🌽 | Summer/Fall | **C** | 7.50g | Spans two seasons |
+| Sunflower 🌻 | Summer | **C** | 4.00g | Produces seeds |
+| Poppy 🌺 | Summer | **C** | 5.71g | Gifts |
+| Fairy Rose 🌹 | Fall | **C** | 7.50g | Gifts |
+| Bok Choy 🥬 | Fall | **C** | 5.00g | Bundle |
+| Tulip 🌷 | Spring | **C** | 1.67g | Decoration |
+| Blue Jazz 💐 | Spring | **C** | 2.86g | Gifts |
 
 ---
 
