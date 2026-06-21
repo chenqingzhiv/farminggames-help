@@ -41,13 +41,30 @@ plugins:
       minify_css: true
       cache_safe: true
   - glightbox
+  - advanced-seo:
+      enabled: true
+      add_schema_org_json_ld: true
+      use_open_graph: true
+      use_twitter_cards: true
+      og_image: assets/img/og-image.png
+  - macros:
+      module_name: main
+  - awesome-pages:
+      collapse_single_pages: true
+      strict: false
+  - redirects:
+      redirect_maps: {}
 
 extra_javascript:
   - assets/js/utterances.js
   - assets/js/game-bg.js
+  - assets/vendor/jquery.min.js
+  - assets/vendor/datatables.js
+  - assets/js/datatables-init.js
 
 extra_css:
   - assets/css/custom.css
+  - assets/vendor/datatables.css
 
 markdown_extensions:
   - pymdownx.highlight:
