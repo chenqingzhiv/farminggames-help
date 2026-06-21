@@ -133,6 +133,19 @@ nav:
     - 📖 Full Guide: palia/index.md
     - 👶 Beginner's Guide: palia/guide.md
     - 📬 Feedback: palia/feedback.md
+  - 🌟 More Games:
+    - 🌾 Fields of Mistria:
+      - 🌾 Game Overview: fields-mistria/index.md
+      - 🌱 Getting Started: fields-mistria/getting-started.md
+    - 🏝️ Coral Island:
+      - 🏝️ Game Overview: coral-island/index.md
+      - 🌴 Getting Started: coral-island/getting-started.md
+    - 🏜️ My Time at Sandrock:
+      - 🏜️ Game Overview: sandrock/index.md
+      - 🔧 Getting Started: sandrock/getting-started.md
+    - ☀️ Sun Haven:
+      - ☀️ Game Overview: sun-haven/index.md
+      - 🌿 Getting Started: sun-haven/getting-started.md
   - 📖 Beginner Guides:
     - Newbie Guide: guides/newbie.md
     - Overview: guides/index.md

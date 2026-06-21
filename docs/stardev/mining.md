@@ -82,7 +82,7 @@ Mining is one of the core activities in Stardew Valley — **money, ore, gems, a
 | Floors | Terrain | Main Minerals | Monsters |
 |:-------|:--------|:--------------|:---------|
 | 111-119 | Dark Earth | Iridium Ore | Very difficult monsters |
-| **120** | Treasure Floor | — | Obtain "Steel Sword" (permanent) |
+| **120** | Treasure Floor | — | Obtain "Obsidian Edge" (permanent) |
 
 ---
 
@@ -93,10 +93,10 @@ Mining is one of the core activities in Stardew Valley — **money, ore, gems, a
 | Copper Ore | 5g | Tool upgrades/Smelting |
 | Iron Ore | 10g | Tool upgrades/Smelting |
 | Gold Ore | 25g | Tool upgrades/Smelting |
-| Iridium Ore | 100g | Ultimate tools/Equipment |
+| Iridium Ore | 150g | Ultimate tools/Equipment |
 | Quartz | 25g | Refined Quartz/Glass |
-| Fire Quartz | 100g | Gifts (Mariner loves it) |
-| Diamond | 750g | Gifts/Money |
+| Fire Quartz | 100g | Refined Quartz / Gifts |
+| Diamond | 600g | Gifts/Money |
 | Jade | 200g | Trade for staircases at Desert Trader on Sundays |
 | Ruby | 250g | Trade for Spicy Eel at Desert Trader on Mondays |
 | Prismatic Shard | 2000g | Galaxy Weapon/Museum |
@@ -107,7 +107,7 @@ Mining is one of the core activities in Stardew Valley — **money, ore, gems, a
 
 ### Speed Descending Method (Recommended)
 ```
-Gear:     Gold Pickaxe + Steel Sword + Bombs×50 + Salad×10
+Gear:     Gold Pickaxe + Obsidian Edge + Bombs×50 + Salad×10
 Strategy: Enter floor → Scan for ore → No ore? Drop bombs to find hole/ladder → Next floor
 Goal:     No more than 30 seconds per floor
 Result:   About 2-3 in-game hours from floor 1 to 120
@@ -135,7 +135,7 @@ Best for: Specifically looking for iridium/treasure chests
 
 | Item | Floor | How to Get | Value |
 |:-----|:------|:-----------|:------|
-| Steel Sword | Floor 120 chest | Auto-obtained when reaching floor 120 | ⭐ Best early weapon |
+| Obsidian Edge | Floor 120 chest | Auto-obtained when reaching floor 120 | ⭐ Best early weapon |
 | Prismatic Shard | 1-120 random | Monster drops/Chests | Required for Galaxy Sword |
 | Diamond | Floor 50+ | Gem nodes/Monsters | Copy with crystalarium for profit |
 | Dinosaur Egg | Throughout | Opening geodes/Chests | Hatch dinosaur + Dinosaur Mayo |
@@ -157,4 +157,4 @@ Recommended winter schedule:
 19:00-22:00   Smelt ore + processing
 ```
 
-**Winter mining goal:** Reach floor 120 before the end of your first winter, unlocking the Steel Sword + all elevators.
+**Winter mining goal:** Reach floor 120 before the end of your first winter, unlocking the Obsidian Edge + all elevators.

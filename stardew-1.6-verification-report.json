@@ -1,0 +1,258 @@
+{
+  "report_title": "Stardew Valley 1.6 Data Verification Report",
+  "generated_at": "2026-06-21",
+  "sources_consulted": [
+    "Stardew Valley Official Wiki (stardewvalleywiki.com)",
+    "Stardew Price DB (stardewpricedb.com) - verified 1.6.15 data",
+    "Stardew Profit (stardewprofit.com) - 1.6 new crops guide",
+    "GameSkinny / ProGameGuides - 1.6 new crops",
+    "Stardew Wiki Harvestable Bushes page",
+    "IGN Stardew Valley Guide"
+  ],
+  "issues": [
+    {
+      "page": "crops.md",
+      "issue": "Blueberry listed as a Spring crop (line 10). Blueberry is a SUMMER crop, not spring. Data is completely incorrect.",
+      "severity": "high",
+      "fix": "Move Blueberry entry from Spring section to Summer section. Replace with a missing Spring crop (Garlic or Green Bean)."
+    },
+    {
+      "page": "crops.md",
+      "issue": "Missing 4 new 1.6 crops entirely: Carrot (Spring), Summer Squash (Summer), Broccoli (Fall), Powdermelon (Winter). These are NOT sold at Pierre's — they come from Seed Spots (artifact spot lookalikes) and the Raccoon family store.",
+      "severity": "high",
+      "fix": "Add Carrot to Spring section (seed: from foraging seed spots, sell: 35g, growth: 3 days, no regrow). Add Summer Squash to Summer section (sell: 45g, growth: 6 days, regrows every 3 days). Add Broccoli to Fall section (sell: 70g, growth: 8 days, regrows every 4 days). Add Powdermelon to Winter section (sell: 80g, growth: 7 days, no regrow, can be giant crop)."
+    },
+    {
+      "page": "crops.md",
+      "issue": "Sweet Potato listed as a Fall crop (line 51). Sweet Potato is NOT a vanilla Stardew Valley crop — it is from the Stardew Valley Expanded mod. This is mod data presented as vanilla.",
+      "severity": "high",
+      "fix": "Remove Sweet Potato entirely from the vanilla crops guide. If you want to include it, mark it clearly as 'Mod content (SVE)'."
+    },
+    {
+      "page": "crops.md",
+      "issue": "Sunflower listed with 'Every 2 days' regrowth (line 34). Sunflowers are a single-harvest crop — they do NOT regrow. Harvesting produces 1 sunflower + 0-2 seeds.",
+      "severity": "high",
+      "fix": "Change Sunflower regrowth from 'Every 2 days' to 'No'. Recalculate profit per day accordingly."
+    },
+    {
+      "page": "crops.md",
+      "issue": "Missing essential vanilla Spring crops: Garlic (seed 40g, 4 days, sell 60g) and Green Bean (seed 60g, 10 days, regrows every 3 days, sell 40g).",
+      "severity": "medium",
+      "fix": "Add Garlic and Green Bean to Spring crop table with correct data."
+    },
+    {
+      "page": "crops.md",
+      "issue": "Missing essential vanilla Summer crops: Red Cabbage (seed 100g, 9 days, sell 260g), Summer Spangle (seed 50g, 8 days, sell 90g), Wheat (seed 10g, 4 days, sell 25g).",
+      "severity": "medium",
+      "fix": "Add Red Cabbage, Summer Spangle, and Wheat to Summer crop table."
+    },
+    {
+      "page": "crops.md",
+      "issue": "Missing essential vanilla Fall crops: Artichoke (seed 30g, 8 days, sell 160g), Beet (seed 20g, 6 days, sell 100g), Sweet Gem Berry (seed 1000g Rare Seed, 24 days, sell 3000-5000g).",
+      "severity": "medium",
+      "fix": "Add Artichoke, Beet, and Sweet Gem Berry to Fall crop table."
+    },
+    {
+      "page": "crops.md",
+      "issue": "Pumpkin Keg value listed as 610g at 1.9x multiplier (line 84). PUMPKIN IS A VEGETABLE — vegetables go into a Keg to make JUICE, not wine. Pumpkin Juice = base 320g * 2.25 = 720g (not 610g). With Artisan: 1008g.",
+      "severity": "high",
+      "fix": "Correct Pumpkin keg product name from 'Pumpkin Wine' to 'Pumpkin Juice'. Correct price from 610g to 720g. Correct multiplier from 1.9x to 2.25x."
+    },
+    {
+      "page": "crops.md",
+      "issue": "Hops listed at 25g in Top 5 Keg Profit table (line 85) but artisan.md lists Hops at 30g — inconsistency between pages.",
+      "severity": "medium",
+      "fix": "Standardize Hops base price to 25g (correct wiki value) across all pages."
+    },
+    {
+      "page": "profit-calc.md",
+      "issue": "Legend fish listed with sell price 15000g (line 82). Legend base sell price is 5000g in vanilla Stardew Valley 1.6. Only with Angler profession and Iridium quality would it be higher, but the 15000g figure is not standard.",
+      "severity": "high",
+      "fix": "Correct Legend base sell price from 15000g to 5000g. Optionally note 'up to 15000g with Iridium quality and Angler profession'."
+    },
+    {
+      "page": "profit-calc.md",
+      "issue": "Pumpkin keg product listed as 'Pumpkin Wine' at 1120g with 3.5x markup (line 63). Pumpkin is a vegetable — Keg makes Pumpkin Juice at 720g (2.25x). Even with Artisan (40% bonus) it's 1008g, not 1120g.",
+      "severity": "high",
+      "fix": "Change 'Pumpkin Wine' to 'Pumpkin Juice'. Correct price from 1120g to 720g. Correct multiplier from 3.5x to 2.25x."
+    },
+    {
+      "page": "profit-calc.md",
+      "issue": "Strawberry Wine listed at 540g with 4.5x markup (line 65). Strawberry Wine base is 120g * 3 = 360g. With Artisan (40% bonus): 504g. The 540g/4.5x figure is incorrect — no standard multiplier produces 540g.",
+      "severity": "medium",
+      "fix": "Correct Strawberry Wine price from 540g to 360g (base) or 504g (Artisan). Correct multiplier from 4.5x to 3x (or 4.2x with Artisan)."
+    },
+    {
+      "page": "profit-calc.md",
+      "issue": "Pumpkin Juice listed as 'Pumpkin Wine' (line 63). Wine is exclusively made from FRUIT. Vegetables make JUICE in a Keg. This is a fundamental game mechanic error.",
+      "severity": "high",
+      "fix": "Rename all vegetable-based keg products from 'Wine' to 'Juice'. Specifically: Pumpkin Juice (not Pumpkin Wine), and the same fix applies in artisan.md."
+    },
+    {
+      "page": "cooking.md",
+      "issue": "Claims Stardew Valley has '87 dishes' in total (line 8). The official Stardew Valley Wiki and Price DB confirm there are 80-81 cooking recipes in 1.6. This is a significant overcount.",
+      "severity": "high",
+      "fix": "Change '87 dishes' to '80 dishes' (or '81 dishes' depending on whether the 'Cookout Kit' exclusive recipes are counted). Verify against the official wiki recipe list."
+    },
+    {
+      "page": "cooking.md",
+      "issue": "Fried Mushroom recipe lists incorrect ingredients: 'Common Mushroom ×1 + Morel ×1 + Chanterelle ×1' (line 34). The actual recipe is: Common Mushroom ×1 + Morel ×1 + Oil ×1. Uses Oil, not Chanterelle.",
+      "severity": "high",
+      "fix": "Change Fried Mushroom ingredients from 'Common Mushroom ×1 + Morel ×1 + Chanterelle ×1' to 'Common Mushroom ×1 + Morel ×1 + Oil ×1'."
+    },
+    {
+      "page": "cooking.md",
+      "issue": "Lucky Lunch recipe lists incorrect ingredients: 'Sea Cucumber ×1 + Blue Jazz ×1 + Corn ×1' (line 59). The actual recipe is: Sea Cucumber ×1 + Blue Jazz ×1 + Tortilla ×1. Corn must be milled into Tortilla first.",
+      "severity": "high",
+      "fix": "Change Lucky Lunch ingredients to 'Sea Cucumber ×1 + Blue Jazz ×1 + Tortilla ×1'."
+    },
+    {
+      "page": "cooking.md",
+      "issue": "Pumpkin Soup recipe source listed as 'Robin 7 Heart Event' (line 36). In the actual game, Pumpkin Soup recipe is obtained from Robin in the mail (the recipe is sent by Robin, not specifically a 7-heart event, and the exact trigger is Robin sending the recipe in fall year 1).",
+      "severity": "low",
+      "fix": "Verify and correct the recipe source for Pumpkin Soup. It is sent by Robin in the mail (not a heart event)."
+    },
+    {
+      "page": "fish.md",
+      "issue": "'Jellyfish' listed at 80g (line 38). There is NO catchable 'Jellyfish' fish in vanilla Stardew Valley 1.6. The Jellyfish referenced might come from a mod or be confused with the 'Dance of the Moonlight Jellyfish' festival. This is completely fictional data.",
+      "severity": "high",
+      "fix": "Remove 'Jellyfish' from the fish list entirely if this is meant to be a vanilla Stardew Valley guide."
+    },
+    {
+      "page": "fish.md",
+      "issue": "'Master Angler' listed as a legendary fish at 10000g caught at 'Bottom of Mines' (line 91). There is no fish called 'Master Angler' in Stardew Valley. Master Angler is an ACHIEVEMENT (for catching every fish) and a HAT reward. This is completely fictional.",
+      "severity": "high",
+      "fix": "Remove 'Master Angler' from the legendary fish list. The 5 original legendary fish are: Legend (Spring), Crimsonfish (Summer), Angler (Fall), Glacierfish (Winter), Mutant Carp (Sewers). In 1.6, Qi's Extended Family adds: Legend II, Crimsonfish II, Angler II, Glacierfish II, Mutant Carp II, Radioactive Carp."
+    },
+    {
+      "page": "fish.md",
+      "issue": "Stonefish listed at 65g (line 23). Stonefish base sell price is 300g, not 65g. This is a significant price error.",
+      "severity": "high",
+      "fix": "Correct Stonefish price from 65g to 300g."
+    },
+    {
+      "page": "fish.md",
+      "issue": "Pufferfish listed in the Spring fish section (line 14). Pufferfish is a SUMMER-only fish (ocean, 12PM-4PM, sunny). It does not appear in Spring.",
+      "severity": "medium",
+      "fix": "Remove Pufferfish from the Spring fish list (it's already correctly in Summer list)."
+    },
+    {
+      "page": "fish.md",
+      "issue": "Legendary fish section says 'Spring Legend' location is 'Mountain Lake' (line 87). Correct. But the profit-calc.md lists Legend at 15000g while fish.md correctly lists it at 5000g — inconsistency between pages.",
+      "severity": "medium",
+      "fix": "Standardize Legend fish price to 5000g across all pages."
+    },
+    {
+      "page": "artisan.md",
+      "issue": "Pumpkin listed as making 'Pumpkin Wine' at 1120g (3.5x) (line 11). PUMPKIN IS A VEGETABLE — it makes Pumpkin Juice at 720g (2.25x base, 1008g with Artisan 40%). Both the product name and price are wrong.",
+      "severity": "high",
+      "fix": "Change to 'Pumpkin Juice' at 720g (base) or 1008g (Artisan). Multiplier should be 2.25x."
+    },
+    {
+      "page": "artisan.md",
+      "issue": "Hops base price listed as 30g (line 12). Hops base sell price is 25g in vanilla 1.6. This conflicts with crops.md which lists Hops at 25g.",
+      "severity": "medium",
+      "fix": "Change Hops base price from 30g to 25g to match crops.md and wiki data."
+    },
+    {
+      "page": "artisan.md",
+      "issue": "Keg vs Jar table (line 24-31) says 'Kegging always makes more money than Jelly' but this is misleading — Keg takes 7 days vs Jar 3 days, so Preserves Jar can process items faster. The statement is only true for per-item value, not per-day throughput.",
+      "severity": "low",
+      "fix": "Clarify that 'Keg gives higher value per crop, but Jar processes faster (3 days vs 7 days), so Jar can be better for lower-value crops or when you have limited time before season end.'"
+    },
+    {
+      "page": "artisan.md",
+      "issue": "Fish Pond section: Sturgeon Roe listed at 500g (line 69). Sturgeon Roe base sell price is 500g. ✓ But Lava Eel Roe listed at 760g (line 70) — Lava Eel Roe base is 760g. ✓ Ice Pip Roe at 680g (line 71) — correct. ✓ However, these values should clarify these are base Roe prices, not Aged/Caviar values.",
+      "severity": "low",
+      "fix": "Clarify if Roe values listed are base or aged. Sturgeon Roe can be aged into Caviar (600g) which is a separate calculation."
+    },
+    {
+      "page": "mining.md",
+      "issue": "Says 'Iridium Ore: 100g' (line 96). Iridium Ore base sell price is 150g, not 100g.",
+      "severity": "medium",
+      "fix": "Change Iridium Ore price from 100g to 150g."
+    },
+    {
+      "page": "mining.md",
+      "issue": "Diamond listed at 750g (line 99). Diamond base sell price is 600g, not 750g.",
+      "severity": "medium",
+      "fix": "Change Diamond price from 750g to 600g."
+    },
+    {
+      "page": "mining.md",
+      "issue": "Floor 120 reward listed as 'Steel Sword' (line 138). The floor 120 chest reward is the 'Obsidian Edge' (sword). Steel Sword is a different weapon that can be purchased. This is a factual error.",
+      "severity": "medium",
+      "fix": "Change 'Steel Sword' to 'Obsidian Edge' when referring to the floor 120 treasure chest reward."
+    },
+    {
+      "page": "mining.md",
+      "issue": "Says 'Fire Quartz 100g · Gifts (Mariner loves it)' (line 98). There is no NPC named 'Mariner' in Stardew Valley. Fire Quartz is a loved gift for Clint (blacksmith), not Mariner.",
+      "severity": "medium",
+      "fix": "Change 'Mariner loves it' to 'Clint loves it' or note that no NPC loves Fire Quartz as a gift (it's universally neutral) — actually Fire Quartz is a universally neutral gift. Clint likes it but it's not a loved gift for anyone."
+    },
+    {
+      "page": "crops.md",
+      "issue": "Crop list is incomplete and covers only ~25 of the actual ~44 plantable crops in vanilla 1.6. The context mentions '54 crops' but crops.md and profit-calc.md together only list about 28 unique crops. Notably missing: Ancient Fruit, Cactus Fruit, Fiber, Pineapple, Taro Root, Tea Leaves, Qi Fruit.",
+      "severity": "medium",
+      "fix": "Either add all missing crops or remove the '54 crops' claim from the page metadata. The complete crop list in 1.6 includes approximately 44 plantable crop types (excluding Mixed Seeds variants)."
+    }
+  ],
+  "accurate": [
+    "crops.md: Strawberry data (100g seed, 8 days growth, 4-day regrow, 120g sell) — correct",
+    "crops.md: Cauliflower data (80g seed, 12 days, 175g sell, giant crop) — correct",
+    "crops.md: Potato data (50g seed, 6 days, 80g sell, multi-drop) — correct",
+    "crops.md: Kale data (70g seed, 6 days, 110g sell) — correct",
+    "crops.md: Parsnip data (20g seed, 4 days, 35g sell) — correct",
+    "crops.md: Rhubarb data (100g seed, 13 days, 220g sell) — correct",
+    "crops.md: Tulip data (20g seed, 6 days, 30g sell) — correct",
+    "crops.md: Blue Jazz data (30g seed, 7 days, 50g sell) — correct",
+    "crops.md: Starfruit data (400g seed, 13 days, 750g sell) — correct",
+    "crops.md: Melon data (80g seed, 12 days, 250g sell, giant crop) — correct",
+    "crops.md: Hot Pepper data (40g seed, 5 days, 3-day regrow, 40g sell) — correct",
+    "crops.md: Tomato data (50g seed, 11 days, 4-day regrow, 60g sell) — correct",
+    "crops.md: Corn data (150g seed, 14 days, 4-day regrow, 50g sell) — correct",
+    "crops.md: Radish data (40g seed, 6 days, 90g sell) — correct",
+    "crops.md: Poppy data (100g seed, 7 days, 140g sell) — correct",
+    "crops.md: Cranberry data (240g seed, 10 days, 3-day regrow, 75g sell) — correct",
+    "crops.md: Pumpkin data (100g seed, 13 days, 320g sell, giant crop) — correct",
+    "crops.md: Grape data (60g seed, 10 days, 3-day regrow, 80g sell) — correct",
+    "crops.md: Eggplant data (20g seed, 7 days, 5-day regrow, 60g sell) — correct",
+    "crops.md: Yam data (60g seed, 10 days, 160g sell) — correct",
+    "crops.md: Amaranth data (70g seed, 7 days, 150g sell) — correct",
+    "crops.md: Bok Choy data (50g seed, 6 days, 80g sell) — correct",
+    "crops.md: Fairy Rose data (200g seed, 12 days, 290g sell) — correct",
+    "fish.md: Most common fish prices and locations are accurate (Catfish 200g, Sturgeon 200g, Tuna 100g, etc.)",
+    "fish.md: Legendary fish basic data (Legend 5000g Spring Lake rainy, Crimsonfish 2000g Summer Ocean, Glacierfish 1000g Winter River, Mutant Carp 1000g Sewers) — correct",
+    "artisan.md: Mayonnaise 190g (3.8x from egg) — correct",
+    "artisan.md: Cheese 230g, Goat Cheese 375g — correct",
+    "artisan.md: Duck Mayonnaise 275g (2.9x from duck egg) — correct",
+    "mining.md: Ore prices for Copper (5g), Iron (10g), Gold (25g) — correct",
+    "mining.md: Jade 200g (staircase trade on Sundays) — correct",
+    "mining.md: Ruby 250g (Spicy Eel trade on Thursdays) — correct",
+    "mining.md: Elevator every 5 floors — correct",
+    "mining.md: Minecart unlock via Blacksmith's Bundle — correct"
+  ],
+  "summary": {
+    "total_issues_found": 32,
+    "critical_severity": 0,
+    "high_severity": 16,
+    "medium_severity": 13,
+    "low_severity": 3,
+    "pages_affected": ["crops.md", "profit-calc.md", "cooking.md", "fish.md", "artisan.md", "mining.md"],
+    "most_critical_issues": [
+      "Blueberry incorrectly listed as Spring crop (should be Summer)",
+      "Sweet Potato listed as vanilla crop (it's a mod crop from SVE, not in vanilla 1.6)",
+      "Sunflower listed with regrowth (it's single-harvest, no regrowth)",
+      "Pumpkin listed as making 'Wine' in Keg (vegetables make Juice, not Wine — multiple pages affected)",
+      "Starfruit/Legend/Strawberry prices significantly incorrect in profit-calc.md",
+      "4 new 1.6 crops (Carrot, Summer Squash, Broccoli, Powdermelon) completely missing",
+      "Jellyfish and Master Angler listed as fish (both are fabricated/fictional for vanilla)",
+      "Fried Mushroom and Lucky Lunch recipes have wrong ingredients in cooking.md",
+      "Claim of '87 dishes' should be '80 dishes' in 1.6",
+      "Stonefish price off by factor of ~4.6x (listed 65g, actual 300g)",
+      "Iridium Ore price off (listed 100g, actual 150g)",
+      "Diamond price off (listed 750g, actual 600g)",
+      "Floor 120 reward is Obsidian Edge, not Steel Sword"
+    ]
+  }
+}

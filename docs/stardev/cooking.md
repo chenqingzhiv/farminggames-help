@@ -5,7 +5,7 @@ description: Stardew Valley full cooking recipe guide — 87 dishes complete rec
 
 # 🍳 Complete Cooking Recipe Guide
 
-Stardew Valley has **87 dishes** in total. Cooking is one of the most practical skills in the game — providing combat buffs, fishing buffs, and energy restoration. This guide covers all recipe formulas + effects + crafting advice.
+Stardew Valley has **80 dishes** in total (v1.6). Cooking is one of the most practical skills in the game — providing combat buffs, fishing buffs, and energy restoration. This guide covers all recipe formulas + effects + crafting advice.
 
 ---
 
@@ -31,7 +31,7 @@ Stardew Valley has **87 dishes** in total. Cooking is one of the most practical 
 
 | Dish | Effect | Recipe Source | Ingredients |
 |:----|:-----|:---------|:-----|
-| **Fried Mushroom 🍄** | +2 Attack, +1 Speed | Queen of Sauce Summer 14 | Common Mushroom ×1 + Morel ×1 + Chanterelle ×1 |
+| **Fried Mushroom 🍄** | +2 Attack, +1 Speed | Queen of Sauce Summer 14 | Common Mushroom ×1 + Morel ×1 + Oil ×1 |
 | **Eggplant Parmesan 🍆** | +3 Mining, +1 Defense | Queen of Sauce | Eggplant ×1 + Tomato ×1 |
 | **Pumpkin Soup 🎃** | +2 Defense, +1 Luck | Robin 7 Heart Event | Pumpkin ×1 + Milk ×1 |
 | **Pepper Poppers 🌶️** | +1 Attack, +1 Speed | Queen of Sauce Fall 7 | Hot Pepper ×1 + Cheese ×1 |
@@ -56,7 +56,7 @@ Stardew Valley has **87 dishes** in total. Cooking is one of the most practical 
 
 | Dish | Effect | Recipe Source | Ingredients |
 |:----|:-----|:---------|:-----|
-| **Lucky Lunch 🍀** | +3 Luck ⭐ | Queen of Sauce | Sea Cucumber ×1 + Blue Jazz ×1 + Corn ×1 |
+| **Lucky Lunch 🍀** | +3 Luck ⭐ | Queen of Sauce | Sea Cucumber ×1 + Blue Jazz ×1 + Tortilla ×1 |
 | **Autumn's Bounty 🍁** | +2 Farming, +1 Defense | Queen of Sauce | Yam ×1 + Pumpkin ×1 |
 | **Magic Rock Candy 🍭** | +5 Luck ⭐⭐ | Desert Trader | Diamond ×1 + Prismatic Shard ×1 |
 

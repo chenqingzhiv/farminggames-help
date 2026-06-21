@@ -11,7 +11,6 @@
 | Smallmouth Bass | 50g | River | 6AM-12AM | ☀️/🌧️ | ⭐⭐ |
 | Sandfish | 75g | Desert | 6AM-10PM | ☀️/🌧️ | ⭐⭐⭐ |
 | Shad | 28g | River | 9AM-2AM | 🌧️ | ⭐⭐ |
-| Pufferfish | 200g | Ocean | 12PM-4PM | ☀️ | ⭐⭐⭐ |
 | Herring | 30g | Ocean | 6AM-12AM | ☀️/🌧️ | ⭐ |
 | Eel | 85g | Ocean | 4PM-2AM | 🌧️ | ⭐⭐ |
 | Mackerel | 75g | Ocean | 6AM-12AM | ☀️/🌧️ | ⭐⭐ |
@@ -20,7 +19,7 @@
 | Carp | 30g | Lake | 6AM-12AM | ☀️/🌧️ | ⭐ |
 | Largemouth Bass | 80g | Lake | 6AM-12AM | ☀️/🌧️ | ⭐⭐ |
 | Ghostfish | 45g | Mines | 6AM-12AM | Any | ⭐⭐ |
-| Stonefish | 65g | Mines | 6AM-12AM | Any | ⭐⭐⭐ |
+| Stonefish | 300g | Mines | 6AM-12AM | Any | ⭐⭐⭐ |
 
 ---
 
@@ -35,7 +34,6 @@
 | Tuna | 100g | Ocean | 6AM-12AM | ☀️/🌧️ | ⭐⭐⭐ |
 | Red Mullet | 75g | Ocean | 6AM-12AM | ☀️/🌧️ | ⭐⭐ |
 | Halibut | 100g | Ocean | 6AM-12AM | ☀️/🌧️ | ⭐⭐⭐ |
-| Jellyfish | 80g | Ocean | 6PM-2AM | ☀️/🌧️ | ⭐⭐ |
 | Pufferfish | 200g | Ocean | 12PM-4PM | ☀️ | ⭐⭐⭐ |
 | Tiger Trout | 150g | Lake | 6AM-12AM | ☀️/🌧️ | ⭐⭐⭐ |
 | Sturgeon | 200g | Lake | 6AM-12AM | ☀️/🌧️ | ⭐⭐⭐⭐ |
@@ -84,11 +82,24 @@
 
 | Fish | Price | Location | Season | Conditions |
 |:--|:----|:----|:----|:----|
-| Spring Legend | 5000g | Mountain Lake | Spring | Rainy, from 6AM |
-| Mutant Carp | 1000g | Sewers | Any | None |
-| Glacierfish | 1000g | Arrowhead Island River | Winter | From 6AM |
+| Legend | 5000g | Mountain Lake | Spring | Rainy, from 6AM |
 | Crimsonfish | 2000g | Ocean | Summer | Rainy, from 12PM |
-| Master Angler | 10000g | Bottom of Mines | Any | Caught all fish |
+| Angler | 900g | River | Fall | From 6AM |
+| Glacierfish | 1000g | Arrowhead Island River | Winter | From 6AM |
+| Mutant Carp | 1000g | Sewers | Any | None |
+
+---
+
+## Qi's Extended Family (1.6+ Mastery)
+
+| Fish | Price | Location | Season | Conditions |
+|:--|:----|:----|:----|:----|
+| Legend II | 5000g | Mountain Lake | Spring | Rainy, from 6AM |
+| Crimsonfish II | 2000g | Ocean | Summer | Rainy, from 12PM |
+| Angler II | 900g | River | Fall | From 6AM |
+| Glacierfish II | 1000g | Arrowhead Island River | Winter | From 6AM |
+| Mutant Carp II | 1000g | Sewers | Any | None |
+| Radioactive Carp | 1000g | Mines/Sewers(Fishing Lv15) | Any | Any |
 
 ---
 

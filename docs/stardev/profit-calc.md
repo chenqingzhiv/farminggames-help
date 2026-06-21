@@ -79,7 +79,7 @@ Processing crops dramatically increases sell prices. Here's the main comparison:
 Fishing is the main income source early in Year 1 Spring. Fish Ponds also provide steady income once upgraded.
 
 {{ profit_table([
-    {"name": "Legend 🐟", "seed_cost": "0", "grow_days": "0", "regrow": "No", "sell_price": "15000", "profit_per_day": "15000.00", "notes": "⭐ Legend, Spring rainy day, Fishing Level 10, only 1 per save"},
+    {"name": "Legend 🐟", "seed_cost": "0", "grow_days": "0", "regrow": "No", "sell_price": "5000", "profit_per_day": "5000.00", "notes": "⭐ Legend, Spring rainy day, Fishing Level 10, only 1 per save"},
     {"name": "Lava Eel 🔥", "seed_cost": "0", "grow_days": "0", "regrow": "No", "sell_price": "700", "profit_per_day": "700.00", "notes": "Mines floor 100, Roe 760g each"},
     {"name": "Ice Pip ❄️", "seed_cost": "0", "grow_days": "0", "regrow": "No", "sell_price": "550", "profit_per_day": "550.00", "notes": "Mines floor 60, Roe 680g each"},
     {"name": "Sturgeon 🐟", "seed_cost": "0", "grow_days": "0", "regrow": "No", "sell_price": "200", "profit_per_day": "200.00", "notes": "Pond produces Roe 500g → Caviar 600g"},

@@ -8,8 +8,8 @@
 |:------|:--------|:----|:--------|:----|:--------|:--------|
 | Starfruit | 750g | Starfruit Wine | 3150g | **4.2x** 🔥 | 7 days | **342g/day** |
 | Melon | 250g | Melon Wine | 1050g | 4.2x | 7 days | 114g/day |
-| Pumpkin | 320g | Pumpkin Wine | 1120g | 3.5x | 7 days | 114g/day |
-| Hops | 30g | Pale Ale | 300g | **10x** 🔥 | 1.5 days | 180g/day |
+| Pumpkin | 320g | Pumpkin Juice🧃 | 720g | 2.25x | 7 days | 57g/day |
+| Hops | 25g | Pale Ale | 300g | **12x** 🔥 | 1.5 days | 183g/day |
 | Wheat | 10g | Beer | 200g | **20x** 🔥 | 1 day | 190g/day |
 | Blueberry | 50g | Blueberry Wine | 210g | 4.2x | 7 days | 23g/day |
 | Coffee Bean | 15g | Coffee | 150g | 10x | 2 hours | Very High |
@@ -23,7 +23,7 @@
 
 | Crop | Base Price | Keg (Wine) | Jar (Jelly) | Best Choice |
 |:----|:------|:----|:----|:--------|
-| Starfruit | 750g | 3150g | 1350g | ✅ Keg |
+| Starfruit | 750g | 3150g | 1510g | ✅ Keg |
 | Melon | 250g | 1050g | 570g | ✅ Keg |
 | Blueberry | 50g | 210g | 155g | ✅ Keg |
 | Cranberry | 75g | 315g | 215g | ✅ Keg |
