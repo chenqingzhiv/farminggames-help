@@ -47,10 +47,10 @@ def define_env(env):
             return "<p>暂无数据</p>"
 
         rows = ""
-        best = max(int(i.get("profit_per_day", 0)) for i in items)
+        best = max(float(i.get("profit_per_day", 0)) for i in items)
 
-        for item in sorted(items, key=lambda x: int(x.get("profit_per_day", 0)), reverse=True):
-            p = int(item.get("profit_per_day", 0))
+        for item in sorted(items, key=lambda x: float(x.get("profit_per_day", 0)), reverse=True):
+            p = float(item.get("profit_per_day", 0))
             bar_pct = min(100, int(p / best * 100)) if best > 0 else 0
             is_best = p >= best and best > 0
             row_class = 'style="background:rgba(76,175,80,0.15)"' if is_best else ""

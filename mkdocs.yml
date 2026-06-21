@@ -55,7 +55,7 @@ plugins:
       use_twitter_cards: true
       og_image: assets/img/og-image.png
   - macros:
-      module_name: main
+      module_name: hooks/main
   - awesome-pages:
       collapse_single_pages: true
       strict: false
