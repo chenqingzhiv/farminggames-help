@@ -6,9 +6,8 @@ message: "'%s' — 这句读起来像AI翻译，建议改成更自然的说法"
 link: https://vale.sh
 level: warning
 ignorecase: true
-scope: sentence
 tokens:
-  # Overly formal transition words (AI hallmark)
+  # Overly formal transition words (AI hallmark in game writing)
   - 'Furthermore,'
   - 'Moreover,'
   - 'Additionally,'
@@ -17,7 +16,7 @@ tokens:
   - 'Hence,'
   - 'Thus,'
 
-  # Wordy AI constructions
+  # Wordy AI constructions (very common in game guide content)
   - 'It is important to note that'
   - 'It is worth noting that'
   - 'It should be noted that'
@@ -35,6 +34,7 @@ tokens:
   - 'On the other hand'
   - 'Last but not least'
   - 'First and foremost'
+  - 'And more\!'
 
   # Unnatural verbs (translation tells)
   - 'utilize'
@@ -45,6 +45,22 @@ tokens:
   - 'leverage'
   - 'leverage the power of'
   - 'harness the power of'
+
+  # Wordy game-guide-specific patterns
+  - 'the first thing you need to do'
+  - 'the first step is to'
+  - 'one of the most important'
+  - 'one of the best ways to'
+  - 'there are a number of'
+  - 'there are several'
+  - 'as mentioned earlier'
+  - 'as previously mentioned'
+  - 'as stated above'
+  - 'the following table'
+  - 'the table below'
+  - 'as you can see'
+  - 'as you can imagine'
+  - 'as you might expect'
 
   # AI/translation formula phrases
   - 'When it comes to'

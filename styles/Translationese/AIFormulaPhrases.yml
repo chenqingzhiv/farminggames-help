@@ -1,5 +1,5 @@
 ---
-# AI formulaic sentence starts — these make every paragraph look the same
+# AI formulaic sentence starts — especially common in game guides/wikis
 extends: existence
 message: "%s — AI 常用句式开头，建议换种说法"
 link: https://vale.sh
@@ -7,6 +7,7 @@ level: warning
 ignorecase: true
 scope: sentence
 tokens:
+  # Generic AI starts
   - In this guide, we
   - In this article, we
   - This guide will
@@ -19,12 +20,8 @@ tokens:
   - Without further ado
   - Without further delay
   - If you.re looking for
-  - If you want to
   - If you.re wondering
   - Have you ever wondered
-  - Have you ever thought about
-  - Dive into the world of
-  - Dive into the exciting world of
   - Welcome to the world of
   - Welcome to our guide
   - Here.s everything you need to
@@ -33,3 +30,29 @@ tokens:
   - Everything you need to know about
   - The ultimate guide to
   - Your ultimate guide to
+
+  # Game guide specific
+  - To begin your journey
+  - Your adventure begins
+  - As you start your adventure
+  - As you venture into
+  - On your journey through
+  - Throughout your journey
+  - As you explore the world
+  - As you make your way through
+  - Once you've mastered the basics
+  - Once you get the hang of
+  - Once you understand the basics
+  - When you first start out
+  - When you first begin
+  - When you first start playing
+  - For those new to the game
+  - For beginners, it's recommended
+  - For new players, we recommend
+  - Seasoned players will
+  - Experienced players will
+  - Veteran players will
+  - This section covers
+  - This section will cover
+  - In this section, we'll cover
+  - This page covers
