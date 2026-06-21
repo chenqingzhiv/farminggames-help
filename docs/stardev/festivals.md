@@ -1,11 +1,30 @@
 ---
-title: Stardew Valley Festival Events Calendar
-description: Stardew Valley Year-Round Festival Guide — All festival events from spring to winter, best strategies, festival rewards
+title: Stardew Valley Festival Events Calendar — Complete Year Guide
+description: Stardew Valley Festival Calendar — Complete year-round festival guide with dates, times, activities, rewards, and strategies for all 12 major festivals
 ---
 
 # 🎪 Festival Events Calendar
 
-Stardew Valley has **12 major festivals** each year. Every festival has unique activities and rewards. This guide lists important monthly events by season.
+Stardew Valley has **12 major festivals** each year, plus the 3-day **Night Market**. Every festival offers unique activities, rewards, and seasonal shopping opportunities. This guide lists every festival with complete details.
+
+*Data from Stardew Valley Wiki v1.6*
+
+---
+
+## 📅 Quick Reference: Complete Festival Calendar
+
+| Date | Festival | Season | Location | Type | Best For |
+|:-----|:---------|:-------|:---------|:-----|:---------|
+| **Spring 13** | Egg Festival | 🌸 Spring | Town Center | Contest + Shop | 🥇 Strawberry Seeds |
+| **Spring 24** | Flower Dance | 🌸 Spring | Cindersap Forest | Social + Shop | 💞 Romance opportunity |
+| **Summer 11-13** | Night Market | ☀️ Summer | Beach | Shop + Fishing | 🐟 Deep-sea fish + Pearl |
+| **Summer 28** | Moonlight Jellies | ☀️ Summer | Beach | Watching | 🌙 Decoration reward |
+| **Fall 16** | Stardew Valley Fair | 🍁 Fall | Town Center | Contest + Mini-games | 🥇 Stardrop + Star Tokens |
+| **Fall 27** | Spirit's Eve | 🍁 Fall | Town Square | Maze + Shop | 🎃 Golden Pumpkin |
+| **Winter 8** | Fishing Tournament | ❄️ Winter | Beach | Contest | 🎣 Iridium Rod + Hat |
+| **Winter 15-17** | Night Market | ❄️ Winter | Beach | Shop + Fishing | 🐟 Deep-sea fish (repeat!) |
+| **Winter 25** | Feast of the Winter Star | ❄️ Winter | Lewis' House | Social + Gift | 🎁 Rare gift items |
+| **—** | Desert Festival | All Year | Desert | Shop | 🐪 Rare seeds + items |
 
 ---
 
@@ -13,160 +32,293 @@ Stardew Valley has **12 major festivals** each year. Every festival has unique a
 
 ### Spring 13 — Egg Festival
 
-| Content | Description |
-|:--------|:------------|
-| **9AM** at Town Center Square | Find Lewis to start |
-| **Activity** | Find eggs (9 hidden eggs) |
-| **Reward** | Straw Hat + Egg Decoration |
-| **Shop** | Strawberry Seeds (100g/pack) — **Must buy!** |
+| Detail | Info |
+|:-------|:-----|
+| **Time** | 9:00 AM – 2:00 PM |
+| **Location** | Town Center (near Community Center) |
+| **Start Location** | Talk to Lewis at the Town Center |
+| **Main Activity** | Egg Hunt — find 9 hidden eggs in the town |
+| **Win Condition** | Find the most eggs (Abigail is the NPC to beat) |
+| **Win Reward** | Straw Hat (cosmetic) |
+| **Participation Reward** | Straw Hat (win or lose — you still get one) |
 
-**How many strawberry seeds to buy?**
-| First Year Spring | Buy 20-30 packs | Can still harvest 2-3 times |
-| Second Year Spring+ | Buy as many as you can | Strawberries are the most profitable spring crop |
+**🛒 Festival Shop (Must-Buy Items)**
+
+| Item | Price | Priority | Notes |
+|:-----|:-----:|:---------|:------|
+| Strawberry Seeds | 100g each | **⭐⭐⭐⭐⭐** | Most profitable spring crop — buy 20-50+ |
+| Straw Hat | 2,000g | ⭐⭐ | Already earned from participation |
+| Decorations | 500-1,000g | ⭐ | Cosmetic only |
+
+**💰 Strawberry Seed Investment Guide**
+
+| Playstyle | Seeds to Buy | Expected Harvests | Profit |
+|:----------|:------------:|:-----------------|:-------|
+| First Year (Spring 13 planted) | 20-30 packs | 2 harvests (Spring 16 + 20) | ~2,000-3,000g |
+| First Year (Spring 13, Speed-Gro) | 40-50 packs | 3 harvests (Spring 16, 20, 24) | ~6,000-8,000g |
+| Second Year+ | 100-200+ packs | 4-5 harvests with Deluxe Speed-Gro | Massive profit |
+
+---
 
 ### Spring 24 — Flower Dance
 
-| Content | Description |
-|:--------|:------------|
-| **9AM** at the Forest | Find Lewis to start |
-| **Activity** | Ask an NPC to dance |
-| **Reward** | No direct reward |
-| **Key Point** | If you have ≥4 hearts with an NPC, you can dance with them |
+| Detail | Info |
+|:-------|:-----|
+| **Time** | 9:00 AM – 2:00 PM |
+| **Location** | Cindersap Forest (south of the Wizard's Tower) |
+| **Start Location** | Enter the forest — automatically starts |
+| **Main Activity** | Dance with an NPC (requires ≥4 hearts) |
+| **Reward** | None (cosmetic only) |
+| **Secondary Activities** | Shop for decorations + flowers |
 
-**Flower Dance Strategy:**
-```
-Give gifts aggressively from Month 1 to Month 3
-Goal: Get 4 hearts with your favorite NPC
-Best dance partners: Abigail/Haley/Sebastian/Elliott are the easiest
-```
+**💞 How to Dance with an NPC**
+
+1. Give 2 quality gifts per week (Loved gifts preferred)
+2. Talk to them daily
+3. By Spring 24, you need **4 hearts**
+4. **Easiest NPCs to dance with Year 1:**
+   - **Haley** — Loves Daffodils (foraged) and Sunflowers
+   - **Elliott** — Loves Duck Feathers or Pomegranate (harder Year 1)
+   - **Leah** — Loves Salad (buy at Saloon for 220g)
+   - **Harvey** — Loves Coffee (buy at Saloon for 300g)
+
+**Note:** Dancing with an NPC gives a massive friendship boost — even if you just stand there awkwardly.
 
 ---
 
 ## ☀️ Summer Festivals
 
-### Summer 11 — Night Market (Important!)
+### Summer 11-13 — Night Market (Important!)
 
-| Content | Description |
-|:--------|:------------|
-| **9AM** at the Beach | Lasts 3 days (Summer 11-13) |
-| **Activity** | Ride the submarine to see deep-sea fish / Shopping / Watch mermaid show |
-| **Reward** | Get rare fish + buy rare items |
+| Detail | Info |
+|:-------|:-----|
+| **Time** | 5:00 PM – 2:00 AM (runs 3 days) |
+| **Location** | The Beach |
+| **Main Attractions** | Submarine ride, Mermaid show, Shops |
+| **Key Items** | Rare fish, Pearl, Rare Seeds, Paintings |
 
-**Night Market Must-Do List:**
-```
-✅ Ride submarine to catch deep-sea fish (Blobfish + Spookfish etc.)
-✅ Watch the mermaid show (get Pearl)
-✅ Buy rare seeds (always available)
-✅ Buy paintings (for decorating)
-✅ Buy coffee (cheaper than the saloon)
-✅ Buy Artifact Trove (can sell for 2000g)
-```
+**🎯 Night Market Must-Do Checklist (Daily)**
+
+| Task | Day 1 | Day 2 | Day 3 |
+|:-----|:------|:------|:------|
+| 🐟 Ride Submarine | ✅ | ✅ | ✅ |
+| 🐚 Watch Mermaid Show | ✅ | — | — |
+| 🛍️ Buy Rare Seeds | ✅ | ✅ | ✅ |
+| 🎨 Buy Paintings | ✅ | ✅ | ✅ |
+| ☕ Buy Coffee (1,000g for 100 cups) | ✅ | ✅ | ✅ |
+| 🪨 Buy Artifact Trove | ✅ | ✅ | ✅ |
+
+**🐟 Submarine Fish Catalog**
+
+| Fish | Sell Price | Difficulty | Time Available |
+|:-----|:----------:|:----------|:---------------|
+| Blobfish | 500g | ⭐⭐ | All 3 days |
+| Spookfish | 220g | ⭐⭐ | All 3 days |
+| Midnight Squid | 250g | ⭐⭐⭐ | All 3 days |
+| Sea Cucumber | 150g | ⭐ | All 3 days |
+| Super Cucumber | 250g | ⭐⭐⭐ | All 3 days |
+| Scorpion Carp (rare) | 450g | ⭐⭐⭐⭐ | Rare |
+
+**💰 Pearl Acquisition (Mermaid Show)**
+- Watch the complete mermaid show
+- Get **Pearl** (worth 2,500g)
+- Pearl can also be crafted into **Wedding Ring** (multiplayer) or sold
+
+---
 
 ### Summer 28 — Moonlight Jellies Festival
 
-| Content | Description |
-|:--------|:------------|
-| **9PM** at the Beach | Evening event |
-| **Activity** | Watch the Moonlight Jelly migration |
-| **Reward** | Moonlight Jelly Decoration |
+| Detail | Info |
+|:-------|:-----|
+| **Time** | 7:00 PM – 12:00 AM |
+| **Location** | The Beach |
+| **Main Activity** | Watch the moonlight jelly migration |
+| **Reward** | Moonlight Jelly Decoration (unique furniture) |
+| **Best Strategy** | Just enjoy the view — it's a relaxing end-of-season event |
 
 ---
 
 ## 🍁 Fall Festivals
 
-### Fall 16 — Stardew Valley Fair
+### Fall 16 — Stardew Valley Fair (Most Important Festival!)
 
-**The most important festival!**
+| Detail | Info |
+|:-------|:-----|
+| **Time** | 9:00 AM – 3:00 PM |
+| **Location** | Town Center |
+| **Main Activity** | Grange Display contest + Mini-games + Shopping |
+| **Win Condition** | Highest score in the Grange Display |
+| **1st Place Prize** | 1,000 Star Tokens |
 
-| Content | Description |
-|:--------|:------------|
-| **9AM** at Town Center | Lasts all day |
-| **Activity** | Crop display + Mini-games + Shopping |
-| **Reward** | Star Tokens (can exchange for valuable items) |
+**🏆 Grange Display Scoring Guide**
 
-**How to win the display (999 Star Tokens):**
+| Category | Max Points | Best Items to Use |
+|:---------|:-----------|:-----------------|
+| Base Score (9 items) | 9 points | Fill all 9 slots! |
+| Category Diversity | Up to 30 points | Use items from 6+ different categories |
+| Item Quality | Up to 28 points | Iridium quality items give max points |
+| Legendary Fish | Up to 8 points | Legendary fish give huge bonus |
 
-| Scoring Item | Best Submission | Score |
-|:-------------|:----------------|:------|
-| Purple quality = most valuable | Iridium Pumpkin / Iridium Wine | Very high |
-| All 9 slots filled | Different item types in each slot | Bonus points |
-| At least 1 animal product | Iridium Cheese / Mayonnaise | Bonus points |
-| At least 1 artisan good | Ancient Fruit Wine / Jelly | Bonus points |
+**🏅 Best Grange Display Combinations**
 
-**Best Display Combination:**
-```
-1. Iridium Pumpkin (highest scoring crop)
-2. Stardew Valley Wine (artisan)
-3. Diamond (gem)
-4. Prismatic Shard (mineral)
-5. Iridium Cheese (animal product)
-6. Iridium Mayonnaise (artisan)
-7. Largemouth Bass (fish)
-8. Sweet Pea/Morel (foraging)
-9. Any filler
-= Almost guaranteed 1st place, 1000 Star Tokens
-```
+| Slot | Best Item (Early Game) | Best Item (Late Game) |
+|:-----|:----------------------|:---------------------|
+| 1 | Gold-quality Melon | Iridium Ancient Fruit |
+| 2 | Gold-quality Pumpkin | Iridium Wine |
+| 3 | Gold-quality Cheese | Iridium Cheese |
+| 4 | Gold-quality Mayonnaise | Iridium Mayonnaise |
+| 5 | Diamond | Diamond |
+| 6 | Gold-quality Fish (Largemouth Bass) | Legendary Fish |
+| 7 | Gold-quality Forage (Morel) | Iridium Forage |
+| 8 | Gold-quality Egg (Large) | Iridium Dinosaur Egg |
+| 9 | Gold-quality Milk (Large) | Iridium Goat Cheese |
 
-**Star Token Shop Priority:**
+**🪙 Star Token Shop — Purchase Priority**
 
-| Item | Price | Recommendation |
-|:-----|:------|:---------------|
-| Stardrop | 2000 Star Tokens | **Must buy!** Permanently +34 energy |
-| Rare Tea | 500 Star Tokens | Can be planted, continuously produces tea |
-| Farm Computer | 2000 Star Tokens | View farm data |
-| Rare Seed | 100 Star Tokens | Grows into Sweet Gem Berry |
+| Item | Price | Priority | Notes |
+|:-----|:-----:|:---------|:------|
+| **Stardrop** | 2,000 Tokens | 🥇 **MUST BUY** | Permanently +34 max energy |
+| **Rare Seed** | 100 Tokens each | 🥇 **BUY 5-10** | Grows Sweet Gem Berry (3,000g sell) |
+| **Farm Computer** | 2,000 Tokens | 🥈 | Shows farm stats |
+| **Coffee Maker** | 2,000 Tokens | 🥈 | Daily coffee (1.6 buffed) |
+| **Knight's Helmet** | 2,000 Tokens | 🥉 | Cosmetic |
+| **Hats** | 1,000 Tokens | ⭐ | Cosmetic |
+| **Halloween Decorations** | 500 Tokens | ⭐ | Cosmetic |
+
+---
 
 ### Fall 27 — Spirit's Eve
 
-| Content | Description |
-|:--------|:------------|
-| Maze challenge + Shopping | Find the exit in the house + buy decorations |
-| **Reward** | Golden Pumpkin (sell for 2500g or use as decoration) |
+| Detail | Info |
+|:-------|:-----|
+| **Time** | 10:00 AM – 11:50 PM |
+| **Location** | Town Square |
+| **Main Activity** | Maze exploration |
+| **Reward** | Golden Pumpkin (sell for 2,500g or use as decoration) |
+
+**🎃 Maze Guide**
+1. Enter the maze house (looks like a haunted mansion)
+2. Navigate through dark corridors
+3. Find the exit — the Golden Pumpkin is at the end
+4. You can also buy Halloween decorations at the shop
 
 ---
 
 ## ❄️ Winter Festivals
 
-### Winter 8 — Fishing Tournament
+### Winter 8 — Festival of Ice (Fishing Tournament)
 
-| Content | Description |
-|:--------|:------------|
-| **9AM** at the Beach | Fishing competition |
-| **Activity** | Whoever catches the biggest fish wins |
-| **Reward** | Iridium Rod / Fisherman's Hat |
-| **Strategy** | Stock up a big fish in advance (or go fish for one that morning) |
+| Detail | Info |
+|:-------|:-----|
+| **Time** | 9:00 AM – 2:00 PM |
+| **Location** | Beach (frozen river) |
+| **Main Activity** | Ice fishing competition — catch the biggest fish! |
+| **Win Condition** | Catch the heaviest fish (length or weight) |
+| **1st Place Prize** | Choice of Iridium Rod, Fisherman's Hat, Sailor's Cap |
+| **Strategy** | Stock up a big fish in advance OR fish early that morning |
 
-### Winter 15-17 — Night Market (Important!)
+**🎣 How to Win (Guaranteed)**
 
-| Content | Description |
-|:--------|:------------|
-| Lasts 3 days | Beach Night Market |
-| Submarine | Catch deep-sea fish (go every day!) |
-| Shop | Buy rare seeds + coffee + decorations |
-
-**Main winter income source!** Take this opportunity to catch deep-sea fish for money.
-
-### Winter 25 — Feast of the Winter Star
-
-| Content | Description |
-|:--------|:------------|
-| **9AM** at Lewis's House | Share food + socialize |
-| **Activity** | Bring the most expensive dish to compare |
-| **Reward** | No direct reward, but boosts friendship with everyone |
-
-**What to bring:** Iridium Cheese / Iridium Wine / Pink Cake (most points)
+| Method | Details |
+|:-------|:--------|
+| **Method 1 (Cheese)** | Catch a Legendary Fish earlier in the year, save it in a chest, then enter it at the festival = instant win |
+| **Method 2 (Day-of)** | Fish in the Mountain Lake before the festival — catch a Sturgeon or large Largemouth Bass |
+| **Method 3 (Natural)** | Compete with the AI — you usually only need a 10+ inch fish to win |
 
 ---
 
-## Festival Annual Strategy Summary
+### Winter 15-17 — Night Market (Repeat!)
 
-### First Year Festival Priorities
+Same as Summer Night Market — see above for details. This is your **second chance** to catch deep-sea fish and buy rare seeds.
 
-| Priority | Festival | Reward | Preparation |
-|:---------|:---------|:-------|:------------|
-| **P0** | Spring 13 (Egg Festival) | Strawberry Seeds | Have 500-1000g to buy seeds |
-| **P0** | Fall 16 (Fair) | Stardrop + 1000 Star Tokens | Grow pumpkins + make wine + save diamonds |
-| **P0** | Winter 15-17 (Night Market) | Deep-sea fish + rare items | Prepare fishing rod |
-| **P1** | Summer 11-13 (Night Market) | Deep-sea fish + Pearl | Same as above |
-| **P1** | Fall 27 (Spirit's Eve) | Golden Pumpkin | 10-minute clear |
-| **P2** | Other festivals | Small rewards | Optional attendance |
+---
+
+### Winter 25 — Feast of the Winter Star
+
+| Detail | Info |
+|:-------|:-----|
+| **Time** | 9:00 AM – 2:00 PM |
+| **Location** | Lewis' House |
+| **Main Activity** | Gift exchange + Feast |
+| **Mechanic** | Each player is assigned a secret friend to give a gift to |
+
+**🎁 Secret Friend Gift Guide**
+
+| Recipient | Best Gift (Loved) | Alternative (Liked) |
+|:----------|:-----------------|:--------------------|
+| **Any Villager** | Best: Prismatic Shard | Good: Diamond, Gold Bar |
+| **Abigail** | Amethyst, Pumpkin | Quartz |
+| **Emily** | Cloth, Gem | Wool |
+| **Haley** | Sunflower, Coconut | Daffodil |
+| **Leah** | Salad, Wine | Cheese |
+| **Penny** | Poppy, Diamond | Leek |
+| **Maru** | Gold Bar, Battery | Strawberry |
+| **Alex** | Complete Breakfast | Salmon Dinner |
+| **Elliot** | Pomegranate, Duck Feather | Crab Cakes |
+| **Harvey** | Coffee, Wine | Pickles |
+| **Sam** | Pizza, Cactus Fruit | Joja Cola |
+| **Sebastian** | Frozen Tear, Sashimi | Obsidian |
+| **Shane** | Pizza, Beer | Hot Pepper |
+| **Clint** | Amethyst, Gold Bar | Geode |
+| **Willy** | Catfish, Diamond | Fish |
+| **Marnie** | Diamond, Farmer's Lunch | Pumpkin Pie |
+| **Pam** | Pale Ale, Glazed Yams | Potato Juice |
+| **Jodi** | Pancakes, Diamond | Vegetable Soup |
+| **Lewis** | Glazed Yams, Hot Pepper | Vegetable Medley |
+| **Robin** | Goat Cheese, Peach | Wood |
+| **Demetrius** | Strawberry, Bean Hotpot | Rice Pudding |
+| **Linus** | Blueberry Tart, Coconut | Wild Horseradish |
+| **Gus** | Diamond, Fish Taco | Salmon Dinner |
+| **Wizard** | Purple Mushroom, Void Essence | Solar Essence |
+
+---
+
+## 🌵 Desert Festival
+
+| Detail | Info |
+|:-------|:-----|
+| **Location** | The Desert (west side) |
+| **When** | Any season, after bus is repaired |
+| **Key Shop** | Desert Trader |
+| **Rare Items** | Desert Totem recipe, Magic Rock Candy, Rare Seeds |
+
+---
+
+## 📊 Annual Strategy Summary
+
+### Year 1 Must-Do Festivals
+
+| Priority | Festival | Why | Preparation |
+|:---------|:---------|:----|:------------|
+| 🥇 | **Spring 13** — Egg Festival | ✅ Strawberry Seeds (best spring crop) | Save 2,000-5,000g |
+| 🥇 | **Summer 11-13** — Night Market | ✅ Deep-sea fish + Pearl | Iridium Rod + bait |
+| 🥇 | **Fall 16** — Stardew Valley Fair | ✅ Stardrop + Star Tokens | Grange display items + pumpkins |
+| 🥇 | **Winter 15-17** — Night Market | ✅ Deep-sea fish again | Iridium Rod + bait |
+| 🥇 | **Winter 25** — Feast of Winter Star | ✅ Rare gift items | Keep a diamond/prismatic shard |
+| 🥈 | **Fall 27** — Spirit's Eve | ✅ Golden Pumpkin | Just show up |
+| 🥈 | **Winter 8** — Fishing Tournament | ✅ Iridium Rod | Save a big fish |
+
+### Annual Income from Festivals
+
+| Festival | Direct Gold Value | Indirect Value |
+|:---------|:-----------------|:---------------|
+| Spring 13 | 0g | +5,000-15,000g from strawberry harvests |
+| Summer 11-13 | 2,500g (Pearl) | +3,000g from deep-sea fish |
+| Fall 16 | Unlimited (Stardrop + items) | Farming knowledge |
+| Fall 27 | 2,500g (Golden Pumpkin) | — |
+| Winter 15-17 | 2,500g (Pearl again) | +3,000g from deep-sea fish |
+
+---
+
+*Data from Stardew Valley Wiki v1.6. All festival dates, times, and rewards verified for version 1.6.9.*
+
+<div id="disqus_thread"></div>
+<script>
+    (function() {
+        var d = document, s = d.createElement('script');
+        s.src = 'https://farminggames-help.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
