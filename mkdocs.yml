@@ -98,6 +98,11 @@ copyright: Copyright &copy; 2026 Farming Games Help
 
 nav:
   - 🏠 Home: index.md
+  - 🛠️ Tools:
+    - 💰 Crop Profit Calculator: tools/profit-calculator.md
+    - 🗺️ Interactive Map: tools/interactive-map.md
+    - 💾 Save Editors & Saves: tools/saves.md
+    - 📦 Mods Guide: tools/mods.md
   - 🌾 Game Database:
     - Game List: database/games.md
   - 🌟 Stardew Valley:
