@@ -1,3 +1,14 @@
+<div class="tool-tabs">
+  <input type="radio" name="tooltab" id="tab-calc" checked>
+  <label for="tab-calc">📊 Calculator</label>
+  <input type="radio" name="tooltab" id="tab-guide">
+  <label for="tab-guide">📖 Quick Guide</label>
+  <input type="radio" name="tooltab" id="tab-faq">
+  <label for="tab-faq">❓ FAQ</label>
+</div>
+
+<div class="tool-tab-content" id="content-calc">
+
 # Crop Profit Calculator
 
 Welcome to the **Stardew Valley Crop Profit Calculator** — an interactive tool to help you maximize your farming profits.
@@ -296,7 +307,55 @@ setTimeout(calculate, 100);
   cursor: pointer;
   align-self: flex-end;
 }
-.calc-btn:hover { opacity: 0.9; }
+</style>
+</div>
+
+<div class="tool-tab-content" id="content-guide" style="display:none">
+
+## 📖 Quick Guide
+
+1. **Set your Farming Level** — Higher level = more crops harvested
+2. **Toggle professions** — Tiller (10% more crops) or Artisan (40% more artisan goods)
+3. **Choose fertilizer** — Basic/Quality/Deluxe/Speed-Gro affects harvest quality
+4. **Select a crop** — Compare spring/summer/fall crops side by side
+5. **Read the results** — Gold/day tells you which crop is most profitable
+
+**Pro tip:** Blueberries (summer) and Cranberries (fall) are the top earners in early-game. Switch to Starfruit or Ancient Fruit for end-game max profit.
+
+</div>
+
+<div class="tool-tab-content" id="content-faq" style="display:none">
+
+## ❓ FAQ
+
+**Q: Why is Gold/Day more important than total profit?**
+A: Total profit ignores how many days the crop takes to grow. Gold/Day accounts for the growing time, so you can compare crops fairly.
+
+**Q: Does quality fertilizer increase profit?**
+A: Yes — higher quality crops sell for more. Quality fertilizer increases the chance of silver/gold/iridium quality harvests.
+
+**Q: Should I use Speed-Gro or Quality Fertilizer?**
+A: It depends. Speed-Gro lets you get more harvests per season, which beats quality for multi-harvest crops. Quality fertilizer is better for single-harvest crops with high base value.
+
+<script>
+(function() {
+  const tabs = document.querySelectorAll('.tool-tabs input[type="radio"]');
+  const contents = {
+    'tab-calc': document.getElementById('content-calc'),
+    'tab-guide': document.getElementById('content-guide'),
+    'tab-faq': document.getElementById('content-faq')
+  };
+  tabs.forEach(tab => {
+    tab.addEventListener('change', function() {
+      Object.keys(contents).forEach(key => {
+        if (contents[key]) {
+          contents[key].style.display = (key === this.id) ? 'block' : 'none';
+        }
+      });
+    });
+  });
+})();
+</script>
 #results { margin: 20px 0; }
 #profitChart { margin-top: 20px; border-radius: 12px; }
 </style>

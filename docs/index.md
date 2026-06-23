@@ -1,10 +1,30 @@
 <div class="home-hero">
-  <h1>Your <span class="gradient">Farming Games</span> Hub</h1>
-  <p>Complete guides, calculators, and databases for Stardew Valley, Farming Simulator, Palia, and more cozy farming games.</p>
-  <div class="hero-stats">
-    <div class="hero-stat"><div class="hero-stat-num">50+</div><div class="hero-stat-label">Guides</div></div>
-    <div class="hero-stat"><div class="hero-stat-num">8</div><div class="hero-stat-label">Tools</div></div>
-    <div class="hero-stat"><div class="hero-stat-num">8</div><div class="hero-stat-label">Games</div></div>
+  <div class="home-hero-logo">
+    <div class="home-hero-logo-icon">🌾</div>
+    <div class="home-hero-logo-text">Farming <span class="highlight">Games</span> Help</div>
+  </div>
+  <div class="home-hero-tagline">Guides, tools & calculators for Stardew Valley & farming sims</div>
+  <div class="home-hero-search">
+    <input type="text" placeholder="Search guides, tools, crops..." value="Stardew Valley crop profit guide">
+    <button>Search</button>
+  </div>
+  <div class="home-hero-stats">
+    <div class="home-hero-stat">
+      <div class="home-hero-stat-num">58</div>
+      <div class="home-hero-stat-label">Guides</div>
+    </div>
+    <div class="home-hero-stat">
+      <div class="home-hero-stat-num">8</div>
+      <div class="home-hero-stat-label">Tools</div>
+    </div>
+    <div class="home-hero-stat">
+      <div class="home-hero-stat-num">8</div>
+      <div class="home-hero-stat-label">Games</div>
+    </div>
+    <div class="home-hero-stat">
+      <div class="home-hero-stat-num">1,500+</div>
+      <div class="home-hero-stat-label">Data Points</div>
+    </div>
   </div>
 </div>
 

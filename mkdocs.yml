@@ -5,6 +5,8 @@ site_author: farming-games
 
 theme:
   name: material
+  logo: material/leaf
+  favicon: assets/img/og-image.png
   language: en
   custom_dir: overrides
   palette:
