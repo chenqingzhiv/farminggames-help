@@ -80,42 +80,42 @@ For Fields of Mistria, Coral Island, Sandrock, Sun Haven and more, see the [full
 <h2 class="section-title-home">Interactive Tools <span class="sub">· calculators & planners</span></h2>
 
 <div class="tools-grid-home">
-  <div class="tool-card-home">
+  <a href="tools/stardew-valley/profit-planner/" class="tool-card-home">
     <div class="tool-icon">🌱</div>
     <h4>Crop Profit Planner</h4>
     <p>Compare crop ROI season by season.</p>
     <span class="badge">Stardew</span>
-  </div>
-  <div class="tool-card-home">
+  </a>
+  <a href="tools/stardew-valley/npc-friendship/" class="tool-card-home">
     <div class="tool-icon">💞</div>
     <h4>NPC Friendship Optimizer</h4>
     <p>Track gifts & optimize relationships.</p>
     <span class="badge">Stardew</span>
-  </div>
-  <div class="tool-card-home">
+  </a>
+  <a href="tools/stardew-valley/fish-tracker/" class="tool-card-home">
     <div class="tool-icon">🐟</div>
     <h4>Fish Collection Tracker</h4>
     <p>Track all 70+ fish by season & location.</p>
     <span class="badge">Stardew</span>
-  </div>
-  <div class="tool-card-home">
+  </a>
+  <a href="tools/interactive-map/" class="tool-card-home">
     <div class="tool-icon">🗺️</div>
     <h4>Interactive Map</h4>
     <p>Clickable valley map with markers.</p>
     <span class="badge">Stardew</span>
-  </div>
-  <div class="tool-card-home">
+  </a>
+  <a href="tools/profit-calculator/" class="tool-card-home">
     <div class="tool-icon">🧮</div>
     <h4>Profit Calculator</h4>
     <p>Calculate profit for any crop setup.</p>
     <span class="badge">Multi</span>
-  </div>
-  <div class="tool-card-home">
+  </a>
+  <a href="tools/mods/" class="tool-card-home">
     <div class="tool-icon">📦</div>
     <h4>Mods Guide</h4>
     <p>Curated mod recommendations + install guide.</p>
     <span class="badge">Multi</span>
-  </div>
+  </a>
 </div>
 
 [View all tools →](tools/)

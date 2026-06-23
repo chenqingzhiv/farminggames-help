@@ -490,7 +490,11 @@ body::after {
   margin: 8px 0 20px;
 }
 
+a.tool-card-home,
 .tool-card-home {
+  display: block;
+  text-decoration: none;
+  color: inherit;
   padding: 16px 18px;
   border-radius: 12px;
   background: rgba(12, 18, 16, 0.4);
@@ -499,6 +503,7 @@ body::after {
   cursor: pointer;
 }
 
+a.tool-card-home:hover,
 .tool-card-home:hover {
   background: rgba(12, 18, 16, 0.6);
   border-color: rgba(34, 197, 94, 0.2);
