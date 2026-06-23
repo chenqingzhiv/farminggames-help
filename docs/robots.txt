@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://farminggames.help/sitemap.xml
