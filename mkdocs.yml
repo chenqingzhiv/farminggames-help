@@ -155,24 +155,36 @@ nav:
     - 👶 Getting Started: farmingsim/getting-started.md
     - 🌽 Crop Profit Guide: farmingsim/crops.md
     - 🚜 Machinery Guide: farmingsim/machinery.md
+    - 🚛 Vehicle Comparison: farmingsim/vehicle-compare.md
+    - 💰 Complete Profit Guide: farmingsim/profit-guide.md
     - 📬 Feedback: farmingsim/feedback.md
   - 🏹 Palia:
     - 📖 Full Guide: palia/index.md
     - 👶 Beginner's Guide: palia/guide.md
+    - 🧑‍🌾 Crop Profit Guide: palia/crop-profit.md
+    - 🐟 Fishing Guide: palia/fish-guide.md
     - 📬 Feedback: palia/feedback.md
   - 🌟 More Games:
     - 🌾 Fields of Mistria:
       - 🌾 Game Overview: fields-mistria/index.md
       - 🌱 Getting Started: fields-mistria/getting-started.md
+      - 🧑‍🌾 Crop Profit Guide: fields-mistria/crop-profit.md
+      - 💝 NPC Gift Guide: fields-mistria/gift-guide.md
     - 🏝️ Coral Island:
       - 🏝️ Game Overview: coral-island/index.md
       - 🌴 Getting Started: coral-island/getting-started.md
+      - 🧑‍🌾 Crop Profit Guide: coral-island/crop-profit.md
+      - 🐟 Fish Guide: coral-island/fish-guide.md
     - 🏜️ My Time at Sandrock:
       - 🏜️ Game Overview: sandrock/index.md
       - 🔧 Getting Started: sandrock/getting-started.md
+      - 📦 Resources & Materials: sandrock/resources.md
+      - 💝 NPC Gift Guide: sandrock/gift-guide.md
     - ☀️ Sun Haven:
       - ☀️ Game Overview: sun-haven/index.md
       - 🌿 Getting Started: sun-haven/getting-started.md
+      - 🧑‍🌾 Crop Profit Guide: sun-haven/crop-profit.md
+      - 💝 NPC Gift Guide: sun-haven/npc-gifts.md
   - 📖 Beginner Guides:
     - Newbie Guide: guides/newbie.md
     - Overview: guides/index.md
