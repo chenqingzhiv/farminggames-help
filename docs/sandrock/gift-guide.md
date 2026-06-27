@@ -1,3 +1,9 @@
+---
+title: My Time at Sandrock — NPC Gift Guide
+description: Building friendships with Sandrock's quirky residents unlocks discounts, workshop perks, romance options, and story progression. Each character has distinct ...
+date: 2026-06-27
+---
+
 # My Time at Sandrock — NPC Gift Guide
 
 Building friendships with Sandrock's quirky residents unlocks discounts, workshop perks, romance options, and story progression. Each character has distinct tastes across five gift tiers. Prioritize Loved gifts, especially on birthdays, for maximum relationship gain.

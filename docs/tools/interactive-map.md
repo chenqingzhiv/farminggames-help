@@ -1,3 +1,9 @@
+---
+title: Stardew Valley Interactive Map
+description: Explore the valley with our interactive collection map. Click on any area to see all collectibles, forage items, and points of interest.
+date: 2026-06-27
+---
+
 # Stardew Valley Interactive Map
 
 Explore the valley with our interactive collection map. Click on any area to see all collectibles, forage items, and points of interest.

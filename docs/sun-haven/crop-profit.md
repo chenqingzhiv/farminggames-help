@@ -1,3 +1,9 @@
+---
+title: Sun Haven — Crop Profit Guide
+description: Maximizing profit in Sun Haven requires understanding the unique economics of each season's crops. This guide breaks down every crop by seed cost, growth tim...
+date: 2026-06-27
+---
+
 # Sun Haven — Crop Profit Guide
 
 Maximizing profit in Sun Haven requires understanding the unique economics of each season's crops. This guide breaks down every crop by seed cost, growth time, sell price, daily profit, and regrowth mechanics to help you plan the most lucrative farm possible.

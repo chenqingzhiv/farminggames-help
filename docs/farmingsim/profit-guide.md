@@ -1,3 +1,9 @@
+---
+title: Farming Simulator 25 — Complete Profit Guide
+description: Understanding crop profitability is the foundation of a successful farm in Farming Simulator 25. This guide breaks down every major crop by revenue, cost, ne...
+date: 2026-06-27
+---
+
 # Farming Simulator 25 — Complete Profit Guide
 
 Understanding crop profitability is the foundation of a successful farm in Farming Simulator 25. This guide breaks down every major crop by revenue, cost, net profit per hectare, growing time, and seasonal considerations to help you maximize your bottom line.

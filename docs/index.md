@@ -1,3 +1,9 @@
+---
+title: 🌾 Farming Games Help — Guides, Tools & Calculators
+description: Complete guides & databases for cozy farming games — Stardew Valley, Farming Simulator, Palia, Fields of Mistria, Coral Island, and more.
+date: 2026-06-27
+---
+
 <div class="home-hero">
   <div class="home-hero-logo">
     <div class="home-hero-logo-icon">🌾</div>

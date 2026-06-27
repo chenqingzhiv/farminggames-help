@@ -1,3 +1,9 @@
+---
+title: Coral Island — Crop Profit Guide
+description: Master your farm's economy in Coral Island with this complete seasonal crop profit guide. Each table includes seed price, growth time, sell price, and profit...
+date: 2026-06-27
+---
+
 # Coral Island — Crop Profit Guide
 
 Master your farm's economy in Coral Island with this complete seasonal crop profit guide. Each table includes seed price, growth time, sell price, and profit per day (base quality).

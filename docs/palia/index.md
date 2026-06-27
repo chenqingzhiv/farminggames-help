@@ -1,3 +1,9 @@
+---
+title: Palia — Complete Guide
+description: 1. Complete the tutorial → Unlock basic tools
+date: 2026-06-27
+---
+
 # Palia — Complete Guide
 
 ## Game Overview

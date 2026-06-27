@@ -1,3 +1,9 @@
+---
+title: Coral Island — Fish Guide & Best Fishing Spots
+description: Complete guide to every fish in Coral Island, including season, location, difficulty, sell price, and usage. Whether you're completing the museum collection ...
+date: 2026-06-27
+---
+
 # Coral Island — Fish Guide & Best Fishing Spots
 
 Complete guide to every fish in Coral Island, including season, location, difficulty, sell price, and usage. Whether you're completing the museum collection or maximizing cooking ingredients, this guide has you covered.

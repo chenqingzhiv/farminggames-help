@@ -1,3 +1,9 @@
+---
+title: Crop Profit Calculator
+description: <div class="tool-tabs">
+date: 2026-06-27
+---
+
 <div class="tool-tabs">
   <input type="radio" name="tooltab" id="tab-calc" checked>
   <label for="tab-calc">📊 Calculator</label>

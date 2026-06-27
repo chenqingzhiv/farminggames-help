@@ -1,3 +1,9 @@
+---
+title: My Time at Sandrock — Resource & Material Guide
+description: Surviving and thriving in the harsh desert of Sandrock depends on knowing where to find every resource, how to gather it efficiently, and what it's used for....
+date: 2026-06-27
+---
+
 # My Time at Sandrock — Resource & Material Guide
 
 Surviving and thriving in the harsh desert of Sandrock depends on knowing where to find every resource, how to gather it efficiently, and what it's used for. This comprehensive guide covers all major materials organized by type.

@@ -1,3 +1,9 @@
+---
+title: Farming Games — Beginner Guide
+description: Farming Games — Beginner Guide
+date: 2026-06-27
+---
+
 # Farming Games — Beginner Guide
 
 ## Common Beginner Questions

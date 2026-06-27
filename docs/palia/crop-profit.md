@@ -1,3 +1,9 @@
+---
+title: Palia — Crop Profit Guide
+description: Optimize your garden layout and crop selection in Palia with this complete profit guide. Unlike most farming games, Palia uses a garden-plot grid system wher...
+date: 2026-06-27
+---
+
 # Palia — Crop Profit Guide
 
 Optimize your garden layout and crop selection in Palia with this complete profit guide. Unlike most farming games, Palia uses a garden-plot grid system where crops can be planted individually or in rows, and quality (star value) affects sell prices.

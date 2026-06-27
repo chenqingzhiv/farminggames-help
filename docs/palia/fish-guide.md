@@ -1,3 +1,9 @@
+---
+title: Palia — Fishing Guide
+description: Complete fishing guide for Palia covering every fish species, including location, time of day, quality levels, and sell prices. Fishing is a great way to ear...
+date: 2026-06-27
+---
+
 # Palia — Fishing Guide
 
 Complete fishing guide for Palia covering every fish species, including location, time of day, quality levels, and sell prices. Fishing is a great way to earn gold, complete bundles, and build relationships through gifting.

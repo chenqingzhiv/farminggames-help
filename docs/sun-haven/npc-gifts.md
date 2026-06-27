@@ -1,3 +1,9 @@
+---
+title: Sun Haven — NPC Gift Guide
+description: Building relationships with the residents of Sun Haven is essential for unlocking perks, romance, and story progression. Each NPC has unique preferences acro...
+date: 2026-06-27
+---
+
 # Sun Haven — NPC Gift Guide
 
 Building relationships with the residents of Sun Haven is essential for unlocking perks, romance, and story progression. Each NPC has unique preferences across five gift tiers: Loved, Liked, Neutral, Disliked, and Hated. Giving Loved gifts on birthdays maximizes relationship gains.

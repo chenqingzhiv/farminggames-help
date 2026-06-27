@@ -1,3 +1,9 @@
+---
+title: Farming Simulator 25 — Complete Guide
+description: 1. Sell the starting tractor — too old, inefficient
+date: 2026-06-27
+---
+
 # Farming Simulator 25 — Complete Guide
 
 ## Game Overview

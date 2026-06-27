@@ -1,3 +1,9 @@
+---
+title: Stardew Valley Greenhouse Crops Guide
+description: title: "Stardew Valley Greenhouse Crops Guide"
+date: 2026-06-27
+---
+
 ```yaml
 ---
 title: "Stardew Valley Greenhouse Crops Guide"

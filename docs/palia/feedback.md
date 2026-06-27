@@ -1,3 +1,9 @@
+---
+title: 📬 Feedback & Suggestions
+description: > Welcome to leave your opinions, suggestions, or additions regarding the Palia guide!
+date: 2026-06-27
+---
+
 # 📬 Feedback & Suggestions
 
 > Welcome to leave your opinions, suggestions, or additions regarding the Palia guide!

@@ -1,3 +1,9 @@
+---
+title: Stardew Valley Mods Guide
+description: Mods can completely transform your Stardew Valley experience — from visual upgrades to massive content expansions. Here's our curated collection of the best ...
+date: 2026-06-27
+---
+
 # Stardew Valley Mods Guide
 
 Mods can completely transform your Stardew Valley experience — from visual upgrades to massive content expansions. Here's our curated collection of the best mods, organized by category.

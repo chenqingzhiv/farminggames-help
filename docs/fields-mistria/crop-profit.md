@@ -1,3 +1,9 @@
+---
+title: Fields of Mistria — Crop Profit Guide
+description: Maximize your farm's profitability in Fields of Mistria with this comprehensive crop profit guide. The table below covers every spring, summer, and fall crop...
+date: 2026-06-27
+---
+
 # Fields of Mistria — Crop Profit Guide
 
 Maximize your farm's profitability in Fields of Mistria with this comprehensive crop profit guide. The table below covers every spring, summer, and fall crop including seed price, growth time, sell price, and profit per day.

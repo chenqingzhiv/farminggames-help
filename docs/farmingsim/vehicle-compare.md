@@ -1,3 +1,9 @@
+---
+title: Farming Simulator 25 — Vehicle Comparison Guide
+description: Choosing the right tractor, harvester, or specialized vehicle is critical to running an efficient farm in Farming Simulator 25. This guide compares key speci...
+date: 2026-06-27
+---
+
 # Farming Simulator 25 — Vehicle Comparison Guide
 
 Choosing the right tractor, harvester, or specialized vehicle is critical to running an efficient farm in Farming Simulator 25. This guide compares key specifications including horsepower, top speed, price, and fuel capacity to help you make informed purchasing decisions.

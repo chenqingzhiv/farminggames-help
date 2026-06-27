@@ -1,3 +1,9 @@
+---
+title: Fields of Mistria — NPC Gift Guide & Friendship
+description: Build relationships with the residents of Mistria! This guide covers every NPC's gift preferences, organized by Loved, Liked, Neutral, Disliked, and Hated it...
+date: 2026-06-27
+---
+
 # Fields of Mistria — NPC Gift Guide & Friendship
 
 Build relationships with the residents of Mistria! This guide covers every NPC's gift preferences, organized by Loved, Liked, Neutral, Disliked, and Hated items.

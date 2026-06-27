@@ -1,3 +1,9 @@
+---
+title: ℹ️ About This Site
+description: Farming Game Guides is a guide database focused on farming/farm/simulation management games.
+date: 2026-06-27
+---
+
 # ℹ️ About This Site
 
 **Farming Game Guides** is a guide database focused on farming/farm/simulation management games.

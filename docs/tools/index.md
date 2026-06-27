@@ -1,3 +1,9 @@
+---
+title: 🛠️ Interactive Tools
+description: Farm smarter, not harder. Calculators, trackers, and planners for Stardew Valley, Farming Simulator, Palia, and more cozy farming games.
+date: 2026-06-27
+---
+
 # 🛠️ Interactive Tools
 
 **Farm smarter, not harder.** Calculators, trackers, and planners for Stardew Valley, Farming Simulator, Palia, and more cozy farming games.
