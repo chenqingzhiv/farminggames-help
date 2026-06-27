@@ -44,12 +44,12 @@ date: 2026-06-27
 <div class="game-card-sub">⭐ Most Popular</div>
 <p>Complete hub — crops, fish, NPC gifts, artisan goods, season guides, tools, and more.</p>
 <div class="game-card-links">
-  <a href="stardev/crops/" class="game-card-link">🌸 Crops</a>
-  <a href="stardev/fish/" class="game-card-link">🐟 Fish</a>
-  <a href="stardev/npc-gifts/" class="game-card-link">💝 Gifts</a>
+  <a href="stardew/crops/" class="game-card-link">🌸 Crops</a>
+  <a href="stardew/fish/" class="game-card-link">🐟 Fish</a>
+  <a href="stardew/npc-gifts/" class="game-card-link">💝 Gifts</a>
   <a href="tools/interactive-map/" class="game-card-link">🗺️ Map</a>
-  <a href="stardev/profit-calc/" class="game-card-link">🧮 Profit Calc</a>
-  <a href="stardev/tier-list/" class="game-card-link">📊 Tier List</a>
+  <a href="stardew/profit-calc/" class="game-card-link">🧮 Profit Calc</a>
+  <a href="stardew/tier-list/" class="game-card-link">📊 Tier List</a>
 </div>
 </div>
 </div>
