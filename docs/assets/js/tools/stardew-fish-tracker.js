@@ -34,6 +34,7 @@ const ALL_FISH = [
   { id: "rainbowtrout",name: "Rainbow Trout",icon: "🐟",season: "Summer",  loc: "River",          time: "6AM-7PM",     weather: "Sun",     difficulty: 45,  size: "4-32\"", price: 65,  bundle: "River Fish" },
   { id: "redmullet",  name: "Red Mullet",  icon: "🐟", season: "Summer",   loc: "Ocean",          time: "6AM-7PM",     weather: "Any",     difficulty: 55,  size: "4-28\"", price: 75,  bundle: "Ocean Fish" },
   { id: "redsnapper", name: "Red Snapper", icon: "🐠", season: "Summer",   loc: "Ocean",          time: "6AM-7PM",     weather: "Rain",    difficulty: 50,  size: "4-30\"", price: 50,  bundle: "Ocean Fish" },
+  { id: "red_snapper_w", name: "Red Snapper", icon: "🐠", season: "Winter",   loc: "Ocean",          time: "6AM-7PM",     weather: "Rain",    difficulty: 50,  size: "4-30\"", price: 50,  bundle: "Ocean Fish" },
   { id: "salmon",     name: "Salmon",      icon: "🐟", season: "Summer",   loc: "River",          time: "6AM-7PM",     weather: "Any",     difficulty: 50,  size: "6-46\"", price: 75,  bundle: "River Fish" },
   { id: "shad",       name: "Shad",        icon: "🐟", season: "Summer",   loc: "River",          time: "9AM-2AM",     weather: "Rain",    difficulty: 60,  size: "4-37\"", price: 60,  bundle: "River Fish" },
   { id: "squid",      name: "Squid",       icon: "🦑", season: "Summer",   loc: "Ocean",          time: "6PM-2AM",     weather: "Any",     difficulty: 75,  size: "4-38\"", price: 80,  bundle: "Night Fishing" },
@@ -85,6 +86,51 @@ const ALL_FISH = [
   { id: "periwinkle", name:"Periwinkle",   icon:"🐚",  season:"All",       loc:"Crab Pot",        time:"Any",          weather:"Any",      difficulty: 5,   size:"1-3\"",   price: 20,  bundle:"Crab Pot" },
   { id: "oyster",     name:"Oyster",       icon:"🦪",  season:"All",       loc:"Crab Pot",        time:"Any",          weather:"Any",      difficulty: 5,   size:"2-12\"",  price: 40,  bundle:"Crab Pot" },
   { id: "mussel",     name:"Mussel",       icon:"🦪",  season:"All",       loc:"Crab Pot",        time:"Any",          weather:"Any",      difficulty: 5,   size:"1-4\"",   price: 30,  bundle:"Crab Pot" },
+
+
+  { id: "anch_fall",    name: "Anchovy",     icon: "🐟", season: "Fall",   loc: "Ocean",          time: "Any",         weather: "Any",     difficulty: 30,  size: "1-28\"", price: 30,  bundle: "Ocean Fish" }
+
+  { id: "anchovy_w",    name: "Anchovy",     icon: "🐟", season: "Winter",   loc: "Ocean",          time: "Any",         weather: "Any",     difficulty: 30,  size: "1-28\"", price: 30,  bundle: "Ocean Fish" }
+
+  { id: "carp_fall",       name: "Carp",        icon: "🐟", season: "Fall",   loc: "Lake",           time: "Any",         weather: "Any",     difficulty: 15,  size: "6-51\"", price: 30,  bundle: "Lake Fish" }
+
+  { id: "carp_w",       name: "Carp",        icon: "🐟", season: "Winter",   loc: "Lake",           time: "Any",         weather: "Any",     difficulty: 15,  size: "6-51\"", price: 30,  bundle: "Lake Fish" }
+
+  { id: "catfish_fall",    name: "Catfish",     icon: "🐍", season: "Fall",   loc: "River",          time: "Any",         weather: "Rain",    difficulty: 75,  size: "6-73\"", price: 200, bundle: "River Fish" }
+
+  { id: "eel_fall",        name: "Eel",         icon: "🐍", season: "Fall",   loc: "Ocean",          time: "6PM-2AM",     weather: "Rain",    difficulty: 70,  size: "6-32\"", price: 85,  bundle: "Night Fishing" }
+
+  { id: "halibut_fall",    name: "Halibut",     icon: "🐠", season: "Fall",   loc: "Ocean",          time: "6AM-11AM",    weather: "Any",     difficulty: 50,  size: "4-48\"", price: 80,  bundle: "Ocean Fish" }
+
+  { id: "perch_fall",      name: "Perch",       icon: "🐟", season: "Fall",   loc: "River",          time: "Any",         weather: "Any",     difficulty: 35,  size: "3-24\"", price: 55,  bundle: "River Fish" }
+
+  { id: "perch_w",      name: "Perch",       icon: "🐟", season: "Winter",   loc: "River",          time: "Any",         weather: "Any",     difficulty: 35,  size: "3-24\"", price: 55,  bundle: "River Fish" }
+
+  { id: "pike_fall",       name: "Pike",        icon: "🐟", season: "Fall",   loc: "River",          time: "Any",         weather: "Any",     difficulty: 60,  size: "6-62\"", price: 100, bundle: "No" }
+
+  { id: "pike_w",       name: "Pike",        icon: "🐟", season: "Winter",   loc: "River",          time: "Any",         weather: "Any",     difficulty: 60,  size: "6-62\"", price: 100, bundle: "No" }
+
+  { id: "salmon_fall",     name: "Salmon",      icon: "🐟", season: "Fall",   loc: "River",          time: "6AM-7PM",     weather: "Any",     difficulty: 50,  size: "6-46\"", price: 75,  bundle: "River Fish" }
+
+  { id: "sardine_fall",    name: "Sardine",     icon: "🐟", season: "Fall",   loc: "Ocean",          time: "6AM-4PM",     weather: "Any",     difficulty: 30,  size: "2-16\"", price: 40,  bundle: "Ocean Fish" }
+
+  { id: "sardine_w",    name: "Sardine",     icon: "🐟", season: "Winter",   loc: "Ocean",          time: "6AM-4PM",     weather: "Any",     difficulty: 30,  size: "2-16\"", price: 40,  bundle: "Ocean Fish" }
+
+  { id: "shad_fall",       name: "Shad",        icon: "🐟", season: "Fall",   loc: "River",          time: "9AM-2AM",     weather: "Rain",    difficulty: 60,  size: "4-37\"", price: 60,  bundle: "River Fish" }
+
+  { id: "walleye_fall",    name: "Walleye",     icon: "🐟", season: "Fall",   loc: "River",          time: "12PM-2AM",    weather: "Rain",    difficulty: 45,  size: "4-33\"", price: 105, bundle: "Lake Fish" }
+
+  { id: "albacore_w",   name: "Albacore",    icon: "🐟", season: "Winter",     loc: "Ocean",          time: "6AM-11AM",    weather: "Any",     difficulty: 60,  size: "4-32\"", price: 75,  bundle: "Ocean Fish" }
+
+  { id: "flounder_w",   name: "Flounder",    icon: "🐠", season: "Winter",   loc: "Ocean",          time: "6AM-7PM",     weather: "Any",     difficulty: 50,  size: "3-24\"", price: 100, bundle: "Ocean Fish" }
+
+  { id: "herring_w",    name: "Herring",     icon: "🐟", season: "Winter",   loc: "Ocean",          time: "Any",         weather: "Any",     difficulty: 25,  size: "3-17\"", price: 30,  bundle: "Ocean Fish" }
+
+  { id: "lingcod_w",    name: "Lingcod",     icon: "🐍", season: "Winter",   loc: "River",          time: "Any",         weather: "Any",     difficulty: 85,  size: "12-85\"",price: 120, bundle: "No" }
+
+  { id: "squid_w",      name: "Squid",       icon: "🦑", season: "Winter",   loc: "Ocean",          time: "6PM-2AM",     weather: "Any",     difficulty: 75,  size: "4-38\"", price: 80,  bundle: "Night Fishing" }
+
+  { id: "tuna_w",       name: "Tuna",        icon: "🐟", season: "Winter",   loc: "Ocean",          time: "6AM-7PM",     weather: "Any",     difficulty: 70,  size: "6-82\"", price: 100, bundle: "Ocean Fish" }
 ];
 
 // Remove duplicate IDs (keep main entry for multi-season fish, prefer "All" season)
