@@ -6,7 +6,7 @@ date: 2026-06-26
 
 # Complete Friendship & Romance Guide for Palia
 
-Building relationships with the villagers of Palia is a core part of the game. Not only does it unlock heartwarming cutscenes and lore, but it also grants you essential recipes, furniture, and even the ability to romance multiple characters. This guide covers everything you need to know: from NPC gift preferences and weekly wants to romance levels and the fastest path to maxing out every relationship.
+Building relationships with the villagers of Palia is a core part of the game. Not only does it unlock heartwarming cutscenes and lore, but it also grants you essential recipes, furniture, and even the ability to romance multiple characters. This guide covers everything you need to know: from NPC gift preferences and weekly wants to romance levels and the fastest path to maxing out every relationship. For other Palia resources, check our [Crops Guide](../palia/crops.md), [Fish Database](../palia/fish.md), or [Crop Profit Calculator](../palia/crop-profit.md).
 
 ---
 
@@ -17,7 +17,7 @@ Before diving into the specifics, here are the golden rules for efficient relati
 1.  **Talk to Everyone Daily:** Speaking to an NPC once per day gives a small friendship boost. It’s free and adds up over time.
 2.  **Gift Weekly Wants First:** Every NPC has a "Weekly Want" that changes every Monday. Gifting this item gives a massive friendship bonus (usually 3x a normal liked gift). Prioritize these.
 3.  **Know Their Loves vs. Likes:** "Love" gifts give the most points, "Like" gifts give moderate points, and "Dislike" gifts give nothing or negative points. Never give a disliked item.
-4.  **Use Cake Parties for High-Value Gifts:** The best universal "Love" gifts are often high-tier cooked meals. Join a "Cake Party" (community event) to mass-produce cakes like *Celebration Cake* or *Bundled Blueberry Pie*.
+4.  **Use Cake Parties for High-Value Gifts:** The best universal "Love" gifts are often high-tier cooked meals. Join a "Cake Party" (a player-organized event on the Palia Discord or in-game chat) to mass-produce cakes like *Celebration Cake* or *Bundled Blueberry Pie* with other players sharing ingredients and labor.
 5.  **Romance is Separate from Friendship:** You can max friendship (Level 4) with everyone. Romance (Level 1-4) is an additional track that requires you to first reach friendship level 3 and then give a "Heartdrop Lily" to initiate.
 6.  **You Can Romance Everyone:** Palia allows polyamory. You can romance every eligible NPC simultaneously without jealousy penalties.
 7.  **Focus on One NPC at a Time:** For fastest results, focus your high-value gifts on one NPC per day until they are maxed, then move to the next.
@@ -85,7 +85,7 @@ The single fastest way to gain friendship is to always give a "Love" gift. The b
 - **Any Gem (e.g., Emerald, Garnet):** Loved by Eshe, Hekla, Jel, Jina, Najuma, Zeki.
 - **Heartdrop Lily:** Loved by Chayne and required to initiate romance.
 
-**Strategy:** Focus on cooking high-tier meals. Join a Cake Party to get 50+ Celebration Cakes in one session. Alternatively, fish for rare fish to make sushi.
+**Strategy:** Focus on cooking high-tier meals. Join a [Cake Party](#the-cake-party-method) to get 50+ Celebration Cakes in one session. Alternatively, [check the Palia Fish Database](../palia/fish.md) for rare fish locations to make sushi.
 
 ### Step 2: Prioritize Weekly Wants
 
