@@ -85,7 +85,7 @@ The single fastest way to gain friendship is to always give a "Love" gift. The b
 - **Any Gem (e.g., Emerald, Garnet):** Loved by Eshe, Hekla, Jel, Jina, Najuma, Zeki.
 - **Heartdrop Lily:** Loved by Chayne and required to initiate romance.
 
-**Strategy:** Focus on cooking high-tier meals. Join a [Cake Party](#the-cake-party-method) to get 50+ Celebration Cakes in one session. Alternatively, [check the Palia Fish Database](../palia/fish.md) for rare fish locations to make sushi.
+**Strategy:** Focus on cooking high-tier meals. Join a [Cake Party](#advanced-strategy-the-cake-party-method) to get 50+ Celebration Cakes in one session. Alternatively, [check the Palia Fish Database](../palia/fish.md) for rare fish locations to make sushi.
 
 ### Step 2: Prioritize Weekly Wants
 

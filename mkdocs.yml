@@ -149,6 +149,7 @@ nav:
     - 🎪 Festivals Calendar: stardew/festivals.md
     - 🏛️ Museum Donation Guide: stardew/museum.md
     - 🥥 Golden Walnut Guide: stardew/walnuts.md
+    - 🌱 Greenhouse Crops: stardew/greenhouse-crops.md
     - 📬 Feedback: stardew/feedback.md
   - 🚜 Farming Simulator 25:
     - 🚜 Full Guide: farmingsim/index.md
@@ -163,6 +164,9 @@ nav:
     - 👶 Beginner's Guide: palia/guide.md
     - 🧑‍🌾 Crop Profit Guide: palia/crop-profit.md
     - 🐟 Fishing Guide: palia/fish-guide.md
+    - 🌾 Crops Database: palia/crops.md
+    - 🐟 Fish Database: palia/fish.md
+    - 💝 Friendship & Romance: palia/friendship.md
     - 📬 Feedback: palia/feedback.md
   - 🌟 More Games:
     - 🌾 Fields of Mistria:
@@ -170,6 +174,7 @@ nav:
       - 🌱 Getting Started: fields-mistria/getting-started.md
       - 🧑‍🌾 Crop Profit Guide: fields-mistria/crop-profit.md
       - 💝 NPC Gift Guide: fields-mistria/gift-guide.md
+      - 🐟 Fish Database: fields-mistria/fish.md
     - 🏝️ Coral Island:
       - 🏝️ Game Overview: coral-island/index.md
       - 🌴 Getting Started: coral-island/getting-started.md
