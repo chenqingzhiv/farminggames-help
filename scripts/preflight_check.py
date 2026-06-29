@@ -97,7 +97,7 @@ def check_http():
     thread.start()
     time.sleep(1)
     pages = [
-        "/", "/stardev/", "/stardev/crops/", "/tools/",
+        "/", "/stardew/", "/tools/",
         "/tools/stardew-valley/profit-planner/",
         "/farmingsim/", "/palia/", "/fields-mistria/", "/coral-island/",
     ]

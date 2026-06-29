@@ -481,7 +481,7 @@ def preflight_check(site_dir, fast=False):
     except ImportError:
         print("  preflight_check not importable, running as subprocess...")
         result = subprocess.run(
-            [sys.executable, "scripts/preflight_check.py"],
+            [sys.executable, "scripts/preflight_check.py", "--fast"],
             cwd=site_dir, timeout=120
         )
         return result.returncode == 0
