@@ -1,150 +1,166 @@
 ---
 title: Coral Island Crops Database — Complete Crop Profit Guide with Seasonal Rankings
-description: A comprehensive database of all Coral Island crops, including seed costs, growth times, harvest yields, and profit rankings for each season.
+description: A comprehensive database of all Coral Island crops, including seasonal rankings, profit calculations, and growth times.
 date: 2026-06-26
 ---
 
 # Coral Island Crops Database
 
-Welcome to the ultimate Coral Island crops database. Whether you’re a new farmer or a seasoned rancher, understanding which crops to plant each season is key to maximizing your gold and energy. This guide covers every crop available in the base game, including their seed costs, growth times, regrowth mechanics, and base sell prices. We’ve also ranked the top five most profitable crops per season to help you plan your farm layout.
+Welcome to the ultimate Coral Island crops database. This guide covers every crop available in the game, organized by season, with detailed profit analysis, growth times, and strategic tips to maximize your farm's income. Whether you're a new farmer or a seasoned veteran, this reference will help you plan the most profitable harvests.
 
-> **Note:** Prices listed are base values. Quality (Regular, Silver, Gold, Osmium) and any applied fertilizers will increase sell prices. All data is current as of the latest major update.
+## How Crop Profit is Calculated
 
----
+In Coral Island, each crop has a base sell price, but your actual profit depends on several factors:
+- **Seed Cost**: The price to buy seeds from Sam's General Store or other vendors.
+- **Growth Time**: Days from planting to first harvest.
+- **Regrowth**: Some crops produce multiple harvests (e.g., Blueberries, Corn).
+- **Quality**: Crops can be base, silver, gold, or osmium quality, increasing sell price by 25%, 50%, or 100% respectively.
+- **Tier**: Crops are divided into Basic, Advanced, and Special tiers, affecting base stats.
 
-## General Crop Mechanics
-
-Before diving into the seasonal lists, here are a few universal rules for Coral Island crops:
-
-- **Seasonality:** Crops can only be planted and grown during their designated season. They will wither and die at the start of the next season (unless using a greenhouse or indoor planter).
-- **Growth Time:** Measured in days from the moment you plant the seed. Watering counts as one day.
-- **Regrowth:** Some crops produce multiple harvests. The “Regrowth” column shows how many days after the first harvest you can pick again.
-- **Sell Price:** The base price for a Regular quality crop. Higher quality tiers increase this by 25% (Silver), 50% (Gold), and 100% (Osmium).
-- **Profit Calculation:** We use a simple formula: `(Sell Price × Number of Harvests) - Seed Cost`. For multi-harvest crops, we assume the full season length.
-
----
+Profit per day (PPD) is calculated as: `(Sell Price - Seed Cost) / Growth Days`. For regrowing crops, we use the average over the season.
 
 ## Spring Crops
 
-Spring is the starting season for most players. These crops are generally low-risk and great for building early capital.
+Spring is the starting season for most players. Focus on high-profit crops to build your capital.
 
 ### Spring Crop Table
 
-| Crop | Seed Cost | Growth Time | Regrowth | Harvests per Season | Base Sell Price | Total Profit (per seed) |
-|------|-----------|-------------|----------|---------------------|-----------------|--------------------------|
-| Potato | 50g | 6 days | No | 4 | 80g | 270g |
-| Cauliflower | 80g | 12 days | No | 2 | 175g | 270g |
-| Strawberry | 100g | 8 days | 4 days | 5 | 120g | 500g |
-| Garlic | 40g | 4 days | No | 6 | 60g | 320g |
-| Kale | 70g | 6 days | No | 4 | 110g | 370g |
-| Rhubarb | 120g | 13 days | No | 2 | 260g | 400g |
-| Green Bean | 60g | 10 days | 3 days | 7 | 75g | 465g |
-| Carrot | 30g | 5 days | No | 6 | 45g | 240g |
+| Crop | Seed Cost | Growth Days | Regrowth | Base Sell Price | Profit per Day (PPD) | Notes |
+|------|-----------|-------------|----------|-----------------|----------------------|-------|
+| Potato | 50 | 6 | No | 80 | 5.0 | Good early-game profit |
+| Cauliflower | 80 | 12 | No | 175 | 7.9 | High single-harvest value |
+| Strawberry | 100 | 8 | Yes (4 days) | 120 | 10.0 | Best spring regrower |
+| Green Bean | 60 | 10 | Yes (3 days) | 90 | 6.0 | Consistent income |
+| Rhubarb | 100 | 13 | No | 220 | 9.2 | High profit, long wait |
+| Garlic | 40 | 4 | No | 60 | 5.0 | Fastest spring crop |
+| Kale | 70 | 6 | No | 110 | 6.7 | Decent early option |
+| Blueberry | 80 | 7 | Yes (4 days) | 100 | 8.6 | Excellent regrower |
 
-### Top 5 Most Profitable Spring Crops
+### Spring Profit Rankings
 
-1. **Strawberry** – 500g profit per seed (best for repeat harvests)
-2. **Green Bean** – 465g profit (great trellis crop, high volume)
-3. **Rhubarb** – 400g profit (high single-harvest value)
-4. **Kale** – 370g profit (fast grower, good early cash)
-5. **Garlic** – 320g profit (quick turnaround, excellent for early game)
+1. **Strawberry** (PPD: 10.0) – The undisputed king of spring. Plant on Day 1 for maximum harvests.
+2. **Rhubarb** (PPD: 9.2) – High single-harvest value, but only one harvest per season.
+3. **Blueberry** (PPD: 8.6) – Great for steady income with regrowth.
+4. **Cauliflower** (PPD: 7.9) – Solid choice if you need a large lump sum.
+5. **Kale** (PPD: 6.7) – Good for early cash flow.
 
-**Tip:** Plant Strawberries as early as possible to maximize the number of harvests. They regrow every 4 days after the first harvest.
-
----
+**Tip**: Plant Strawberries as soon as possible. With 28 days in spring, you can get 3 harvests if planted on Day 1 (8 days + 4 days regrowth x 2 = 16 days, then final harvest on Day 24).
 
 ## Summer Crops
 
-Summer brings heat-loving crops with higher profit potential. Many of these require more upfront investment but pay off handsomely.
+Summer offers the highest profit potential in Coral Island. Prioritize crops with regrowth for maximum returns.
 
 ### Summer Crop Table
 
-| Crop | Seed Cost | Growth Time | Regrowth | Harvests per Season | Base Sell Price | Total Profit (per seed) |
-|------|-----------|-------------|----------|---------------------|-----------------|--------------------------|
-| Tomato | 50g | 11 days | 4 days | 5 | 90g | 400g |
-| Hot Pepper | 40g | 5 days | 3 days | 8 | 60g | 440g |
-| Blueberry | 80g | 13 days | 4 days | 4 | 150g | 520g |
-| Melon | 120g | 12 days | No | 2 | 250g | 380g |
-| Corn | 100g | 14 days | 4 days | 4 | 120g | 380g |
-| Sunflower | 60g | 8 days | No | 3 | 140g | 360g |
-| Radish | 40g | 6 days | No | 5 | 70g | 310g |
-| Wheat | 20g | 4 days | No | 7 | 30g | 190g |
+| Crop | Seed Cost | Growth Days | Regrowth | Base Sell Price | Profit per Day (PPD) | Notes |
+|------|-----------|-------------|----------|-----------------|----------------------|-------|
+| Melon | 120 | 12 | No | 250 | 10.8 | Best single-harvest summer crop |
+| Tomato | 60 | 6 | Yes (3 days) | 80 | 10.0 | Excellent regrower |
+| Blueberry | 80 | 7 | Yes (4 days) | 100 | 8.6 | Carries over from spring |
+| Hot Pepper | 40 | 5 | Yes (3 days) | 60 | 8.0 | Fast regrowth cycle |
+| Corn | 100 | 14 | Yes (4 days) | 150 | 7.1 | Long growth, but multiple harvests |
+| Sunflower | 80 | 8 | No | 180 | 12.5 | Highest PPD in summer |
+| Radish | 50 | 6 | No | 90 | 6.7 | Quick filler crop |
+| Wheat | 30 | 4 | No | 50 | 5.0 | Low profit, used for crafting |
 
-### Top 5 Most Profitable Summer Crops
+### Summer Profit Rankings
 
-1. **Blueberry** – 520g profit (king of summer, multiple harvests)
-2. **Hot Pepper** – 440g profit (fast regrowth, high frequency)
-3. **Tomato** – 400g profit (reliable and versatile)
-4. **Melon** – 380g profit (great for gifts and bundles)
-5. **Corn** – 380g profit (also used for animal feed)
+1. **Sunflower** (PPD: 12.5) – Surprising top performer. Single harvest, but incredible profit.
+2. **Melon** (PPD: 10.8) – Classic summer cash crop.
+3. **Tomato** (PPD: 10.0) – Reliable regrower for steady income.
+4. **Hot Pepper** (PPD: 8.0) – Fast regrowth, great for early summer.
+5. **Blueberry** (PPD: 8.6) – Still excellent if planted in spring.
 
-**Tip:** Blueberries are the undisputed summer champion. Plant them on day 1 and you’ll get 4 harvests. Use Speed Grow fertilizer to squeeze in a fifth.
-
----
+**Tip**: Sunflowers are often overlooked but offer the best profit per day in summer. Plant them in bulk for a massive payout on Day 8.
 
 ## Fall Crops
 
-Fall is the season for high-value, long-growth crops. This is where you can make serious gold if you plan ahead.
+Fall introduces high-value crops that can be processed into artisan goods for even greater profit.
 
 ### Fall Crop Table
 
-| Crop | Seed Cost | Growth Time | Regrowth | Harvests per Season | Base Sell Price | Total Profit (per seed) |
-|------|-----------|-------------|----------|---------------------|-----------------|--------------------------|
-| Pumpkin | 150g | 13 days | No | 2 | 320g | 490g |
-| Cranberry | 100g | 7 days | 5 days | 5 | 130g | 550g |
-| Eggplant | 80g | 7 days | 5 days | 5 | 100g | 420g |
-| Yam | 60g | 10 days | No | 3 | 160g | 420g |
-| Bok Choy | 50g | 4 days | No | 7 | 55g | 335g |
-| Artichoke | 120g | 8 days | No | 3 | 200g | 480g |
-| Grape | 70g | 10 days | 3 days | 7 | 90g | 560g |
-| Amaranth | 80g | 7 days | No | 4 | 150g | 520g |
+| Crop | Seed Cost | Growth Days | Regrowth | Base Sell Price | Profit per Day (PPD) | Notes |
+|------|-----------|-------------|----------|-----------------|----------------------|-------|
+| Pumpkin | 150 | 13 | No | 320 | 13.1 | Highest PPD in fall |
+| Cranberry | 100 | 7 | Yes (5 days) | 130 | 10.0 | Best regrower |
+| Eggplant | 80 | 7 | Yes (5 days) | 100 | 8.6 | Solid regrower |
+| Yam | 60 | 10 | No | 160 | 10.0 | High single-harvest value |
+| Bok Choy | 50 | 4 | No | 80 | 7.5 | Fastest fall crop |
+| Artichoke | 120 | 8 | No | 220 | 12.5 | Excellent profit |
+| Grape | 60 | 10 | Yes (3 days) | 80 | 6.0 | Good for wine |
+| Rice | 40 | 8 | No | 100 | 7.5 | Used for cooking |
 
-### Top 5 Most Profitable Fall Crops
+### Fall Profit Rankings
 
-1. **Grape** – 560g profit (best multi-harvest crop of fall)
-2. **Cranberry** – 550g profit (close second, very reliable)
-3. **Amaranth** – 520g profit (high single-harvest value)
-4. **Pumpkin** – 490g profit (great for festivals and gifts)
-5. **Artichoke** – 480g profit (solid all-rounder)
+1. **Pumpkin** (PPD: 13.1) – The absolute best profit per day in fall. Plant on Day 1 for a Day 14 harvest.
+2. **Artichoke** (PPD: 12.5) – Close second, no regrowth but high value.
+3. **Cranberry** (PPD: 10.0) – Excellent regrower for consistent income.
+4. **Yam** (PPD: 10.0) – Great single-harvest option.
+5. **Eggplant** (PPD: 8.6) – Reliable regrower.
 
-**Tip:** Grapes and Cranberries are the top earners. If you have trellises, prioritize Grapes. Otherwise, Cranberries are easier to manage and still incredibly profitable.
+**Tip**: Pumpkins are the most profitable crop in the entire game for single-harvest. Use fertilizer to increase quality for even higher returns.
 
----
+## Winter Crops
 
-## Winter Crops (Greenhouse Only)
+Winter is unique in Coral Island. You can grow crops in the greenhouse or use winter-specific seeds from the laboratory. Most winter crops are low-profit but essential for crafting and cooking.
 
-Winter is a dormant season outdoors, but you can still grow crops inside a greenhouse or using indoor planters. The following crops are available year-round in these controlled environments.
+### Winter Crop Table
 
-| Crop | Seed Cost | Growth Time | Regrowth | Base Sell Price | Notes |
-|------|-----------|-------------|----------|-----------------|-------|
-| Winter Root | 40g | 7 days | No | 80g | Only in winter outdoors |
-| Snowdrop | 60g | 5 days | No | 120g | Used for winter bundles |
-| Crystal Fruit | 100g | 12 days | No | 250g | High value, slow growth |
+| Crop | Seed Cost | Growth Days | Regrowth | Base Sell Price | Profit per Day (PPD) | Notes |
+|------|-----------|-------------|----------|-----------------|----------------------|-------|
+| Snowdrop | 30 | 5 | No | 60 | 6.0 | Used for winter seeds |
+| Frost Berry | 50 | 7 | Yes (4 days) | 80 | 7.1 | Best winter regrower |
+| Ice Root | 60 | 10 | No | 130 | 7.0 | High single-harvest |
+| Winter Wheat | 20 | 4 | No | 40 | 5.0 | Quick filler |
+| Crystal Fruit | 80 | 12 | No | 200 | 10.0 | Rare, high profit |
 
-**Tip:** In the greenhouse, focus on high-profit summer and fall crops like Blueberries and Grapes, as they outperform winter-specific crops.
+### Winter Profit Rankings
 
----
+1. **Crystal Fruit** (PPD: 10.0) – Best winter crop, but seeds are hard to find.
+2. **Frost Berry** (PPD: 7.1) – Reliable regrower for steady income.
+3. **Ice Root** (PPD: 7.0) – Good single-harvest option.
+4. **Snowdrop** (PPD: 6.0) – Decent for quick cash.
+5. **Winter Wheat** (PPD: 5.0) – Only for crafting.
 
-## Year-Round Crops & Special Plants
+**Tip**: Focus on the greenhouse during winter. Plant high-value summer or fall crops inside to maintain income. Crystal Fruit seeds can be obtained from the Winter Mystery Seed quest.
 
-Some crops can be grown in any season using the greenhouse or special plots:
+## Year-Round Crops (Greenhouse)
 
-- **Tea Leaves** – Grown from Tea Saplings. Harvest every 7 days. Base sell price: 50g. Excellent for making Tea (artisan good).
-- **Coffee Beans** – Grown from Coffee Saplings. Harvest every 5 days. Base sell price: 30g. Process into Coffee for a big profit boost.
-- **Ancient Fruit** – Extremely rare. Grows in 28 days, then regrows every 7 days. Base sell price: 550g. The ultimate late-game crop.
+These crops can be grown any time in the greenhouse or with specific upgrades.
 
----
+| Crop | Seed Cost | Growth Days | Regrowth | Base Sell Price | Profit per Day (PPD) | Notes |
+|------|-----------|-------------|----------|-----------------|----------------------|-------|
+| Coffee Bean | 100 | 10 | Yes (2 days) | 150 | 25.0 | Best PPD in game |
+| Tea Leaf | 80 | 8 | Yes (3 days) | 120 | 20.0 | Excellent for tea |
+| Ancient Fruit | 200 | 28 | Yes (7 days) | 550 | 12.5 | Rare, high value |
+
+**Tip**: Coffee Beans are the most profitable crop in Coral Island when grown in the greenhouse. They regrow every 2 days, giving you massive income.
+
+## Artisan Goods Processing
+
+Processing crops into artisan goods significantly increases profit. Here are the best crops to process:
+
+| Crop | Base Sell Price | Processed Good | Processed Price | Profit Increase |
+|------|-----------------|----------------|-----------------|-----------------|
+| Pumpkin | 320 | Pumpkin Juice | 640 | 100% |
+| Melon | 250 | Melon Wine | 500 | 100% |
+| Grape | 80 | Grape Wine | 320 | 300% |
+| Coffee Bean | 150 | Coffee | 300 | 100% |
+| Strawberry | 120 | Strawberry Jam | 360 | 200% |
+
+**Tip**: Grapes have the highest profit multiplier when turned into wine. Use kegs to process them for maximum returns.
 
 ## Quick Tips
 
-1. **Always plant on Day 1** of the season to maximize harvests, especially for multi-harvest crops like Strawberries and Blueberries.
-2. **Use Speed Gro fertilizer** to reduce growth time by 25%. This can give you an extra harvest on many crops.
-3. **Prioritize multi-harvest crops** for the highest total profit per season. Single-harvest crops are only better if you have limited time or need specific items for bundles.
-4. **Save some crops for artisan goods.** Processing fruits and vegetables into jams, wines, and juices can double or triple your profits.
-5. **Don’t forget about trellises.** Crops like Green Beans and Grapes need trellises to grow. Plan your farm layout accordingly.
-6. **Check the weather.** Rain saves you watering time and energy. Use rainy days to explore, mine, or fish.
-7. **Upgrade your watering can** as soon as possible. It saves energy and lets you water more crops each day.
+1. **Start with Strawberries in Spring** – They offer the best regrowth profit and will fund your summer expansion.
+2. **Plant Sunflowers in Summer** – Despite being a single-harvest crop, they have the highest PPD in the season.
+3. **Go All-In on Pumpkins in Fall** – They are the most profitable single-harvest crop in the game.
+4. **Use the Greenhouse for Coffee Beans** – Once unlocked, fill it with Coffee Beans for insane daily income.
+5. **Invest in Quality Fertilizer** – Higher quality crops sell for significantly more. Use it on your highest-value crops.
+6. **Process Grapes into Wine** – Grapes have a 300% profit increase when processed, making them the best artisan good candidate.
+7. **Plan for Regrowth** – Crops that regrow (Strawberries, Blueberries, Cranberries, Coffee Beans) provide the best long-term profit.
+8. **Don't Ignore Winter** – Use the greenhouse or focus on Crystal Fruit and Frost Berries to maintain income.
+9. **Upgrade Your Watering Can** – More crops mean more watering. Upgrade early to save time and energy.
+10. **Check Sam's Store Daily** – Seed availability changes, and some rare seeds (like Crystal Fruit) appear only on certain days.
 
----
-
-*This database will be updated as new crops are added in future Coral Island updates. Happy farming!*
+Use this database to plan your seasons, maximize profits, and become the wealthiest farmer on Coral Island! For more guides, visit [Farming Games Help](https://farminggames.help).
