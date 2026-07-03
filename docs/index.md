@@ -86,18 +86,18 @@ For Fields of Mistria, Coral Island, Sandrock, Sun Haven and more, see the [full
 ---
 
 <!-- ===== VIDEO SERIES BLOCK ===== -->
-<h2 class="section-title-home">🎬 王道長's Video Guide Series <span class="sub">· weekly video-to-text guides</span> <span class="badge-hot">🔥 NEW</span></h2>
+<h2 class="section-title-home">🎬 星露谷物语 · 新手入门攻略系列 <span class="sub">· 原创图文攻略</span> <span class="badge-hot">🔥 NEW</span></h2>
 
 <div class="video-series-card">
   <div class="video-series-header">
     <div class="video-series-header-left">
       <span class="video-series-icon">🎥</span>
       <div>
-        <h3>星露谷物语 · Complete Guide Series</h3>
-        <p class="video-series-subtitle">Every video from 王道長 (B站 UP主) → hand-crafted text guide with screenshots. Updated every <strong>Mon / Wed / Fri</strong>.</p>
+        <h3>新手入门 · 手把手图文攻略</h3>
+        <p class="video-series-subtitle">原创图文攻略，基于游戏实况学习整理，逐帧截取自游戏画面，手把手带你玩转星露谷物语 ✨ 每周一三五更新</p>
       </div>
     </div>
-    <a href="guides/" class="video-series-cta">Browse All →</a>
+    <a href="guides/" class="video-series-cta">浏览全部 →</a>
   </div>
 
   <div class="video-series-progress-grid">
