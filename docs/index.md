@@ -85,6 +85,79 @@ For Fields of Mistria, Coral Island, Sandrock, Sun Haven and more, see the [full
 
 ---
 
+<!-- ===== VIDEO SERIES BLOCK ===== -->
+<h2 class="section-title-home">🎬 王道長's Video Guide Series <span class="sub">· weekly video-to-text guides</span> <span class="badge-hot">🔥 NEW</span></h2>
+
+<div class="video-series-card">
+  <div class="video-series-header">
+    <div class="video-series-header-left">
+      <span class="video-series-icon">🎥</span>
+      <div>
+        <h3>星露谷物语 · Complete Guide Series</h3>
+        <p class="video-series-subtitle">Every video from 王道長 (B站 UP主) → hand-crafted text guide with screenshots. Updated every <strong>Mon / Wed / Fri</strong>.</p>
+      </div>
+    </div>
+    <a href="guides/" class="video-series-cta">Browse All →</a>
+  </div>
+
+  <div class="video-series-progress-grid">
+    <div class="video-series-progress-item">
+      <div class="vsp-top">
+        <span class="vsp-name">🧭 纯新手向攻略</span>
+        <span class="vsp-status vsp-active">1 / 3 🔄</span>
+      </div>
+      <div class="vsp-bar"><div class="vsp-fill-active" style="width:33%"></div></div>
+      <span class="vsp-label">⬅️ Active series</span>
+    </div>
+    <div class="video-series-progress-item">
+      <div class="vsp-top">
+        <span class="vsp-name">🌟 星露谷物语攻略</span>
+        <span class="vsp-status vsp-pending">0 / 2</span>
+      </div>
+      <div class="vsp-bar"><div class="vsp-fill" style="width:0%"></div></div>
+      <span class="vsp-label">Pending</span>
+    </div>
+    <div class="video-series-progress-item">
+      <div class="vsp-top">
+        <span class="vsp-name">⚡ 核心技巧单期</span>
+        <span class="vsp-status vsp-pending">0 / 4</span>
+      </div>
+      <div class="vsp-bar"><div class="vsp-fill" style="width:0%"></div></div>
+      <span class="vsp-label">Pending</span>
+    </div>
+    <div class="video-series-progress-item">
+      <div class="vsp-top">
+        <span class="vsp-name">📦 Mod推荐</span>
+        <span class="vsp-status vsp-pending">0 / 2</span>
+      </div>
+      <div class="vsp-bar"><div class="vsp-fill" style="width:0%"></div></div>
+      <span class="vsp-label">Pending</span>
+    </div>
+    <div class="video-series-progress-item">
+      <div class="vsp-top">
+        <span class="vsp-name">🎭 搞笑与周边</span>
+        <span class="vsp-status vsp-pending">0 / 2</span>
+      </div>
+      <div class="vsp-bar"><div class="vsp-fill" style="width:0%"></div></div>
+      <span class="vsp-label">Pending</span>
+    </div>
+  </div>
+
+  <div class="video-series-footer">
+    <div class="video-series-footer-left">
+      <span class="video-series-total">📊 <strong>5 series</strong> · <strong>13 guides</strong> planned · <strong>1</strong> live</span>
+    </div>
+    <div class="video-series-footer-right">
+      <span class="video-series-next">📅 Next: <strong>【星露谷物语】纯新手向攻略（第二期）——春季前期钓鱼篇</strong></span>
+      <span class="video-series-schedule">🕐 Mon/Wed/Fri 16:00</span>
+    </div>
+  </div>
+</div>
+<!-- ===== END VIDEO SERIES BLOCK ===== -->
+
+
+---
+
 <h2 class="section-title-home">Interactive Tools <span class="sub">· calculators & planners</span></h2>
 
 <div class="tools-grid-home">

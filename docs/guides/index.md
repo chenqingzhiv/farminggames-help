@@ -10,6 +10,22 @@ Browse all guides organized by game.
 
 ---
 
+## 🎬 王道長's Video Guide Series
+
+<div class="guide-series-banner">
+  <div class="guide-series-banner-icon">🎥</div>
+  <div class="guide-series-banner-text">
+    <h3>Weekly Video-to-Text Guides</h3>
+    <p>We convert 王道長's B站 videos into detailed text guides with screenshots. Updated every <strong>Mon / Wed / Fri</strong> at 16:00 (CST).</p>
+    <p>
+      <a href="../guides/stardew-valley-beginners-guide/" class="md-button md-button--primary">📖 星露谷第一天开局指南</a>
+      <a href="../news/" class="md-button">📰 View Release History</a>
+    </p>
+  </div>
+</div>
+
+---
+
 ## 🌟 Stardew Valley
 
 ### Beginner

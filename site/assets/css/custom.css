@@ -1038,3 +1038,268 @@ body::after {
   pointer-events: none;
   z-index: 0;
 }
+
+/* ============================================ */
+/* 🎬 王道長 Video Guide Series — Homepage Hero  */
+/* ============================================ */
+
+.video-series-card {
+  background: linear-gradient(135deg, rgba(99,102,241,0.08) 0%, rgba(245,158,11,0.06) 100%);
+  border: 1px solid rgba(99,102,241,0.2);
+  border-radius: 16px;
+  padding: 28px 32px;
+  margin: 12px 0 20px;
+  position: relative;
+  overflow: hidden;
+}
+
+.video-series-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, #6366f1, #f59e0b, #06b6d4);
+  border-radius: 16px 16px 0 0;
+}
+
+.video-series-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+
+.video-series-header-left {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.video-series-icon {
+  font-size: 40px;
+  width: 56px;
+  height: 56px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(99,102,241,0.15);
+  border-radius: 12px;
+  flex-shrink: 0;
+}
+
+.video-series-header h3 {
+  margin: 0;
+  font-size: 1.2rem;
+  color: var(--md-typeset-color);
+}
+
+.video-series-subtitle {
+  margin: 4px 0 0;
+  font-size: 0.85rem;
+  color: var(--md-typeset-color);
+  opacity: 0.7;
+  line-height: 1.4;
+}
+
+.video-series-cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 20px;
+  background: linear-gradient(135deg, #6366f1, #4f46e5);
+  color: #fff !important;
+  border-radius: 8px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-decoration: none !important;
+  white-space: nowrap;
+  transition: transform 0.15s, box-shadow 0.15s;
+}
+
+.video-series-cta:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(99,102,241,0.35);
+}
+
+.badge-hot {
+  display: inline-block;
+  padding: 2px 10px;
+  background: linear-gradient(135deg, #f59e0b, #ef4444);
+  color: #fff !important;
+  border-radius: 20px;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  vertical-align: middle;
+  animation: pulse-hot 2s ease-in-out infinite;
+}
+
+@keyframes pulse-hot {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.8; transform: scale(1.05); }
+}
+
+/* ── Series Progress Grid ── */
+
+.video-series-progress-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+.video-series-progress-item {
+  background: rgba(0,0,0,0.15);
+  border: 1px solid rgba(255,255,255,0.05);
+  border-radius: 10px;
+  padding: 12px 14px;
+  transition: border-color 0.15s;
+}
+
+.video-series-progress-item:hover {
+  border-color: rgba(99,102,241,0.3);
+}
+
+.vsp-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+.vsp-name {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--md-typeset-color);
+}
+
+.vsp-status {
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 2px 8px;
+  border-radius: 6px;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.vsp-active { background: rgba(99,102,241,0.2); color: #a5b4fc; }
+.vsp-complete { background: rgba(34,197,94,0.2); color: #86efac; }
+.vsp-pending { background: rgba(148,163,184,0.15); color: #94a3b8; }
+
+.vsp-bar {
+  height: 4px;
+  background: rgba(255,255,255,0.08);
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.vsp-fill {
+  height: 100%;
+  border-radius: 4px;
+  background: linear-gradient(90deg, #6366f1, #06b6d4);
+  transition: width 0.5s ease;
+}
+
+.vsp-fill-active {
+  background: linear-gradient(90deg, #6366f1, #f59e0b);
+}
+
+.vsp-label {
+  display: block;
+  font-size: 0.7rem;
+  color: var(--md-typeset-color);
+  opacity: 0.5;
+  margin-top: 6px;
+}
+
+/* ── Footer ── */
+
+.video-series-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+  padding-top: 12px;
+  border-top: 1px solid rgba(255,255,255,0.06);
+}
+
+.video-series-footer-left,
+.video-series-footer-right {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.video-series-total,
+.video-series-next,
+.video-series-schedule {
+  font-size: 0.8rem;
+  color: var(--md-typeset-color);
+  opacity: 0.7;
+}
+
+.video-series-next strong {
+  color: var(--md-typeset-color);
+  opacity: 1;
+}
+
+/* ── Dark / Light theme tweaks ── */
+
+[data-md-color-scheme="default"] .video-series-card {
+  background: linear-gradient(135deg, rgba(99,102,241,0.04) 0%, rgba(245,158,11,0.03) 100%);
+}
+
+[data-md-color-scheme="default"] .video-series-progress-item {
+  background: rgba(0,0,0,0.03);
+  border-color: rgba(0,0,0,0.06);
+}
+
+[data-md-color-scheme="default"] .vsp-bar {
+  background: rgba(0,0,0,0.08);
+}
+
+/* ============================================ */
+/* 🎬 Video Series Banner — Guides index page   */
+/* ============================================ */
+
+.guide-series-banner {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  background: linear-gradient(135deg, rgba(99,102,241,0.08), rgba(6,182,212,0.06));
+  border: 1px solid rgba(99,102,241,0.2);
+  border-radius: 12px;
+  padding: 20px 28px;
+  margin: 16px 0;
+}
+
+.guide-series-banner-icon {
+  font-size: 48px;
+  flex-shrink: 0;
+}
+
+.guide-series-banner-text h3 {
+  margin: 0 0 6px;
+  font-size: 1.15rem;
+}
+
+.guide-series-banner-text p {
+  margin: 0 0 10px;
+  font-size: 0.9rem;
+  opacity: 0.8;
+}
+
+.guide-series-banner-text p:last-child {
+  margin-bottom: 0;
+}
+
+.guide-series-banner .md-button {
+  margin-right: 8px;
+}

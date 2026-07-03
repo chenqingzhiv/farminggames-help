@@ -124,6 +124,9 @@ nav:
     - 📦 Mods Guide: tools/mods.md
     - 🎮 Game Comparison: tools/game-comparison/index.md
     - 📅 Release Calendar: tools/release-calendar/index.md
+  - 🎬 王道長's Video Guide Series:
+    - guides/index.md
+    - 🌟 星露谷第一天开局指南: guides/stardew-valley-beginners-guide.md
   - 🌾 Game Database:
     - Game List: database/games.md
   - 🌟 Stardew Valley:
@@ -199,9 +202,5 @@ nav:
       - 🌿 Getting Started: sun-haven/getting-started.md
       - 🧑‍🌾 Crop Profit Guide: sun-haven/crop-profit.md
       - 💝 NPC Gift Guide: sun-haven/npc-gifts.md
-  - 📖 Beginner Guides:
-    - Newbie Guide: guides/newbie.md
-    - 🌟 星露谷第一天开局指南: guides/stardew-valley-beginners-guide.md
-    - Overview: guides/index.md
   - 📰 News: news/index.md
   - ℹ️ About: about.md
