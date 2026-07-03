@@ -3,11 +3,6 @@ site_url: https://farminggames.help
 site_description: Complete guides & databases for cozy farming games - Stardew Valley, Farming Simulator, Palia, and more
 site_author: farming-games
 
-extra:
-  analytics:
-    provider: google
-    property: G-YSB3RE462B
-
 theme:
   name: material
   logo: material/leaf
@@ -105,6 +100,9 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/
+  analytics:
+    provider: google
+    property: G-YSB3RE462B
   generator: false
 
 copyright: Copyright &copy; 2026 Farming Games Help
