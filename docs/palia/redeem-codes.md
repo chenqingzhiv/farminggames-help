@@ -1,3 +1,9 @@
+---
+title: Palia Redeem Codes (Active & Expired)
+description: Find active Palia redeem codes updated June 2026. Free rewards, Twitch drops, and expired codes list — all in one place.
+date: 2026-06-28
+---
+
 # 🎁 Palia Redeem Codes (Active & Expired)
 
 > **Last Updated:** June 28, 2026 — This page is updated as new codes are released.

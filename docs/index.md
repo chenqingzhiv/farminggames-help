@@ -16,7 +16,7 @@ date: 2026-06-27
   </div>
   <div class="home-hero-stats">
     <div class="home-hero-stat">
-      <div class="home-hero-stat-num">58</div>
+      <div class="home-hero-stat-num">62</div>
       <div class="home-hero-stat-label">Guides</div>
     </div>
     <div class="home-hero-stat">
@@ -50,6 +50,8 @@ date: 2026-06-27
   <a href="tools/interactive-map/" class="game-card-link">🗺️ Map</a>
   <a href="stardew/profit-calc/" class="game-card-link">🧮 Profit Calc</a>
   <a href="stardew/tier-list/" class="game-card-link">📊 Tier List</a>
+  <a href="stardew/animals/" class="game-card-link">🐄 Ranching</a>
+  <a href="stardew/equipment/" class="game-card-link">⚙️ Equipment</a>
 </div>
 </div>
 </div>

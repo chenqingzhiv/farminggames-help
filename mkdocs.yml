@@ -108,7 +108,7 @@ extra:
 copyright: Copyright &copy; 2026 Farming Games Help
 
 nav:
-  - 🏠 Home: index.md
+  - 🏠 Home — Guides, Tools & Calculators: index.md
   - 🛠️ Tools:
     - tools/index.md
     - 💰 Crop Profit Calculator: tools/profit-calculator.md

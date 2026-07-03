@@ -1,6 +1,6 @@
 ---
 title: Crop Profit Calculator
-description: <div class="tool-tabs">
+description: Plan your farm for maximum earnings. Compare crop profitability across all seasons — Stardew Valley, FS25, Palia and more. Free interactive calculator.
 date: 2026-06-27
 ---
 

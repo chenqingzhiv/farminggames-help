@@ -1,14 +1,7 @@
 ---
 title: Stardew Valley Greenhouse Crops Guide
-description: title: "Stardew Valley Greenhouse Crops Guide"
+description: Maximize your greenhouse profits year-round with the best crops, profit analysis, layout tips, and expert strategies for Stardew Valley.
 date: 2026-06-27
----
-
-```yaml
----
-title: "Stardew Valley Greenhouse Crops Guide"
-description: "Maximize your greenhouse profits year-round with the best crops, profit analysis, layout tips, and expert strategies for Stardew Valley."
-date: "2025-04-15"
 ---
 
 # Stardew Valley Greenhouse Crops Guide
@@ -39,7 +32,7 @@ Profitability in the greenhouse depends on **gold per day (GPD)** and **processi
 
 ### Processed Profit Analysis
 
-Processing crops through kegs or preserves jars multiplies profits dramatically. Here’s the GPD when using kegs (assuming Artisan profession):
+Processing crops through kegs or preserves jars multiplies profits dramatically. Here's the GPD when using kegs (assuming Artisan profession):
 
 | Crop | Base Wine Price | Keg Time (Days) | GPD (Processed) |
 |------|-----------------|-----------------|------------------|
@@ -88,19 +81,19 @@ This setup allows you to harvest and process without leaving the greenhouse.
 
 ### Year-Round Ancient Fruit Farm
 
-Once you obtain an Ancient Seed (from artifact spots, fishing, or the Traveling Cart), plant it in the greenhouse. After the first harvest (28 days), it regrows every 7 days. With 96 plants, you’ll harvest 96 fruits per week. Process into wine for 1,650g each = 158,400g per week.
+Once you obtain an Ancient Seed (from artifact spots, fishing, or the Traveling Cart), plant it in the greenhouse. After the first harvest (28 days), it regrows every 7 days. With 96 plants, you'll harvest 96 fruits per week. Process into wine for 1,650g each = 158,400g per week.
 
 **Tip:** Use a Seed Maker to turn some Ancient Fruit into seeds. Plant them in the greenhouse until full, then sell the rest.
 
 ### Starfruit Mega-Profits
 
-Starfruit seeds cost 400g each (from Sandy in the Calico Desert). With 96 plants, that’s 38,400g upfront. Harvest every 13 days. Process into wine (2,250g each) = 216,000g per harvest. Replant immediately.
+Starfruit seeds cost 400g each (from Sandy in the Calico Desert). With 96 plants, that's 38,400g upfront. Harvest every 13 days. Process into wine (2,250g each) = 216,000g per harvest. Replant immediately.
 
 **Downside:** Requires constant replanting and seed purchases. Best for late-game when money is abundant.
 
 ### Mixed Crop Strategy
 
-If you’re early-game, mix crops for variety:
+If you're early-game, mix crops for variety:
 - Plant 48 Blueberry bushes for steady income.
 - Plant 48 Cranberries for fall-style profits.
 - Use preserves jars for Blueberries (2 days) and kegs for Cranberries (7 days).
@@ -112,10 +105,10 @@ This diversifies your income and reduces risk.
 - **Always use the Artisan profession** – It increases processed goods value by 40%.
 - **Place a chest inside the greenhouse** – Store seeds, fertilizer, and tools for quick access.
 - **Use Deluxe Speed-Gro** – Reduces growth time by 25% (e.g., Starfruit from 13 to 10 days). Buy from Pierre or craft.
-- **Don’t plant trees inside the greenhouse** – They take up valuable crop space. Use the farmhouse or the railroad area for trees.
+- **Don't plant trees inside the greenhouse** – They take up valuable crop space. Use the farmhouse or the railroad area for trees.
 - **Harvest with a Gold or Iridium Scythe** – Speeds up harvesting for multi-harvest crops like Blueberries.
 - **Automate with Junimo Huts** – Not possible in the greenhouse, but you can use the **Automate mod** (PC) to connect chests to kegs.
 - **Save one of each crop** – For quests, bundles, or the Stardew Valley Fair grange display.
 - **Check the Traveling Cart** – Buy Rare Seeds (Sweet Gem Berry) for a one-time profit of 3,000g each (but not regrowable).
 
-With this guide, your greenhouse will become the engine of your farm’s economy. Happy farming!
+With this guide, your greenhouse will become the engine of your farm's economy. Happy farming!
