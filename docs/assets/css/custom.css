@@ -726,3 +726,315 @@ a.tool-card-home:hover,
   border-color: rgba(255, 255, 255, 0.06);
   margin: 24px 0;
 }
+
+/* ==================================================================
+   🎮 游戏展质感增强 — Expo Enhancement (2026-07-03)
+   保持田园底蕴 + 提升交互品质
+   ================================================================== */
+
+/* ── 1. 导航发光条 ─────────────────────────────────────────── */
+.md-tabs__link--active::after,
+.md-tabs__link[aria-current]::after {
+  content: '';
+  position: absolute;
+  bottom: -1px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 60%;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, #22c55e, #84cc16, transparent);
+  border-radius: 2px;
+  animation: navPulse 3s ease-in-out infinite;
+}
+@keyframes navPulse {
+  0%, 100% { opacity: 0.6; }
+  50%      { opacity: 1; }
+}
+.md-tabs__link {
+  position: relative;
+}
+
+/* ── 2. 当前页面高亮条（sidebar / nav） ────────────────────── */
+.md-nav__link--active {
+  color: #22c55e !important;
+  position: relative;
+}
+.md-nav__link--active::before {
+  content: '';
+  position: absolute;
+  left: -12px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 3px;
+  height: 18px;
+  background: linear-gradient(180deg, #22c55e, #84cc16);
+  border-radius: 3px;
+}
+
+/* ── 3. 首页Hero增强 ───────────────────────────────────────── */
+.home-hero h1 .gradient {
+  background: linear-gradient(135deg, #22c55e 0%, #84cc16 50%, #a3e635 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  background-size: 200% 200%;
+  animation: heroGradient 8s ease-in-out infinite;
+}
+@keyframes heroGradient {
+  0%, 100% { background-position: 0% 50%; }
+  50%      { background-position: 100% 50%; }
+}
+
+/* ── 4. 游戏卡片 + 工具卡片 — 悬停光晕 ────────────────────── */
+.game-hero-card {
+  position: relative;
+  overflow: hidden;
+}
+.game-hero-card::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: 16px;
+  opacity: 0;
+  transition: opacity 0.4s ease;
+  pointer-events: none;
+  z-index: 0;
+}
+.game-card-stardew.game-hero-card::after {
+  background: radial-gradient(600px circle at var(--mouse-x, 50%) var(--mouse-y, 50%), rgba(34,197,94,0.1), transparent 50%);
+}
+.game-card-farmsim.game-hero-card::after {
+  background: radial-gradient(600px circle at var(--mouse-x, 50%) var(--mouse-y, 50%), rgba(251,191,36,0.1), transparent 50%);
+}
+.game-card-palia.game-hero-card::after {
+  background: radial-gradient(600px circle at var(--mouse-x, 50%) var(--mouse-y, 50%), rgba(168,85,247,0.1), transparent 50%);
+}
+.game-hero-card:hover::after {
+  opacity: 1;
+}
+.game-hero-card-inner {
+  position: relative;
+  z-index: 1;
+}
+
+/* ── 5. 工具卡片网格 — 悬停质感提升 ───────────────────────── */
+.tool-card-home {
+  position: relative;
+  overflow: hidden;
+}
+.tool-card-home::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 60%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(34,197,94,0.06), transparent);
+  transition: left 0.5s ease;
+  pointer-events: none;
+}
+.tool-card-home:hover::before {
+  left: 150%;
+}
+
+/* ── 6. 表格行悬停增强 ──────────────────────────────────────── */
+.md-typeset table tbody tr {
+  transition: background 0.2s ease;
+}
+.md-typeset table tbody tr:hover {
+  background: rgba(34, 197, 94, 0.08) !important;
+}
+.md-typeset table tbody tr:active {
+  background: rgba(34, 197, 94, 0.15) !important;
+}
+
+/* ── 7. 标题装饰线 ─────────────────────────────────────────── */
+.md-typeset h2 {
+  position: relative;
+}
+.md-typeset h2::after {
+  content: '';
+  position: absolute;
+  bottom: -1px;
+  left: 0;
+  width: 60px;
+  height: 2px;
+  background: linear-gradient(90deg, #22c55e, #84cc16, transparent);
+  border-radius: 2px;
+}
+
+/* ── 8. Footer 发光装饰 ────────────────────────────────────── */
+.md-footer {
+  position: relative;
+  overflow: hidden;
+}
+.md-footer::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 600px;
+  height: 1px;
+  background: radial-gradient(ellipse, rgba(34,197,94,0.2), transparent 70%);
+  pointer-events: none;
+}
+
+/* ── 9. 页面顶部渐变光晕（像游戏展会内灯光） ────────────────── */
+.md-main::before {
+  content: '';
+  position: fixed;
+  top: -200px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 800px;
+  height: 400px;
+  background: radial-gradient(ellipse, rgba(34,197,94,0.04) 0%, rgba(132,204,22,0.02) 30%, transparent 60%);
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* ── 10. 文章 / 提示框入场微动感 ──────────────────────────── */
+.md-content article,
+.md-content .md-content__inner > * {
+  animation: gentleFadeIn 0.5s ease both;
+}
+@keyframes gentleFadeIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* ── 11. 搜索框视觉增强 ────────────────────────────────────── */
+.home-hero-search input:focus {
+  box-shadow: 0 0 0 2px rgba(34,197,94,0.3), 0 4px 30px rgba(0,0,0,0.5);
+}
+
+/* ── 12. 游戏卡牌数量统计发光 ──────────────────────────────── */
+.hero-stat-num {
+  display: inline-block;
+  transition: text-shadow 0.3s ease;
+}
+.hero-stat:hover .hero-stat-num {
+  text-shadow: 0 0 20px rgba(34,197,94,0.3);
+}
+
+/* ── 13. 侧边栏滚动条 ──────────────────────────────────────── */
+.md-sidebar__scrollwrap::-webkit-scrollbar {
+  width: 4px;
+}
+.md-sidebar__scrollwrap::-webkit-scrollbar-track {
+  background: transparent;
+}
+.md-sidebar__scrollwrap::-webkit-scrollbar-thumb {
+  background: rgba(34,197,94,0.2);
+  border-radius: 4px;
+}
+.md-sidebar__scrollwrap::-webkit-scrollbar-thumb:hover {
+  background: rgba(34,197,94,0.4);
+}
+
+/* ── 14. Game Hero 底部大地发光 ──────────────────────────── */
+body::before {
+  background:
+    radial-gradient(2px 2px at 5% 8%, rgba(255,255,255,0.4), transparent),
+    radial-gradient(2px 2px at 15% 3%, rgba(255,255,255,0.3), transparent),
+    radial-gradient(1px 1px at 22% 12%, rgba(255,255,255,0.5), transparent),
+    radial-gradient(2px 2px at 30% 5%, rgba(255,255,255,0.3), transparent),
+    radial-gradient(1px 1px at 38% 10%, rgba(255,255,255,0.4), transparent),
+    radial-gradient(2px 2px at 45% 2%, rgba(255,255,255,0.3), transparent),
+    radial-gradient(1px 1px at 52% 15%, rgba(255,255,255,0.4), transparent),
+    radial-gradient(2px 2px at 60% 6%, rgba(255,255,255,0.3), transparent),
+    radial-gradient(1px 1px at 68% 11%, rgba(255,255,255,0.4), transparent),
+    radial-gradient(2px 2px at 75% 4%, rgba(255,255,255,0.3), transparent),
+    radial-gradient(1px 1px at 82% 14%, rgba(255,255,255,0.5), transparent),
+    radial-gradient(2px 2px at 88% 7%, rgba(255,255,255,0.3), transparent),
+    radial-gradient(2px 2px at 95% 9%, rgba(255,255,255,0.4), transparent),
+    /* Night sky → mountains → fields gradient + expo floor glow */
+    linear-gradient(180deg,
+      #0a1628 0%,
+      #0d1a2e 10%,
+      #112236 20%,
+      #1a3a2a 35%,
+      #2d5a3e 45%,
+      #3a6a3e 55%,
+      #2a5a3a 65%,
+      #1a4a2a 80%,
+      #0d2818 100%);
+  background-size: 100% 100%;
+}
+/* Add subtle warm light near bottom (like expo floor lights on grass) */
+body::before {
+  background:
+    radial-gradient(2px 2px at 5% 8%, rgba(255,255,255,0.4), transparent),
+    radial-gradient(2px 2px at 15% 3%, rgba(255,255,255,0.3), transparent),
+    radial-gradient(1px 1px at 22% 12%, rgba(255,255,255,0.5), transparent),
+    radial-gradient(2px 2px at 30% 5%, rgba(255,255,255,0.3), transparent),
+    radial-gradient(1px 1px at 38% 10%, rgba(255,255,255,0.4), transparent),
+    radial-gradient(2px 2px at 45% 2%, rgba(255,255,255,0.3), transparent),
+    radial-gradient(1px 1px at 52% 15%, rgba(255,255,255,0.4), transparent),
+    radial-gradient(2px 2px at 60% 6%, rgba(255,255,255,0.3), transparent),
+    radial-gradient(1px 1px at 68% 11%, rgba(255,255,255,0.4), transparent),
+    radial-gradient(2px 2px at 75% 4%, rgba(255,255,255,0.3), transparent),
+    radial-gradient(1px 1px at 82% 14%, rgba(255,255,255,0.5), transparent),
+    radial-gradient(2px 2px at 88% 7%, rgba(255,255,255,0.3), transparent),
+    radial-gradient(2px 2px at 95% 9%, rgba(255,255,255,0.4), transparent),
+    linear-gradient(180deg,
+      #0a1628 0%,
+      #0d1a2e 10%,
+      #112236 20%,
+      #1a3a2a 35%,
+      #2d5a3e 45%,
+      #3a6a3e 55%,
+      #2a5a3a 65%,
+      #1a4a2a 80%,
+      #0d2818 100%);
+  background-size: 100% 100%;
+}
+/* Warm floor glow (expo lighting on grass field) */
+body::before {
+  background:
+    /* Stars */
+    radial-gradient(2px 2px at 5% 8%, rgba(255,255,255,0.4), transparent),
+    radial-gradient(2px 2px at 15% 3%, rgba(255,255,255,0.3), transparent),
+    radial-gradient(1px 1px at 22% 12%, rgba(255,255,255,0.5), transparent),
+    radial-gradient(2px 2px at 30% 5%, rgba(255,255,255,0.3), transparent),
+    radial-gradient(1px 1px at 38% 10%, rgba(255,255,255,0.4), transparent),
+    radial-gradient(2px 2px at 45% 2%, rgba(255,255,255,0.3), transparent),
+    radial-gradient(1px 1px at 52% 15%, rgba(255,255,255,0.4), transparent),
+    radial-gradient(2px 2px at 60% 6%, rgba(255,255,255,0.3), transparent),
+    radial-gradient(1px 1px at 68% 11%, rgba(255,255,255,0.4), transparent),
+    radial-gradient(2px 2px at 75% 4%, rgba(255,255,255,0.3), transparent),
+    radial-gradient(1px 1px at 82% 14%, rgba(255,255,255,0.5), transparent),
+    radial-gradient(2px 2px at 88% 7%, rgba(255,255,255,0.3), transparent),
+    radial-gradient(2px 2px at 95% 9%, rgba(255,255,255,0.4), transparent),
+    /* Expo warm floor glow */
+    radial-gradient(ellipse 800px 200px at 50% 100%, rgba(251,191,36,0.04), transparent 70%),
+    /* Night sky → mountains → fields gradient */
+    linear-gradient(180deg,
+      #0a1628 0%,
+      #0d1a2e 10%,
+      #112236 20%,
+      #1a3a2a 35%,
+      #2d5a3e 45%,
+      #3a6a3e 55%,
+      #2a5a3a 65%,
+      #1a4a2a 80%,
+      #0d2818 100%);
+  background-size: 100% 100%;
+}
+
+/* ── 15. 底部大地温热光晕 ─────────────────────────────────── */
+body::after {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background-image:
+    /* Original soft overlay grid pattern */
+    radial-gradient(circle at 1px 1px, rgba(34,197,94,0.03) 1px, transparent 1px),
+    /* Expo warm floor glow (bottom 200px) */
+    linear-gradient(0deg, rgba(34,197,94,0.04) 0%, transparent 200px);
+  background-size: 30px 30px, 100% 100%;
+  background-repeat: repeat, no-repeat;
+  pointer-events: none;
+  z-index: 0;
+}

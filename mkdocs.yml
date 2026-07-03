@@ -65,6 +65,7 @@ plugins:
       redirect_maps: {}
 
 extra_javascript:
+  - assets/js/scroll-animations.js
   - assets/js/utterances.js
   - assets/js/game-bg.js
   - assets/vendor/jquery.min.js
