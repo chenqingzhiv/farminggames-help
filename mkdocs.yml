@@ -3,6 +3,11 @@ site_url: https://farminggames.help
 site_description: Complete guides & databases for cozy farming games - Stardew Valley, Farming Simulator, Palia, and more
 site_author: farming-games
 
+extra:
+  analytics:
+    provider: google
+    property: G-YSB3RE462B
+
 theme:
   name: material
   logo: material/leaf
@@ -150,6 +155,10 @@ nav:
     - 🏛️ Museum Donation Guide: stardew/museum.md
     - 🥥 Golden Walnut Guide: stardew/walnuts.md
     - 🌱 Greenhouse Crops: stardew/greenhouse-crops.md
+    - ⚙️ Equipment & Tool Upgrades: stardew/equipment.md
+    - 🧪 Complete Crafting Guide: stardew/crafting.md
+    - 🐄 Animal & Ranching Profits: stardew/animals.md
+    - 📅 Season Planting Calendar: stardew/planting-calendar.md
     - 📬 Feedback: stardew/feedback.md
   - 🚜 Farming Simulator 25:
     - 🚜 Full Guide: farmingsim/index.md
