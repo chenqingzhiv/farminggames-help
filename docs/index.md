@@ -107,7 +107,7 @@ For Fields of Mistria, Coral Island, Sandrock, Sun Haven and more, see the [full
         <span class="vsp-status vsp-active">1 / 3 🔄</span>
       </div>
       <div class="vsp-bar"><div class="vsp-fill-active" style="width:33%"></div></div>
-      <span class="vsp-label">⬅️ Active series</span>
+      <span class="vsp-label">⬅️ 进行中</span>
     </div>
     <div class="video-series-progress-item">
       <div class="vsp-top">
@@ -115,7 +115,7 @@ For Fields of Mistria, Coral Island, Sandrock, Sun Haven and more, see the [full
         <span class="vsp-status vsp-pending">0 / 2</span>
       </div>
       <div class="vsp-bar"><div class="vsp-fill" style="width:0%"></div></div>
-      <span class="vsp-label">Pending</span>
+      <span class="vsp-label">待开始</span>
     </div>
     <div class="video-series-progress-item">
       <div class="vsp-top">
@@ -123,7 +123,7 @@ For Fields of Mistria, Coral Island, Sandrock, Sun Haven and more, see the [full
         <span class="vsp-status vsp-pending">0 / 4</span>
       </div>
       <div class="vsp-bar"><div class="vsp-fill" style="width:0%"></div></div>
-      <span class="vsp-label">Pending</span>
+      <span class="vsp-label">待开始</span>
     </div>
     <div class="video-series-progress-item">
       <div class="vsp-top">
@@ -131,7 +131,7 @@ For Fields of Mistria, Coral Island, Sandrock, Sun Haven and more, see the [full
         <span class="vsp-status vsp-pending">0 / 2</span>
       </div>
       <div class="vsp-bar"><div class="vsp-fill" style="width:0%"></div></div>
-      <span class="vsp-label">Pending</span>
+      <span class="vsp-label">待开始</span>
     </div>
     <div class="video-series-progress-item">
       <div class="vsp-top">
@@ -139,21 +139,22 @@ For Fields of Mistria, Coral Island, Sandrock, Sun Haven and more, see the [full
         <span class="vsp-status vsp-pending">0 / 2</span>
       </div>
       <div class="vsp-bar"><div class="vsp-fill" style="width:0%"></div></div>
-      <span class="vsp-label">Pending</span>
+      <span class="vsp-label">待开始</span>
     </div>
   </div>
 
   <div class="video-series-footer">
     <div class="video-series-footer-left">
-      <span class="video-series-total">📊 <strong>5 series</strong> · <strong>13 guides</strong> planned · <strong>1</strong> live</span>
+      <span class="video-series-total">📊 <strong>5个系列</strong> · <strong>13篇攻略</strong> 计划 · <strong>1</strong> 已上线</span>
     </div>
     <div class="video-series-footer-right">
-      <span class="video-series-next">📅 Next: <strong>【星露谷物语】纯新手向攻略（第二期）——春季前期钓鱼篇</strong></span>
-      <span class="video-series-schedule">🕐 Mon/Wed/Fri 16:00</span>
+      <span class="video-series-next">📅 下篇: <strong>【星露谷物语】纯新手向攻略（第二期）——春季前期钓鱼篇</strong></span>
+      <span class="video-series-schedule">🕐 一三五 16:00</span>
     </div>
   </div>
 </div>
 <!-- ===== END VIDEO SERIES BLOCK ===== -->
+
 
 
 ---
