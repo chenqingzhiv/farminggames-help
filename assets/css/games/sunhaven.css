@@ -1,0 +1,52 @@
+/* ========================================================== */
+/* ☀️ Sun Haven — Fantasy Radiance · 耀世幻想                 */
+/*    Palette: Sun Gold + Adventure Blue + Crimson            */
+/* ========================================================== */
+
+[data-game="sunhaven"] {
+  /* Core palette */
+  --pm-primary: #ca8a04;
+  --pm-primary-light: #eab308;
+  --pm-primary-dark: #a16207;
+  --pm-on-primary: #FFFFFF;
+  --pm-accent: #2563eb;
+  --pm-accent-light: #3b82f6;
+
+  /* Surfaces */
+  --pm-background: #FFFBE5;
+  --pm-foreground: #1F2937;
+  --pm-muted: #FEF9C3;
+  --pm-card-bg: #FFFFFF;
+  --pm-card-bg-soft: rgba(255,255,255,0.85);
+  --pm-border: #FDE68A;
+  --pm-border-light: #FEF9C3;
+
+  /* Text */
+  --pm-text: #374151;
+  --pm-text-light: #6B7280;
+  --pm-text-muted: #9CA3AF;
+
+  /* Tints & shadows */
+  --pm-green-tint: rgba(202,138,4,0.08);
+  --pm-amber-tint: rgba(37,99,235,0.08);
+  --pm-shadow-green: rgba(202,138,4,0.12);
+  --pm-shadow-amber: rgba(37,99,235,0.12);
+  --pm-shadow-card: rgba(202,138,4,0.08);
+}
+
+/* ── Sun Haven-specific decorations ─────────────────────── */
+
+[data-game="sunhaven"] .md-typeset h2 {
+  border-bottom-color: rgba(202,138,4,0.25);
+}
+[data-game="sunhaven"] .md-typeset h2::after {
+  background: #ca8a04;
+}
+
+[data-game="sunhaven"] .md-content {
+  border-color: #FDE68A;
+}
+
+[data-game="sunhaven"] .md-header {
+  border-bottom-color: #FDE68A;
+}

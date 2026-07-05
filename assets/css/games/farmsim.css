@@ -1,0 +1,52 @@
+/* ========================================================== */
+/* 🚜 Farming Sim 25 — Agri-Industrial · 现代农工             */
+/*    Palette: Leaf Green + Steel Blue + Earth Brown          */
+/* ========================================================== */
+
+[data-game="farmsim"] {
+  /* Core palette */
+  --pm-primary: #16a34a;
+  --pm-primary-light: #22c55e;
+  --pm-primary-dark: #15803d;
+  --pm-on-primary: #FFFFFF;
+  --pm-accent: #1e40af;
+  --pm-accent-light: #2563eb;
+
+  /* Surfaces */
+  --pm-background: #F0FDF4;
+  --pm-foreground: #1F2937;
+  --pm-muted: #DCFCE7;
+  --pm-card-bg: #FFFFFF;
+  --pm-card-bg-soft: rgba(255,255,255,0.85);
+  --pm-border: #BBF7D0;
+  --pm-border-light: #DCFCE7;
+
+  /* Text */
+  --pm-text: #374151;
+  --pm-text-light: #6B7280;
+  --pm-text-muted: #9CA3AF;
+
+  /* Tints & shadows */
+  --pm-green-tint: rgba(22,163,74,0.08);
+  --pm-amber-tint: rgba(30,64,175,0.08);
+  --pm-shadow-green: rgba(22,163,74,0.12);
+  --pm-shadow-amber: rgba(30,64,175,0.12);
+  --pm-shadow-card: rgba(22,163,74,0.08);
+}
+
+/* ── Farmsim-specific decorations ──────────────────────── */
+
+[data-game="farmsim"] .md-typeset h2 {
+  border-bottom-color: rgba(22,163,74,0.25);
+}
+[data-game="farmsim"] .md-typeset h2::after {
+  background: #16a34a;
+}
+
+[data-game="farmsim"] .md-content {
+  border-color: #BBF7D0;
+}
+
+[data-game="farmsim"] .md-header {
+  border-bottom-color: #BBF7D0;
+}

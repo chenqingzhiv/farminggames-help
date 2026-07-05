@@ -1,0 +1,52 @@
+/* ========================================================== */
+/* 🌸 Fields of Mistria — Misty Glen · 雾谷花语               */
+/*    Palette: Rose Pink + Tea Green + Mist Purple            */
+/* ========================================================== */
+
+[data-game="mistria"] {
+  /* Core palette */
+  --pm-primary: #db2777;
+  --pm-primary-light: #f43f5e;
+  --pm-primary-dark: #be185d;
+  --pm-on-primary: #FFFFFF;
+  --pm-accent: #65a30d;
+  --pm-accent-light: #84cc16;
+
+  /* Surfaces */
+  --pm-background: #FDF2F8;
+  --pm-foreground: #1F2937;
+  --pm-muted: #FCE7F3;
+  --pm-card-bg: #FFFFFF;
+  --pm-card-bg-soft: rgba(255,255,255,0.85);
+  --pm-border: #FBCFE8;
+  --pm-border-light: #FCE7F3;
+
+  /* Text */
+  --pm-text: #374151;
+  --pm-text-light: #6B7280;
+  --pm-text-muted: #9CA3AF;
+
+  /* Tints & shadows */
+  --pm-green-tint: rgba(219,39,119,0.08);
+  --pm-amber-tint: rgba(101,163,13,0.08);
+  --pm-shadow-green: rgba(219,39,119,0.12);
+  --pm-shadow-amber: rgba(101,163,13,0.12);
+  --pm-shadow-card: rgba(219,39,119,0.08);
+}
+
+/* ── Mistria-specific decorations ───────────────────────── */
+
+[data-game="mistria"] .md-typeset h2 {
+  border-bottom-color: rgba(219,39,119,0.25);
+}
+[data-game="mistria"] .md-typeset h2::after {
+  background: #db2777;
+}
+
+[data-game="mistria"] .md-content {
+  border-color: #FBCFE8;
+}
+
+[data-game="mistria"] .md-header {
+  border-bottom-color: #FBCFE8;
+}

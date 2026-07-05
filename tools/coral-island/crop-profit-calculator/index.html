@@ -1,0 +1,5895 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Advanced Coral Island crop profit calculator with complete tables, artisan processing multipliers, and a 100-tile farm plan. Maximize your seasonal profits.">
+      
+      
+      
+        <link rel="canonical" href="https://farminggames.help/tools/coral-island/crop-profit-calculator/">
+      
+      
+        <link rel="prev" href="../../profit-calculator/">
+      
+      
+        <link rel="next" href="../../mods/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.6">
+    
+    
+      
+        <title>Coral Island — Crop Profit Calculator & Farm Planner - Farming Games Help</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.484c7ddc.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/css/custom.css">
+    
+      <link rel="stylesheet" href="../../../assets/css/games/stardew.css">
+    
+      <link rel="stylesheet" href="../../../assets/css/games/farmsim.css">
+    
+      <link rel="stylesheet" href="../../../assets/css/games/palia.css">
+    
+      <link rel="stylesheet" href="../../../assets/css/games/coral.css">
+    
+      <link rel="stylesheet" href="../../../assets/css/games/mistria.css">
+    
+      <link rel="stylesheet" href="../../../assets/css/games/sandrock.css">
+    
+      <link rel="stylesheet" href="../../../assets/css/games/sunhaven.css">
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+
+<script>
+(function() {
+  var path = window.location.pathname.replace(/\/+$/, '') || '';
+  var game = 'home';
+  if (path === '' || path === '/') { game = 'home'; }
+  else if (path.startsWith('/stardew')) { game = 'stardew'; }
+  else if (path.startsWith('/farmingsim')) { game = 'farmsim'; }
+  else if (path.startsWith('/palia')) { game = 'palia'; }
+  else if (path.startsWith('/coral-island')) { game = 'coral'; }
+  else if (path.startsWith('/fields-mistria')) { game = 'mistria'; }
+  else if (path.startsWith('/sandrock')) { game = 'sandrock'; }
+  else if (path.startsWith('/sun-haven')) { game = 'sunhaven'; }
+  else if (path.startsWith('/about') || path.startsWith('/guides') || path.startsWith('/tools')) { game = 'home'; }
+  document.documentElement.setAttribute('data-game', game);
+})();
+</script>
+
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#coral-island-crop-profit-calculator-farm-planner" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../.." title="Farming Games Help" class="md-header__button md-logo" aria-label="Farming Games Help" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Farming Games Help
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Coral Island — Crop Profit Calculator & Farm Planner
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../.." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../stardew/" class="md-tabs__link">
+          
+  
+  
+  Stardew Valley
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../farmingsim/" class="md-tabs__link">
+          
+  
+  
+  Farming Sim 25
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../palia/" class="md-tabs__link">
+          
+  
+  
+  Palia
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../coral-island/" class="md-tabs__link">
+          
+  
+  
+  Coral Island
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../fields-mistria/" class="md-tabs__link">
+          
+  
+  
+  Fields of Mistria
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../sandrock/" class="md-tabs__link">
+          
+  
+  
+  Sandrock
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../sun-haven/" class="md-tabs__link">
+          
+  
+  
+  Sun Haven
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../../" class="md-tabs__link">
+          
+  
+  
+  Tools
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../guides/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Guides
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../about/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  About
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="Farming Games Help" class="md-nav__button md-logo" aria-label="Farming Games Help" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Farming Games Help
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Stardew Valley
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Stardew Valley
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../stardew/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Overview
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_2" id="__nav_2_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🌱 Crops & Farming
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    🌱 Crops & Farming
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../stardew/crops/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Crops
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../stardew/greenhouse-crops/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Greenhouse
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../stardew/profit-calc/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Profit Calc
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../stardew/planting-calendar/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Planting Calendar
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../stardew/farm-layout/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Farm Layout
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../stardew/artisan/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Artisan
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_3" id="__nav_2_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ⛏️ Skills & Combat
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    ⛏️ Skills & Combat
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../stardew/skills/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Skills
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../stardew/mining/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Mining
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../stardew/equipment/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Equipment
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../stardew/weapons/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Weapons
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../stardew/boots/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Boots
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../stardew/rings/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rings
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_4" id="__nav_2_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🐟 Fishing
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    🐟 Fishing
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../stardew/fish/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Fish
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../stardew/fishing/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Fishing Guide
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_5" id="__nav_2_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    👥 NPC & Social
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    👥 NPC & Social
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../stardew/npc-gifts/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    NPC Gifts
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../stardew/schedule/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Schedule
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../stardew/festivals/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Festivals
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_6" id="__nav_2_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🧪 Crafting & Items
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    🧪 Crafting & Items
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../stardew/crafting/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Crafting
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../stardew/cooking/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cooking
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../stardew/hats/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Hats
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../stardew/totems/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Totems
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../stardew/trinkets/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Trinkets
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_7" id="__nav_2_7_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🗺️ Guides
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_7">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    🗺️ Guides
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../stardew/spring-guide/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Spring Guide
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../stardew/summer-guide/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Summer Guide
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../stardew/summer-blueprint/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Summer Blueprint
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../stardew/fall-guide/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Fall Guide
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../stardew/winter/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Winter
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../stardew/year-1-guide/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Year 1 Guide
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../stardew/ginger-island/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ginger Island
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../stardew/1.6-update-guide/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    1.6 Update
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_8" id="__nav_2_8_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🏆 Collections
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_8">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    🏆 Collections
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../stardew/museum/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Museum
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../stardew/walnuts/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Walnuts
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../stardew/tier-list/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tier List
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../stardew/encyclopedia/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Encyclopedia
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_9" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_9" id="__nav_2_9_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🧮 Tools
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_9">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    🧮 Tools
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../bundle-tracker/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Bundle Tracker
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../profit-optimizer/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Profit Optimizer
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../interactive-map/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Interactive Map
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Farming Sim 25
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Farming Sim 25
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../farmingsim/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Overview
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../farmingsim/getting-started/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Getting Started
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../farmingsim/crops/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🌱 Crops
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../farmingsim/machinery/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🚜 Machinery
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../farmingsim/profit-guide/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    💰 Profit Guide
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../farmingsim/production-chains/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🏭 Production Chains
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../farmingsim/vehicle-compare/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🚗 Vehicle Compare
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../farmingsim/animals/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🐄 Animals
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../mods/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    📦 Mods
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Palia
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Palia
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../palia/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Overview
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../palia/guide/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🎒 Beginner Guide
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../palia/crops/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🌱 Crops
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../palia/crop-profit/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    💰 Crop Profit
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../palia/fish/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🐟 Fish
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../palia/fish-guide/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🐟 Fish Guide
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../palia/hunting/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🏹 Hunting
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../palia/cooking/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🍳 Cooking
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../palia/friendship/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    💝 Friendship
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../palia/housing/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🏠 Housing
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../palia/redeem-codes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🎁 Redeem Codes
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Coral Island
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Coral Island
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../coral-island/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Overview
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../coral-island/getting-started/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Getting Started
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../coral-island/crops/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🌱 Crops
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../coral-island/crop-profit/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    💰 Crop Profit
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../coral-island/mining/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ⛏️ Mining
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../coral-island/diving/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🤿 Diving
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../coral-island/fish-guide/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🐟 Fish
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../coral-island/animals/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🐄 Animals
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../coral-island/artisan/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🧪 Artisan
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../coral-island/romance/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    💕 Romance
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Fields of Mistria
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Fields of Mistria
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../fields-mistria/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Overview
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../fields-mistria/getting-started/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Getting Started
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../fields-mistria/crop-profit/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🌱 Crop Profit
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../fields-mistria/seasonal-strategy/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🌿 Seasonal Crop Strategy
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../fields-mistria/mining/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ⛏️ Mining & Combat
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../fields-mistria/fish/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🐟 Fish
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../fields-mistria/gift-guide/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    💝 Gift Guide
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../fields-mistria/cooking/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🍳 Cooking
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../fields-mistria/animals/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🐄 Animals
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../fields-mistria/festivals/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🎪 Festivals
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../fields-mistria/crafting/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🔧 Crafting
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../fields-mistria/housing/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🏠 Housing
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../fields-mistria/museum/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🏛️ Museum
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Sandrock
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Sandrock
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sandrock/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Overview
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sandrock/getting-started/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Getting Started
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sandrock/resources/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🗺️ Resources
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sandrock/gift-guide/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    💝 Gift Guide
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sandrock/crops/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🌱 Crops
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sandrock/fishing/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🐟 Fishing
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sandrock/combat/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ⚔️ Ruins & Combat
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sandrock/workshop-optimization/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🔧 Workshop
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sandrock/cooking/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🍳 Cooking
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sandrock/animals/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🐪 Animals & Mounts
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sandrock/housing/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🏠 Housing
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sandrock/seasonal-guide/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    📅 Seasonal Guide
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Sun Haven
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Sun Haven
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sun-haven/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Overview
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sun-haven/getting-started/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Getting Started
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sun-haven/crop-profit/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🌱 Crop Profit
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sun-haven/farming-deep-dive/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🌿 Farming Deep Dive
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sun-haven/combat/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ⚔️ Combat & Magic
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sun-haven/fishing/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🐟 Fishing
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sun-haven/animals/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🐄 Animals
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sun-haven/festivals/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🎪 Festivals
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sun-haven/npc-gifts/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🎁 NPC Gifts
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_9" id="__nav_9_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tools
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_9">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Tools
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Overview
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../bundle-tracker/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Bundle Tracker
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../profit-optimizer/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Profit Optimizer
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../interactive-map/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Interactive Map
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../profit-calculator/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    📊 Profit Calculator
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🌴 Coral Island Profit Calc
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🌴 Coral Island Profit Calc
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#calculation-methodology" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        📐 Calculation Methodology
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="📐 Calculation Methodology">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#profit-formula" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Profit Formula
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#quality-multipliers" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Quality Multipliers
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#spring-crop-profit-table" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🌸 Spring Crop Profit Table
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="🌸 Spring Crop Profit Table">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#spring-ranking" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Spring Ranking
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#summer-crop-profit-table" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ☀️ Summer Crop Profit Table
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="☀️ Summer Crop Profit Table">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#summer-ranking" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Summer Ranking
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#fall-crop-profit-table" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🍂 Fall Crop Profit Table
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="🍂 Fall Crop Profit Table">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#fall-ranking" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Fall Ranking
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#winter-crop-profit-table" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ❄️ Winter Crop Profit Table
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#artisan-processing-profit-multipliers" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🏭 Artisan Processing Profit Multipliers
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="🏭 Artisan Processing Profit Multipliers">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#artisan-profit-comparison-per-crop-per-day" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Artisan Profit Comparison (Per Crop, Per Day)
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#100-tile-farm-plan-with-crop-rotation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🌱 100-Tile Farm Plan with Crop Rotation
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="🌱 100-Tile Farm Plan with Crop Rotation">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#season-1-spring-year-1-build-capital" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Season 1: Spring (Year 1) — Build Capital
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#season-2-summer-year-1-add-artisan-processing" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Season 2: Summer (Year 1) — Add Artisan Processing
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#season-3-fall-year-1-maximize-artisan-output" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Season 3: Fall (Year 1) — Maximize Artisan Output
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#season-4-winter-year-1-greenhouse-preparation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Season 4: Winter (Year 1) — Greenhouse &amp; Preparation
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#quick-reference-when-to-plant-what" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ⚡ Quick Reference: When to Plant What
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../mods/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    📦 Mods
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../saves/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    💾 Saves
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../game-comparison/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Game Comparison
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../release-calendar/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Release Calendar
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../guides/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Guides
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../about/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    About
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="coral-island-crop-profit-calculator-farm-planner">🌴 Coral Island — Crop Profit Calculator &amp; Farm Planner</h1>
+<p>This guide provides the data and methodology behind Coral Island's crop economy. Use the tables below to plan your farm layout, compare artisan processing margins, and build a season-by-season crop rotation that maximizes profit per tile.</p>
+<hr />
+<h2 id="calculation-methodology">📐 Calculation Methodology</h2>
+<h3 id="profit-formula">Profit Formula</h3>
+<pre><code>Profit per Day (PPD) = (Sell Price × Quality Multiplier − Seed Cost) ÷ Growth Days
+</code></pre>
+<p>For regrowing crops, we calculate across an entire season (28 days):</p>
+<pre><code>PPD (Regrow) = [(Sell Price × Quality × Harvests) − Seed Cost] ÷ 28
+Harvests = 1 + floor((28 − GrowthDays) ÷ RegrowInterval)
+</code></pre>
+<h3 id="quality-multipliers">Quality Multipliers</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Quality Tier</th>
+<th style="text-align: left;">Price Multiplier</th>
+<th style="text-align: left;">How to Get</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">⚪ <strong>Base</strong></td>
+<td style="text-align: left;">1.0x (100%)</td>
+<td style="text-align: left;">No fertilizer</td>
+</tr>
+<tr>
+<td style="text-align: left;">⚪⚪ <strong>Silver</strong></td>
+<td style="text-align: left;">1.25x</td>
+<td style="text-align: left;">Basic Fertilizer</td>
+</tr>
+<tr>
+<td style="text-align: left;">⚪⚪⚪ <strong>Gold</strong></td>
+<td style="text-align: left;">1.50x</td>
+<td style="text-align: left;">Quality Fertilizer, high farming level</td>
+</tr>
+<tr>
+<td style="text-align: left;">🪐 <strong>Osmium</strong></td>
+<td style="text-align: left;">2.00x</td>
+<td style="text-align: left;">Deluxe Fertilizer, max farming level</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p><strong>Note:</strong> All PPD values below assume base (100%) quality. Actual profit with Quality Fertilizer can be 25–50% higher.</p>
+</blockquote>
+<hr />
+<h2 id="spring-crop-profit-table">🌸 Spring Crop Profit Table</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Crop</th>
+<th style="text-align: left;">Seed Cost</th>
+<th style="text-align: left;">Growth</th>
+<th style="text-align: left;">Regrow</th>
+<th style="text-align: left;">Sell Price</th>
+<th style="text-align: left;">Profit</th>
+<th style="text-align: left;">PPD</th>
+<th style="text-align: left;">Harvests/Season</th>
+<th style="text-align: left;">Season Total</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">🥔 Potato</td>
+<td style="text-align: left;">50g</td>
+<td style="text-align: left;">6d</td>
+<td style="text-align: left;">No</td>
+<td style="text-align: left;">80g</td>
+<td style="text-align: left;">30g</td>
+<td style="text-align: left;">5.0g</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">120g</td>
+</tr>
+<tr>
+<td style="text-align: left;">🥦 Cauliflower</td>
+<td style="text-align: left;">80g</td>
+<td style="text-align: left;">12d</td>
+<td style="text-align: left;">No</td>
+<td style="text-align: left;">175g</td>
+<td style="text-align: left;">95g</td>
+<td style="text-align: left;">7.9g</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">190g</td>
+</tr>
+<tr>
+<td style="text-align: left;">🍓 Strawberry</td>
+<td style="text-align: left;">100g</td>
+<td style="text-align: left;">8d</td>
+<td style="text-align: left;">4d</td>
+<td style="text-align: left;">120g</td>
+<td style="text-align: left;">20g</td>
+<td style="text-align: left;">10.0g</td>
+<td style="text-align: left;">6</td>
+<td style="text-align: left;">620g</td>
+</tr>
+<tr>
+<td style="text-align: left;">🫘 Green Bean</td>
+<td style="text-align: left;">60g</td>
+<td style="text-align: left;">10d</td>
+<td style="text-align: left;">3d</td>
+<td style="text-align: left;">90g</td>
+<td style="text-align: left;">30g</td>
+<td style="text-align: left;">6.0g</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">570g</td>
+</tr>
+<tr>
+<td style="text-align: left;">🌿 Rhubarb</td>
+<td style="text-align: left;">100g</td>
+<td style="text-align: left;">13d</td>
+<td style="text-align: left;">No</td>
+<td style="text-align: left;">220g</td>
+<td style="text-align: left;">120g</td>
+<td style="text-align: left;">9.2g</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">240g</td>
+</tr>
+<tr>
+<td style="text-align: left;">🧄 Garlic</td>
+<td style="text-align: left;">40g</td>
+<td style="text-align: left;">4d</td>
+<td style="text-align: left;">No</td>
+<td style="text-align: left;">60g</td>
+<td style="text-align: left;">20g</td>
+<td style="text-align: left;">5.0g</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">140g</td>
+</tr>
+<tr>
+<td style="text-align: left;">🥬 Kale</td>
+<td style="text-align: left;">70g</td>
+<td style="text-align: left;">6d</td>
+<td style="text-align: left;">No</td>
+<td style="text-align: left;">110g</td>
+<td style="text-align: left;">40g</td>
+<td style="text-align: left;">6.7g</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">160g</td>
+</tr>
+<tr>
+<td style="text-align: left;">🫐 Blueberry</td>
+<td style="text-align: left;">80g</td>
+<td style="text-align: left;">7d</td>
+<td style="text-align: left;">4d</td>
+<td style="text-align: left;">100g</td>
+<td style="text-align: left;">20g</td>
+<td style="text-align: left;">8.6g</td>
+<td style="text-align: left;">6</td>
+<td style="text-align: left;">520g</td>
+</tr>
+</tbody>
+</table>
+<h3 id="spring-ranking">Spring Ranking</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Rank</th>
+<th style="text-align: left;">Crop</th>
+<th style="text-align: left;">PPD</th>
+<th style="text-align: left;">Strategy</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">🥇 1</td>
+<td style="text-align: left;"><strong>Strawberry</strong></td>
+<td style="text-align: left;">10.0g</td>
+<td style="text-align: left;">Plant Day 1 for 6 harvests; best regrower</td>
+</tr>
+<tr>
+<td style="text-align: left;">🥈 2</td>
+<td style="text-align: left;"><strong>Rhubarb</strong></td>
+<td style="text-align: left;">9.2g</td>
+<td style="text-align: left;">Best single-harvest; sell for quick cash</td>
+</tr>
+<tr>
+<td style="text-align: left;">🥉 3</td>
+<td style="text-align: left;"><strong>Blueberry</strong></td>
+<td style="text-align: left;">8.6g</td>
+<td style="text-align: left;">Consistent regrowth, good for processing</td>
+</tr>
+<tr>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;"><strong>Cauliflower</strong></td>
+<td style="text-align: left;">7.9g</td>
+<td style="text-align: left;">Giant crop potential (3x3) for museum</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="summer-crop-profit-table">☀️ Summer Crop Profit Table</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Crop</th>
+<th style="text-align: left;">Seed Cost</th>
+<th style="text-align: left;">Growth</th>
+<th style="text-align: left;">Regrow</th>
+<th style="text-align: left;">Sell Price</th>
+<th style="text-align: left;">Profit</th>
+<th style="text-align: left;">PPD</th>
+<th style="text-align: left;">Harvests/Season</th>
+<th style="text-align: left;">Season Total</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">🍈 Melon</td>
+<td style="text-align: left;">120g</td>
+<td style="text-align: left;">12d</td>
+<td style="text-align: left;">No</td>
+<td style="text-align: left;">250g</td>
+<td style="text-align: left;">130g</td>
+<td style="text-align: left;">10.8g</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">260g</td>
+</tr>
+<tr>
+<td style="text-align: left;">🍅 Tomato</td>
+<td style="text-align: left;">60g</td>
+<td style="text-align: left;">6d</td>
+<td style="text-align: left;">3d</td>
+<td style="text-align: left;">80g</td>
+<td style="text-align: left;">20g</td>
+<td style="text-align: left;">10.0g</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">580g</td>
+</tr>
+<tr>
+<td style="text-align: left;">🫐 Blueberry*</td>
+<td style="text-align: left;">80g</td>
+<td style="text-align: left;">7d</td>
+<td style="text-align: left;">4d</td>
+<td style="text-align: left;">100g</td>
+<td style="text-align: left;">20g</td>
+<td style="text-align: left;">8.6g</td>
+<td style="text-align: left;">6</td>
+<td style="text-align: left;">520g</td>
+</tr>
+<tr>
+<td style="text-align: left;">🌶️ Hot Pepper</td>
+<td style="text-align: left;">40g</td>
+<td style="text-align: left;">5d</td>
+<td style="text-align: left;">3d</td>
+<td style="text-align: left;">60g</td>
+<td style="text-align: left;">20g</td>
+<td style="text-align: left;">8.0g</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">440g</td>
+</tr>
+<tr>
+<td style="text-align: left;">🌽 Corn</td>
+<td style="text-align: left;">100g</td>
+<td style="text-align: left;">14d</td>
+<td style="text-align: left;">4d</td>
+<td style="text-align: left;">150g</td>
+<td style="text-align: left;">50g</td>
+<td style="text-align: left;">7.1g</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">500g</td>
+</tr>
+<tr>
+<td style="text-align: left;">🌻 Sunflower</td>
+<td style="text-align: left;">80g</td>
+<td style="text-align: left;">8d</td>
+<td style="text-align: left;">No</td>
+<td style="text-align: left;">180g</td>
+<td style="text-align: left;">100g</td>
+<td style="text-align: left;">12.5g</td>
+<td style="text-align: left;">3</td>
+<td style="text-align: left;">300g</td>
+</tr>
+<tr>
+<td style="text-align: left;">🥕 Radish</td>
+<td style="text-align: left;">50g</td>
+<td style="text-align: left;">6d</td>
+<td style="text-align: left;">No</td>
+<td style="text-align: left;">90g</td>
+<td style="text-align: left;">40g</td>
+<td style="text-align: left;">6.7g</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">160g</td>
+</tr>
+<tr>
+<td style="text-align: left;">🌾 Wheat</td>
+<td style="text-align: left;">30g</td>
+<td style="text-align: left;">4d</td>
+<td style="text-align: left;">No</td>
+<td style="text-align: left;">50g</td>
+<td style="text-align: left;">20g</td>
+<td style="text-align: left;">5.0g</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">140g</td>
+</tr>
+</tbody>
+</table>
+<p><em>*Blueberry carries over from Spring if planted in greenhouse</em></p>
+<h3 id="summer-ranking">Summer Ranking</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Rank</th>
+<th style="text-align: left;">Crop</th>
+<th style="text-align: left;">PPD</th>
+<th style="text-align: left;">Strategy</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">🥇 1</td>
+<td style="text-align: left;"><strong>Sunflower</strong></td>
+<td style="text-align: left;">12.5g</td>
+<td style="text-align: left;">Highest PPD; single harvest, plant repeatedly</td>
+</tr>
+<tr>
+<td style="text-align: left;">🥈 2</td>
+<td style="text-align: left;"><strong>Melon</strong></td>
+<td style="text-align: left;">10.8g</td>
+<td style="text-align: left;">Giant crop potential</td>
+</tr>
+<tr>
+<td style="text-align: left;">🥉 3</td>
+<td style="text-align: left;"><strong>Tomato</strong></td>
+<td style="text-align: left;">10.0g</td>
+<td style="text-align: left;">Reliable regrower, 8 harvests</td>
+</tr>
+<tr>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;"><strong>Hot Pepper</strong></td>
+<td style="text-align: left;">8.0g</td>
+<td style="text-align: left;">Fast regrowth, good for kegs</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="fall-crop-profit-table">🍂 Fall Crop Profit Table</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Crop</th>
+<th style="text-align: left;">Seed Cost</th>
+<th style="text-align: left;">Growth</th>
+<th style="text-align: left;">Regrow</th>
+<th style="text-align: left;">Sell Price</th>
+<th style="text-align: left;">Profit</th>
+<th style="text-align: left;">PPD</th>
+<th style="text-align: left;">Harvests/Season</th>
+<th style="text-align: left;">Season Total</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">🎃 Pumpkin</td>
+<td style="text-align: left;">150g</td>
+<td style="text-align: left;">13d</td>
+<td style="text-align: left;">No</td>
+<td style="text-align: left;">320g</td>
+<td style="text-align: left;">170g</td>
+<td style="text-align: left;">13.1g</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">340g</td>
+</tr>
+<tr>
+<td style="text-align: left;">🔴 Cranberry</td>
+<td style="text-align: left;">100g</td>
+<td style="text-align: left;">7d</td>
+<td style="text-align: left;">5d</td>
+<td style="text-align: left;">130g</td>
+<td style="text-align: left;">30g</td>
+<td style="text-align: left;">10.0g</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">550g</td>
+</tr>
+<tr>
+<td style="text-align: left;">🟣 Eggplant</td>
+<td style="text-align: left;">80g</td>
+<td style="text-align: left;">7d</td>
+<td style="text-align: left;">5d</td>
+<td style="text-align: left;">100g</td>
+<td style="text-align: left;">20g</td>
+<td style="text-align: left;">8.6g</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">420g</td>
+</tr>
+<tr>
+<td style="text-align: left;">🍠 Yam</td>
+<td style="text-align: left;">60g</td>
+<td style="text-align: left;">10d</td>
+<td style="text-align: left;">No</td>
+<td style="text-align: left;">160g</td>
+<td style="text-align: left;">100g</td>
+<td style="text-align: left;">10.0g</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">200g</td>
+</tr>
+<tr>
+<td style="text-align: left;">🥬 Bok Choy</td>
+<td style="text-align: left;">50g</td>
+<td style="text-align: left;">4d</td>
+<td style="text-align: left;">No</td>
+<td style="text-align: left;">80g</td>
+<td style="text-align: left;">30g</td>
+<td style="text-align: left;">7.5g</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">210g</td>
+</tr>
+<tr>
+<td style="text-align: left;">🌸 Artichoke</td>
+<td style="text-align: left;">120g</td>
+<td style="text-align: left;">8d</td>
+<td style="text-align: left;">No</td>
+<td style="text-align: left;">220g</td>
+<td style="text-align: left;">100g</td>
+<td style="text-align: left;">12.5g</td>
+<td style="text-align: left;">3</td>
+<td style="text-align: left;">300g</td>
+</tr>
+<tr>
+<td style="text-align: left;">🍇 Grape</td>
+<td style="text-align: left;">60g</td>
+<td style="text-align: left;">10d</td>
+<td style="text-align: left;">3d</td>
+<td style="text-align: left;">80g</td>
+<td style="text-align: left;">20g</td>
+<td style="text-align: left;">6.0g</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">500g</td>
+</tr>
+<tr>
+<td style="text-align: left;">🍚 Rice</td>
+<td style="text-align: left;">40g</td>
+<td style="text-align: left;">8d</td>
+<td style="text-align: left;">No</td>
+<td style="text-align: left;">100g</td>
+<td style="text-align: left;">60g</td>
+<td style="text-align: left;">7.5g</td>
+<td style="text-align: left;">3</td>
+<td style="text-align: left;">180g</td>
+</tr>
+</tbody>
+</table>
+<h3 id="fall-ranking">Fall Ranking</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Rank</th>
+<th style="text-align: left;">Crop</th>
+<th style="text-align: left;">PPD</th>
+<th style="text-align: left;">Strategy</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">🥇 1</td>
+<td style="text-align: left;"><strong>Pumpkin</strong></td>
+<td style="text-align: left;">13.1g</td>
+<td style="text-align: left;">Highest PPD in game; giant crop</td>
+</tr>
+<tr>
+<td style="text-align: left;">🥈 2</td>
+<td style="text-align: left;"><strong>Artichoke</strong></td>
+<td style="text-align: left;">12.5g</td>
+<td style="text-align: left;">Great single-harvest; process into pickles</td>
+</tr>
+<tr>
+<td style="text-align: left;">🥉 3</td>
+<td style="text-align: left;"><strong>Cranberry</strong></td>
+<td style="text-align: left;">10.0g</td>
+<td style="text-align: left;">Best fall regrower</td>
+</tr>
+<tr>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;"><strong>Yam</strong></td>
+<td style="text-align: left;">10.0g</td>
+<td style="text-align: left;">Solid single-harvest alternative</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="winter-crop-profit-table">❄️ Winter Crop Profit Table</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Crop</th>
+<th style="text-align: left;">Seed Cost</th>
+<th style="text-align: left;">Growth</th>
+<th style="text-align: left;">Regrow</th>
+<th style="text-align: left;">Sell Price</th>
+<th style="text-align: left;">Profit</th>
+<th style="text-align: left;">PPD</th>
+<th style="text-align: left;">Harvests/Season</th>
+<th style="text-align: left;">Season Total</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">❄️ Snowdrop</td>
+<td style="text-align: left;">30g</td>
+<td style="text-align: left;">5d</td>
+<td style="text-align: left;">No</td>
+<td style="text-align: left;">60g</td>
+<td style="text-align: left;">30g</td>
+<td style="text-align: left;">6.0g</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">150g</td>
+</tr>
+<tr>
+<td style="text-align: left;">🫐 Frost Berry</td>
+<td style="text-align: left;">50g</td>
+<td style="text-align: left;">7d</td>
+<td style="text-align: left;">4d</td>
+<td style="text-align: left;">80g</td>
+<td style="text-align: left;">30g</td>
+<td style="text-align: left;">7.1g</td>
+<td style="text-align: left;">6</td>
+<td style="text-align: left;">430g</td>
+</tr>
+<tr>
+<td style="text-align: left;">🧊 Ice Root</td>
+<td style="text-align: left;">60g</td>
+<td style="text-align: left;">10d</td>
+<td style="text-align: left;">No</td>
+<td style="text-align: left;">130g</td>
+<td style="text-align: left;">70g</td>
+<td style="text-align: left;">7.0g</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">140g</td>
+</tr>
+<tr>
+<td style="text-align: left;">🌾 Winter Wheat</td>
+<td style="text-align: left;">20g</td>
+<td style="text-align: left;">4d</td>
+<td style="text-align: left;">No</td>
+<td style="text-align: left;">40g</td>
+<td style="text-align: left;">20g</td>
+<td style="text-align: left;">5.0g</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">140g</td>
+</tr>
+<tr>
+<td style="text-align: left;">💎 Crystal Fruit</td>
+<td style="text-align: left;">80g</td>
+<td style="text-align: left;">12d</td>
+<td style="text-align: left;">No</td>
+<td style="text-align: left;">200g</td>
+<td style="text-align: left;">120g</td>
+<td style="text-align: left;">10.0g</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">240g</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Winter Strategy:</strong> If you have Crystal Fruit seeds, plant those. Otherwise, Frost Berry is the best regrower. But honestly — use winter to focus on the greenhouse with Coffee Beans.</p>
+<hr />
+<h2 id="artisan-processing-profit-multipliers">🏭 Artisan Processing Profit Multipliers</h2>
+<p>Processing raw crops into artisan goods is the real money-maker in Coral Island.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Crop</th>
+<th style="text-align: left;">Base Sell</th>
+<th style="text-align: left;">Processed Goods</th>
+<th style="text-align: left;">Processed Price</th>
+<th style="text-align: left;">Multiplier</th>
+<th style="text-align: left;">Best Machine</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">🎃 <strong>Pumpkin</strong></td>
+<td style="text-align: left;">320g</td>
+<td style="text-align: left;">Pumpkin Juice</td>
+<td style="text-align: left;">640g</td>
+<td style="text-align: left;"><strong>2.0x</strong></td>
+<td style="text-align: left;">Keg</td>
+</tr>
+<tr>
+<td style="text-align: left;">🍈 <strong>Melon</strong></td>
+<td style="text-align: left;">250g</td>
+<td style="text-align: left;">Melon Wine</td>
+<td style="text-align: left;">500g</td>
+<td style="text-align: left;"><strong>2.0x</strong></td>
+<td style="text-align: left;">Keg</td>
+</tr>
+<tr>
+<td style="text-align: left;">🍇 <strong>Grape</strong></td>
+<td style="text-align: left;">80g</td>
+<td style="text-align: left;">Grape Wine</td>
+<td style="text-align: left;">320g</td>
+<td style="text-align: left;"><strong>4.0x</strong></td>
+<td style="text-align: left;">Keg</td>
+</tr>
+<tr>
+<td style="text-align: left;">🍓 <strong>Strawberry</strong></td>
+<td style="text-align: left;">120g</td>
+<td style="text-align: left;">Strawberry Jam</td>
+<td style="text-align: left;">360g</td>
+<td style="text-align: left;"><strong>3.0x</strong></td>
+<td style="text-align: left;">Preserve Jar</td>
+</tr>
+<tr>
+<td style="text-align: left;">🫐 <strong>Blueberry</strong></td>
+<td style="text-align: left;">100g</td>
+<td style="text-align: left;">Blueberry Jam</td>
+<td style="text-align: left;">300g</td>
+<td style="text-align: left;"><strong>3.0x</strong></td>
+<td style="text-align: left;">Preserve Jar</td>
+</tr>
+<tr>
+<td style="text-align: left;">🔴 <strong>Cranberry</strong></td>
+<td style="text-align: left;">130g</td>
+<td style="text-align: left;">Cranberry Jam</td>
+<td style="text-align: left;">390g</td>
+<td style="text-align: left;"><strong>3.0x</strong></td>
+<td style="text-align: left;">Preserve Jar</td>
+</tr>
+<tr>
+<td style="text-align: left;">🌶️ <strong>Hot Pepper</strong></td>
+<td style="text-align: left;">60g</td>
+<td style="text-align: left;">Pickled Pepper</td>
+<td style="text-align: left;">180g</td>
+<td style="text-align: left;"><strong>3.0x</strong></td>
+<td style="text-align: left;">Preserve Jar</td>
+</tr>
+<tr>
+<td style="text-align: left;">🌽 <strong>Corn</strong></td>
+<td style="text-align: left;">150g</td>
+<td style="text-align: left;">Pickled Corn</td>
+<td style="text-align: left;">450g</td>
+<td style="text-align: left;"><strong>3.0x</strong></td>
+<td style="text-align: left;">Preserve Jar</td>
+</tr>
+<tr>
+<td style="text-align: left;">🍅 <strong>Tomato</strong></td>
+<td style="text-align: left;">80g</td>
+<td style="text-align: left;">Tomato Juice</td>
+<td style="text-align: left;">240g</td>
+<td style="text-align: left;"><strong>3.0x</strong></td>
+<td style="text-align: left;">Keg</td>
+</tr>
+<tr>
+<td style="text-align: left;">🥦 <strong>Cauliflower</strong></td>
+<td style="text-align: left;">175g</td>
+<td style="text-align: left;">Pickled Cauliflower</td>
+<td style="text-align: left;">525g</td>
+<td style="text-align: left;"><strong>3.0x</strong></td>
+<td style="text-align: left;">Preserve Jar</td>
+</tr>
+</tbody>
+</table>
+<h3 id="artisan-profit-comparison-per-crop-per-day">Artisan Profit Comparison (Per Crop, Per Day)</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Artisan Good</th>
+<th style="text-align: left;">Raw PPD</th>
+<th style="text-align: left;">Artisan PPD</th>
+<th style="text-align: left;">Increase</th>
+<th style="text-align: left;">Best Season</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">🍇 <strong>Grape Wine</strong></td>
+<td style="text-align: left;">6.0g</td>
+<td style="text-align: left;">24.0g</td>
+<td style="text-align: left;"><strong>+300%</strong></td>
+<td style="text-align: left;">Fall</td>
+</tr>
+<tr>
+<td style="text-align: left;">🍓 <strong>Strawberry Jam</strong></td>
+<td style="text-align: left;">10.0g</td>
+<td style="text-align: left;">30.0g</td>
+<td style="text-align: left;"><strong>+200%</strong></td>
+<td style="text-align: left;">Spring</td>
+</tr>
+<tr>
+<td style="text-align: left;">🫐 <strong>Blueberry Jam</strong></td>
+<td style="text-align: left;">8.6g</td>
+<td style="text-align: left;">25.8g</td>
+<td style="text-align: left;"><strong>+200%</strong></td>
+<td style="text-align: left;">Spring/Summer</td>
+</tr>
+<tr>
+<td style="text-align: left;">🎃 <strong>Pumpkin Juice</strong></td>
+<td style="text-align: left;">13.1g</td>
+<td style="text-align: left;">26.2g</td>
+<td style="text-align: left;"><strong>+100%</strong></td>
+<td style="text-align: left;">Fall</td>
+</tr>
+<tr>
+<td style="text-align: left;">🌶️ <strong>Pickled Pepper</strong></td>
+<td style="text-align: left;">8.0g</td>
+<td style="text-align: left;">24.0g</td>
+<td style="text-align: left;"><strong>+200%</strong></td>
+<td style="text-align: left;">Summer</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p><strong>Tip:</strong> Grape Wine has the highest multiplier (4.0x) making it the best artisan item in the game. Even though Grape has modest raw PPD, processing turns it into a monster. Plant Grapes in Fall and dedicate at least 10 kegs to them.</p>
+</blockquote>
+<hr />
+<h2 id="100-tile-farm-plan-with-crop-rotation">🌱 100-Tile Farm Plan with Crop Rotation</h2>
+<h3 id="season-1-spring-year-1-build-capital">Season 1: Spring (Year 1) — Build Capital</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Tiles</th>
+<th style="text-align: left;">Crop</th>
+<th style="text-align: left;">Total Investment</th>
+<th style="text-align: left;">Expected Revenue</th>
+<th style="text-align: left;">Strategy</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">40 tiles</td>
+<td style="text-align: left;">🍓 <strong>Strawberry</strong></td>
+<td style="text-align: left;">4,000g</td>
+<td style="text-align: left;">28,800g (6 harvests)</td>
+<td style="text-align: left;">Day 1 planting for maximum harvests</td>
+</tr>
+<tr>
+<td style="text-align: left;">20 tiles</td>
+<td style="text-align: left;">🫐 <strong>Blueberry</strong></td>
+<td style="text-align: left;">1,600g</td>
+<td style="text-align: left;">12,000g (6 harvests)</td>
+<td style="text-align: left;">Secondary regrower</td>
+</tr>
+<tr>
+<td style="text-align: left;">20 tiles</td>
+<td style="text-align: left;">🥦 <strong>Cauliflower</strong></td>
+<td style="text-align: left;">1,600g</td>
+<td style="text-align: left;">7,000g (2 harvests)</td>
+<td style="text-align: left;">Giant crop chance</td>
+</tr>
+<tr>
+<td style="text-align: left;">10 tiles</td>
+<td style="text-align: left;">🥔 <strong>Potato</strong></td>
+<td style="text-align: left;">500g</td>
+<td style="text-align: left;">3,200g (4 harvests)</td>
+<td style="text-align: left;">Early cash while waiting</td>
+</tr>
+<tr>
+<td style="text-align: left;">10 tiles</td>
+<td style="text-align: left;">🥬 <strong>Kale</strong></td>
+<td style="text-align: left;">700g</td>
+<td style="text-align: left;">4,400g (4 harvests)</td>
+<td style="text-align: left;">Quick cash rotation</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Spring Total: ~55,400g</strong> | <strong>Investment: 8,400g</strong> | <strong>Net: ~47,000g</strong></p>
+<h3 id="season-2-summer-year-1-add-artisan-processing">Season 2: Summer (Year 1) — Add Artisan Processing</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Tiles</th>
+<th style="text-align: left;">Crop</th>
+<th style="text-align: left;">Total Investment</th>
+<th style="text-align: left;">Expected Revenue</th>
+<th style="text-align: left;">Artisan Potential</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">30 tiles</td>
+<td style="text-align: left;">🌻 <strong>Sunflower</strong></td>
+<td style="text-align: left;">2,400g</td>
+<td style="text-align: left;">16,200g (3 harvests)</td>
+<td style="text-align: left;">Sunflower Oil (2.5x)</td>
+</tr>
+<tr>
+<td style="text-align: left;">25 tiles</td>
+<td style="text-align: left;">🍅 <strong>Tomato</strong></td>
+<td style="text-align: left;">1,500g</td>
+<td style="text-align: left;">20,000g (8 harvests)</td>
+<td style="text-align: left;">Tomato Juice (3.0x)</td>
+</tr>
+<tr>
+<td style="text-align: left;">15 tiles</td>
+<td style="text-align: left;">🌽 <strong>Corn</strong></td>
+<td style="text-align: left;">1,500g</td>
+<td style="text-align: left;">9,000g (4 harvests)</td>
+<td style="text-align: left;">Pickled Corn (3.0x)</td>
+</tr>
+<tr>
+<td style="text-align: left;">20 tiles</td>
+<td style="text-align: left;">🫐 <strong>Blueberry</strong></td>
+<td style="text-align: left;">1,600g</td>
+<td style="text-align: left;">12,000g (6 harvests)</td>
+<td style="text-align: left;">Blueberry Jam (3.0x)</td>
+</tr>
+<tr>
+<td style="text-align: left;">10 tiles</td>
+<td style="text-align: left;">🌶️ <strong>Hot Pepper</strong></td>
+<td style="text-align: left;">400g</td>
+<td style="text-align: left;">4,800g (8 harvests)</td>
+<td style="text-align: left;">Pickled Pepper (3.0x)</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Summer Total: ~62,000g</strong> | <strong>Artisan Processed: ~120,000g</strong> | <strong>Build 8+ kegs</strong></p>
+<h3 id="season-3-fall-year-1-maximize-artisan-output">Season 3: Fall (Year 1) — Maximize Artisan Output</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Tiles</th>
+<th style="text-align: left;">Crop</th>
+<th style="text-align: left;">Total Investment</th>
+<th style="text-align: left;">Expected Revenue</th>
+<th style="text-align: left;">Artisan Revenue</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">30 tiles</td>
+<td style="text-align: left;">🎃 <strong>Pumpkin</strong></td>
+<td style="text-align: left;">4,500g</td>
+<td style="text-align: left;">19,200g (2 harvests)</td>
+<td style="text-align: left;">Pumpkin Juice: ~38,400g</td>
+</tr>
+<tr>
+<td style="text-align: left;">20 tiles</td>
+<td style="text-align: left;">🔴 <strong>Cranberry</strong></td>
+<td style="text-align: left;">2,000g</td>
+<td style="text-align: left;">13,000g (5 harvests)</td>
+<td style="text-align: left;">Cranberry Jam: ~39,000g</td>
+</tr>
+<tr>
+<td style="text-align: left;">20 tiles</td>
+<td style="text-align: left;">🌸 <strong>Artichoke</strong></td>
+<td style="text-align: left;">2,400g</td>
+<td style="text-align: left;">13,200g (3 harvests)</td>
+<td style="text-align: left;">Pickled Artichoke: ~39,600g</td>
+</tr>
+<tr>
+<td style="text-align: left;">15 tiles</td>
+<td style="text-align: left;">🍇 <strong>Grape</strong></td>
+<td style="text-align: left;">900g</td>
+<td style="text-align: left;">12,000g (7 harvests)</td>
+<td style="text-align: left;"><strong>Grape Wine: ~48,000g</strong></td>
+</tr>
+<tr>
+<td style="text-align: left;">15 tiles</td>
+<td style="text-align: left;">🍠 <strong>Yam</strong></td>
+<td style="text-align: left;">900g</td>
+<td style="text-align: left;">4,800g (2 harvests)</td>
+<td style="text-align: left;">Pickled Yam: ~14,400g</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Fall Total (Raw): ~62,200g</strong> | <strong>Artisan Total: ~179,400g</strong> | <strong>Net: ~170,000g+</strong></p>
+<h3 id="season-4-winter-year-1-greenhouse-preparation">Season 4: Winter (Year 1) — Greenhouse &amp; Preparation</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Tiles</th>
+<th style="text-align: left;">Crop</th>
+<th style="text-align: left;">Strategy</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">100 tiles (greenhouse)</td>
+<td style="text-align: left;">☕ <strong>Coffee Bean</strong></td>
+<td style="text-align: left;">Plant Day 1, harvest every 2 days</td>
+</tr>
+<tr>
+<td style="text-align: left;">Crafting focus</td>
+<td style="text-align: left;">🪣 <strong>Kegs &amp; Preserve Jars</strong></td>
+<td style="text-align: left;">Build 20+ kegs for next Spring</td>
+</tr>
+<tr>
+<td style="text-align: left;">Upgrades</td>
+<td style="text-align: left;">⛏️ <strong>Tool upgrades</strong></td>
+<td style="text-align: left;">Osmium watering can + pickaxe</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Winter: Passive coffee income (~30,000g/month) + prep for Year 2</strong></p>
+<blockquote>
+<p>💡 <strong>Year 2 Strategy:</strong> By Year 2, replace Strawberries with Coffee Beans in the greenhouse. Dedicate 60 tiles to Grapes in Fall for mass wine production. With 20+ kegs running constantly, aim for 300,000g+ per season.</p>
+</blockquote>
+<hr />
+<h2 id="quick-reference-when-to-plant-what">⚡ Quick Reference: When to Plant What</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Season</th>
+<th style="text-align: left;">🥇 Best Overall</th>
+<th style="text-align: left;">🥈 Best Single-Harvest</th>
+<th style="text-align: left;">🥉 Best Regrower</th>
+<th style="text-align: left;">Best for Artisan</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">🌸 <strong>Spring</strong></td>
+<td style="text-align: left;">Strawberry</td>
+<td style="text-align: left;">Rhubarb</td>
+<td style="text-align: left;">Strawberry</td>
+<td style="text-align: left;">Strawberry (Jam)</td>
+</tr>
+<tr>
+<td style="text-align: left;">☀️ <strong>Summer</strong></td>
+<td style="text-align: left;">Sunflower</td>
+<td style="text-align: left;">Melon</td>
+<td style="text-align: left;">Tomato</td>
+<td style="text-align: left;">Tomato (Juice)</td>
+</tr>
+<tr>
+<td style="text-align: left;">🍂 <strong>Fall</strong></td>
+<td style="text-align: left;">Pumpkin</td>
+<td style="text-align: left;">Artichoke</td>
+<td style="text-align: left;">Cranberry</td>
+<td style="text-align: left;">Grape (Wine)</td>
+</tr>
+<tr>
+<td style="text-align: left;">❄️ <strong>Winter</strong></td>
+<td style="text-align: left;">Crystal Fruit</td>
+<td style="text-align: left;">Ice Root</td>
+<td style="text-align: left;">Frost Berry</td>
+<td style="text-align: left;">— (use greenhouse)</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<p><em>Data source: Coral Island v1.0 gameplay data. All prices subject to in-game fluctuation.</em></p>
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <!-- Custom footer with affiliate links and disclosures -->
+<footer class="md-footer">
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        <div class="md-footer-affiliate">
+          <p style="font-size: 0.75rem; color: var(--md-default-fg-color--light); margin-top: 0.5rem;">
+            ⚠️ <strong>Affiliate Disclosure</strong>: Some links on this site are affiliate links (Amazon, Steam, etc.).\n            We may earn a small commission when you purchase through these links, at no extra cost to you.\n            All guide content is independently written and not influenced by sponsors.\n            Thank you for supporting our site!
+          </p>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../../..", "features": ["navigation.tabs", "navigation.top", "toc.integrate"], "search": "../../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+    
+  </body>
+</html>
