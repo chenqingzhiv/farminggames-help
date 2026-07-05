@@ -2,10 +2,28 @@ site_name: Farming Games Help
 site_url: https://farminggames.help
 theme:
   name: material
+  custom_dir: overrides
   features:
     - navigation.tabs
     - navigation.top
     - toc.integrate
+
+extra_css:
+  - assets/css/custom.css
+  - assets/css/games/stardew.css
+  - assets/css/games/farmsim.css
+  - assets/css/games/palia.css
+  - assets/css/games/coral.css
+  - assets/css/games/mistria.css
+  - assets/css/games/sandrock.css
+  - assets/css/games/sunhaven.css
+
+extra:
+  analytics:
+    provider: google
+    property: G-NENYIKVWHL
+  generator: false
+
 nav:
   - Home: index.md
   - Stardew Valley:
@@ -37,6 +55,7 @@ nav:
           - Hats: stardew/hats.md
           - Totems: stardew/totems.md
           - Trinkets: stardew/trinkets.md
+          - 🍷 Wine & Brewing: stardew/wine-brewing.md
       - 🗺️ Guides:
           - Spring Guide: stardew/spring-guide.md
           - Summer Guide: stardew/summer-guide.md
@@ -46,11 +65,13 @@ nav:
           - Year 1 Guide: stardew/year-1-guide/index.md
           - Ginger Island: stardew/ginger-island.md
           - 1.6 Update: stardew/1.6-update-guide/index.md
+          - 📅 Year 2+ Guide: stardew/year-2-guide.md
       - 🏆 Collections:
           - Museum: stardew/museum.md
           - Walnuts: stardew/walnuts.md
           - Tier List: stardew/tier-list.md
           - Encyclopedia: stardew/encyclopedia.md
+          - 🏆 100% Completion: stardew/perfect-completion.md
       - 🧮 Tools:
           - Bundle Tracker: tools/bundle-tracker.md
           - Profit Optimizer: tools/profit-optimizer.md
@@ -58,22 +79,30 @@ nav:
   - Farming Sim 25:
       - Overview: farmingsim/index.md
       - Getting Started: farmingsim/getting-started.md
+      - 🗺️ Maps & Field Guide: farmingsim/maps-guide.md
       - 🌱 Crops: farmingsim/crops.md
       - 🚜 Machinery: farmingsim/machinery.md
       - 💰 Profit Guide: farmingsim/profit-guide.md
       - 🏭 Production Chains: farmingsim/production-chains.md
       - 🚗 Vehicle Compare: farmingsim/vehicle-compare.md
       - 🐄 Animals: farmingsim/animals.md
-      - 📦 Mods: tools/mods.md
+      - 🌲 Forestry: farmingsim/forestry.md
+      - 📋 Contracts: farmingsim/contracts.md
   - Palia:
       - Overview: palia/index.md
       - 🎒 Beginner Guide: palia/guide.md
+      - 🗺️ Maps & Zones: palia/maps-guide.md
       - 🌱 Crops: palia/crops.md
       - 💰 Crop Profit: palia/crop-profit.md
+      - 💰 Money Making Guide: palia/money-making.md
+      - 📅 Seasons & Strategy: palia/seasons.md
       - 🐟 Fish: palia/fish.md
       - 🐟 Fish Guide: palia/fish-guide.md
       - 🏹 Hunting: palia/hunting.md
+      - 🐄 Animals & Pets: palia/animals.md
       - 🍳 Cooking: palia/cooking.md
+      - 🧪 Artisan Goods: palia/artisan.md
+      - 🎪 Festivals & Events: palia/festivals.md
       - 💝 Friendship: palia/friendship.md
       - 🏠 Housing: palia/housing.md
       - 🎁 Redeem Codes: palia/redeem-codes.md
@@ -82,12 +111,16 @@ nav:
       - Getting Started: coral-island/getting-started.md
       - 🌱 Crops: coral-island/crops.md
       - 💰 Crop Profit: coral-island/crop-profit.md
+      - 📅 Seasonal Strategy: coral-island/seasonal-strategy.md
       - ⛏️ Mining: coral-island/mining.md
       - 🤿 Diving: coral-island/diving.md
       - 🐟 Fish: coral-island/fish-guide.md
       - 🐄 Animals: coral-island/animals.md
       - 🧪 Artisan: coral-island/artisan.md
+      - 🎪 Festivals & Events: coral-island/festivals.md
+      - 🍳 Cooking: coral-island/cooking.md
       - 💕 Romance: coral-island/romance.md
+      - 🏠 Housing: coral-island/housing.md
   - Fields of Mistria:
       - Overview: fields-mistria/index.md
       - Getting Started: fields-mistria/getting-started.md
@@ -114,6 +147,8 @@ nav:
       - 🍳 Cooking: sandrock/cooking.md
       - 🐪 Animals & Mounts: sandrock/animals.md
       - 🏠 Housing: sandrock/housing.md
+      - 🎪 Festivals: sandrock/festivals.md
+      - 🔧 Artisan Processing: sandrock/artisan.md
       - 📅 Seasonal Guide: sandrock/seasonal-guide.md
   - Sun Haven:
       - Overview: sun-haven/index.md
@@ -125,6 +160,12 @@ nav:
       - 🐄 Animals: sun-haven/animals.md
       - 🎪 Festivals: sun-haven/festivals.md
       - 🎁 NPC Gifts: sun-haven/npc-gifts.md
+      - 🔧 Crafting & Artisan: sun-haven/crafting.md
+      - 🏠 Housing & Decorating: sun-haven/housing.md
+      - 🍳 Cooking Guide: sun-haven/cooking.md
+      - 🗺️ Zones & Map Guide: sun-haven/zones-guide.md
+      - 🌟 Endgame Guide: sun-haven/endgame-guide.md
+      - 📅 Seasonal Strategy: sun-haven/seasonal-strategy.md
   - Tools:
       - Overview: tools/index.md
       - 🎒 Bundle Tracker: tools/bundle-tracker.md
@@ -138,6 +179,3 @@ nav:
       - Release Calendar: tools/release-calendar/index.md
   - Guides: guides/index.md
   - About: about.md
-
-extra_css:
-  - assets/css/custom.css
