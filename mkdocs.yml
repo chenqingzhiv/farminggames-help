@@ -138,3 +138,6 @@ nav:
       - Release Calendar: tools/release-calendar/index.md
   - Guides: guides/index.md
   - About: about.md
+
+extra_css:
+  - assets/css/custom.css

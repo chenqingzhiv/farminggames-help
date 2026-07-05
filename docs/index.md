@@ -1,87 +1,199 @@
 ---
 title: 🌾 Farming Games Help — Guides, Tools & Calculators
 description: Complete guides & databases for cozy farming games — Stardew Valley, Farming Simulator, Palia, Fields of Mistria, Coral Island, and more.
-date: 2026-06-27
+date: 2026-07-05
 ---
 
 <div class="home-hero">
-  <div class="home-hero-logo">
-    <div class="home-hero-logo-icon">🌾</div>
-    <div class="home-hero-logo-text">Farming <span class="highlight">Games</span> Help</div>
-  </div>
-  <div class="home-hero-tagline">Guides, tools & calculators for Stardew Valley & farming sims</div>
-  <div class="home-hero-search">
-    <input type="text" placeholder="Search guides, tools, crops..." value="Stardew Valley crop profit guide">
-    <button>Search</button>
-  </div>
-  <div class="home-hero-stats">
-    <div class="home-hero-stat">
-      <div class="home-hero-stat-num">62</div>
-      <div class="home-hero-stat-label">Guides</div>
+  <h1>🌾 Farming <span class="gradient">Games</span> Help</h1>
+  <p>数据驱动的攻略 · 交互式工具 · 每周更新 · 全部免费</p>
+  <div class="hero-stats">
+    <div class="hero-stat">
+      <div class="hero-stat-num">7</div>
+      <div class="hero-stat-label">游戏</div>
     </div>
-    <div class="home-hero-stat">
-      <div class="home-hero-stat-num">8</div>
-      <div class="home-hero-stat-label">Tools</div>
+    <div class="hero-stat">
+      <div class="hero-stat-num">100+</div>
+      <div class="hero-stat-label">攻略</div>
     </div>
-    <div class="home-hero-stat">
-      <div class="home-hero-stat-num">8</div>
-      <div class="home-hero-stat-label">Games</div>
+    <div class="hero-stat">
+      <div class="hero-stat-num">8</div>
+      <div class="hero-stat-label">工具</div>
     </div>
-    <div class="home-hero-stat">
-      <div class="home-hero-stat-num">1,500+</div>
-      <div class="home-hero-stat-label">Data Points</div>
+    <div class="hero-stat">
+      <div class="hero-stat-num">9,000+</div>
+      <div class="hero-stat-label">数据点</div>
     </div>
   </div>
 </div>
 
 ---
 
-<h2 class="section-title-home">Featured Games <span class="sub">· 8 titles</span></h2>
+## 🎮 游戏攻略 · 全部收录
 
-<div class="game-hero-card">
-<div class="game-hero-card-inner game-card-stardew">
-<div class="game-card-title">🌟 Stardew Valley</div>
-<div class="game-card-sub">⭐ Most Popular</div>
-<p>Complete hub — crops, fish, NPC gifts, artisan goods, season guides, tools, and more.</p>
-<div class="game-card-links">
-  <a href="stardew/crops/" class="game-card-link">🌸 Crops</a>
-  <a href="stardew/fish/" class="game-card-link">🐟 Fish</a>
-  <a href="stardew/npc-gifts/" class="game-card-link">💝 Gifts</a>
-  <a href="tools/interactive-map/" class="game-card-link">🗺️ Map</a>
-  <a href="stardew/profit-calc/" class="game-card-link">🧮 Profit Calc</a>
-  <a href="stardew/tier-list/" class="game-card-link">📊 Tier List</a>
-  <a href="stardew/animals/" class="game-card-link">🐄 Ranching</a>
-  <a href="stardew/equipment/" class="game-card-link">⚙️ Equipment</a>
-</div>
-</div>
-</div>
+<div class="game-grid">
 
-<div class="game-hero-card">
-<div class="game-hero-card-inner game-card-farmsim">
-<div class="game-card-title">🚜 Farming Simulator 25</div>
-<div class="game-card-sub">🚜 Simulation</div>
-<p>Machinery guide, crop profit, new player tips, and all the latest FS25 content.</p>
-<div class="game-card-links">
-  <a href="farmingsim/" class="game-card-link">📖 Full Guide</a>
-  <a href="farmingsim/crops/" class="game-card-link">🌽 Crops</a>
-  <a href="farmingsim/machinery/" class="game-card-link">🚜 Machinery</a>
-</div>
-</div>
-</div>
+  <a href="stardew/" class="game-card game-card-stardew">
+    <div class="game-card-icon">🌟</div>
+    <div class="game-card-body">
+      <div class="game-card-top">
+        <span class="game-card-name">Stardew Valley</span>
+        <span class="game-card-badge badge-popular">🔥 最受欢迎</span>
+      </div>
+      <div class="game-card-desc">完备种植、钓鱼、NPC好感、季节攻略、工具与收集品数据库</div>
+      <div class="game-card-meta">~45 篇攻略 · 8 个工具</div>
+      <div class="game-card-links">
+        <span class="game-card-chip">🌸 作物</span>
+        <span class="game-card-chip">🐟 钓鱼</span>
+        <span class="game-card-chip">💝 送礼</span>
+        <span class="game-card-chip">🗺️ 地图</span>
+        <span class="game-card-chip">🧮 利润</span>
+        <span class="game-card-chip">📊 排行</span>
+      </div>
+    </div>
+  </a>
 
-<div class="game-hero-card">
-<div class="game-hero-card-inner game-card-palia">
-<div class="game-card-title">🏹 Palia</div>
-<div class="game-card-sub">🏹 MMO</div>
-<p>Cozy MMO guide — beginner tips, quests, relationships, and farming guide.</p>
-<div class="game-card-links">
-  <a href="palia/" class="game-card-link">📖 Full Guide</a>
-  <a href="palia/guide/" class="game-card-link">👶 Beginner</a>
-</div>
-</div>
-</div>
+  <a href="fields-mistria/" class="game-card game-card-mistria">
+    <div class="game-card-icon">✨</div>
+    <div class="game-card-body">
+      <div class="game-card-top">
+        <span class="game-card-name">Fields of Mistria</span>
+        <span class="game-card-badge badge-new">🆕 新游</span>
+      </div>
+      <div class="game-card-desc">像素风新农场 · 完整作物攻略、矿坑战斗、炼金术、节日活动</div>
+      <div class="game-card-meta">13 篇深度攻略</div>
+      <div class="game-card-links">
+        <span class="game-card-chip">🌱 种植</span>
+        <span class="game-card-chip">⛏️ 矿坑</span>
+        <span class="game-card-chip">🎪 节日</span>
+        <span class="game-card-chip">🏠 装修</span>
+        <span class="game-card-chip">🐄 畜牧</span>
+        <span class="game-card-chip">🍳 烹饪</span>
+      </div>
+    </div>
+  </a>
 
-For Fields of Mistria, Coral Island, Sandrock, Sun Haven and more, see the [full game list](database/games/).
+  <a href="sandrock/" class="game-card game-card-sandrock">
+    <div class="game-card-icon">🏜️</div>
+    <div class="game-card-body">
+      <div class="game-card-top">
+        <span class="game-card-name">My Time at Sandrock</span>
+        <span class="game-card-badge badge-hot">⚡ 热门</span>
+      </div>
+      <div class="game-card-desc">废土工坊经营 · 资源分布、废墟战斗、装备强化、好感攻略</div>
+      <div class="game-card-meta">12 篇深度攻略</div>
+      <div class="game-card-links">
+        <span class="game-card-chip">🗺️ 资源</span>
+        <span class="game-card-chip">⚔️ 战斗</span>
+        <span class="game-card-chip">🔧 工坊</span>
+        <span class="game-card-chip">💝 送礼</span>
+        <span class="game-card-chip">🏠 装修</span>
+        <span class="game-card-chip">📅 季节</span>
+      </div>
+    </div>
+  </a>
+
+  <a href="coral-island/" class="game-card game-card-coral">
+    <div class="game-card-icon">🌊</div>
+    <div class="game-card-body">
+      <div class="game-card-top">
+        <span class="game-card-name">Coral Island</span>
+        <span class="game-card-badge badge-new">🆕 新游</span>
+      </div>
+      <div class="game-card-desc">热带岛屿农场 · 种植、潜水、采矿完整全攻略</div>
+      <div class="game-card-meta">10 篇深度攻略</div>
+      <div class="game-card-links">
+        <span class="game-card-chip">🌱 种植</span>
+        <span class="game-card-chip">🤿 潜水</span>
+        <span class="game-card-chip">⛏️ 采矿</span>
+        <span class="game-card-chip">🐟 钓鱼</span>
+        <span class="game-card-chip">🐄 畜牧</span>
+        <span class="game-card-chip">💕 恋爱</span>
+      </div>
+    </div>
+  </a>
+
+  <a href="palia/" class="game-card game-card-palia">
+    <div class="game-card-icon">🏹</div>
+    <div class="game-card-body">
+      <div class="game-card-top">
+        <span class="game-card-name">Palia</span>
+        <span class="game-card-badge badge-hot">⚡ MMO</span>
+      </div>
+      <div class="game-card-desc">温馨MMO · 狩猎、钓鱼、装修、烹饪、交友完整攻略</div>
+      <div class="game-card-meta">12 篇深度攻略</div>
+      <div class="game-card-links">
+        <span class="game-card-chip">👶 入门</span>
+        <span class="game-card-chip">🏹 狩猎</span>
+        <span class="game-card-chip">🍳 烹饪</span>
+        <span class="game-card-chip">🏠 装修</span>
+        <span class="game-card-chip">💝 好感</span>
+        <span class="game-card-chip">🎁 兑换码</span>
+      </div>
+    </div>
+  </a>
+
+  <a href="sun-haven/" class="game-card game-card-sunhaven">
+    <div class="game-card-icon">☀️</div>
+    <div class="game-card-body">
+      <div class="game-card-top">
+        <span class="game-card-name">Sun Haven</span>
+        <span class="game-card-badge badge-hot">⚡ 魔幻</span>
+      </div>
+      <div class="game-card-desc">魔幻三国农场 · 魔法、战斗、钓鱼、节日、好感全攻略</div>
+      <div class="game-card-meta">9 篇深度攻略</div>
+      <div class="game-card-links">
+        <span class="game-card-chip">🌱 种植</span>
+        <span class="game-card-chip">⚔️ 魔法</span>
+        <span class="game-card-chip">🐟 钓鱼</span>
+        <span class="game-card-chip">🎪 节日</span>
+        <span class="game-card-chip">🐄 畜牧</span>
+        <span class="game-card-chip">🎁 送礼</span>
+      </div>
+    </div>
+  </a>
+
+  <a href="farmingsim/" class="game-card game-card-farmsim">
+    <div class="game-card-icon">🚜</div>
+    <div class="game-card-body">
+      <div class="game-card-top">
+        <span class="game-card-name">Farming Simulator 25</span>
+        <span class="game-card-badge badge-popular">🔥 拟真</span>
+      </div>
+      <div class="game-card-desc">真实农机模拟 · 作物利润、机械对比、生产链、MOD推荐</div>
+      <div class="game-card-meta">9 篇深度攻略</div>
+      <div class="game-card-links">
+        <span class="game-card-chip">🌽 作物</span>
+        <span class="game-card-chip">🚜 机械</span>
+        <span class="game-card-chip">💰 利润</span>
+        <span class="game-card-chip">🏭 产业链</span>
+        <span class="game-card-chip">🐄 畜牧</span>
+        <span class="game-card-chip">📦 MOD</span>
+      </div>
+    </div>
+  </a>
+
+  <a href="tools/" class="game-card game-card-tools">
+    <div class="game-card-icon">🛠️</div>
+    <div class="game-card-body">
+      <div class="game-card-top">
+        <span class="game-card-name">工具 & 计算器</span>
+        <span class="game-card-badge badge-tool">🛠️ 在线工具</span>
+      </div>
+      <div class="game-card-desc">Bundle跟踪器 · 利润计算器 · 交互地图 · 存档管理 · MOD指南</div>
+      <div class="game-card-meta">8 个交互工具</div>
+      <div class="game-card-links">
+        <span class="game-card-chip">🎒 Bundle</span>
+        <span class="game-card-chip">💰 利润</span>
+        <span class="game-card-chip">🗺️ 地图</span>
+        <span class="game-card-chip">📊 对比</span>
+        <span class="game-card-chip">📅 发布日历</span>
+        <span class="game-card-chip">💾 存档</span>
+      </div>
+    </div>
+  </a>
+
+</div>
 
 ---
 
@@ -155,92 +267,60 @@ For Fields of Mistria, Coral Island, Sandrock, Sun Haven and more, see the [full
 </div>
 <!-- ===== END VIDEO SERIES BLOCK ===== -->
 
-
-
 ---
 
-<h2 class="section-title-home">Interactive Tools <span class="sub">· calculators & planners</span></h2>
+<h2 class="section-title-home">🧮 交互工具 <span class="sub">· 计算器 & 规划器</span></h2>
 
 <div class="tools-grid-home">
-  <a href="tools/stardew-valley/profit-planner/" class="tool-card-home">
+  <a href="tools/profit-calculator/" class="tool-card-home">
+    <div class="tool-icon">🧮</div>
+    <h4>作物利润计算器</h4>
+    <p>任意作物配置利润计算</p>
+    <span class="badge">多游戏</span>
+  </a>
+  <a href="tools/profit-optimizer/" class="tool-card-home">
     <div class="tool-icon">🌱</div>
-    <h4>Crop Profit Planner</h4>
-    <p>Compare crop ROI season by season.</p>
-    <span class="badge">Stardew</span>
+    <h4>利润优化器</h4>
+    <p>按季节对比最佳作物ROI</p>
+    <span class="badge">多游戏</span>
   </a>
-  <a href="tools/stardew-valley/npc-friendship/" class="tool-card-home">
-    <div class="tool-icon">💞</div>
-    <h4>NPC Friendship Optimizer</h4>
-    <p>Track gifts & optimize relationships.</p>
-    <span class="badge">Stardew</span>
-  </a>
-  <a href="tools/stardew-valley/fish-tracker/" class="tool-card-home">
-    <div class="tool-icon">🐟</div>
-    <h4>Fish Collection Tracker</h4>
-    <p>Track all 70+ fish by season & location.</p>
-    <span class="badge">Stardew</span>
+  <a href="tools/bundle-tracker/" class="tool-card-home">
+    <div class="tool-icon">🎒</div>
+    <h4>Bundle 追踪器</h4>
+    <p>社区中心收集进度跟踪</p>
+    <span class="badge">星露谷</span>
   </a>
   <a href="tools/interactive-map/" class="tool-card-home">
     <div class="tool-icon">🗺️</div>
-    <h4>Interactive Map</h4>
-    <p>Clickable valley map with markers.</p>
-    <span class="badge">Stardew</span>
-  </a>
-  <a href="tools/profit-calculator/" class="tool-card-home">
-    <div class="tool-icon">🧮</div>
-    <h4>Profit Calculator</h4>
-    <p>Calculate profit for any crop setup.</p>
-    <span class="badge">Multi</span>
+    <h4>交互地图</h4>
+    <p>可点击的全星露谷地图</p>
+    <span class="badge">星露谷</span>
   </a>
   <a href="tools/mods/" class="tool-card-home">
     <div class="tool-icon">📦</div>
-    <h4>Mods Guide</h4>
-    <p>Curated mod recommendations + install guide.</p>
-    <span class="badge">Multi</span>
+    <h4>MOD 指南</h4>
+    <p>精选MOD推荐+安装教程</p>
+    <span class="badge">多游戏</span>
+  </a>
+  <a href="tools/game-comparison/" class="tool-card-home">
+    <div class="tool-icon">📊</div>
+    <h4>游戏对比</h4>
+    <p>农场游戏横向对比评测</p>
+    <span class="badge">对比</span>
   </a>
 </div>
 
-[View all tools →](tools/)
-
----
-
-<h2 class="section-title-home">Latest Guides <span class="sub">· updated weekly</span></h2>
-
-<div class="article-preview-card">
-  <div class="article-thumb"></div>
-  <div class="article-body-home">
-    <h4>🌷 Stardew Valley Spring Guide — Year 1</h4>
-    <p>Maximize your first spring with optimized planting, fishing, and mining strategies for the best start.</p>
-    <div class="article-meta"><span>📅 Jun 21, 2026</span><span>📖 12 min read</span><span class="badge-new">NEW</span></div>
-  </div>
-</div>
-
-<div class="article-preview-card">
-  <div class="article-thumb" style="background:radial-gradient(ellipse at 50% 30%, rgba(251,191,36,0.2), transparent 60%);"></div>
-  <div class="article-body-home">
-    <h4>🚜 FS25 — Best Starting Machinery Loadout</h4>
-    <p>Which tractors, harvesters, and tools give the best bang for your buck in the early game.</p>
-    <div class="article-meta"><span>📅 Jun 19, 2026</span><span>📖 8 min read</span></div>
-  </div>
-</div>
-
-<div class="article-preview-card">
-  <div class="article-thumb" style="background:radial-gradient(ellipse at 40% 60%, rgba(168,85,247,0.2), transparent 60%);"></div>
-  <div class="article-body-home">
-    <h4>🏹 Palia — Beginner's Guide to Your First Week</h4>
-    <p>What to do in your first 7 days: fishing, farming, hunting, and building relationships.</p>
-    <div class="article-meta"><span>📅 Jun 17, 2026</span><span>📖 10 min read</span></div>
-  </div>
-</div>
+<p align="right"><a href="tools/">查看所有工具 →</a></p>
 
 ---
 
 <div class="about-section-home">
-  <h3>🌾 What is Farming Games Help?</h3>
-  <p>We build data-driven guides, interactive calculators, and curated databases for cozy farming & simulation games. Every guide is tested against real game data. Updated weekly. Always free.</p>
+  <h3>🌾 关于 Farming Games Help</h3>
+  <p>我们专注于农场模拟与休闲经营类游戏的中文数据库和攻略站。每篇攻略基于真实游戏数据验证，每周更新。交互式工具辅助计算与规划，全部免费。</p>
   <div class="about-features">
-    <span>⚡ Accurate data</span>
-    <span>🛠️ Interactive tools</span>
-    <span>📅 Weekly updates</span>
+    <span>⚡ 精确数据</span>
+    <span>🛠️ 交互工具</span>
+    <span>📅 每周更新</span>
+    <span>🌏 中文内容</span>
   </div>
 </div>
