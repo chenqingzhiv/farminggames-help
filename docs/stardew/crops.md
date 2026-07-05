@@ -1,6 +1,6 @@
 ---
-title: 🌱 Full Season Crop Profit Table
-description: > Data version: Stardew Valley 1.6 | Last updated: 2026-06
+title: Stardew Valley Crops Guide — Full Season Profit Table &amp; Best Crops by Season (1.6)
+description: Complete Stardew Valley 1.6 crops guide with full profit tables. Spring/summer/fall/winter crop comparisons, daily profit rankings, keg vs preserves analysis.
 date: 2026-06-27
 ---
 
@@ -153,6 +153,70 @@ These crops can be grown across multiple seasons, on Ginger Island, or in the Gr
 ---
 
 > 💡 **Beginner Tip:** In the first year, Spring is mainly about making money by fishing. Only grow enough parsnips to complete the bundle, save your gold for **Strawberries** (buy at Egg Festival on Spring 13).
+
+## 📊 Top Crop Daily Profit Comparison
+
+<div class="chart-container" style="background:var(--card,#24242b);border-radius:12px;padding:20px;margin:16px 0;border:1px solid var(--bd,#35353e);">
+  <svg viewBox="0 0 800 320" xmlns="http://www.w3.org/2000/svg" style="width:100%;height:auto;">
+    <style>
+      .bar-label { fill:#9b9a95; font-size:11px; text-anchor:middle; }
+      .bar-value { fill:#e8e6e1; font-size:10px; text-anchor:middle; }
+      .bar-title { fill:#e8e6e1; font-size:14px; font-weight:bold; }
+      .bar-note { fill:#6a6a6a; font-size:9px; text-anchor:middle; }
+    </style>
+    <text x="400" y="24" class="bar-title" text-anchor="middle">💰 Top Crops by Daily Profit (g/day per tile)</text>
+    <!-- Y axis --><line x1="60" y1="40" x2="60" y2="280" stroke="#35353e" stroke-width="1"/>
+    <!-- Gridlines --><line x1="60" y1="280" x2="780" y2="280" stroke="#35353e" stroke-width="1"/>
+    
+    <!-- Bar 1: Sweet Gem Berry -->
+    <rect x="75" y="40" width="70" height="240" rx="4" fill="#8a4a8a" opacity="0.85"/>
+    <text x="110" y="32" class="bar-value">83.3g</text>
+    <text x="110" y="298" class="bar-label">Sweet Gem</text>
+    <text x="110" y="310" class="bar-note">Fall ★ Rare Seed</text>
+    
+    <!-- Bar 2: Starfruit -->
+    <rect x="170" y="100" width="70" height="180" rx="4" fill="#c9a96e" opacity="0.85"/>
+    <text x="205" y="92" class="bar-value">26.9g</text>
+    <text x="205" y="298" class="bar-label">Starfruit</text>
+    <text x="205" y="310" class="bar-note">Summer ★ Keg</text>
+    
+    <!-- Bar 3: Strawberry -->
+    <rect x="265" y="116" width="70" height="164" rx="4" fill="#c95a5a" opacity="0.85"/>
+    <text x="300" y="108" class="bar-value">20.8g</text>
+    <text x="300" y="298" class="bar-label">Strawberry</text>
+    <text x="300" y="310" class="bar-note">Spring ★ Regrow</text>
+    
+    <!-- Bar 4: Blueberry -->
+    <rect x="360" y="116" width="70" height="164" rx="4" fill="#4a6aaa" opacity="0.85"/>
+    <text x="395" y="108" class="bar-value">20.8g</text>
+    <text x="395" y="298" class="bar-label">Blueberry</text>
+    <text x="395" y="310" class="bar-note">Summer ★ Regrow</text>
+    
+    <!-- Bar 5: Cranberry -->
+    <rect x="455" y="124" width="70" height="156" rx="4" fill="#8a2a4a" opacity="0.85"/>
+    <text x="490" y="116" class="bar-value">18.9g</text>
+    <text x="490" y="298" class="bar-label">Cranberry</text>
+    <text x="490" y="310" class="bar-note">Fall ★ Regrow</text>
+    
+    <!-- Bar 6: Red Cabbage -->
+    <rect x="550" y="130" width="70" height="150" rx="4" fill="#6a3a4a" opacity="0.85"/>
+    <text x="585" y="122" class="bar-value">17.8g</text>
+    <text x="585" y="298" class="bar-label">Red Cabbage</text>
+    <text x="585" y="310" class="bar-note">Summer</text>
+    
+    <!-- Bar 7: Pumpkin -->
+    <rect x="645" y="134" width="70" height="146" rx="4" fill="#c97a2a" opacity="0.85"/>
+    <text x="680" y="126" class="bar-value">16.9g</text>
+    <text x="680" y="298" class="bar-label">Pumpkin</text>
+    <text x="680" y="310" class="bar-note">Fall ★ Giant</text>
+    
+    <!-- Bar 8: Hops -->
+    <rect x="740" y="138" width="70" height="142" rx="4" fill="#4a7a3a" opacity="0.85"/>
+    <text x="775" y="128" class="bar-value">16.5g</text>
+    <text x="775" y="298" class="bar-label">Hops</text>
+    <text x="775" y="310" class="bar-note">Summer ★ Keg</text>
+  </svg>
+</div>
 
 > 💡 **Intermediate Tip:** Once you unlock the Greenhouse, immediately plant Starfruit + Hops in it. With Kegs, earning over 10k/day is easy.
 

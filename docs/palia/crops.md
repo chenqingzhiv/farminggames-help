@@ -1,7 +1,7 @@
 ---
 title: Palia Crops Database — All Crop Types with Grow Times, Seed Costs, and Profit per Harvest
 description: Complete reference for every crop in Palia, including grow times, seed costs, harvest yields, and profit calculations for gardening success.
-date: 2026-06-26
+date: 2026-07-05
 ---
 
 # Palia Crops Database
@@ -108,6 +108,83 @@ Some crops, like Tomatoes and Grapes, can be harvested multiple times. After the
 - **Automate early:** Build sprinklers as soon as possible to save time and energy.
 - **Use fertilizer:** Quality Fertilizer on high-value crops like Grapes can significantly boost your daily profit.
 - **Sell raw or cook:** Cooking ingredients into meals often doubles or triples their value. Check recipes before selling.
-- **Gift wisely:** Some villagers love specific crops. Gifting a Starfruit to a villager can increase friendship faster than any other gift.
-- **Plan your layout:** Leave space for trellises if you plan to grow fruits like Grapes. A well-organized garden saves time and maximizes space.
-- **Check the market:** Crop prices fluctuate daily. Sell when prices are high for maximum profit.
+| - **Gift wisely:** Some villagers love specific crops. Gifting a Starfruit to a villager can increase friendship faster than any other gift.
+| - **Plan your layout:** Leave space for trellises if you plan to grow fruits like Grapes. A well-organized garden saves time and maximizes space.
+| - **Check the market:** Crop prices fluctuate daily. Sell when prices are high for maximum profit.
+
+---
+
+## Additional Crops (Cross-Reference)
+
+The following crops are available in Palia but may not appear in every seed vendor's inventory. They are unlocked through Gardening level progression or special sources.
+
+| Crop Name | Seed Cost (Gold) | Grow Time (Hours) | Harvest Yield | Sell Price per Unit | Profit per Harvest |
+|-----------|------------------|-------------------|---------------|---------------------|--------------------|
+| Lettuce   | 8                | 18                | 1             | 14                  | 6                  |
+| Cabbage   | 22               | 48                | 1             | 45                  | 23                 |
+| Bok Choy  | 14               | 30                | 1             | 28                  | 14                 |
+| Spinach   | 12               | 24                | 1             | 24                  | 12                 |
+| Ginger    | 35               | 72                | 1             | 65                  | 30                 |
+
+**Notes on Additional Crops:**
+- **Lettuce** is the fastest-growing crop at just 18 hours — ideal for quick turnaround plots.
+- **Cabbage** offers the best profit-per-hour among 48-hour crops.
+- **Ginger** ties with Starfruit as the highest profit-per-plot crop at 30 Gold.
+- **Bok Choy** and **Spinach** are solid mid-game options with moderate grow times and decent margins.
+
+> Data note: There are minor differences between community sources for some crop stats. The tables above represent the most commonly accepted values. Star-quality crops sell for ~1.5x base price.
+
+---
+
+## Optimal Planting Combinations
+
+### Early Game Combo (Gardening Lv 1-4)
+
+| Plot Slots | Crop Mix | Total Cost | Est. Daily Profit | Why |
+|:----------|:---------|:----------:|:-----------------:|:----|
+| 9 (3×3) | 5 Carrot + 4 Wheat | 130 | ~180 | Fast turnaround, cooking staples |
+| 12 (3×4) | 6 Carrot + 3 Wheat + 3 Potato | 165 | ~260 | Balanced profit and cooking use |
+
+**Strategy:** Plant in the evening before logging off. Carrots (6h) are ready by morning, Wheat (8h) by midday. Harvest, sell, reinvest.
+
+### Mid Game Combo (Gardening Lv 5-8)
+
+| Plot Slots | Crop Mix | Total Cost | Est. Daily Profit | Why |
+|:----------|:---------|:----------:|:-----------------:|:----|
+| 20 (4×5) | 8 Tomato + 6 Corn + 6 Cabbage | 582 | ~500 | Multi-harvest + high profit |
+| 20 (4×5) | 10 Cotton + 5 Bok Choy + 5 Rice | 660 | ~550 | Cotton for crafting + food |
+
+**Strategy:** Tomatoes and Corn give you multi-harvest — plant once, harvest repeatedly. Cabbage gives the best single-harvest profit. Cotton is essential for furniture crafting.
+
+### Late Game Combo (Gardening Lv 9-10)
+
+| Plot Slots | Crop Mix | Total Cost | Est. Daily Profit | Why |
+|:----------|:---------|:----------:|:-----------------:|:----|
+| 20 (4×5) | 6 Ginger + 6 Mushroom + 8 Blueberry | 810 | ~1,100 | Highest profit per plot |
+| 20 (4×5) | 8 Grape + 6 Starfruit + 6 Spice Sprout | 1,720 | ~1,600 | End-game max efficiency |
+
+**Strategy:** Ginger + Mushroom + Blueberry is your daily gold machine. Grape + Starfruit is for long-term investors (72h cycles). Use Quality Fertilizer on Ginger for star-quality bonuses.
+
+### The "Set It and Forget It" Combo
+
+For players who can only log in once per day:
+
+| Crop | Why |
+|:-----|:----|
+| Blueberry (24h) | Harvest once daily, multi-harvest |
+| Cabbage (48h) | Harvest every other day, best profit/plot |
+| Tomato (12h) | Can stretch to 24h without losing crop |
+| Rice (18h) | Flexible timing, decent profit |
+
+Plant a 50/50 mix of Blueberries and Cabbages for ~800 Gold/day with minimal effort.
+
+### Star Quality Optimization
+
+Maximizing star-quality crops significantly boosts income:
+
+1. **Quality Up Fertilizer** on high-base-price crops (Ginger, Cabbage, Mushroom)
+2. **Gardening skill levels** passively increase star quality chance
+3. **Special soil plots** — home plot layouts with natural bonuses
+4. **Sell star-quality crops** individually — don't cook them unless a recipe specifically needs star ingredients
+
+**Estimated income uplift:** A full plot of Ginger with Quality Fertilizer yields ~3,000+ Gold/week vs. ~1,500 without.

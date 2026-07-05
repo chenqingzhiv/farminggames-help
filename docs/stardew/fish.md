@@ -1,6 +1,6 @@
 ---
-title: 🐟 Fish Guide & Price List
-description: > Data version: Stardew Valley 1.6 | Last updated: 2026-06
+title: Stardew Valley Fish Guide — Complete Fish Species Table with Seasons &amp; Locations
+description: Complete Stardew Valley fish guide. All fish species with season, location, time, weather requirements. Legendary fish locations included.
 date: 2026-06-27
 ---
 

@@ -147,4 +147,101 @@ If you diversify into animal husbandry, here are the profit estimates per animal
 
 ---
 
+---
+
+## 📊 Crop vs Animal ROI Comparison
+
+Which earns more — planting crops or raising animals? Here's the per-hectare equivalent comparison.
+
+| Enterprise | Startup Cost (per unit) | Annual Profit (per unit) | Land Needed | Labor | Risk Level | ROI Year 1 |
+|:----------|:----------------------|:-----------------------|:-----------|:-----|:----------|:----------|
+| 🌾 **Wheat (1 ha)** | $350 (seed+fert) | $1,850 | 1 ha | Low | Low | 528% |
+| 🌻 **Sunflowers (1 ha)** | $470 | $2,330 | 1 ha | Low | Low | 495% |
+| 🌽 **Corn (1 ha)** | $650 | $3,550 | 1 ha | Medium | Medium | 546% |
+| 🥔 **Potatoes (1 ha)** | $1,200 | $5,300 | 1 ha | High | Medium | 441% |
+| 🍇 **Grapes (1 ha)** | $2,500 | $6,500 | 1 ha | Medium | Low (perennial) | 260% |
+| 🐔 **Chickens (10)** | $1,500 (coop+birds) | $1,200/yr | Tiny | Very Low | Low | 80% |
+| 🐑 **Sheep (5)** | $5,000 (pasture+sheep) | $2,500/yr | 0.5 ha | Low | Low | 50% |
+| 🐄 **Dairy Cows (5)** | $15,000 (barn+cows) | $4,000/yr | 1 ha (feed) | High | Medium | 27% |
+| 🐖 **Pigs (5)** | $7,000 (pen+pigs) | $3,000/yr | 0.5 ha | Medium | Medium | 43% |
+
+### Key Insight
+> **Crops give faster ROI** but require seasonal work. **Animals provide steady daily income** but need higher upfront investment. Start with crops, add chickens for daily cash flow, then scale to cows as you build feed production.
+
+---
+
+## 💼 Contract Work Income Table
+
+Contracts are a great early-game money source. Here's what each type pays.
+
+| Contract Type | Avg Payout | Time Needed | Hourly Rate | Equipment Provided? | Verdict |
+|:-------------|:---------|:-----------|:-----------|:-----------------|:-------|
+| 🌾 **Harvest (small field)** | $3,000–$5,000 | 10–15 min | $12,000–$20,000/hr | ✅ Yes (harvester + trailer) | ⭐⭐⭐ **Best starter** |
+| 🌾 **Harvest (medium field)** | $8,000–$15,000 | 20–40 min | $12,000–$22,500/hr | ✅ Yes | ⭐⭐⭐⭐ |
+| 🌾 **Harvest (large field)** | $20,000–$40,000 | 60–90 min | $15,000–$26,000/hr | ✅ Yes | ⭐⭐⭐⭐⭐ |
+| 🚜 **Cultivate** | $2,000–$8,000 | 15–30 min | $8,000–$16,000/hr | ✅ Yes | ⭐⭐⭐ |
+| 🧑‍🌾 **Sowing/Planting** | $2,500–$10,000 | 15–40 min | $6,000–$15,000/hr | ✅ Yes | ⭐⭐ |
+| 🪵 **Logging** | $5,000–$20,000 | 30–60 min | $5,000–$20,000/hr | ✅ Yes | ⭐⭐ (requires skill) |
+| 🧹 **Baling** | $3,000–$12,000 | 20–45 min | $6,000–$16,000/hr | ✅ Yes | ⭐⭐⭐ |
+| 🥔 **Potato Harvest** | $10,000–$25,000 | 30–60 min | $10,000–$25,000/hr | ✅ Yes | ⭐⭐⭐⭐ |
+| 🐄 **Transport Animals** | $1,500–$4,000 | 5–10 min | $12,000–$24,000/hr | ✅ Trailer | ⭐⭐ (one-off) |
+| 🌾 **Weeding/Spraying** | $2,000–$6,000 | 10–25 min | $8,000–$14,400/hr | ✅ Yes | ⭐⭐⭐ |
+
+### Contract Strategy
+| Phase | Strategy | Expected Income |
+|:-----|:--------|:--------------|
+| 🔰 **Day 1–5** | Do all harvest contracts — highest pay, equipment included | $15K–$30K/day |
+| 🟢 **Week 2–3** | Keep doing harvest + cultivate; buy your own tractor + trailer | $30K–$60K/day |
+| 🟡 **Month 2+** | Be selective — only take contracts near your fields | $50K–$100K/day |
+| 🔴 **Late game** | Skip contracts — your own farm earns more per hour | N/A |
+
+> 💡 **Pro tip:** Accept a contract, then use the **leased equipment** for your own fields too! The rental fee is already covered by the contract.
+
+---
+
+## 🏆 Best Investment Order (Expanded)
+
+| Priority | Investment | Cost | Monthly Return | Payback Period | Alternative |
+|:-------|:----------|:----|:-------------|:--------------|:-----------|
+| **1** | 🚜 Medium Tractor (150 HP) | $80K | +50% field speed | Immediate | Rent first if low cash |
+| **2** | 🌾 Seeder + Planter | $65K | +100% planting speed | 2 seasons | Rent for first season |
+| **3** | 🗺️ Buy 2nd field (small) | $100K | $3K–$5K/month | 8–12 months | Lease field if cheaper |
+| **4** | 🚛 Larger trailer (26K L) | $55K | Fewer trips = more $ | 3–4 seasons | Skip if solo farming |
+| **5** | 🐔 Chicken coop (10 hens) | $1.5K | $100/month | 15 months | Best early passive income |
+| **6** | 🌾 Combine harvester | $250K | Save $2K/rental × ~20 uses | 6–8 years rent savings | Keep renting until 5+ fields |
+| **7** | 🧑‍🌾 Fertilizer spreader + sprayer | $60K | +30% yield on all fields | 2–3 seasons | Rent first |
+| **8** | 🐄 Dairy barn + 5 cows | $20K | $1.5K/month | 13 months | Start with chickens first |
+| **9** | 🏗️ Grain dryer (corn/rice) | $75K | Premium prices for dried grain | 3–4 seasons | Only needed for certain crops |
+| **10** | 🏭 Oil mill / Flour mill | $150K | Double crop value | 5–8 seasons | Game-changer when processing |
+| **11** | 🗺️ Buy larger fields | $200K+ | Scales all profit | 3–6 months | Always a good investment |
+| **12** | 🏗️ Biogas plant | $500K | $5K–$10K/month | 4–8 years | Only after 50+ cows or 100+ acres |
+| **13** | 🏪 Farm shop / Direct sales | $100K | +30% sell price | 4–6 seasons | Best late-game upgrade |
+
+### Early Game Priority (First $500K)
+```mermaid
+graph LR
+    A[Start] --> B[Medium Tractor]
+    B --> C[Seed & Fertilize]
+    C --> D[Buy 2nd Field]
+    D --> E[Harvester - Rent]
+    E --> F[Chickens for passive $]
+    F --> G[Grain Dryer or Oil Mill]
+    G --> H[Expand to 5+ Fields]
+```
+
+### Mid-Game Priority ($500K–$1.5M)
+1. **Own a combine harvester** — stop renting, keep full harvest profit
+2. **Build processing chain** — oil press for canola/sunflower, flour mill for wheat
+3. **Add dairy cows** (5–10 head) — steady milk income
+4. **Buy precision farming gear** — variable-rate fertilizer saves 20–30%
+5. **Expand to 10+ fields** — scale is the ultimate profit multiplier
+
+### Late Game ($1.5M+)
+1. **Biogas plant** — turns silage into $10K+/month passive income
+2. **Farm shop** — sell processed goods at retail prices
+3. **Greenhouses** — year-round vegetable production, minimal labor
+4. **Buy every field on the map** — total farmland dominance
+
+---
+
 *Data source: Farming Simulator Wiki 1.0*

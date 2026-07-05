@@ -1,7 +1,7 @@
 ---
 title: Complete Friendship & Romance Guide for Palia — All NPC preferences, weekly wants, romance levels, and fastest path to max relationships
 description: Master every friendship and romance in Palia with this comprehensive guide. Covers all NPC gift preferences, weekly wants, romance level rewards, and the fastest strategies to max relationships.
-date: 2026-06-26
+date: 2026-07-05
 ---
 
 # Complete Friendship & Romance Guide for Palia
@@ -167,3 +167,201 @@ A: Plant them in your garden. They are a perennial crop, meaning they regrow aft
 Maxing out friendships and romances in Palia is a marathon, not a sprint, but with the right strategy, you can significantly speed up the process. Focus on weekly wants, stockpile high-value cooked meals, and talk to everyone daily. The rewards—from unique outfits to heartwarming cutscenes—are well worth the effort.
 
 Now go out there, make some friends (and lovers), and enjoy all that Palia has to offer!
+
+---
+
+## 🏠 Cohabitation & Proudhorn Ceremony (Marriage Equivalent)
+
+Once you reach **Romance Level 4** with an NPC, you can propose a **Proudhorn Ceremony** — Palia's equivalent of marriage or civil partnership.
+
+### Requirements
+
+| Requirement | Detail |
+|:------------|:-------|
+| **Romance Level** | Level 4 with your chosen NPC |
+| **Proudhorn Antler** | Crafted from 1 Proudhorn Antler (dropped by Proudhorn sernuks in Bahari Bay) |
+| **Ceremony Location** | The gazebo near Kilima Lake |
+| **Planning Time** | ~3 in-game days to prepare the ceremony |
+
+### What Cohabitation Unlocks
+
+| Benefit | Detail |
+|:--------|:-------|
+| 🏡 **Shared Housing** | Your partner moves into your home plot (decorates their own room) |
+| 🎁 **Daily Gifts** | Your partner leaves gifts for you each morning |
+| 💬 **Special Dialogue** | New romantic dialogue and interactions |
+| 👨‍👩‍👧 **New Quests** | Cohabitation-specific quest chain |
+| 🪑 **Unique Furniture Set** | Exclusive Proudhorn-themed furniture recipe |
+
+### Can You Cohabitate with Multiple NPCs?
+
+Palia allows **one active cohabitation** at a time. However, you can max romance with everyone — the Proudhorn Ceremony is a separate commitment step beyond Romance Level 4. You may break up and choose a different partner later.
+
+### Breaking Up / Divorce
+
+- **No penalty** for ending a cohabitation — friendship and romance levels remain intact.
+- Talk to your partner and choose the breakup dialogue option.
+- They move out of your house but remain friendly.
+
+---
+
+## ❌ Disliked Gifts (What NOT to Give)
+
+Giving a disliked gift gives **zero friendship points** and wastes your daily gift opportunity. Avoid these for each NPC:
+
+| NPC | Disliked Items |
+|:----|:---------------|
+| **Auni** | Gatherables (common ones), low-value items |
+| **Ashura** | Sweet foods, desserts |
+| **Badruu** | Fish dishes, bug-related items |
+| **Caleri** | Messy items, bug parts |
+| **Chayne** | Meat dishes, violent items |
+| **Delaila** | Spicy food, meat |
+| **Einar** | Man-made items, furniture |
+| **Elouisa** | Boring/common items (no bugs/gatherables) |
+| **Eshe** | Common items, low-value gatherables |
+| **Hassian** | Sweet food, desserts, flowers |
+| **Hekla** | Fabric, clothing items |
+| **Hodari** | Decor, furniture (too fancy for a miner) |
+| **Jel** | Rough/ugly items, mining resources |
+| **Jina** | Common fish, plain food |
+| **Kenyatta** | Formal items, books |
+| **Nai'o** | Sweet food, delicate items |
+| **Najuma** | Fancy decorations, formal wear |
+| **Reth** | Raw ingredients (he prefers cooked meals) |
+| **Sifuu** | Delicate items, flowers |
+| **Tamala** | Common food, boring items |
+| **Tau** | Vegetables, non-meat food |
+| **Tish** | Ugly items, common resources |
+| **Zeki** | Common items, low-value gatherables |
+
+---
+
+## 📍 NPC Location Guide
+
+Where to find each NPC during their daily routine:
+
+| NPC | Typical Location(s) | Active Hours |
+|:----|:-------------------|:------------:|
+| **Auni** | Kilima Village — near library or fountain | Daytime |
+| **Ashura** | The Inn — kitchen or dining area | All day |
+| **Badruu** | Farm — near the garden plots | Morning-Midday |
+| **Caleri** | Library — second floor | All day |
+| **Chayne** | Temple or apothecary area | Daytime |
+| **Delaila** | Farmhouse — kitchen | Morning-Evening |
+| **Einar** | Fisherman's Lagoon or Kilima Lake shore | All day |
+| **Elouisa** | Around Bahari Bay — Pulsewater Plains | Daytime (moves around) |
+| **Eshe** | Town Hall — Kilima Village center | Morning-Midday |
+| **Hassian** | Kilima outskirts — hunting grounds | Morning-Evening |
+| **Hekla** | Library or underground ruins | All day |
+| **Hodari** | Bahari Bay — mine entrance | Morning-Evening |
+| **Jel** | Tailor shop — Kilima Village | Afternoon-Evening |
+| **Jina** | Library or Temple ruins | All day |
+| **Kenyatta** | Town Hall or Kilima streets | Afternoon-Night |
+| **Nai'o** | Farm — barn or fields | Morning-Midday |
+| **Najuma** | Farm — near the forge | Daytime |
+| **Reth** | The Inn — kitchen | Afternoon-Night |
+| **Sifuu** | Blacksmith — forge area | Morning-Evening |
+| **Tamala** | Bahari Bay — Tamala's Tower | All day |
+| **Tau** | Kilima outskirts — follows Hassian | Daytime |
+| **Tish** | Furniture store — Kilima Village | Afternoon-Evening |
+| **Zeki** | General Store — Underground Market at night | All day |
+
+---
+
+## 📆 Weekly Want System — Deep Dive
+
+Weekly wants update every **Monday at 6:00 AM Palia time**. Here's how to exploit them:
+
+### Weekly Want Mechanics
+
+| Factor | Detail |
+|:-------|:-------|
+| **Reset Time** | Monday 6:00 AM (in-game time) |
+| **Friendship Boost** | 3x normal "Like" gift points |
+| **Stacking** | If the weekly want is also a "Love" item, the bonus multiplies further |
+| **Tracking** | Check the "Villager" tab in the menu to see current weekly wants |
+| **Notification** | A mail icon appears next to NPCs whose weekly want you haven't fulfilled |
+
+### Auto-Complete Checklist
+
+Print this checklist and run through it every Monday:
+
+- [ ] Check all 23 NPCs' weekly wants in the menu
+- [ ] Check your inventory for items matching any weekly want
+- [ ] For "Cooked Meal" wants — check what ingredients you have
+- [ ] For "Fish" wants — visit the relevant fishing spot
+- [ ] For "Gatherable" wants — check Bahari Bay and Kilima
+- [ ] Prioritize NPCs whose weekly want matches their "Love" category
+- [ ] Give the weekly want gift BEFORE any other gift (it's the most efficient use)
+
+### Weekly Want Categories Reference
+
+| Category | Examples | Best Source |
+|:---------|:---------|:------------|
+| Cooked Desserts | Celebration Cake, Any Pie, Bundled Blueberry Pie | Cake Party |
+| Cooked Meat Dishes | Grilled Meat, Spicy Rice, Any Sushi | Cooking station |
+| Cooked Fish Dishes | Fish Stew, Sushi | Fishing + cooking |
+| Cooked Meals (General) | Any high-tier cooked meal | Cooking station |
+| Gems / Starstones | Emerald, Garnet, Amethyst | Mining nodes |
+| Bugs | Any bug (rare = more points) | Bug net |
+| Fish | Any fish (rare = more points) | Fishing |
+| Flowers | Sweet Leaf, Heartdrop Lily, rare flowers | Foraging |
+| Foraged Items | Mushrooms, herbs, wild plants | Foraging in both zones |
+| Gatherables | General gather items | Pick as you explore |
+| Furniture | Any crafted furniture | Workbench |
+| Fabric | Silk, Cotton | Crafting station |
+
+---
+
+## 👰 All Eligible Romance NPCs
+
+| NPC | Gender | Notes |
+|:----|:------:|:------|
+| Ashura | Male | Father figure, innkeeper |
+| Einar | Male | Fisher bot, unique personality |
+| Elouisa | Female | Bug enthusiast, adventurer |
+| Hassian | Male | Hunter, reserved |
+| Hodari | Male | Miner, single father |
+| Jel | Male | Fashion designer |
+| Jina | Female | Scholar, archaeologist |
+| Kenyatta | Female | Eshe's daughter, rebel |
+| Nai'o | Male | Farmer, Badruu's son |
+| Reth | Male | Cook, mysterious past |
+| Sifuu | Female | Blacksmith, warrior |
+| Tamala | Female | Enigmatic mage |
+| Tish | Female | Furniture maker, Hodari's daughter |
+
+> **Note:** Subira was added in a later update as an additional romanceable NPC. Check in-game for her current availability.
+
+---
+
+## 🏆 Friendship Level 4 Rewards (Complete)
+
+| NPC | Level 4 Reward | Use |
+|:----|:---------------|:----|
+| Auni | Bug Catching Trophy | Decor |
+| Ashura | "Father's Pride" Plaque | Decor |
+| Badruu | Seed Maker Recipe | 🔧 Craft seeds from crops |
+| Caleri | Bookcase Recipe | Decor |
+| Chayne | Tea Set Recipe | Decor |
+| Delaila | Mayonnaise Maker Recipe | 🔧 Craft mayo from eggs |
+| Einar | Fishing Trophy | Decor |
+| Elouisa | Bug Display Case Recipe | Decor |
+| Eshe | Elegant Chair Recipe | Decor |
+| Hassian | Hunting Trophy | Decor |
+| Hekla | Ancient Lamp Recipe | Decor |
+| Hodari | Mining Trophy | Decor |
+| Jel | Mannequin Recipe | Decor |
+| Jina | Ancient Book Display | Decor |
+| Kenyatta | Rebel Poster Recipe | Decor |
+| Nai'o | Tractor Decor | Decor |
+| Najuma | Forge Plans | 🔧 Crafting upgrades |
+| Reth | Chef's Counter Recipe | 🔧 Kitchen upgrade |
+| Sifuu | Anvil Decor | Decor |
+| Tamala | Potion Rack Recipe | Decor |
+| Tau | Pet Bed Recipe | Decor |
+| Tish | Woodworking Bench Recipe | 🔧 Crafting station |
+| Zeki | Lucky Coin Display | Decor |
+
+> 🔧 = Functional reward (not just decoration) — these are the most valuable Level 4 rewards to prioritize.

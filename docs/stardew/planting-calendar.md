@@ -1,6 +1,6 @@
 ---
-title: 📅 Stardew Valley Season Planting Calendar
-description: > Data version: Stardew Valley 1.6 | Month-by-month planting calendar, festival schedule, and seasonal activity planner
+title: Stardew Valley Planting Calendar — Year 1-2 Complete Planting Schedule
+description: Stardew Valley planting calendar for optimal farm planning. Day-by-day schedule for spring, summer, fall crops. Year 1 and established farm guides.
 date: 2026-07-03
 ---
 

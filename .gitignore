@@ -1,0 +1,22 @@
+# Built output
+site/
+
+# Hermes
+.hermes/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Secrets
+*.env
+.env.*
+!deploy.sh

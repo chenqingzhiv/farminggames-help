@@ -1,6 +1,6 @@
 ---
-title: 🏝️ Ginger Island Complete Guide — Master Craftsman, Hidden Shrine & All Puzzles
-description: Complete Ginger Island walkthrough for Stardew Valley 1.6 — Master Craftsman quest, Secret Woods puzzle, Hidden Shrine, Volcano floors, Qi's Challenge, and all rewards. Data from Stardew Valley Wiki v1.6.15.
+title: Stardew Valley Ginger Island Guide — Volcano Dungeon, Walnuts &amp; Complete Walkthrough
+description: Complete Stardew Valley Ginger Island guide. All golden walnuts locations, volcano dungeon walkthrough, island farm setup, and Qi challenges.
 date: 2026-07-04
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: 🐄 Animal & Ranching Profit Guide
-description: > Data version: Stardew Valley 1.6 | Complete animal products, breeding, profitability, and ranching strategies
+title: Stardew Valley Animals Guide — All Barn &amp; Coop Animals, Products &amp; Profit (1.6)
+description: Stardew Valley animal husbandry guide. All barn and coop animals complete with purchase cost, daily product value, profit analysis and 1.6 updates.
 date: 2026-07-03
 ---
 

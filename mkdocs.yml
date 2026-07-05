@@ -8,7 +8,87 @@ theme:
     - toc.integrate
 nav:
   - Home: index.md
-  - Beginner Guides:
-      - '🌟【星露谷物语】纯新手向攻略（第二期）——春季前期钓鱼篇': guides/星露谷物语纯新手向攻略第二期春季前期钓鱼篇.md
-  - Guides: guides.md
+  - Stardew Valley:
+      - Overview: stardew/index.md
+      - 🌱 Crops & Farming:
+          - Crops: stardew/crops.md
+          - Greenhouse: stardew/greenhouse-crops.md
+          - Profit Calc: stardew/profit-calc.md
+          - Planting Calendar: stardew/planting-calendar.md
+          - Farm Layout: stardew/farm-layout.md
+          - Artisan: stardew/artisan.md
+      - ⛏️ Skills & Combat:
+          - Skills: stardew/skills.md
+          - Mining: stardew/mining.md
+          - Equipment: stardew/equipment.md
+          - Weapons: stardew/weapons.md
+          - Boots: stardew/boots.md
+          - Rings: stardew/rings.md
+      - 🐟 Fishing:
+          - Fish: stardew/fish.md
+          - Fishing Guide: stardew/fishing.md
+      - 👥 NPC & Social:
+          - NPC Gifts: stardew/npc-gifts.md
+          - Schedule: stardew/schedule.md
+          - Festivals: stardew/festivals.md
+      - 🧪 Crafting & Items:
+          - Crafting: stardew/crafting.md
+          - Cooking: stardew/cooking.md
+          - Hats: stardew/hats.md
+          - Totems: stardew/totems.md
+          - Trinkets: stardew/trinkets.md
+      - 🗺️ Guides:
+          - Spring Guide: stardew/spring-guide.md
+          - Summer Guide: stardew/summer-guide.md
+          - Summer Blueprint: stardew/summer-blueprint.md
+          - Fall Guide: stardew/fall-guide.md
+          - Winter: stardew/winter.md
+          - Year 1 Guide: stardew/year-1-guide/index.md
+          - Ginger Island: stardew/ginger-island.md
+          - 1.6 Update: stardew/1.6-update-guide/index.md
+      - 🏆 Collections:
+          - Museum: stardew/museum.md
+          - Walnuts: stardew/walnuts.md
+          - Tier List: stardew/tier-list.md
+          - Encyclopedia: stardew/encyclopedia.md
+      - 🧮 Tools:
+          - Bundle Tracker: tools/bundle-tracker.md
+          - Profit Optimizer: tools/profit-optimizer.md
+          - Interactive Map: tools/interactive-map.md
+  - Farming Sim 25:
+      - Overview: farmingsim/index.md
+      - Getting Started: farmingsim/getting-started.md
+      - Crops: farmingsim/crops.md
+      - Machinery: farmingsim/machinery.md
+      - Profit Guide: farmingsim/profit-guide.md
+      - Vehicle Compare: farmingsim/vehicle-compare.md
+  - Palia:
+      - Overview: palia/index.md
+      - Beginner Guide: palia/guide.md
+      - Crops: palia/crops.md
+      - Crop Profit: palia/crop-profit.md
+      - Fish: palia/fish.md
+      - Fish Guide: palia/fish-guide.md
+      - Friendship: palia/friendship.md
+      - Redeem Codes: palia/redeem-codes.md
+  - Tools:
+      - Overview: tools/index.md
+      - 🎒 Bundle Tracker: tools/bundle-tracker.md
+      - 💰 Profit Optimizer: tools/profit-optimizer.md
+      - 🗺️ Interactive Map: tools/interactive-map.md
+      - 📊 Profit Calculator: tools/profit-calculator.md
+      - 🎮 Mods: tools/mods.md
+      - 💾 Saves: tools/saves.md
+      - Game Comparison: tools/game-comparison/index.md
+      - Release Calendar: tools/release-calendar/index.md
+  - Guides: guides/index.md
+  - Coral Island:
+      - Overview: coral-island/index.md
+      - Getting Started: coral-island/getting-started.md
+      - Crops: coral-island/crops.md
+      - Crop Profit: coral-island/crop-profit.md
+      - Fish Guide: coral-island/fish-guide.md
+  - Fields of Mistria: fields-mistria/index.md
+  - Sandrock: sandrock/index.md
+  - Sun Haven: sun-haven/index.md
   - About: about.md

@@ -1,6 +1,6 @@
 ---
-title: ⚙️ Stardew Valley Equipment & Tool Upgrade Guide
-description: > Data version: Stardew Valley 1.6 | Complete tool upgrade paths, upgrade costs, material requirements, and comparison tables for all equipment
+title: Stardew Valley Equipment Guide — Best Weapons, Rings, Boots &amp; Tool Upgrades
+description: Stardew Valley equipment guide covering weapons, rings, boots, tool upgrades. Best loadout for mining, combat, and farming efficiency.
 date: 2026-07-03
 ---
 

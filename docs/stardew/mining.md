@@ -1,6 +1,6 @@
 ---
-title: Stardew Valley Mining Guide
-description: Stardew Valley Complete Mining Guide — Floors 1-120攻略, Monster Guide, Ore Values, Descending Tips
+title: Stardew Valley Mining Guide — Floors 1-120 Complete Walkthrough &amp; Ore Values
+description: Stardew Valley mining guide covering all 120 floors. Ore values, monster guide, descending strategies, elevator locations, and best equipment.
 ---
 
 # ⛏️ Complete Mining Guide

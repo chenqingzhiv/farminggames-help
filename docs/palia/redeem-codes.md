@@ -1,12 +1,12 @@
 ---
 title: Palia Redeem Codes (Active & Expired)
-description: Find active Palia redeem codes updated June 2026. Free rewards, Twitch drops, and expired codes list — all in one place.
-date: 2026-06-28
+description: Find active Palia redeem codes updated July 2026. Free rewards, Twitch drops, and expired codes list — all in one place.
+date: 2026-07-05
 ---
 
 # 🎁 Palia Redeem Codes (Active & Expired)
 
-> **Last Updated:** June 28, 2026 — This page is updated as new codes are released.
+> **Last Updated:** July 5, 2026 — This page is updated as new codes are released.
 > Bookmark this page and check back regularly for the latest Palia codes!
 
 ---
@@ -55,6 +55,38 @@ date: 2026-06-28
 | PALIACREATE | Creator Bundle | ❌ Expired |
 | COMMUNITYLOVE | Community Bundle | ❌ Expired |
 | HOMESWEETHOME | Home Decor Bundle | ❌ Expired |
+| SUNKISSED2025 | Summer 2025 Cosmetics Bundle | ❌ Expired |
+| ELDERWOODBOUND | Elderwood Expansion Pack | ❌ Expired |
+| PALIA2025 | 2025 Anniversary Pack | ❌ Expired |
+| HEARTDROPLILY | Romance Starter Pack | ❌ Expired |
+| CATCHOFTHEDAY | Fishing Bundle | ❌ Expired |
+| HOPPINGTON | Frog of July Celebration Pack | ❌ Expired |
+| SUNKISSEDBUNDLE | Sunkissed Summer Cosmetics | ❌ Expired |
+
+---
+
+## 🆕 Latest Updates (July 2026)
+
+| Update | Date | Notes |
+|:-------|:-----|:------|
+| **Build 0.203** — *Sunkissed Summer: Bahari Bliss* | June 2, 2026 | Crab Wars event, Riffroc mount, KPOP content |
+| **Build 0.204** | July 6, 2026 (coming) | Check patch notes for potential new codes |
+| **Twitch Drops** | Ongoing | Bahari Bliss Twitch Drops — watch streams with Drops enabled |
+
+### Twitch Drop Campaigns (Active)
+
+Palia frequently runs **Twitch Drop campaigns** instead of traditional redeem codes. To claim:
+
+1. Link your Palia account to Twitch at [accounts.palia.com](https://accounts.palia.com)
+2. Watch any Palia streamer with **Drops Enabled** tag
+3. Progress bar fills as you watch (usually 1-4 hours per drop)
+4. Claim rewards on Twitch → they auto-deliver in-game
+
+**Current Twitch Drop rewards may include:**
+- Exclusive cosmetics (outfits, gliders)
+- Premium currency bundles
+- Decor items
+- Nameplate designs
 
 ---
 

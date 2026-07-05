@@ -1,7 +1,7 @@
 ---
 title: Palia Fish Database — Complete Fish Catalog with Locations, Bait Requirements, and Bundle Info
 description: Your ultimate reference for all 40+ fish in Palia, including catch locations, preferred bait, time of day, and which bundles they complete.
-date: 2026-06-26
+date: 2026-07-05
 ---
 
 # Palia Fish Database — Complete Fish Catalog
@@ -139,3 +139,137 @@ Your fishing level increases as you catch fish. Higher levels unlock new recipes
 6. **Upgrade your rod first.** Spend your early gold on the Standard Rod, then the Fine Rod. The longer cast and faster reel speed make a huge difference when chasing rare fish.
 
 Happy fishing, and may your line always be tight! For more Palia guides, check out our crop database and crafting recipes.
+
+---
+
+## Sell Prices by Fish
+
+Below are the base (no-star) sell prices for every fish in Palia, organized by region. Star-quality fish sell for roughly 1.5x base price.
+
+### Kilima Village — Rivers & Lakes
+
+| Fish Name | Rarity | Base Sell Price | Star Quality Price |
+|-----------|--------|:---------------:|:------------------:|
+| Silver Carp | C | 25 | 37 |
+| Bluegill | C | 35 | 52 |
+| Catfish | U | 55 | 82 |
+| Painted Perch | U | 50 | 75 |
+| Kilima Sturgeon | R | 220 | 330 |
+| Void Ray | E | 600 | 900 |
+
+### Kilima Village — Coast & Ocean
+
+| Fish Name | Rarity | Base Sell Price | Star Quality Price |
+|-----------|--------|:---------------:|:------------------:|
+| Sardine | C | 20 | 30 |
+| Mackerel | U | 45 | 67 |
+| Flounder | U | 60 | 90 |
+| Giant Stingray | R | 420 | 630 |
+| Ancient Fish | E | 1,200 | 1,800 |
+
+### Bahari Bay — Rivers & Lakes
+
+| Fish Name | Rarity | Base Sell Price | Star Quality Price |
+|-----------|--------|:---------------:|:------------------:|
+| Bahari Bass | C | 55 | 82 |
+| Redfin Carp | U | 85 | 127 |
+| Longnose Gar | R | 185 | 277 |
+| Midnight Pike | E | 480 | 720 |
+
+### Bahari Bay — Coast & Ocean
+
+| Fish Name | Rarity | Base Sell Price | Star Quality Price |
+|-----------|--------|:---------------:|:------------------:|
+| Beach Crab | C | 28 | 42 |
+| Sea Bass | U | 85 | 127 |
+| Coral Trout | R | 200 | 300 |
+| Mythic Fish | E | 750 | 1,125 |
+
+### Underground & Special Locations
+
+| Fish Name | Rarity | Base Sell Price | Star Quality Price |
+|-----------|--------|:---------------:|:------------------:|
+| Cave Eel | U | 45 | 67 |
+| Glowing Koi | R | 200 | 300 |
+| Crystal Carp | E | 250 | 375 |
+
+---
+
+## Recommended Fishing Routes
+
+### 🐟 Route 1: Early Game Money Maker (Lv 1-4)
+
+| Stop | Location | Fish Target | Bait | Est. Gold/Hour |
+|:----|:---------|:------------|:----|:--------------:|
+| 1 | Kilima River (daytime) | Painted Perch, Trout | Worm | ~300 |
+| 2 | Kilima Coast (any time) | Sardine, Mackerel | Worm | ~250 |
+| 3 | Kilima Lake (daytime) | Perch, Bluegill | Worm | ~200 |
+
+**Tip:** Focus on bubble rings (hotspots) only. Sell everything — you need gold more than ingredients at this stage.
+
+### 🐟 Route 2: Mid Game Bundle Hunter (Lv 5-7)
+
+| Stop | Location | Fish Target | Bait | Est. Gold/Hour |
+|:----|:---------|:------------|:----|:--------------:|
+| 1 | Kilima River (night) | Catfish | Worm | ~500 |
+| 2 | Kilima River (any time) | Kilima Sturgeon | Glow Worm | ~800 |
+| 3 | Bahari River (night) | Longnose Gar | Glow Worm | ~700 |
+| 4 | Underground Lake (night) | Glowing Koi | Glow Worm | ~1,000 |
+
+**Tip:** Start crafting Glow Worm bait at Lv 5. Bring 50+ glow worms per trip. Focus on bundle fish — completing bundles unlocks valuable rewards.
+
+### 🐟 Route 3: Late Game Gold Farming (Lv 8-10)
+
+| Stop | Location | Fish Target | Bait | Est. Gold/Hour |
+|:----|:---------|:------------|:----|:--------------:|
+| 1 | Underground (any time) | Crystal Carp, Void Ray | Glow Worm | ~1,500 |
+| 2 | Bahari Coast (day) | Coral Trout, Grouper | Glow Worm | ~1,200 |
+| 3 | Kilima Coast (night) | Ancient Fish | Glow Worm | ~2,000+ |
+
+**Tip:** Use Honey Lure for star quality boost. Equip Survey Bobbler for better rare fish odds. Bring Fisherman's Brew (+2 Fishing) for maximum catch rate.
+
+### 🐟 Route 4: The "Complete Everything" Marathon
+
+For players chasing 100% completion:
+
+1. **Kilima Lake (dawn)** — Sturgeon, Koi, Paddlefish (all rare)
+2. **Kilima River (night)** — Catfish + Void Ray
+3. **Bahari Coast (day)** — Coral Trout, Grouper, Giant Stingray
+4. **Bahari Bay (day)** — Mahi Mahi, Sailfish
+5. **Underground Lake (night)** — Glowing Koi, Crystal Carp, Ancient Fish
+
+### Fishing Skill Level Rewards
+
+| Level | Unlock |
+|:-----:|:-------|
+| 1 | Makeshift Rod, Basic fishing |
+| 2 | Standard Rod, Worm Bait crafting |
+| 3 | **Skill Choice:** Fisher (+25% fish sell price) or Forager (double rare fish catch) |
+| 4 | Glow Worm Bait recipe |
+| 5 | Fine Rod (longer cast, faster reel) |
+| 6 | Honey Lure recipe |
+| 7 | **Skill Choice:** Angler (+50% fish sell price) or Collector (chance for double catch) |
+| 8 | Radon Bobbler |
+| 9 | Survey Bobbler (improves star quality odds) |
+| 10 | Exquisite Rod (best in slot), Master Angler title |
+
+### Best Profit Fish by Effort Level
+
+| Effort | Fish | Location | Base Price | Est. Gold/Hour |
+|:-------|:-----|:---------|:----------:|:--------------:|
+| 🔵 Very Easy | Sardine | Kilima Coast | 20 | ~200 |
+| 🟢 Easy | Trout | Kilima River | 65 | ~350 |
+| 🟡 Medium | Grouper | Bahari Coast | 200 | ~800 |
+| 🟠 Hard | Void Ray | Underground | 600 | ~1,500 |
+| 🔴 Expert | Ancient Fish | Underground | 1,200 | ~2,000+ |
+
+### Quick Reference: Fishing GPS Coordinates
+
+| Landmark | Fish Zone | Best Time |
+|:---------|:----------|:---------:|
+| Kilima Village Fountain | Kilima River | Any |
+| Remembrance Beach | Kilima Coast | Day |
+| Fisherman's Lagoon | Kilima Lake | Day |
+| The Flooded Steps | Bahari Coast | Night |
+| Pulsewater Plains | Bahari River | Night |
+| The Underground — Central Pool | Underground Lake | Any (night preferred) |

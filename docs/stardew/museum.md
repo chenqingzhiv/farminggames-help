@@ -1,6 +1,6 @@
 ---
-title: Stardew Valley Museum Donation Guide — Complete Checklist
-description: Stardew Valley Museum Guide — Complete artifact and mineral donation checklist with locations, tips, and rewards for completing Gunther's collection
+title: Stardew Valley Museum Guide — Complete Artifact &amp; Mineral Collection Checklist
+description: Stardew Valley museum donation guide. Complete artifact and mineral checklist with locations, how to find each item, and donation rewards.
 ---
 
 # 🏛️ Museum Donation Guide — Complete Checklist

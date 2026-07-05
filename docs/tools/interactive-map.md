@@ -80,9 +80,31 @@ Explore the valley with our interactive collection map. Click on any area to see
     <p id="fall-forage-list"></p>
   </div>
   
+  <div id="winter-forage-section" class="forage-section">
+    <h4>❄️ Winter Forage</h4>
+    <p id="winter-forage-list"></p>
+  </div>
+  
   <div id="fishing-section" class="forage-section">
     <h4>🎣 Fish Available</h4>
     <p id="fishing-list"></p>
+  </div>
+
+  <div id="mine-section" class="forage-section" style="display:none;">
+    <h4>⛏️ Mines</h4>
+    <p id="mine-floors"></p>
+    <p id="mine-ore"></p>
+    <p id="mine-special"></p>
+  </div>
+
+  <div id="shops-section" class="forage-section" style="display:none;">
+    <h4>🏪 Shops & Services</h4>
+    <p id="shops-list"></p>
+  </div>
+
+  <div id="tips-section" class="forage-section" style="display:none;">
+    <h4>💡 Pro Tips</h4>
+    <p id="tips-text"></p>
   </div>
   
   <div id="npcs-section" class="forage-section">
@@ -95,59 +117,84 @@ Explore the valley with our interactive collection map. Click on any area to see
 const regionData = {
   town: {
     name: 'Town (Pelican Town)',
+    icon: '🏘️',
     spring: ['Daffodil', 'Dandelion', 'Leek', 'Spring Onion'],
     summer: ['Spice Berry', 'Summer Spangle', 'Sweet Pea'],
     fall: ['Blackberry', 'Common Mushroom', 'Hazelnut', 'Wild Plum'],
-    fishing: ['Bullhead', 'Bream', 'Carp', 'Sunfish', 'Chub', 'Perch (Winter)', 'Pike (Winter)'],
-    npcs: ['Abigail', 'Alex', 'Caroline', 'Emily', 'Evelyn', 'George', 'Gus', 'Harvey', 'Jas', 'Jodi', 'Kent', 'Lewis', 'Marnie', 'Pam', 'Penny', 'Pierre', 'Robin', 'Sam', 'Shane', 'Vincent', 'Willy']
+    winter: ['Crocus', 'Crystal Fruit', 'Snow Yam', 'Winter Root'],
+    fishing: [{name:'Bullhead',season:'All'}, {name:'Bream',season:'All'}, {name:'Carp',season:'All'}, {name:'Sunfish',season:'Spring/Summer'}, {name:'Chub',season:'All'}, {name:'Perch',season:'Winter'}, {name:'Pike',season:'Winter'}],
+    npcs: ['Abigail', 'Alex', 'Caroline', 'Emily', 'Evelyn', 'George', 'Gus', 'Harvey', 'Jas', 'Jodi', 'Kent', 'Lewis', 'Marnie', 'Pam', 'Penny', 'Pierre', 'Robin', 'Sam', 'Shane', 'Vincent', 'Willy'],
+    shops: ["Pierre's (9-5)", "Stardrop Saloon (12-midnight)", "Marnie's Ranch (9-4)"]
   },
   farm: {
     name: 'Your Farm',
+    icon: '🚜',
     spring: ['Wild Horseradish', 'Daffodil', 'Leek', 'Dandelion'],
     summer: ['Spice Berry', 'Sweet Pea'],
     fall: ['Common Mushroom', 'Hazelnut', 'Blackberry'],
-    fishing: ['Carp', 'Bullhead', 'Sunfish'],
-    npcs: ['None — it\'s your private farm!']
+    winter: ['Snake Milk (1.6)', 'Moss'],
+    fishing: [{name:'Carp',season:'All'}, {name:'Bullhead',season:'All'}, {name:'Sunfish',season:'Spring/Summer'}],
+    npcs: ['None — it\'s your private farm!'],
+    tips: 'Build at least 1 silo before cutting grass to save hay for winter!'
   },
   beach: {
     name: 'The Beach',
+    icon: '🏖️',
     spring: ['Coral', 'Clam', 'Mussel', 'Nautilus Shell', 'Oyster', 'Rainbow Shell'],
     summer: ['Coral', 'Clam', 'Mussel', 'Nautilus Shell', 'Oyster', 'Rainbow Shell'],
     fall: ['Coral', 'Clam', 'Mussel', 'Nautilus Shell', 'Oyster', 'Rainbow Shell'],
-    fishing: ['Anchovy', 'Red Mullet', 'Sardine', 'Squid (Winter)', 'Tuna', 'Halibut (Spring/Summer)', 'Pufferfish (Summer)', 'Super Cucumber (Summer/Night)', 'Lobster (Crab Pot)', 'Shrimp (Crab Pot)'],
-    npcs: ['Willy', 'Elliott']
+    winter: ['Coral', 'Clam', 'Mussel', 'Nautilus Shell', 'Oyster', 'Rainbow Shell'],
+    fishing: [{name:'Anchovy',season:'Spring/Fall'}, {name:'Red Mullet',season:'Summer/Winter'}, {name:'Sardine',season:'Spring/Fall/Winter'}, {name:'Squid',season:'Winter'}, {name:'Tuna',season:'Summer/Winter'}, {name:'Halibut',season:'Spring/Summer'}, {name:'Pufferfish',season:'Summer 12pm-4pm'}, {name:'Super Cucumber',season:'Summer/Night'}, {name:'Octopus',season:'Summer 6am-1pm'}, {name:'Lobster (Crab Pot)'}, {name:'Shrimp (Crab Pot)'}, {name:'Crab (Crab Pot)'}],
+    npcs: ['Willy', 'Elliott'],
+    shops: ["Willy's Fish Shop (9-5)"]
   },
   forest: {
     name: 'Cindersap Forest',
-    spring: ['Daffodil', 'Dandelion', 'Leek', 'Morel', 'Salmonberry (15-18)'],
+    icon: '🌲',
+    spring: ['Daffodil', 'Dandelion', 'Leek', 'Morel', 'Salmonberry 🍓 (15-18)'],
     summer: ['Fiddlehead Fern', 'Spice Berry', 'Sweet Pea', 'Red Mushroom'],
     fall: ['Blackberry', 'Chanterelle', 'Common Mushroom', 'Hazelnut', 'Wild Plum'],
-    fishing: ['Bullhead', 'Bream', 'Carp', 'Chub', 'Walleye (Fall/Rain)', 'Pike (Winter)'],
-    npcs: ['Marnie', 'Sebastian', 'Wizard', 'Leah', 'Marlon', 'Gil']
+    winter: ['Crystal Fruit', 'Holly', 'Winter Root'],
+    fishing: [{name:'Bullhead',season:'All'}, {name:'Bream',season:'All'}, {name:'Carp',season:'All'}, {name:'Chub',season:'All'}, {name:'Walleye',season:'Fall/Rain'}, {name:'Pike',season:'Winter'}, {name:'Green Algae'}, {name:'Sunfish',season:'Spring/Summer'}],
+    npcs: ['Marnie', 'Sebastian', 'Wizard', 'Leah', 'Marlon', 'Gil'],
+    shops: ["Marnie's Ranch (9-4)", "Wizard's Tower"],
+    secrets: 'Secret Woods accessible with Steel Axe — contains hardwood stumps and a minecart!'
   },
   mountain: {
     name: 'Mountains',
+    icon: '⛰️',
     spring: ['Daffodil', 'Dandelion', 'Leek', 'Morel'],
     summer: ['Fiddlehead Fern', 'Spice Berry', 'Sweet Pea'],
     fall: ['Blackberry', 'Chanterelle', 'Common Mushroom', 'Hazelnut', 'Wild Plum'],
-    fishing: ['Bullhead', 'Bream', 'Carp', 'Chub', 'Largemouth Bass', 'Sturgeon', 'Walleye (Fall/Rain)', 'Pike (Winter)', 'Perch (Winter)'],
-    npcs: ['Demetrius', 'Linus', 'Maru', 'Robin', 'Clint', 'Pam']
+    winter: ['Crocus', 'Crystal Fruit', 'Snow Yam', 'Winter Root'],
+    fishing: [{name:'Bullhead',season:'All'}, {name:'Bream',season:'All'}, {name:'Carp',season:'All'}, {name:'Chub',season:'All'}, {name:'Largemouth Bass',season:'All'}, {name:'Sturgeon',season:'Summer/Winter'}, {name:'Walleye',season:'Fall/Rain'}, {name:'Pike',season:'Winter'}, {name:'Perch',season:'Winter'}, {name:'Green Algae'}],
+    npcs: ['Demetrius', 'Linus', 'Maru', 'Robin', 'Clint', 'Pam'],
+    mine: {floors:'1-120',mainOre:'Copper→Iron→Gold→Iridium',special:'Elevator every 5 floors, elevator permanent'},
+    shops: ["Robin's Carpenter (9-5)", "Clint's Blacksmith (9-4)", "Mine entrance (unlocked Day 5)"]
   },
   desert: {
     name: 'Calico Desert',
+    icon: '🏜️',
     spring: ['Cactus Fruit', 'Coconut'],
     summer: ['Cactus Fruit', 'Coconut'],
     fall: ['Cactus Fruit', 'Coconut'],
-    fishing: ['Sandfish', 'Scorpion Carp'],
-    npcs: ['Sandy', 'Skull Cavern', 'Casino', 'Traveling Merchant (Fri/Sun)']
+    winter: ['Cactus Fruit', 'Coconut'],
+    fishing: [{name:'Sandfish',season:'All (desert pond)'}, {name:'Scorpion Carp',season:'All (desert pond)'}],
+    npcs: ['Sandy', 'Skull Cavern', 'Casino', 'Traveling Merchant (Fri/Sun)'],
+    shops: ["Oasis (9-11pm)", "Casino (9am-1am)", "Desert Trader (6am-2am)", "Skull Cavern (unlocked after Bus repaired)"],
+    mine: {floors:'Skull Cavern (infinite)',mainOre:'Iridium',special:'Unlocked via Bus Repair (42,500g/CC Bundle)'}
   },
   ginger: {
     name: 'Ginger Island',
+    icon: '🏝️',
     spring: ['Ginger', 'Magma Cap', 'Taro Root', 'Cinder Shard'],
     summer: ['Ginger', 'Magma Cap', 'Taro Root', 'Cinder Shard'],
     fall: ['Ginger', 'Magma Cap', 'Taro Root', 'Cinder Shard'],
-    fishing: ['Blue Discus', 'Flounder', 'Lionfish', 'Stingray', 'Tuna', 'Pufferfish'],
-    npcs: ['Leo', 'Birdie', 'Professor Snail', 'Qi']
+    winter: ['Ginger', 'Magma Cap', 'Taro Root', 'Cinder Shard'],
+    fishing: [{name:'Blue Discus',season:'All'}, {name:'Flounder',season:'All'}, {name:'Lionfish',season:'All'}, {name:'Stingray',season:'All'}, {name:'Tuna',season:'All'}, {name:'Pufferfish',season:'All'}],
+    npcs: ['Leo', 'Birdie', 'Professor Snail', 'Qi'],
+    shops: ["Qi's Walnut Room", "Volcano Dungeon (10 levels)", "Island Field Office"],
+    mine: {floors:'Volcano Dungeon (10 levels)',mainOre:'Cinder Shard → Galaxy Souls',special:'Each of 10 levels has gem nodes + chest at the end'}
   }
 };
 
@@ -155,15 +202,50 @@ function showRegion(region) {
   const data = regionData[region];
   if (!data) return;
   
-  document.getElementById('region-info').innerHTML = `<h3>📍 ${data.name}</h3>`;
+  document.getElementById('region-info').innerHTML = `<h3>${data.icon} ${data.name}</h3>`;
   document.getElementById('region-details').style.display = 'block';
-  document.getElementById('region-title').textContent = data.name;
+  document.getElementById('region-title').textContent = `${data.icon} ${data.name}`;
   
   document.getElementById('spring-forage-list').textContent = data.spring.join(' · ');
   document.getElementById('summer-forage-list').textContent = data.summer.join(' · ');
   document.getElementById('fall-forage-list').textContent = data.fall.join(' · ');
-  document.getElementById('fishing-list').textContent = data.fishing.join(' · ');
+  document.getElementById('winter-forage-list').textContent = (data.winter || ['None']).join(' · ');
+  
+  // Fish — format with seasons
+  const fishText = data.fishing.map(f => typeof f === 'string' ? f : `${f.name} (${f.season})`).join(' · ');
+  document.getElementById('fishing-list').textContent = fishText;
+  
+  // NPCs
   document.getElementById('npcs-list').textContent = data.npcs.join(' · ');
+  
+  // Mine info (mountain, desert, ginger)
+  const mineSection = document.getElementById('mine-section');
+  if (data.mine) {
+    mineSection.style.display = 'block';
+    document.getElementById('mine-floors').textContent = `🏗️ Floors: ${data.mine.floors}`;
+    document.getElementById('mine-ore').textContent = `⛏️ Main Ore: ${data.mine.mainOre}`;
+    document.getElementById('mine-special').textContent = `✨ ${data.mine.special}`;
+  } else {
+    mineSection.style.display = 'none';
+  }
+  
+  // Shops
+  const shopsSection = document.getElementById('shops-section');
+  if (data.shops) {
+    shopsSection.style.display = 'block';
+    document.getElementById('shops-list').textContent = data.shops.join(' · ');
+  } else {
+    shopsSection.style.display = 'none';
+  }
+  
+  // Tips
+  const tipsSection = document.getElementById('tips-section');
+  if (data.tips || data.secrets) {
+    tipsSection.style.display = 'block';
+    document.getElementById('tips-text').textContent = data.secrets || data.tips || '';
+  } else {
+    tipsSection.style.display = 'none';
+  }
   
   // Scroll to details
   document.getElementById('region-details').scrollIntoView({behavior: 'smooth'});

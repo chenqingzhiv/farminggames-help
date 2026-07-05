@@ -1,6 +1,6 @@
 ---
-title: Stardew Valley Festival Events Calendar — Complete Year Guide
-description: Stardew Valley Festival Calendar — Complete year-round festival guide with dates, times, activities, rewards, and strategies for all 12 major festivals
+title: Stardew Valley Festivals Guide — All Events, Rewards &amp; Winning Strategies
+description: Stardew Valley festival guide with all seasonal events. Egg Festival, Luau, Stardew Valley Fair, Festival of Ice, Night Market and more.
 ---
 
 # 🎪 Festival Events Calendar

@@ -1,6 +1,6 @@
 ---
-title: 💝 NPC Gift Guide
-description: > Stardew Valley 1.6 | Quick NPC Preference Reference
+title: Stardew Valley NPC Gift Guide — Complete Loved/Liked Gifts for All Villagers
+description: Complete Stardew Valley NPC gift guide. All villagers' loved, liked, neutral, and hated gifts. Best gift strategy for fast friendship and marriage.
 date: 2026-06-27
 ---
 
