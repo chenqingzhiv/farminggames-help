@@ -58,37 +58,83 @@ nav:
   - Farming Sim 25:
       - Overview: farmingsim/index.md
       - Getting Started: farmingsim/getting-started.md
-      - Crops: farmingsim/crops.md
-      - Machinery: farmingsim/machinery.md
-      - Profit Guide: farmingsim/profit-guide.md
-      - Vehicle Compare: farmingsim/vehicle-compare.md
+      - 🌱 Crops: farmingsim/crops.md
+      - 🚜 Machinery: farmingsim/machinery.md
+      - 💰 Profit Guide: farmingsim/profit-guide.md
+      - 🏭 Production Chains: farmingsim/production-chains.md
+      - 🚗 Vehicle Compare: farmingsim/vehicle-compare.md
+      - 🐄 Animals: farmingsim/animals.md
+      - 📦 Mods: tools/mods.md
   - Palia:
       - Overview: palia/index.md
-      - Beginner Guide: palia/guide.md
-      - Crops: palia/crops.md
-      - Crop Profit: palia/crop-profit.md
-      - Fish: palia/fish.md
-      - Fish Guide: palia/fish-guide.md
-      - Friendship: palia/friendship.md
-      - Redeem Codes: palia/redeem-codes.md
+      - 🎒 Beginner Guide: palia/guide.md
+      - 🌱 Crops: palia/crops.md
+      - 💰 Crop Profit: palia/crop-profit.md
+      - 🐟 Fish: palia/fish.md
+      - 🐟 Fish Guide: palia/fish-guide.md
+      - 🏹 Hunting: palia/hunting.md
+      - 🍳 Cooking: palia/cooking.md
+      - 💝 Friendship: palia/friendship.md
+      - 🏠 Housing: palia/housing.md
+      - 🎁 Redeem Codes: palia/redeem-codes.md
+  - Coral Island:
+      - Overview: coral-island/index.md
+      - Getting Started: coral-island/getting-started.md
+      - 🌱 Crops: coral-island/crops.md
+      - 💰 Crop Profit: coral-island/crop-profit.md
+      - ⛏️ Mining: coral-island/mining.md
+      - 🤿 Diving: coral-island/diving.md
+      - 🐟 Fish: coral-island/fish-guide.md
+      - 🐄 Animals: coral-island/animals.md
+      - 🧪 Artisan: coral-island/artisan.md
+      - 💕 Romance: coral-island/romance.md
+  - Fields of Mistria:
+      - Overview: fields-mistria/index.md
+      - Getting Started: fields-mistria/getting-started.md
+      - 🌱 Crop Profit: fields-mistria/crop-profit.md
+      - 🌿 Seasonal Crop Strategy: fields-mistria/seasonal-strategy.md
+      - ⛏️ Mining & Combat: fields-mistria/mining.md
+      - 🐟 Fish: fields-mistria/fish.md
+      - 💝 Gift Guide: fields-mistria/gift-guide.md
+      - 🍳 Cooking: fields-mistria/cooking.md
+      - 🐄 Animals: fields-mistria/animals.md
+      - 🎪 Festivals: fields-mistria/festivals.md
+      - 🔧 Crafting: fields-mistria/crafting.md
+      - 🏠 Housing: fields-mistria/housing.md
+      - 🏛️ Museum: fields-mistria/museum.md
+  - Sandrock:
+      - Overview: sandrock/index.md
+      - Getting Started: sandrock/getting-started.md
+      - 🗺️ Resources: sandrock/resources.md
+      - 💝 Gift Guide: sandrock/gift-guide.md
+      - 🌱 Crops: sandrock/crops.md
+      - 🐟 Fishing: sandrock/fishing.md
+      - ⚔️ Ruins & Combat: sandrock/combat.md
+      - 🔧 Workshop: sandrock/workshop-optimization.md
+      - 🍳 Cooking: sandrock/cooking.md
+      - 🐪 Animals & Mounts: sandrock/animals.md
+      - 🏠 Housing: sandrock/housing.md
+      - 📅 Seasonal Guide: sandrock/seasonal-guide.md
+  - Sun Haven:
+      - Overview: sun-haven/index.md
+      - Getting Started: sun-haven/getting-started.md
+      - 🌱 Crop Profit: sun-haven/crop-profit.md
+      - 🌿 Farming Deep Dive: sun-haven/farming-deep-dive.md
+      - ⚔️ Combat & Magic: sun-haven/combat.md
+      - 🐟 Fishing: sun-haven/fishing.md
+      - 🐄 Animals: sun-haven/animals.md
+      - 🎪 Festivals: sun-haven/festivals.md
+      - 🎁 NPC Gifts: sun-haven/npc-gifts.md
   - Tools:
       - Overview: tools/index.md
       - 🎒 Bundle Tracker: tools/bundle-tracker.md
       - 💰 Profit Optimizer: tools/profit-optimizer.md
       - 🗺️ Interactive Map: tools/interactive-map.md
       - 📊 Profit Calculator: tools/profit-calculator.md
+      - 🌴 Coral Island Profit Calc: tools/coral-island/crop-profit-calculator.md
       - 🎮 Mods: tools/mods.md
       - 💾 Saves: tools/saves.md
       - Game Comparison: tools/game-comparison/index.md
       - Release Calendar: tools/release-calendar/index.md
   - Guides: guides/index.md
-  - Coral Island:
-      - Overview: coral-island/index.md
-      - Getting Started: coral-island/getting-started.md
-      - Crops: coral-island/crops.md
-      - Crop Profit: coral-island/crop-profit.md
-      - Fish Guide: coral-island/fish-guide.md
-  - Fields of Mistria: fields-mistria/index.md
-  - Sandrock: sandrock/index.md
-  - Sun Haven: sun-haven/index.md
   - About: about.md
