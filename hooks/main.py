@@ -39,12 +39,12 @@ def define_env(env):
         return f'<span style="color:#FFD700;font-size:1.1em">{full}{half}{empty}</span>'
 
     @env.macro
-    def profit_table(items, title="利润对比表"):
+    def profit_table(items, title="Profit Comparison"):
         """Generate a styled profit comparison table from a list of dicts.
         Each item should have: name, seed_cost, grow_days, regrow, sell_price, profit_per_day, notes
         """
         if not items:
-            return "<p>暂无数据</p>"
+            return "<p>No data available</p>"
 
         rows = ""
         best = max(float(i.get("profit_per_day", 0)) for i in items)
@@ -57,17 +57,17 @@ def define_env(env):
 
             rows += f"""<tr {row_class}>
                 <td><strong>{item.get("name", "")}</strong></td>
-                <td>{item.get("seed_cost", "-")}金</td>
-                <td>{item.get("grow_days", "-")}天</td>
-                <td>{item.get("regrow", "否")}</td>
-                <td>{item.get("sell_price", "-")}金</td>
-                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:{bar_pct}%;background:{'#FFD700' if is_best else '#4CAF50'};height:100%"></div></div><strong>{p}金</strong></div></td>
+                <td>{item.get("seed_cost", "-")}g</td>
+                <td>{item.get("grow_days", "-")}d</td>
+                <td>{item.get("regrow", "No")}</td>
+                <td>{item.get("sell_price", "-")}g</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:{bar_pct}%;background:{'#FFD700' if is_best else '#4CAF50'};height:100%"></div></div><strong>{p}g</strong></div></td>
                 <td>{item.get("notes", "")}</td>
             </tr>"""
 
         return f"""<table class="datatable" style="width:100%">
             <thead><tr>
-                <th>作物</th><th>种子价格</th><th>生长天数</th><th>续收</th><th>卖价</th><th>每日利润</th><th>备注</th>
+                <th>Crop</th><th>Seed Cost</th><th>Grow Days</th><th>Regrow</th><th>Sell Price</th><th>Profit/Day</th><th>Notes</th>
             </tr></thead>
             <tbody>{rows}</tbody>
         </table>"""
@@ -92,12 +92,12 @@ def define_env(env):
         )
 
     @env.macro
-    def tier_table(items, title="Tier排名"):
+    def tier_table(items, title="Tier Ranking"):
         """Generate a tier ranking table from a list of dicts.
         Each item: name, tier, description, icon
         """
         if not items:
-            return "<p>暂无数据</p>"
+            return "<p>No data available</p>"
 
         tier_order = {"S": 0, "A": 1, "B": 2, "C": 3, "D": 4, "F": 5}
         rows = ""
@@ -110,17 +110,17 @@ def define_env(env):
             </tr>"""
 
         return f"""<table class="datatable" style="width:100%">
-            <thead><tr><th>Tier</th><th>名称</th><th>说明</th></tr></thead>
+            <thead><tr><th>Tier</th><th>Name</th><th>Description</th></tr></thead>
             <tbody>{rows}</tbody>
         </table>"""
 
     @env.macro
     def affiliate_section(game_name, steam_id="", humble_url=""):
         """Standard affiliate section for bottom of guides."""
-        html = '\n---\n\n### 🛒 购买链接\n\n'
+        html = '\n---\n\n### 🛒 Where to Buy\n\n'
         if steam_id:
             html += affiliate_button("steam", game_name, f"https://store.steampowered.com/app/{steam_id}/") + "\n"
         if humble_url:
             html += affiliate_button("humble", game_name, humble_url) + "\n"
-        html += '\n\n*以上链接为推广链接，购买后本站可获得少量佣金，不影响您的购买价格。*\n'
+        html += '\n\n*Disclosure: Affiliate links. We may earn a small commission at no extra cost to you.*\n'
         return html
