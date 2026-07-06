@@ -184,18 +184,18 @@ date: 2026-06-27
     <div class="video-series-progress-item">
       <div class="vsp-top">
         <span class="vsp-name">🧭 纯新手向攻略</span>
-        <span class="vsp-status vsp-active">2 / 3 🔄</span>
+        <span class="vsp-status vsp-complete">3 / 3 ✅</span>
       </div>
-      <div class="vsp-bar"><div class="vsp-fill-active" style="width:66%"></div></div>
-      <span class="vsp-label">⬅️ 进行中</span>
+      <div class="vsp-bar"><div class="vsp-fill" style="width:100%"></div></div>
+      <span class="vsp-label">已完成</span>
     </div>
     <div class="video-series-progress-item">
       <div class="vsp-top">
         <span class="vsp-name">🌟 星露谷物语攻略</span>
-        <span class="vsp-status vsp-pending">0 / 2</span>
+        <span class="vsp-status vsp-active">0 / 2 🔄</span>
       </div>
-      <div class="vsp-bar"><div class="vsp-fill" style="width:0%"></div></div>
-      <span class="vsp-label">待开始</span>
+      <div class="vsp-bar"><div class="vsp-fill-active" style="width:0%"></div></div>
+      <span class="vsp-label">⬅️ 进行中</span>
     </div>
     <div class="video-series-progress-item">
       <div class="vsp-top">
@@ -225,15 +225,16 @@ date: 2026-06-27
 
   <div class="video-series-footer">
     <div class="video-series-footer-left">
-      <span class="video-series-total">📊 <strong>5个系列</strong> · <strong>13篇攻略</strong> 计划 · <strong>2</strong> 已上线</span>
+      <span class="video-series-total">📊 <strong>5个系列</strong> · <strong>13篇攻略</strong> 计划 · <strong>3</strong> 已上线</span>
     </div>
     <div class="video-series-footer-right">
-      <span class="video-series-next">📅 下篇: <strong>【王道长】星露谷物语攻略（第三期）南瓜or蔓越莓</strong></span>
+      <span class="video-series-next">📅 下篇: <strong>【王道长】星露谷物语攻略（第一期）星之果实的获得方法</strong></span>
       <span class="video-series-schedule">🕐 一三五 16:00</span>
     </div>
   </div>
 </div>
 <!-- ===== END VIDEO SERIES BLOCK ===== -->
+
 
 
 

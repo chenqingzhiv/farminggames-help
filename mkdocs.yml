@@ -4,9 +4,11 @@ theme:
   name: material
   custom_dir: overrides
   features:
-    - navigation.tabs
+    - navigation.sections
     - navigation.top
     - toc.integrate
+    - search.highlight
+    - search.suggest
 
 extra_css:
   - assets/css/custom.css
@@ -25,12 +27,14 @@ extra:
   generator: false
 
 nav:
-  - Home: index.md
-  - Stardew Valley:
+  - 🏠 Home: index.md
+  - 🌿 Stardew Valley:
       - Overview: stardew/index.md
       - 🌱 Crops & Farming:
           - Crops: stardew/crops.md
           - Greenhouse: stardew/greenhouse-crops.md
+          - Fruit Trees: stardew/fruit-trees.md
+          - Forage Guide: stardew/forage-guide.md
           - Profit Calc: stardew/profit-calc.md
           - Planting Calendar: stardew/planting-calendar.md
           - Farm Layout: stardew/farm-layout.md
@@ -45,6 +49,7 @@ nav:
       - 🐟 Fishing:
           - Fish: stardew/fish.md
           - Fishing Guide: stardew/fishing.md
+          - Fish Pond: stardew/fish-pond-guide.md
       - 👥 NPC & Social:
           - NPC Gifts: stardew/npc-gifts.md
           - Schedule: stardew/schedule.md
@@ -67,9 +72,11 @@ nav:
           - Ginger Island: stardew/ginger-island.md
           - 1.6 Update: stardew/1.6-update-guide/index.md
           - 📅 Year 2+ Guide: stardew/year-2-guide.md
+          - 🏛️ Ancient Fruit Empire: stardew/ancient-fruit-empire.md
       - 🏆 Collections:
           - Museum: stardew/museum.md
           - Walnuts: stardew/walnuts.md
+          - Bundles: stardew/bundle-reference.md
           - Tier List: stardew/tier-list.md
           - Encyclopedia: stardew/encyclopedia.md
           - 🏆 100% Completion: stardew/perfect-completion.md
@@ -77,7 +84,7 @@ nav:
           - Bundle Tracker: tools/bundle-tracker.md
           - Profit Optimizer: tools/profit-optimizer.md
           - Interactive Map: tools/interactive-map.md
-  - Farming Sim 25:
+  - 🚜 Farming Sim 25:
       - Overview: farmingsim/index.md
       - Getting Started: farmingsim/getting-started.md
       - 🗺️ Maps & Field Guide: farmingsim/maps-guide.md
@@ -89,7 +96,7 @@ nav:
       - 🐄 Animals: farmingsim/animals.md
       - 🌲 Forestry: farmingsim/forestry.md
       - 📋 Contracts: farmingsim/contracts.md
-  - Palia:
+  - 🏹 Palia:
       - Overview: palia/index.md
       - 🎒 Beginner Guide: palia/guide.md
       - 🗺️ Maps & Zones: palia/maps-guide.md
@@ -107,7 +114,7 @@ nav:
       - 💝 Friendship: palia/friendship.md
       - 🏠 Housing: palia/housing.md
       - 🎁 Redeem Codes: palia/redeem-codes.md
-  - Coral Island:
+  - 🌴 Coral Island:
       - Overview: coral-island/index.md
       - Getting Started: coral-island/getting-started.md
       - 🌱 Crops: coral-island/crops.md
@@ -122,7 +129,7 @@ nav:
       - 🍳 Cooking: coral-island/cooking.md
       - 💕 Romance: coral-island/romance.md
       - 🏠 Housing: coral-island/housing.md
-  - Fields of Mistria:
+  - ✨ Fields of Mistria:
       - Overview: fields-mistria/index.md
       - Getting Started: fields-mistria/getting-started.md
       - 🌱 Crop Profit: fields-mistria/crop-profit.md
@@ -134,9 +141,10 @@ nav:
       - 🐄 Animals: fields-mistria/animals.md
       - 🎪 Festivals: fields-mistria/festivals.md
       - 🔧 Crafting: fields-mistria/crafting.md
+      - 🏭 Artisan & Endgame: fields-mistria/artisan-and-endgame.md
       - 🏠 Housing: fields-mistria/housing.md
       - 🏛️ Museum: fields-mistria/museum.md
-  - Sandrock:
+  - 🏜️ Sandrock:
       - Overview: sandrock/index.md
       - Getting Started: sandrock/getting-started.md
       - 🗺️ Resources: sandrock/resources.md
@@ -151,7 +159,7 @@ nav:
       - 🎪 Festivals: sandrock/festivals.md
       - 🔧 Artisan Processing: sandrock/artisan.md
       - 📅 Seasonal Guide: sandrock/seasonal-guide.md
-  - Sun Haven:
+  - ☀️ Sun Haven:
       - Overview: sun-haven/index.md
       - Getting Started: sun-haven/getting-started.md
       - 🌱 Crop Profit: sun-haven/crop-profit.md
@@ -167,7 +175,7 @@ nav:
       - 🗺️ Zones & Map Guide: sun-haven/zones-guide.md
       - 🌟 Endgame Guide: sun-haven/endgame-guide.md
       - 📅 Seasonal Strategy: sun-haven/seasonal-strategy.md
-  - Tools:
+  - 🛠️ Tools:
       - Overview: tools/index.md
       - 🎒 Bundle Tracker: tools/bundle-tracker.md
       - 💰 Profit Optimizer: tools/profit-optimizer.md
@@ -178,5 +186,5 @@ nav:
       - 💾 Saves: tools/saves.md
       - Game Comparison: tools/game-comparison/index.md
       - Release Calendar: tools/release-calendar/index.md
-  - Guides: guides/index.md
+  - 📖 Guides: guides/index.md
   - About: about.md
