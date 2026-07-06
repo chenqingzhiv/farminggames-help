@@ -192,9 +192,9 @@ date: 2026-06-27
     <div class="video-series-progress-item">
       <div class="vsp-top">
         <span class="vsp-name">🌟 星露谷物语攻略</span>
-        <span class="vsp-status vsp-active">0 / 2 🔄</span>
+        <span class="vsp-status vsp-active">1 / 2 🔄</span>
       </div>
-      <div class="vsp-bar"><div class="vsp-fill-active" style="width:0%"></div></div>
+      <div class="vsp-bar"><div class="vsp-fill-active" style="width:50%"></div></div>
       <span class="vsp-label">⬅️ 进行中</span>
     </div>
     <div class="video-series-progress-item">
@@ -225,15 +225,16 @@ date: 2026-06-27
 
   <div class="video-series-footer">
     <div class="video-series-footer-left">
-      <span class="video-series-total">📊 <strong>5个系列</strong> · <strong>13篇攻略</strong> 计划 · <strong>3</strong> 已上线</span>
+      <span class="video-series-total">📊 <strong>5个系列</strong> · <strong>13篇攻略</strong> 计划 · <strong>4</strong> 已上线</span>
     </div>
     <div class="video-series-footer-right">
-      <span class="video-series-next">📅 下篇: <strong>【王道长】星露谷物语攻略（第一期）星之果实的获得方法</strong></span>
+      <span class="video-series-next">📅 下篇: <strong>【王道长】星露谷物语萌新如何获得大量的煤炭</strong></span>
       <span class="video-series-schedule">🕐 一三五 16:00</span>
     </div>
   </div>
 </div>
 <!-- ===== END VIDEO SERIES BLOCK ===== -->
+
 
 
 
