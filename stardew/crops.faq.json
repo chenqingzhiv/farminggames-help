@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the most profitable Stardew Valley crop per season?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Spring: Strawberries (120g/day with Tiller). Summer: Starfruit (383g/day) or Blueberries (75g/day). Fall: Cranberries (85g/day) or Pumpkins (54g/day). Greenhouse: Ancient Fruit (110g/day), Hops for Pale Ale (420g/day per keg)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I use fertilizer in Stardew Valley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Speed-Gro for multi-harvest crops (extra harvest). Quality Fertilizer for direct-sale crops. Deluxe Speed-Gro for Starfruit (9 days instead of 13)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What new crops were added in Stardew Valley 1.6?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Carrots (Spring), Summer Squash (Summer), Broccoli (Fall), and Powdermelon (Winter greenhouse). Also added the Meadowlands farm with bluegrass."
+      }
+    }
+  ]
+}

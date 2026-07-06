@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Keg or Preserves Jar \u2014 which is better?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Kegs for high-value fruit (Starfruit Wine: 3,150g, Ancient Fruit Wine: 2,310g with Artisan). Preserves Jars for vegetables and low-value crops (faster processing). Rule: Keg for fruit, Preserves Jar for everything else."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I maximize Stardew Valley profits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choose Tiller then Artisan professions. Fill greenhouse with Ancient Fruit. Build sheds of Kegs. Plant Starfruit on Ginger Island in Summer. Use Deluxe Speed-Gro. Process everything through artisan equipment."
+      }
+    }
+  ]
+}

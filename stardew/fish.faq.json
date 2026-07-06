@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the most expensive fish in Stardew Valley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lava Eel (700g base, 1,050g with Angler), Legend (1,500g base), Glacierfish (900g base), Crimsonfish (1,500g base), and Mutant Carp (1,500g base). Legendary fish can only be caught once."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I catch all fish in Stardew Valley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use our interactive fish database by season, location, and weather. Each fish has specific conditions: time of day, season, weather, and location (ocean, lake, river, mines, desert, Ginger Island)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the most profitable crop in Stardew Valley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Starfruit and Ancient Fruit are the most profitable crops. Starfruit yields 2,250g per fruit (with Tiller profession) and Ancient Fruit produces 550g every 7 days. Hops processed into Pale Ale yields 420g per day per plant."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I start making money in Stardew Valley Year 1?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Spring: plant 80+ parsnips, fish for income, save 2,000g for Strawberries at Egg Festival. Summer: Blueberries and Hops. Fall: Cranberries and Pumpkins. Invest in backpack upgrades and coop."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I unlock Ginger Island?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Complete the Community Center, repair the boat after Willy's shop with 200 Hardwood, 5 Battery Packs, and 5 Iridium Bars."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the best crop in Farming Simulator 25?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Soybeans offer highest profit per acre. Sugarcane and Poplar have highest total revenue but need specialized equipment. Beginners: start with Canola and Wheat."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I make money in Palia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Farm Tomatoes and Bok Choy for consistent income. Hunt Sernuks for meat and leather. Fish in Bahari Bay at dawn/dusk. Mine Pallium nodes for high-value crafts."
+      }
+    }
+  ]
+}
