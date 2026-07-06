@@ -316,6 +316,20 @@ date: 2026-06-27
 
 <hr>
 
+<!-- ===== GAMING GEAR PROMO ===== -->
+<div class="gear-promo-banner">
+  <div class="gear-promo-content">
+    <div class="gear-promo-icon">🖥️</div>
+    <div class="gear-promo-text">
+      <h3>Play Better — Gear We Love for Farming Games</h3>
+      <p>Quiet keyboards, big monitors, comfy chairs — everything you need for cozy gaming sessions.</p>
+    </div>
+    <a href="guides/best-gaming-gear/" class="gear-promo-cta">See Our Picks →</a>
+  </div>
+</div>
+
+<hr>
+
 <div class="about-section-home">
   <h3>🌾 关于田园游戏攻略站</h3>
   <p>我们用心制作数据驱动的游戏攻略、交互式计算工具和精品资料库，涵盖星露谷、牧语、沙石镇等田园模拟游戏。每一篇攻略都经过实测验证。每周更新。永远免费。</p>
