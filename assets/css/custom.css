@@ -1245,3 +1245,69 @@ a.home-view-all:hover {
     min-width: 0;
   }
 }
+
+/* ══════════════════════════════════════════════ */
+/* 📅 Last Updated Footer                        */
+/* ══════════════════════════════════════════════ */
+
+.md-content__footer {
+  margin-top: 3rem;
+}
+
+.md-last-updated {
+  font-size: 0.8rem;
+  color: var(--md-default-fg-color--light);
+  text-align: right;
+}
+
+.md-last-updated a {
+  color: var(--pm-primary);
+}
+
+/* ══════════════════════════════════════════════ */
+/* 🖼️ Image Styles                                */
+/* ══════════════════════════════════════════════ */
+
+img.game-screenshot {
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  margin: 1rem 0;
+  max-width: 100%;
+  height: auto;
+}
+
+img.game-screenshot + em {
+  display: block;
+  text-align: center;
+  font-size: 0.85rem;
+  color: var(--md-default-fg-color--light);
+  margin-top: 0.25rem;
+}
+
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.image-grid figure {
+  margin: 0;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.image-grid img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.image-grid figcaption {
+  padding: 0.5rem;
+  font-size: 0.85rem;
+  text-align: center;
+  background: var(--md-default-fg-color--lightest);
+  color: var(--md-default-fg-color--light);
+}
