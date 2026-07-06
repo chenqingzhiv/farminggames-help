@@ -122,3 +122,5 @@ Stardew Valley has **80 dishes** in total (v1.6). Cooking is one of the most pra
 | Cheese | From Cheese Press |
 | Mayonnaise | From Mayonnaise Machine |
 | Oil (homemade) | From Oil Maker (Corn/Sunflower/Soybean) |
+
+{{ affiliate_section("Stardew Valley", "413150") }}

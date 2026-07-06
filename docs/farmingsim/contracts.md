@@ -242,3 +242,5 @@ Yes — you can cancel an accepted contract from the Contracts menu. However, yo
 ---
 
 *Contracts are the engine that drives early-game progress in Farming Simulator 25. Master them, and you'll have the capital to buy land, equipment, and animals far faster than planting crops alone. Combine contract work with smart land purchases — see the [Maps & Field Guide](maps-guide.md) for land-buying strategies, and the [Profit Guide](profit-guide.md) for crop profitability analysis.*
+
+{{ affiliate_section("Farming Simulator 25", "2131630") }}

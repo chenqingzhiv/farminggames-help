@@ -103,3 +103,5 @@ Held on **Day 15 of Autumn**. Scoring: Ingredient Quality 40% + Theme Fit 30% + 
 ---
 
 *Data source: My Time at Sandrock v1.4 in-game data*
+
+{{ affiliate_section("My Time at Sandrock", "1084600") }}

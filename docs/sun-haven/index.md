@@ -46,3 +46,5 @@ Unlike most farming sims, Sun Haven has an **active combat system** with weapons
 Each skill has its own talent tree with passive bonuses and active abilities. You can specialize or build a balanced character.
 
 > **Tip:** In multiplayer, assign roles — one player focuses on farming and cooking while another handles combat and mining. This division of labor lets your group progress much faster than each player trying to grind every skill individually.
+
+{{ affiliate_section("Sun Haven", "1432860") }}

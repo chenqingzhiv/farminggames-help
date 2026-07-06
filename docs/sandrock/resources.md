@@ -125,3 +125,5 @@ Water is the most critical resource in Sandrock. It is used for farming, craftin
 ---
 
 *Data source: My Time at Sandrock Wiki 1.0*
+
+{{ affiliate_section("My Time at Sandrock", "1084600") }}

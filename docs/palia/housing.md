@@ -352,3 +352,5 @@ Palia flowers can be **cross-bred between different colors** to produce new colo
 ---
 
 > **🏠 Closing thoughts:** Palia's housing system is a «function first, aesthetics later» progression. Upgrade to T2 first to unlock workshop space, then use gardening and cooking profits to slowly decorate. A good house layout = saving tons of daily running time. Smart room placement, workshop clustering, and garden layout all translate into saved time — and saved time is gold.
+
+{{ affiliate_section("Palia") }}

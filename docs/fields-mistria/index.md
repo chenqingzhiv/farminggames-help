@@ -38,3 +38,5 @@ Unlike traditional farming sims, Fields of Mistria introduces a **magic system**
 Mistria is home to a cast of **fully voiced NPCs** with deep relationship mechanics. Each villager has daily routines, seasonal events, and personal story arcs tied to the town's recovery. Building friendships unlocks new spells, recipes, and story progression.
 
 > **Tip:** Spend your first few days clearing only enough land to plant a small crop patch. Use the rest of your energy exploring town and talking to villagers — early relationships unlock important tool upgrades and magic abilities faster than rushing farm expansion.
+
+{{ affiliate_section("Fields of Mistria", "1929130") }}

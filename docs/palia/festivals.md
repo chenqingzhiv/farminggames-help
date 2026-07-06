@@ -163,3 +163,5 @@ Not all event items are created equal. Here's what's actually worth your time:
 - ✅ **Trading with friends.** Some event items are giftable. Coordinate with friends who play different events to cover each other's wishlists.
 
 > **Tip:** The best time to start Palia and catch an event is during a **Majii Market week paired with a Seasonal Festival overlap**. These double-event periods happen 2-3 times a year and offer the most dense reward schedule. The Majii Market + Winterlights overlap in December is unmissable.
+
+{{ affiliate_section("Palia") }}

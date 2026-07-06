@@ -260,3 +260,5 @@ description: Stardew Valley complete NPC schedule & festival calendar — daily 
 
 > Full NPC gift preferences on the [💰 NPC Gift Guide](npc-gifts/)
 > Full festival details on the [🎪 Festival Events Calendar](festivals/)
+
+{{ affiliate_section("Stardew Valley", "413150") }}

@@ -151,3 +151,5 @@ Once you reach the **Volcano Forge** on Ginger Island, you can add enchantments 
     })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
+
+{{ affiliate_section("Stardew Valley", "413150") }}

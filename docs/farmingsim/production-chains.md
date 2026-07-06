@@ -190,3 +190,5 @@ graph TD
 ---
 
 *Data source: Farming Simulator 25 gameplay data, community testing, precision farming DLC mechanics.*
+
+{{ affiliate_section("Farming Simulator 25", "2131630") }}

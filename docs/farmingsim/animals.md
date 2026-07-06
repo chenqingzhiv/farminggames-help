@@ -109,3 +109,5 @@ Product yield depends on **feed quality**, **cleanliness** (−25% if dirty), an
 4. **Auto-feeder before milker** — feeding is the bigger time sink
 5. **Clean barns = healthy animals** — dirty barns lose 25% production immediately
 6. **Sell wool at seasonal peaks** — prices fluctuate like grain
+
+{{ affiliate_section("Farming Simulator 25", "2131630") }}

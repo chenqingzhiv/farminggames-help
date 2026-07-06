@@ -431,3 +431,5 @@ Days 15+:  Full Ancient Fruit + Hops + Starfruit rotation
 ---
 
 *Data sources: Stardew Valley Wiki (v1.6.15), Carl's Guides, SDV Profit Calculator. All prices and growth times verified against official game data. Last updated: 2026-07-04.*
+
+{{ affiliate_section("Stardew Valley", "413150") }}

@@ -372,3 +372,5 @@ The **Statue of True Perfection** is incredible — a free Prismatic Shard every
 ---
 
 *Data sources: Stardew Valley Wiki (v1.6.15), in-game testing, community checklists. All data verified for 1.6 patch level. Last updated: 2026-07-05.*
+
+{{ affiliate_section("Stardew Valley", "413150") }}

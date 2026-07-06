@@ -117,3 +117,5 @@ Focus **exclusively on commissions** the first 15 days to reach Rank 4 by day 15
 ---
 
 *Data source: My Time at Sandrock Wiki 1.0, game version 1.4+*
+
+{{ affiliate_section("My Time at Sandrock", "1084600") }}

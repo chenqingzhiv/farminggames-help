@@ -227,3 +227,5 @@ graph TB
 ---
 
 *Data source: Sun Haven v1.2 gameplay data, community testing.*
+
+{{ affiliate_section("Sun Haven", "1432860") }}

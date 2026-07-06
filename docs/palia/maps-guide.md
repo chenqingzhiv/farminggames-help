@@ -295,3 +295,5 @@ The Palia development team has hinted at additional zones coming in future updat
 | **Night Experience** | Peaceful, fireflies | More aggressive creatures, rare spawns |
 
 > **Tip:** If you're feeling stuck in Kilima, take the stable to Bahari Bay just to explore. Even if you can't farm the top resources yet, learning the layout early will pay off when you're ready to graduate from the starting zone.
+
+{{ affiliate_section("Palia") }}

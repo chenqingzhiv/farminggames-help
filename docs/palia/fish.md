@@ -273,3 +273,5 @@ For players chasing 100% completion:
 | The Flooded Steps | Bahari Coast | Night |
 | Pulsewater Plains | Bahari River | Night |
 | The Underground — Central Pool | Underground Lake | Any (night preferred) |
+
+{{ affiliate_section("Palia") }}

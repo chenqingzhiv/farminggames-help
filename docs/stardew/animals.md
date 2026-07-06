@@ -369,3 +369,5 @@ Strategy: Diversify. Dinosaurs for steady income, pigs for Fall spikes
 ---
 
 > *All prices and values are based on Stardew Valley 1.6.9. Animal products may vary slightly with professions (Coopmaster gives +20% chicken products, Rancher gives +25% animal products).*
+
+{{ affiliate_section("Stardew Valley", "413150") }}

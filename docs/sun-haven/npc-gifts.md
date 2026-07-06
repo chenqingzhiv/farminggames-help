@@ -175,3 +175,5 @@ Giving a gift on an NPC's birthday also provides a permanent +1 heart boost to y
 ---
 
 *Data source: Sun Haven Wiki 1.0*
+
+{{ affiliate_section("Sun Haven", "1432860") }}

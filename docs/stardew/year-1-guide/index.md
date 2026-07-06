@@ -157,3 +157,5 @@ Winter has no crops. Use this time to:
 ---
 
 > **Data sources:** Stardew Valley Wiki (stardewvalleywiki.com), r/StardewValley community guides, official game data v1.6. Crop profit calculations verified against Wiki numbers. Last updated: June 2026.
+
+{{ affiliate_section("Stardew Valley", "413150") }}

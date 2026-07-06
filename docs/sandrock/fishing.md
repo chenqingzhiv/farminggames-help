@@ -174,3 +174,5 @@ Sandrock also includes bug catching:
 ---
 
 *Data source: My Time at Sandrock Wiki 1.0, game version 1.4+*
+
+{{ affiliate_section("My Time at Sandrock", "1084600") }}

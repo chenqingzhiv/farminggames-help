@@ -44,3 +44,5 @@ A standout feature of Coral Island is its **underwater exploration**. Using divi
 | 🥇 Gold A | Donate 10 artifacts | Underwater fast-travel |
 
 > **Tip:** Prioritize upgrading your diving gear before your fishing rod. Diving provides significantly more early-game income and materials than fishing in Coral Island, and cleaning the ocean unlocks new areas packed with valuable forage.
+
+{{ affiliate_section("Coral Island", "1158160") }}

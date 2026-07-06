@@ -178,3 +178,5 @@ Route: Mountain (Snow Yams, Crystal Fruit) → Bus Stop → Farm → Town (Crocu
 ---
 
 *[Return to Stardew Valley Guide](index.md)*
+
+{{ affiliate_section("Stardew Valley", "413150") }}

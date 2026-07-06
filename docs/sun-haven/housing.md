@@ -225,3 +225,5 @@ Certain items in your house affect NPC relationships:
 ---
 
 *Data sources: Sun Haven Wiki 1.0, in-game testing, game version 1.3+. All prices and upgrade costs current as of patch 1.6.*
+
+{{ affiliate_section("Sun Haven", "1432860") }}

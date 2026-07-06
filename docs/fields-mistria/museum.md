@@ -142,3 +142,5 @@ Every item has 4 rarity tiers, directly affecting donation score and reward qual
 ---
 
 *Data source: Fields of Mistria Wiki 1.0, game version Early Access 0.8+*
+
+{{ affiliate_section("Fields of Mistria", "1929130") }}

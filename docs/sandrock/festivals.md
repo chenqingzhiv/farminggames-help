@@ -205,3 +205,5 @@ Besides the three major festivals, Sandrock has rotating mini-events that happen
 ---
 
 *Data source: My Time at Sandrock v1.4 in-game data*
+
+{{ affiliate_section("My Time at Sandrock", "1084600") }}

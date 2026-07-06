@@ -123,3 +123,5 @@ Coral Island's **diving mechanic** sets it apart from other farming games. Aroun
 | Not diving | Diving is the fastest early game money | Dive every day possible in the first two weeks |
 
 > **Final tip:** Coral Island is a marathon, not a sprint. Focus on steady expansion — add 2-3 new crop tiles each week, upgrade one tool every 5-7 days, and always keep a reserve of 500g for unexpected quests and seed restocking. By the end of Spring, you should have 15-20 crop tiles, iron tools, and a steady 2,000g/day income.
+
+{{ affiliate_section("Coral Island", "1158160") }}

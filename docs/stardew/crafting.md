@@ -280,3 +280,5 @@ Hop → 0.83 seeds avg (daily regrow)
 ---
 
 > *All recipes and costs are based on Stardew Valley 1.6.9. Crafting recipes unlock at Farming Level 6. Some items have different costs or requirements in multiplayer.*
+
+{{ affiliate_section("Stardew Valley", "413150") }}

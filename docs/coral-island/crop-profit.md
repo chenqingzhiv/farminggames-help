@@ -136,3 +136,5 @@ Master your farm's economy in Coral Island with this complete seasonal crop prof
 ---
 
 *Data source: Coral Island Wiki 1.0*
+
+{{ affiliate_section("Coral Island", "1158160") }}

@@ -100,3 +100,5 @@ Palia is a **free-to-play** MMO, and its primary monetization is through the in-
 - **Consumables** — Boosters and utility items
 
 Codes are typically released to celebrate milestones, holidays, or community events.
+
+{{ affiliate_section("Palia") }}

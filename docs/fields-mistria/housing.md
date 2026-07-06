@@ -156,3 +156,5 @@ Split the Tier 4 Mansion's 10 rooms into: Bedroom (starry theme), Bathroom (natu
 ---
 
 *Data source: Fields of Mistria Wiki 1.0, game version Early Access 0.8+*
+
+{{ affiliate_section("Fields of Mistria", "1929130") }}

@@ -365,3 +365,5 @@ Print this checklist and run through it every Monday:
 | Zeki | Lucky Coin Display | Decor |
 
 > 🔧 = Functional reward (not just decoration) — these are the most valuable Level 4 rewards to prioritize.
+
+{{ affiliate_section("Palia") }}

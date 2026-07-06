@@ -188,3 +188,5 @@ Maximizing star-quality crops significantly boosts income:
 4. **Sell star-quality crops** individually — don't cook them unless a recipe specifically needs star ingredients
 
 **Estimated income uplift:** A full plot of Ginger with Quality Fertilizer yields ~3,000+ Gold/week vs. ~1,500 without.
+
+{{ affiliate_section("Palia") }}

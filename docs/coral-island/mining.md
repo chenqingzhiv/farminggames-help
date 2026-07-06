@@ -217,3 +217,5 @@ Unlocked after Water Mine completion. 40 floors, floating platforms and wind puz
 ---
 
 *Data source: Coral Island v1.0 gameplay data, community testing.*
+
+{{ affiliate_section("Coral Island", "1158160") }}

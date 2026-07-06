@@ -174,3 +174,5 @@ Processing is the engine of wealth in Coral Island — a 50g egg through the May
 | 👕 Wool | 120g | Cloth | 240g | **×2.0** | Loom | 4h |
 
 **Golden rule:** Any item that can be processed — **never sell it raw**. Even if you only have one Mayo Machine, process those eggs before selling. 3 hours for +100g is an ROI no other activity can touch.
+
+{{ affiliate_section("Coral Island", "1158160") }}

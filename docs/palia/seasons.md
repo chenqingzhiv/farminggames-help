@@ -220,3 +220,5 @@ No matter where you are in your journey, these things are worth doing every day:
 - ❌ **Don't sell Palium** — It's the bottleneck for every tool upgrade past Fine
 - ❌ **Don't hoard common fish** — They're not worth much, sell or cook them
 - ❌ **Don't ignore the Underground** — Best fishing and rare resources are there
+
+{{ affiliate_section("Palia") }}

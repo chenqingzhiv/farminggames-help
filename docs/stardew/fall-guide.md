@@ -83,3 +83,5 @@ Bring high-quality items for the grange display:
 | Kegs (Hops saved from Summer) | ~500g/day | Already grown, just process |
 
 **Bottom Line:** Cranberries for steady passive income + Pumpkins (kegged) for big batches = optimal Fall economy. Don't forget to plant corn on Summer 28! It survives into Fall for a head start.
+
+{{ affiliate_section("Stardew Valley", "413150") }}

@@ -159,3 +159,5 @@ Complete guide to every fish in Coral Island, including season, location, diffic
 ---
 
 *Data source: Coral Island Wiki 1.0*
+
+{{ affiliate_section("Coral Island", "1158160") }}

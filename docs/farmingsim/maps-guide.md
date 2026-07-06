@@ -204,3 +204,5 @@ Place your main farm hub as close to the center of your fields as possible. Each
 ---
 
 *Ready to expand your farming operation? Check out the [Profit Guide](profit-guide.md) for detailed crop-by-crop earnings analysis, or the [Machinery Guide](machinery.md) for help choosing the right equipment for your fields.*
+
+{{ affiliate_section("Farming Simulator 25", "2131630") }}

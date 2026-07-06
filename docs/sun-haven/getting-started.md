@@ -137,3 +137,5 @@ Combat unlocks around **day 3** after you talk to the town guard captain. The **
 | Forgetting dungeon elevator | Re-clearing floors 1-5 every time wastes hours | Unlock elevator at floor 10 ASAP |
 
 > **Final tip:** Sun Haven rewards **focus**. Pick one income stream (crops or fishing) for week 1, double down until it's automated, then expand into combat and exploration. The Sprinkler unlock at Farming 5 is the single biggest quality-of-life upgrade in the early game. Prioritize it above everything else — once you have sprinklers, the game opens up dramatically.
+
+{{ affiliate_section("Sun Haven", "1432860") }}

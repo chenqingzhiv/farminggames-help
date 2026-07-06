@@ -365,3 +365,5 @@ Sun Haven's festival system spans three maps (Sun Haven, Nel'Vari, Withergate), 
 ---
 
 > **🎉 Conclusion:** Sun Haven's festival system is the **most direct way to access limited content** — just showing up gives you 50 participation tokens, and across 8 main festivals that's 400 free tokens a year. **Year 1 is the most critical**: Spring Bunny, Harvest Fox, and Pegasus Mount are all once-a-year missable content. Start preparing materials 7 days before each competition, save 3,000 tokens for the Pegasus, and you'll have made the best investment you can in Sun Haven. Happy festival season!
+
+{{ affiliate_section("Sun Haven", "1432860") }}

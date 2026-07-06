@@ -175,3 +175,5 @@ Every dish you cook gives Cooking XP. The amount depends on the complexity and t
 ---
 
 *Data source: Coral Island v1.1+ in-game data*
+
+{{ affiliate_section("Coral Island", "1158160") }}

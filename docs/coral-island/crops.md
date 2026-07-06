@@ -164,3 +164,5 @@ Processing crops into artisan goods significantly increases profit. Here are the
 10. **Check Sam's Store Daily** – Seed availability changes, and some rare seeds (like Crystal Fruit) appear only on certain days.
 
 Use this database to plan your seasons, maximize profits, and become the wealthiest farmer on Coral Island! For more guides, visit [Farming Games Help](https://farminggames.help).
+
+{{ affiliate_section("Coral Island", "1158160") }}

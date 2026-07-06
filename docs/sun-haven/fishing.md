@@ -206,3 +206,5 @@ Sun Haven's fishing system spans three completely independent biome waters, each
 | Withergate — Shadow Beetles | 500~800g/h | ⭐⭐⭐ | Elven Net + Torch (lighting) |
 
 > **Tip:** **The bug net's best use isn't selling bugs — it's making advanced bait.** Cricket ×3 + Berry ×1 = Quality Bait (cuts hook time 50% + rare fish chance +15%). Fishing with homemade bait is vastly more efficient than selling bugs directly. Unless you're chasing Rainbow Beetles (120g each), save your bugs for bait.
+
+{{ affiliate_section("Sun Haven", "1432860") }}

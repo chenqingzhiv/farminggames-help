@@ -57,3 +57,5 @@ date: 2026-06-27
 2. ✅ **Complete NPC quests daily** — Source of XP
 3. ✅ **Pick up all materials on the ground** — They're all useful
 4. ❌ **Don't sell rare materials** — You'll need them for later upgrades
+
+{{ affiliate_section("Palia") }}

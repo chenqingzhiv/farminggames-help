@@ -123,3 +123,5 @@ Spring 13:   Buy all strawberries! 100g each, buy as many as you can
 > **One-line guide:** Get the fishing rod on Spring 1 → Earn money fishing → Buy all strawberries on Spring 13 → Plant blueberries at the end of spring
 
 Money goal: **Total assets of 20,000g+** ✅ by the end of your first spring
+
+{{ affiliate_section("Stardew Valley", "413150") }}

@@ -115,3 +115,5 @@ Ranching is your most reliable daily income source in the mid-to-late game. Unli
 **Bottom Line:** Spring crops build capital → Summer barn expansion → Fall goat purchases → Winter ranching cash flow + greenhouse strawberry cooking. Dual-track for maximum profit.
 
 *Data source: Fields of Mistria v0.8+ (Early Access)*
+
+{{ affiliate_section("Fields of Mistria", "1929130") }}

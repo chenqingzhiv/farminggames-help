@@ -191,3 +191,5 @@ The drying rack preserves food for longer storage and slightly higher sell price
 ---
 
 *Data source: My Time at Sandrock v1.4 in-game data*
+
+{{ affiliate_section("My Time at Sandrock", "1084600") }}

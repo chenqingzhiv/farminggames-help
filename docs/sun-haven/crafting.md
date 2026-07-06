@@ -256,3 +256,5 @@ Your **Crafting skill** levels up as you create items at any station.
 ---
 
 *Data sources: Sun Haven Wiki 1.0, in-game testing, game version 1.3+. All prices and times verified against current patch data.*
+
+{{ affiliate_section("Sun Haven", "1432860") }}

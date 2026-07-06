@@ -114,3 +114,5 @@ Sandrock's animal husbandry system may not be as lush as green valley towns, but
 ---
 
 *Data source: My Time at Sandrock v1.4 in-game data*
+
+{{ affiliate_section("My Time at Sandrock", "1084600") }}

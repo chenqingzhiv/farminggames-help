@@ -210,3 +210,5 @@ A: First year winter — by then all the land is cleared and you have some money
 
 **Q: When can I get lots of Iridium Sprinklers?**  
 A: After reaching floor 80+ in the mines, open geodes and kill monsters for iridium ore, then craft iridium sprinklers.
+
+{{ affiliate_section("Stardew Valley", "413150") }}

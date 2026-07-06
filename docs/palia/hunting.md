@@ -118,3 +118,5 @@ NPC Weekly Wants may ask for the following hunting/bug items. **Keep these inste
 - **Raw Meat** — Keep a stock of 30+
 
 > **Tip:** When the Weekly Wants refresh on Monday, check if any hunting-related items are requested. Prioritize completing NPC tasks before selling excess materials.
+
+{{ affiliate_section("Palia") }}

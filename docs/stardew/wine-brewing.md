@@ -322,3 +322,5 @@ Dried fruit has one major advantage: **it doesn't spoil or require cask aging**.
 ---
 
 *Data sources: Stardew Valley Wiki (v1.6.15), in-game testing, SDV Profit Calculator. All prices based on Artisan profession unless noted. Last updated: 2026-07-05.*
+
+{{ affiliate_section("Stardew Valley", "413150") }}

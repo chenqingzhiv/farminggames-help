@@ -178,3 +178,5 @@ Difficulty: ⭐⭐⭐⭐⭐ (Pure RNG)
     })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
+
+{{ affiliate_section("Stardew Valley", "413150") }}

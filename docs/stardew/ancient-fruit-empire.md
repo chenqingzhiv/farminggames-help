@@ -451,3 +451,5 @@ At 830g per fruit, Dried Ancient Fruit beats raw (550g) but loses to wine (2,310
 ---
 
 *Data sources: Stardew Valley Wiki (v1.6.15), in-game testing. All prices, growth times, and processing data verified against official game data. Seed Maker probabilities from decompiled game code (Object::performObjectDropInAction). Last updated: 2026-07-06.*
+
+{{ affiliate_section("Stardew Valley", "413150") }}

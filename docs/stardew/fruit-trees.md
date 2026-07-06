@@ -207,3 +207,5 @@ On Ginger Island, fruit trees produce **year-round** with no winter downtime. Th
 ---
 
 *[Return to Stardew Valley Guide](index.md)*
+
+{{ affiliate_section("Stardew Valley", "413150") }}

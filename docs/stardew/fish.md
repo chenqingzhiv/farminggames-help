@@ -120,3 +120,5 @@ date: 2026-06-27
 > **Fishing is the most profitable Year 1 skill.** Grab the rod on Spring 1, fish every day until 2PM, earning 500-1000g/day easily.
 
 > 💡 Fish Pond advice: Stock **Sturgeon** (produces Roe for Caviar) or **Squid/Sea Cucumber** (for cooking gifts).
+
+{{ affiliate_section("Stardew Valley", "413150") }}

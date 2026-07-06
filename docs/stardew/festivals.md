@@ -322,3 +322,5 @@ Same as Summer Night Market — see above for details. This is your **second cha
     })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
+
+{{ affiliate_section("Stardew Valley", "413150") }}

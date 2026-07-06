@@ -29,3 +29,5 @@ You can share your thoughts in the following ways:
         crossorigin="anonymous"
         async>
 </script>
+
+{{ affiliate_section("Farming Simulator 25", "2131630") }}

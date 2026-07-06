@@ -144,3 +144,5 @@ Possible issues: tree in the way, out of fuel, tool not lowered. Press **H** to 
 | 🚜 **Rent vs Buy** | Buy frequently used equipment, rent occasional use |
 
 > **Core strategy:** First plant wheat to save your seed money → buy a second vehicle for hauling → expand fields → raise chickens → buy a harvester → scale up planting. By your 3rd hour, you should have a steady cash flow.
+
+{{ affiliate_section("Farming Simulator 25", "2131630") }}

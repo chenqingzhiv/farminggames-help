@@ -76,3 +76,5 @@ Use summer to stockpile for Fall:
 - [ ] Save summer forageables for bundles
 - [ ] Plant corn on Summer 28 (it grows through Fall)
 - [ ] Prepare cranberry budget for Fall 1 planting
+
+{{ affiliate_section("Stardew Valley", "413150") }}

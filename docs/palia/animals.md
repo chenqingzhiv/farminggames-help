@@ -167,3 +167,5 @@ Knowing what each animal drop is worth helps you decide what to sell vs. save fo
 | Proudhorn Antler | Proudhorn (rare) | 200 | Special recipes, Quests |
 
 **Quick tip:** Hide all your regular leather and meat. Crafting furniture for your housing plot almost always beats selling raw materials. The furniture you build can then raise your plot's Appeal score, which unlocks more housing upgrades.
+
+{{ affiliate_section("Palia") }}

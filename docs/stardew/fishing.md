@@ -192,3 +192,5 @@ Iridium Rod + Bait + Trap Bobber
 2. Eat Seafoam Pudding (+4 Fishing Level)
 3. Use Trap Bobber (not Lead Bobber)
 4. Stay calm — steady hands matter most
+
+{{ affiliate_section("Stardew Valley", "413150") }}

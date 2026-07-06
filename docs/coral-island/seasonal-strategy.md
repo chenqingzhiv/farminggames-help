@@ -206,3 +206,5 @@ The mines are the main attraction in winter. With no crops to water, you can spe
 ---
 
 *Data source: Coral Island v1.1+ in-game data*
+
+{{ affiliate_section("Coral Island", "1158160") }}

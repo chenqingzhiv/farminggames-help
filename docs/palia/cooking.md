@@ -123,3 +123,5 @@ Focus is Palia's unique experience multiplier system:
 2. **Lv 5-8**: Make Sushi / Blueberry Pie → start turning a profit
 3. **Lv 8-10+**: Mass-produce Celebration Cake → great for self-gifting and selling
 4. **Lv 10+ Group Cooking**: Organize Cake Parties — divide labor to produce 50-100 cakes per session
+
+{{ affiliate_section("Palia") }}

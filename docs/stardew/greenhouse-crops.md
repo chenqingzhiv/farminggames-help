@@ -112,3 +112,5 @@ This diversifies your income and reduces risk.
 - **Check the Traveling Cart** – Buy Rare Seeds (Sweet Gem Berry) for a one-time profit of 3,000g each (but not regrowable).
 
 With this guide, your greenhouse will become the engine of your farm's economy. Happy farming!
+
+{{ affiliate_section("Stardew Valley", "413150") }}

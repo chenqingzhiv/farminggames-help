@@ -116,3 +116,5 @@ Return gift value = 60%–80% of what you give.
 **Bottom line:** Spring 15 / Summer 11 / Fall 9 / Winter 13 offer exclusive functional items — must attend and must win. The rest are low-stakes.
 
 *Data source: Fields of Mistria v0.8+ (Early Access)*
+
+{{ affiliate_section("Fields of Mistria", "1929130") }}

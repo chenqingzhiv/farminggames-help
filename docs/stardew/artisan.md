@@ -93,3 +93,5 @@ Year 3: Iridium quality automation → Ginger Island full planting → 50k+/day
 ```
 
 > 💡 **Most Important Rule:** Once you unlock the Keg, build 50-100 Kegs as fast as possible. Your earning rate will directly increase 10x.
+
+{{ affiliate_section("Stardew Valley", "413150") }}

@@ -153,3 +153,5 @@ Star quality is random but can be increased with:
 ---
 
 *Data source: Palia Wiki 1.0*
+
+{{ affiliate_section("Palia") }}

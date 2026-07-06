@@ -135,3 +135,5 @@ The mines contain slimes, bats, and cave spiders. Your starter sword is weak but
 | Not saving for house upgrade | Cooked meals are 3x more stamina-efficient | Set aside 200g/day starting week 2 |
 
 > **Final tip:** Fields of Mistria rewards steady, balanced progress over sprinting. Focus on getting magic unlocked by day 7, a copper pickaxe by day 10, and 15+ crop tiles before summer. If you hit those three milestones, you'll enter Summer with 3,000-4,000g in savings and iron-tier tools — a fantastic position for season two.
+
+{{ affiliate_section("Fields of Mistria", "1929130") }}

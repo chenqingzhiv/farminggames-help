@@ -118,3 +118,5 @@ For consistent daily income, Catfish (80g) and Red Snapper (130g) are reliable o
 - **Complete the museum**: The rewards for donating all fish include a permanent fishing buff and a unique decoration.
 - **Cook before selling**: Some fish sell for more when cooked into dishes. Check the recipe book before selling raw fish.
 - **Build a fish pond**: Once you have a surplus of high-value fish like Sturgeon or Lava Eel, place them in a pond for passive roe income.
+
+{{ affiliate_section("Fields of Mistria", "1929130") }}

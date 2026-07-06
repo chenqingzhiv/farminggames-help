@@ -264,3 +264,5 @@ The hoe upgrade affects how many tiles you can till at once.
 ---
 
 > *This guide covers all standard tool and building upgrades in Stardew Valley 1.6. Prices and costs reflect base values without any discounts from professions or events.*
+
+{{ affiliate_section("Stardew Valley", "413150") }}

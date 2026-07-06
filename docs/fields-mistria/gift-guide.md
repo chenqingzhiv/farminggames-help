@@ -220,3 +220,5 @@ Build relationships with the residents of Mistria! This guide covers every NPC's
 ---
 
 *Data source: Fields of Mistria Wiki 1.0*
+
+{{ affiliate_section("Fields of Mistria", "1929130") }}

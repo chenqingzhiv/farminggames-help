@@ -109,3 +109,5 @@ date: 2026-07-05
 **Mid-game setup:** 4 Goats + Cheese Press (560g/day) + 4 Chickens + Mayo Machine (180g/day) = **740g/day** with 2 minutes of daily work.
 
 > **Tip:** Animals beat crops for passive income. Crops need replanting, watering, and harvesting — animals need only 2 minutes of petting plus occasional feed refills once auto-feed is active.
+
+{{ affiliate_section("Sun Haven", "1432860") }}

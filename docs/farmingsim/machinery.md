@@ -127,3 +127,5 @@ Check the **Used Vehicle Dealer** regularly — discounts range from 20–60% of
 | 🧑‍🌾 Precision farming equipment | Requires GPS setup — mid-game investment |
 | 🏗️ Biogas plant | $500K — only after you have 50+ cows or 100+ acres |
 | 🚁 Crop duster plane | Fun but expensive; ground sprayers are more cost-effective |
+
+{{ affiliate_section("Farming Simulator 25", "2131630") }}

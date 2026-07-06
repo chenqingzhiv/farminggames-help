@@ -216,3 +216,5 @@ Diving uses a combined stamina/oxygen resource. Everything costs oxygen.
 4. **Upgrade tank before fin speed.** More oxygen lets you stay down longer = more trash per session. Fin speed doesn't help if you run out of oxygen.
 5. **Gold chests spawn on a timer.** Every 5 in-game hours in a fully-cleaned zone, a gold chest respawns. Farm Gold Chest routes once you reach Gold A rank.
 6. **Rainy days double trash spawns.** The storm stirs up the ocean floor — new trash appears at 2× rate. Dive on every rainy day without exception.
+
+{{ affiliate_section("Coral Island", "1158160") }}

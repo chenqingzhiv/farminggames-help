@@ -202,3 +202,5 @@ Magic is Fields of Mistria's unique combat mechanic — it pulls from a shared m
 7. **Floor reset trick:** If a floor spawns too many Crystal Bats (magic resistant), exit to the mine entrance and re-enter — enemy composition reshuffles. This costs 1 in-game hour, so only do it on floors 13+.
 
 > **Tip:** The **Mine Cart system** (unlocked at floor 10) costs 20 Iron Bars to repair but is worth every ingot. It lets you warp directly to floor 10, 15, or 20 from the entrance, saving 15+ minutes of walking per run.
+
+{{ affiliate_section("Fields of Mistria", "1929130") }}

@@ -175,3 +175,5 @@ Coral Island's animal system is more involved than Stardew Valley's: four qualit
 | ❄️ **Winter** | Pigs stop producing; rely on cows/chickens/alpacas for income → upgrade auto-feeders and auto-grabbers | Winter grazing doesn't work — stockpile hay |
 
 > **Tip:** In winter, all animals must stay indoors on hay. Stockpile at least **100 bales of hay** (each animal eats 1/day) before winter. Buy hay from Macy's general store at 10g/bale, or harvest wild grass with a scythe in fall. One animal costs 28 bales for winter (28 days). 6 animals = 168 bales × 10g = 1,680g — worth preparing early.
+
+{{ affiliate_section("Coral Island", "1158160") }}

@@ -148,3 +148,5 @@ The **Breach** (eastern side of town) is your main mining area. Enter through th
 | Selling monster drops | Used in dozens of crafting recipes | Store 10+ of each before selling |
 
 > **Final tip:** Sandrock's economy rewards **preparation over speed**. Keep a well-stocked material chest, check the commission board before every mining trip (so you know what ores to prioritize), and never turn down a chance to upgrade your tools. If you enter month 2 with iron-tier tools, 5,000 gols saved, and the jetpack, you are in the top 10% of new players.
+
+{{ affiliate_section("My Time at Sandrock", "1084600") }}

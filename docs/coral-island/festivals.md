@@ -217,3 +217,5 @@ The biggest diving event of the year. You dive into a special area of the ocean 
 ---
 
 *Data source: Coral Island v1.1+ in-game data*
+
+{{ affiliate_section("Coral Island", "1158160") }}

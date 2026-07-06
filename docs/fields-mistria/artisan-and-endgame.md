@@ -362,3 +362,5 @@ Once you have **Master Artisan** (+25%) and **Gourmet Cook** (+20%), this is the
 ---
 
 *Data sources: Fields of Mistria v1.0 in-game data, Fields of Mistria Wiki. All processing times are in-game hours (1 hour ≈ 42 seconds real-time). Prices verified in v1.0 retail build. Last updated: 2026-07-06.*
+
+{{ affiliate_section("Fields of Mistria", "1929130") }}

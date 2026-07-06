@@ -269,3 +269,5 @@ The Weekly Wants system is one of the most overlooked money-makers in Palia. Eve
 - **Sell star-quality items** individually rather than cooking them unless a recipe specifically needs star ingredients
 - **Use the Buzzy Jar** for bug catching — it pays for itself quickly by revealing rare bug locations
 - **Don't sleep on Furniture Making** — premium furniture can sell for hundreds of gold to other players through the Underground or trade channels
+
+{{ affiliate_section("Palia") }}

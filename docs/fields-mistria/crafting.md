@@ -121,3 +121,5 @@ Once the Magic Workshop is unlocked, use Mystery Gems to enchant your tools and 
 > **Tip:** Don't neglect beehives — they give **free XP regardless of your crafting level**. 3 days per honey batch = 30–50 free XP every 3 days. Run 4 long-term for 2400g/month + 600+ XP.
 
 *Data source: Fields of Mistria v0.8+ (Early Access)*
+
+{{ affiliate_section("Fields of Mistria", "1929130") }}

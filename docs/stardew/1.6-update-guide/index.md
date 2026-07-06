@@ -626,3 +626,5 @@ All data in this guide is sourced from the [Stardew Valley Official Wiki](https:
 ---
 
 *Enjoy the 1.6 update! Whether you're starting fresh on Meadowlands Farm or diving into Mastery on your veteran save, there's never been a better time to play Stardew Valley. — Farming Games Help Team*
+
+{{ affiliate_section("Stardew Valley", "413150") }}

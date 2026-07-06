@@ -216,3 +216,5 @@ Coral Island features 14 romanceable characters + 2 unique routes, with a richer
 | Day 56 | Propose → Wedding! | **D56 (~2 seasons)** |
 
 **Fastest marriage record: about 8 weeks (56 in-game days), from early summer to early fall.**
+
+{{ affiliate_section("Coral Island", "1158160") }}

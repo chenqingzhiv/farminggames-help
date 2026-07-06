@@ -101,3 +101,5 @@ Build **3 Preserve Jars per 10 regrowth crops** and **2 Wine Presses per 10 high
 ---
 
 *Data source: Fields of Mistria Wiki 1.0, game version Early Access 0.8+*
+
+{{ affiliate_section("Fields of Mistria", "1929130") }}

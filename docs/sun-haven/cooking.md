@@ -216,3 +216,5 @@ Your Cooking Skill levels up as you prepare meals at the Cooking Station. Each l
 ---
 
 *Data sources: Sun Haven Wiki, in-game testing, game version 1.3+. All prices and buff durations verified against current patch data.*
+
+{{ affiliate_section("Sun Haven", "1432860") }}

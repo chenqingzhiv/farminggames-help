@@ -114,3 +114,5 @@ Each weapon type has distinct range, speed, and DPS characteristics:
 ---
 
 *Data source: Sun Haven Wiki 1.0, game version 1.3+*
+
+{{ affiliate_section("Sun Haven", "1432860") }}

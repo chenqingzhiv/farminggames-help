@@ -92,3 +92,5 @@ Having a comfortable home in the desert directly affects your stamina recovery, 
 ---
 
 *Data source: My Time at Sandrock v1.4 in-game data*
+
+{{ affiliate_section("My Time at Sandrock", "1084600") }}

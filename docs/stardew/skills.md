@@ -245,3 +245,5 @@ Combat affects survivability and monster drops. Essential for mining deeper leve
 | ⚔️ Combat | **Fighter** | **Brute** | 🏆 General combat |
 
 > *Recommendations above are based on general 1.6 gameplay. Specialized playstyles (animal-only, fishing-only, etc.) can adjust freely.*
+
+{{ affiliate_section("Stardew Valley", "413150") }}

@@ -45,3 +45,5 @@ date: 2026-06-27
 | Mutant Carp | 80 | Sewers | Fishing Level 10 |
 | Glacierfish | 100 | Winter Arrowhead Island | Fishing Level 10 |
 | Octopus | 95 | Summer Beach | Fishing Level 9 |
+
+{{ affiliate_section("Stardew Valley", "413150") }}

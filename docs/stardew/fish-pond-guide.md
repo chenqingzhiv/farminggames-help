@@ -174,3 +174,5 @@ Caviar is a separate product made from **Sturgeon Roe only**, processed in a **P
 ---
 
 *[Return to Stardew Valley Guide](index.md)*
+
+{{ affiliate_section("Stardew Valley", "413150") }}

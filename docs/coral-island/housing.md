@@ -218,3 +218,5 @@ If you're on a budget, here's the fastest path from zero to a comfortable home:
 ---
 
 *Data source: Coral Island v1.1+ in-game data*
+
+{{ affiliate_section("Coral Island", "1158160") }}

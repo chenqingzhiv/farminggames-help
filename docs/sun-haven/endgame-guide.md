@@ -283,3 +283,5 @@ Use this checklist to track your endgame progress:
 ---
 
 *Data sources: Sun Haven Wiki, in-game testing, game version 1.3+. All rank requirements and item values verified against current patch data.*
+
+{{ affiliate_section("Sun Haven", "1432860") }}

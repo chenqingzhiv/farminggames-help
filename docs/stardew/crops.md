@@ -221,3 +221,5 @@ These crops can be grown across multiple seasons, on Ginger Island, or in the Gr
 > 💡 **Intermediate Tip:** Once you unlock the Greenhouse, immediately plant Starfruit + Hops in it. With Kegs, earning over 10k/day is easy.
 
 > 💡 **1.6 New Crop Tip:** Seed Spot crops (Carrot, Summer Squash, Broccoli, Powdermelon) are bonus income — no gold investment needed. Powdermelon in Winter is the _only_ seasonal Winter crop and can form giant crops!
+
+{{ affiliate_section("Stardew Valley", "413150") }}

@@ -39,3 +39,5 @@ Unlike traditional farming sims, Sandrock revolves around your **Workshop** — 
 Sandrock's harsh desert environment is central to the experience. Water is scarce and must be managed carefully — you'll need a **dew collector** for hydration and a reliable supply chain for materials. The world is filled with ancient ruins, hazardous ruins for combat-based loot runs, and scattered oases that serve as rest points.
 
 > **Tip:** In the first week, focus entirely on filling commissions for the town board rather than hoarding materials. Each successful commission raises your workshop rank and unlocks better blueprints exponentially faster than free-building. Accept every commission you can physically fulfill.
+
+{{ affiliate_section("My Time at Sandrock", "1084600") }}

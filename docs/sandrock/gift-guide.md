@@ -218,3 +218,5 @@ Building friendships with Sandrock's quirky residents unlocks discounts, worksho
 ---
 
 *Data source: My Time at Sandrock Wiki 1.0*
+
+{{ affiliate_section("My Time at Sandrock", "1084600") }}

@@ -103,3 +103,5 @@ A: Food (Salads/Bread), weapon, pickaxe. Bring plenty of bombs for faster progre
 
 **Q: What should I prioritize in my first winter?**  
 A: ① Unlock the greenhouse (if you haven't) ② Upgrade tools ③ Rush the mines to floor 80+
+
+{{ affiliate_section("Stardew Valley", "413150") }}

@@ -267,3 +267,5 @@ Version 1.6 added **Mastery** — when you hit Lv 10 in all 5 skills, you start 
 ---
 
 *Data sources: Stardew Valley Wiki (v1.6.15), in-game testing, community guides. All data verified for 1.6 patch level.*
+
+{{ affiliate_section("Stardew Valley", "413150") }}

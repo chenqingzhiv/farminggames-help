@@ -236,3 +236,5 @@ You can return to Sun Haven from any zone at any time via:
 ---
 
 *Data sources: Sun Haven Wiki, in-game exploration, game version 1.3+. All unlock costs and rank requirements verified against current patch data.*
+
+{{ affiliate_section("Sun Haven", "1432860") }}

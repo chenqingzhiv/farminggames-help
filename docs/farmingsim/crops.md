@@ -131,3 +131,5 @@ description: Farming Simulator 25 complete crop profit comparison, best crop rec
 - **Don't plant the same crop twice in a row** — yield penalty applies
 - **Plant corn after potatoes** — potatoes break up soil, corn loves the loose ground
 - **Use winter crops** to keep fields producing through the cold months
+
+{{ affiliate_section("Farming Simulator 25", "2131630") }}

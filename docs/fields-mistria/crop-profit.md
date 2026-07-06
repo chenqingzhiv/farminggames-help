@@ -119,3 +119,5 @@ Processing raw crops into artisan goods nearly always increases profit. Here are
 ---
 
 *Data source: Fields of Mistria Wiki 1.0*
+
+{{ affiliate_section("Fields of Mistria", "1929130") }}

@@ -173,3 +173,5 @@ Star quality is determined by:
 ---
 
 *Data source: Palia Wiki 1.0*
+
+{{ affiliate_section("Palia") }}

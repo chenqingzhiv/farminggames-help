@@ -356,3 +356,5 @@ A complete day-by-day planting calendar for Stardew Valley. Use this to plan you
 ---
 
 > *All dates and prices are based on Stardew Valley 1.6.9. Festival dates are fixed and cannot be skipped. Some festivals have weather dependencies.*
+
+{{ affiliate_section("Stardew Valley", "413150") }}

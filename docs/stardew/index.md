@@ -125,3 +125,5 @@ This guide hub contains **30+ guide pages**, organized by category. Click any pa
 ---
 
 *Guide hub data based on Stardew Valley 1.6. Spot a mistake or missing info? Let us know on the [feedback page](feedback/).*
+
+{{ affiliate_section("Stardew Valley", "413150") }}

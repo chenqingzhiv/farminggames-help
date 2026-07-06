@@ -102,3 +102,5 @@ Every day in the desert counts. Sandrock has **12 months** per year, 28 days eac
 ---
 
 *Data source: My Time at Sandrock v1.4 in-game data*
+
+{{ affiliate_section("My Time at Sandrock", "1084600") }}

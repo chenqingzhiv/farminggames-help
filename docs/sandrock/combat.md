@@ -210,3 +210,5 @@ Every crafted item in Sandrock has a **star rating** that affects base stats.
 - **Quality Gem** (★★★): Paradise ⭐⭐⭐ boss drop (20%)
 - **Legendary Gem** (★★★★): Guardian boss (10%)
 - **Critical Success** (★★★★★): Random (1%) when crafting with max skill level
+
+{{ affiliate_section("My Time at Sandrock", "1084600") }}

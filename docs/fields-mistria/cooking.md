@@ -102,3 +102,5 @@ Cooking is your most important energy management tool and stat-boost source in t
 > **Tip:** Unlock **Ingredient Master** first — 15% more energy from every dish means 2 fewer meals in the mines = 6 extra backpack slots.
 
 *Data source: Fields of Mistria v0.8+ (Early Access), playtested data*
+
+{{ affiliate_section("Fields of Mistria", "1929130") }}

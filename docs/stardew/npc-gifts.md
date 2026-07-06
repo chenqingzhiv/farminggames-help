@@ -250,3 +250,5 @@ date: 2026-06-27
    - Give loved gifts until 10 hearts
    - Buy bouquet from Pierre's → give it → become relationship
    - Keep gifting until 14 hearts → buy Mermaid Pendant to propose
+
+{{ affiliate_section("Stardew Valley", "413150") }}

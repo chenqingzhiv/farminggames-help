@@ -108,3 +108,5 @@ Fruit trees yield indefinitely once matured and are excellent long-term investme
 ---
 
 *Data source: Sun Haven Wiki 1.0*
+
+{{ affiliate_section("Sun Haven", "1432860") }}

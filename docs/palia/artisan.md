@@ -214,3 +214,5 @@ Which processing method gives the best return on each crop?
 6. **Star-quality preserves sell for more.** Base preserves are already 2.5× raw value. Star-quality preserves from star-quality inputs sell for ~1.5× on top of that. Always fertilize your preserves-jar crops.
 
 > **Final word:** The Preserves Jar is the single best investment in Palia. It costs a few copper bars and sapwood to build, and it turns your garden into a gold-printing machine. Build one early, build more as you grow, and never sell raw crops again.
+
+{{ affiliate_section("Palia") }}

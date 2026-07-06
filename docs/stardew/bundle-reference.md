@@ -417,3 +417,5 @@ A compact, printable reference for all **Community Center bundles**. Use this al
 ---
 
 *[Return to Stardew Valley Guide](index.md)*
+
+{{ affiliate_section("Stardew Valley", "413150") }}

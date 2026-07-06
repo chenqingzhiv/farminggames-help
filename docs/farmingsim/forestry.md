@@ -215,3 +215,5 @@ Plant trees in a grid pattern with access lanes every 10 rows. This lets you dri
 ---
 
 *Forestry isn't for everyone — it requires patience, precision, and a willingness to learn the crane controls. But for those who master it, the forest offers a reliable income stream that keeps paying year after year, completely independent of crop prices, fertilizer costs, or seasonal cycles. For more on maximizing your income, see the [Profit Guide](profit-guide.md).*
+
+{{ affiliate_section("Farming Simulator 25", "2131630") }}

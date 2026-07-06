@@ -290,3 +290,5 @@ Once you've completed one year, you can start a **New Game+** or continue buildi
 ---
 
 *Data sources: Sun Haven Wiki 1.0, in-game testing, game version 1.3+. Crop values current as of patch 1.6.*
+
+{{ affiliate_section("Sun Haven", "1432860") }}

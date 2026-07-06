@@ -158,3 +158,5 @@ Recommended winter schedule:
 ```
 
 **Winter mining goal:** Reach floor 120 before the end of your first winter, unlocking the Obsidian Edge + all elevators.
+
+{{ affiliate_section("Stardew Valley", "413150") }}

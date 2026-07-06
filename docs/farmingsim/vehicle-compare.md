@@ -118,3 +118,5 @@ Choosing the right tractor, harvester, or specialized vehicle is critical to run
 ---
 
 *Data source: Farming Simulator Wiki 1.0*
+
+{{ affiliate_section("Farming Simulator 25", "2131630") }}

@@ -83,3 +83,5 @@ Each skill levels independently, max **Lv10**. Each level unlocks new recipes, t
 | 🛋️ Interior Decoration | Varies | Increases comfort level |
 
 > **Suggestion:** First fish to save up $8,000 to upgrade to a wooden house, then decorate slowly. Don't build a big house right away — save money for tool upgrades.
+
+{{ affiliate_section("Palia") }}
