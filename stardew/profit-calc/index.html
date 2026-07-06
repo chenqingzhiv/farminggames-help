@@ -699,6 +699,17 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🛒 购买链接
+      
+    </span>
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -5427,98 +5438,569 @@
 <hr />
 <h2 id="crop-profit-comparison">🌱 Crop Profit Comparison</h2>
 <h3 id="spring-crops">Spring Crops</h3>
-<p>{{ profit_table([
-    {"name": "Strawberry 🍓", "seed_cost": "100", "grow_days": "8", "regrow": "Every 4 days", "sell_price": "120", "profit_per_day": "20.83", "notes": "🏆 Buy at Egg Festival (Spring 13), strong regrow"},
-    {"name": "Coffee Bean ☕", "seed_cost": "2500", "grow_days": "10", "regrow": "Every 2 days", "sell_price": "15", "profit_per_day": "18.50", "notes": "Expensive early, permanent production, Coffee sells for 150g"},
-    {"name": "Rhubarb 🥬", "seed_cost": "100", "grow_days": "13", "regrow": "No", "sell_price": "220", "profit_per_day": "9.23", "notes": "Buy seeds at Oasis"},
-    {"name": "Cauliflower 🥦", "seed_cost": "80", "grow_days": "12", "regrow": "No", "sell_price": "175", "profit_per_day": "7.92", "notes": "Can be giant crop"},
-    {"name": "Kale 🥬", "seed_cost": "70", "grow_days": "6", "regrow": "No", "sell_price": "110", "profit_per_day": "6.67", "notes": "Fast early growth"},
-    {"name": "Potato 🥔", "seed_cost": "50", "grow_days": "6", "regrow": "No", "sell_price": "80", "profit_per_day": "5.00", "notes": "Can produce multiple, actual profit higher"},
-    {"name": "Garlic 🧄", "seed_cost": "40", "grow_days": "4", "regrow": "No", "sell_price": "60", "profit_per_day": "5.00", "notes": "Buff in newer versions"},
-    {"name": "Parsnip 🌿", "seed_cost": "20", "grow_days": "4", "regrow": "No", "sell_price": "35", "profit_per_day": "3.75", "notes": "Beginner crop"},
-    {"name": "Blue Jazz 💐", "seed_cost": "30", "grow_days": "7", "regrow": "No", "sell_price": "50", "profit_per_day": "2.86", "notes": "Decorative flower"},
-    {"name": "Tulip 🌷", "seed_cost": "20", "grow_days": "6", "regrow": "No", "sell_price": "30", "profit_per_day": "1.67", "notes": "Purely decorative"}
-], "Spring Crop Profit Table") }}</p>
+<table class="datatable" style="width:100%">
+            <thead><tr>
+                <th>作物</th><th>种子价格</th><th>生长天数</th><th>续收</th><th>卖价</th><th>每日利润</th><th>备注</th>
+            </tr></thead>
+            <tbody><tr style="background:rgba(76,175,80,0.15)">
+                <td><strong>Strawberry 🍓</strong></td>
+                <td>100金</td>
+                <td>8天</td>
+                <td>Every 4 days</td>
+                <td>120金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:100%;background:#FFD700;height:100%"></div></div><strong>20.83金</strong></div></td>
+                <td>🏆 Buy at Egg Festival (Spring 13), strong regrow</td>
+            </tr><tr >
+                <td><strong>Coffee Bean ☕</strong></td>
+                <td>2500金</td>
+                <td>10天</td>
+                <td>Every 2 days</td>
+                <td>15金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:88%;background:#4CAF50;height:100%"></div></div><strong>18.5金</strong></div></td>
+                <td>Expensive early, permanent production, Coffee sells for 150g</td>
+            </tr><tr >
+                <td><strong>Rhubarb 🥬</strong></td>
+                <td>100金</td>
+                <td>13天</td>
+                <td>No</td>
+                <td>220金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:44%;background:#4CAF50;height:100%"></div></div><strong>9.23金</strong></div></td>
+                <td>Buy seeds at Oasis</td>
+            </tr><tr >
+                <td><strong>Cauliflower 🥦</strong></td>
+                <td>80金</td>
+                <td>12天</td>
+                <td>No</td>
+                <td>175金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:38%;background:#4CAF50;height:100%"></div></div><strong>7.92金</strong></div></td>
+                <td>Can be giant crop</td>
+            </tr><tr >
+                <td><strong>Kale 🥬</strong></td>
+                <td>70金</td>
+                <td>6天</td>
+                <td>No</td>
+                <td>110金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:32%;background:#4CAF50;height:100%"></div></div><strong>6.67金</strong></div></td>
+                <td>Fast early growth</td>
+            </tr><tr >
+                <td><strong>Potato 🥔</strong></td>
+                <td>50金</td>
+                <td>6天</td>
+                <td>No</td>
+                <td>80金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:24%;background:#4CAF50;height:100%"></div></div><strong>5.0金</strong></div></td>
+                <td>Can produce multiple, actual profit higher</td>
+            </tr><tr >
+                <td><strong>Garlic 🧄</strong></td>
+                <td>40金</td>
+                <td>4天</td>
+                <td>No</td>
+                <td>60金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:24%;background:#4CAF50;height:100%"></div></div><strong>5.0金</strong></div></td>
+                <td>Buff in newer versions</td>
+            </tr><tr >
+                <td><strong>Parsnip 🌿</strong></td>
+                <td>20金</td>
+                <td>4天</td>
+                <td>No</td>
+                <td>35金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:18%;background:#4CAF50;height:100%"></div></div><strong>3.75金</strong></div></td>
+                <td>Beginner crop</td>
+            </tr><tr >
+                <td><strong>Blue Jazz 💐</strong></td>
+                <td>30金</td>
+                <td>7天</td>
+                <td>No</td>
+                <td>50金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:13%;background:#4CAF50;height:100%"></div></div><strong>2.86金</strong></div></td>
+                <td>Decorative flower</td>
+            </tr><tr >
+                <td><strong>Tulip 🌷</strong></td>
+                <td>20金</td>
+                <td>6天</td>
+                <td>No</td>
+                <td>30金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:8%;background:#4CAF50;height:100%"></div></div><strong>1.67金</strong></div></td>
+                <td>Purely decorative</td>
+            </tr></tbody>
+        </table>
+
 <h3 id="summer-crops">Summer Crops</h3>
-<p>{{ profit_table([
-    {"name": "Starfruit ⭐", "seed_cost": "400", "grow_days": "13", "regrow": "No", "sell_price": "750", "profit_per_day": "26.92", "notes": "🏆 Best in game! Keg for 3150g"},
-    {"name": "Blueberry 🫐", "seed_cost": "80", "grow_days": "13", "regrow": "Every 4 days", "sell_price": "50", "profit_per_day": "20.80", "notes": "3 per harvest, efficient regrow"},
-    {"name": "Hops 🌿", "seed_cost": "60", "grow_days": "11", "regrow": "Daily", "sell_price": "25", "profit_per_day": "16.50", "notes": "Pale Ale 300g, 10x value!"},
-    {"name": "Melon 🍈", "seed_cost": "80", "grow_days": "12", "regrow": "No", "sell_price": "250", "profit_per_day": "14.17", "notes": "Can be giant, great for gifts"},
-    {"name": "Hot Pepper 🌶️", "seed_cost": "40", "grow_days": "5", "regrow": "Every 3 days", "sell_price": "40", "profit_per_day": "10.67", "notes": "Shane's favorite"},
-    {"name": "Tomato 🍅", "seed_cost": "50", "grow_days": "11", "regrow": "Every 4 days", "sell_price": "60", "profit_per_day": "9.26", "notes": "Steady regrow"},
-    {"name": "Radish 🥕", "seed_cost": "40", "grow_days": "6", "regrow": "No", "sell_price": "90", "profit_per_day": "8.33", "notes": "Fast 6-day maturity"},
-    {"name": "Corn 🌽", "seed_cost": "150", "grow_days": "14", "regrow": "Every 4 days", "sell_price": "50", "profit_per_day": "7.50", "notes": "Spans into Fall"},
-    {"name": "Poppy 🌺", "seed_cost": "100", "grow_days": "7", "regrow": "No", "sell_price": "140", "profit_per_day": "5.71", "notes": "Used for Lucky Lunch"},
-    {"name": "Sunflower 🌻", "seed_cost": "200", "grow_days": "8", "regrow": "Every 2 days", "sell_price": "80", "profit_per_day": "4.00", "notes": "Produces seeds, low return"}
-], "Summer Crop Profit Table") }}</p>
+<table class="datatable" style="width:100%">
+            <thead><tr>
+                <th>作物</th><th>种子价格</th><th>生长天数</th><th>续收</th><th>卖价</th><th>每日利润</th><th>备注</th>
+            </tr></thead>
+            <tbody><tr style="background:rgba(76,175,80,0.15)">
+                <td><strong>Starfruit ⭐</strong></td>
+                <td>400金</td>
+                <td>13天</td>
+                <td>No</td>
+                <td>750金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:100%;background:#FFD700;height:100%"></div></div><strong>26.92金</strong></div></td>
+                <td>🏆 Best in game! Keg for 3150g</td>
+            </tr><tr >
+                <td><strong>Blueberry 🫐</strong></td>
+                <td>80金</td>
+                <td>13天</td>
+                <td>Every 4 days</td>
+                <td>50金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:77%;background:#4CAF50;height:100%"></div></div><strong>20.8金</strong></div></td>
+                <td>3 per harvest, efficient regrow</td>
+            </tr><tr >
+                <td><strong>Hops 🌿</strong></td>
+                <td>60金</td>
+                <td>11天</td>
+                <td>Daily</td>
+                <td>25金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:61%;background:#4CAF50;height:100%"></div></div><strong>16.5金</strong></div></td>
+                <td>Pale Ale 300g, 10x value!</td>
+            </tr><tr >
+                <td><strong>Melon 🍈</strong></td>
+                <td>80金</td>
+                <td>12天</td>
+                <td>No</td>
+                <td>250金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:52%;background:#4CAF50;height:100%"></div></div><strong>14.17金</strong></div></td>
+                <td>Can be giant, great for gifts</td>
+            </tr><tr >
+                <td><strong>Hot Pepper 🌶️</strong></td>
+                <td>40金</td>
+                <td>5天</td>
+                <td>Every 3 days</td>
+                <td>40金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:39%;background:#4CAF50;height:100%"></div></div><strong>10.67金</strong></div></td>
+                <td>Shane's favorite</td>
+            </tr><tr >
+                <td><strong>Tomato 🍅</strong></td>
+                <td>50金</td>
+                <td>11天</td>
+                <td>Every 4 days</td>
+                <td>60金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:34%;background:#4CAF50;height:100%"></div></div><strong>9.26金</strong></div></td>
+                <td>Steady regrow</td>
+            </tr><tr >
+                <td><strong>Radish 🥕</strong></td>
+                <td>40金</td>
+                <td>6天</td>
+                <td>No</td>
+                <td>90金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:30%;background:#4CAF50;height:100%"></div></div><strong>8.33金</strong></div></td>
+                <td>Fast 6-day maturity</td>
+            </tr><tr >
+                <td><strong>Corn 🌽</strong></td>
+                <td>150金</td>
+                <td>14天</td>
+                <td>Every 4 days</td>
+                <td>50金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:27%;background:#4CAF50;height:100%"></div></div><strong>7.5金</strong></div></td>
+                <td>Spans into Fall</td>
+            </tr><tr >
+                <td><strong>Poppy 🌺</strong></td>
+                <td>100金</td>
+                <td>7天</td>
+                <td>No</td>
+                <td>140金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:21%;background:#4CAF50;height:100%"></div></div><strong>5.71金</strong></div></td>
+                <td>Used for Lucky Lunch</td>
+            </tr><tr >
+                <td><strong>Sunflower 🌻</strong></td>
+                <td>200金</td>
+                <td>8天</td>
+                <td>Every 2 days</td>
+                <td>80金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:14%;background:#4CAF50;height:100%"></div></div><strong>4.0金</strong></div></td>
+                <td>Produces seeds, low return</td>
+            </tr></tbody>
+        </table>
+
 <h3 id="fall-crops">Fall Crops</h3>
-<p>{{ profit_table([
-    {"name": "Cranberry 🫐", "seed_cost": "240", "grow_days": "10", "regrow": "Every 3 days", "sell_price": "75", "profit_per_day": "18.89", "notes": "🏆 Fall King! 2 per harvest"},
-    {"name": "Pumpkin 🎃", "seed_cost": "100", "grow_days": "13", "regrow": "No", "sell_price": "320", "profit_per_day": "16.92", "notes": "Can be giant, Keg for 1120g"},
-    {"name": "Grape 🍇", "seed_cost": "60", "grow_days": "10", "regrow": "Every 3 days", "sell_price": "80", "profit_per_day": "16.00", "notes": "Regrow + Keg, best of both worlds"},
-    {"name": "Amaranth 🌿", "seed_cost": "70", "grow_days": "7", "regrow": "No", "sell_price": "150", "profit_per_day": "11.43", "notes": "Fast growth"},
-    {"name": "Eggplant 🍆", "seed_cost": "20", "grow_days": "7", "regrow": "Every 5 days", "sell_price": "60", "profit_per_day": "11.20", "notes": "Low-effort regrow crop"},
-    {"name": "Yam 🫘", "seed_cost": "60", "grow_days": "10", "regrow": "No", "sell_price": "160", "profit_per_day": "10.00", "notes": "Bundle item"},
-    {"name": "Bok Choy 🥬", "seed_cost": "50", "grow_days": "6", "regrow": "No", "sell_price": "80", "profit_per_day": "5.00", "notes": "For bundles"},
-    {"name": "Fairy Rose 🌹", "seed_cost": "200", "grow_days": "12", "regrow": "No", "sell_price": "290", "profit_per_day": "7.50", "notes": "Jas's favorite gift"}
-], "Fall Crop Profit Table") }}</p>
+<table class="datatable" style="width:100%">
+            <thead><tr>
+                <th>作物</th><th>种子价格</th><th>生长天数</th><th>续收</th><th>卖价</th><th>每日利润</th><th>备注</th>
+            </tr></thead>
+            <tbody><tr style="background:rgba(76,175,80,0.15)">
+                <td><strong>Cranberry 🫐</strong></td>
+                <td>240金</td>
+                <td>10天</td>
+                <td>Every 3 days</td>
+                <td>75金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:100%;background:#FFD700;height:100%"></div></div><strong>18.89金</strong></div></td>
+                <td>🏆 Fall King! 2 per harvest</td>
+            </tr><tr >
+                <td><strong>Pumpkin 🎃</strong></td>
+                <td>100金</td>
+                <td>13天</td>
+                <td>No</td>
+                <td>320金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:89%;background:#4CAF50;height:100%"></div></div><strong>16.92金</strong></div></td>
+                <td>Can be giant, Keg for 1120g</td>
+            </tr><tr >
+                <td><strong>Grape 🍇</strong></td>
+                <td>60金</td>
+                <td>10天</td>
+                <td>Every 3 days</td>
+                <td>80金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:84%;background:#4CAF50;height:100%"></div></div><strong>16.0金</strong></div></td>
+                <td>Regrow + Keg, best of both worlds</td>
+            </tr><tr >
+                <td><strong>Amaranth 🌿</strong></td>
+                <td>70金</td>
+                <td>7天</td>
+                <td>No</td>
+                <td>150金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:60%;background:#4CAF50;height:100%"></div></div><strong>11.43金</strong></div></td>
+                <td>Fast growth</td>
+            </tr><tr >
+                <td><strong>Eggplant 🍆</strong></td>
+                <td>20金</td>
+                <td>7天</td>
+                <td>Every 5 days</td>
+                <td>60金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:59%;background:#4CAF50;height:100%"></div></div><strong>11.2金</strong></div></td>
+                <td>Low-effort regrow crop</td>
+            </tr><tr >
+                <td><strong>Yam 🫘</strong></td>
+                <td>60金</td>
+                <td>10天</td>
+                <td>No</td>
+                <td>160金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:52%;background:#4CAF50;height:100%"></div></div><strong>10.0金</strong></div></td>
+                <td>Bundle item</td>
+            </tr><tr >
+                <td><strong>Fairy Rose 🌹</strong></td>
+                <td>200金</td>
+                <td>12天</td>
+                <td>No</td>
+                <td>290金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:39%;background:#4CAF50;height:100%"></div></div><strong>7.5金</strong></div></td>
+                <td>Jas's favorite gift</td>
+            </tr><tr >
+                <td><strong>Bok Choy 🥬</strong></td>
+                <td>50金</td>
+                <td>6天</td>
+                <td>No</td>
+                <td>80金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:26%;background:#4CAF50;height:100%"></div></div><strong>5.0金</strong></div></td>
+                <td>For bundles</td>
+            </tr></tbody>
+        </table>
+
 <hr />
 <h2 id="artisan-goods-profit-comparison">🧑‍🍳 Artisan Goods Profit Comparison</h2>
 <p>Processing crops dramatically increases sell prices. Here's the main comparison:</p>
-<p>{{ profit_table([
-    {"name": "Starfruit Wine ⭐", "seed_cost": "400", "grow_days": "13", "regrow": "No", "sell_price": "3150", "profit_per_day": "342.00", "notes": "🔥 Core of Keg strategy! 7-day Keg time"},
-    {"name": "Pale Ale 🍺", "seed_cost": "60", "grow_days": "11", "regrow": "Daily", "sell_price": "300", "profit_per_day": "180.00", "notes": "🔥 Made from Hops, 1.5 days in Keg"},
-    {"name": "Beer 🍺", "seed_cost": "0", "grow_days": "1", "regrow": "No", "sell_price": "200", "profit_per_day": "190.00", "notes": "Made from Wheat, 1 day, 20x value"},
-    {"name": "Melon Wine 🍈", "seed_cost": "80", "grow_days": "12", "regrow": "No", "sell_price": "1050", "profit_per_day": "114.00", "notes": "4.2x value, 7-day Keg time"},
-    {"name": "Pumpkin Wine 🎃", "seed_cost": "100", "grow_days": "13", "regrow": "No", "sell_price": "1120", "profit_per_day": "114.00", "notes": "3.5x value, 7-day Keg time"},
-    {"name": "Cranberry Wine 🫐", "seed_cost": "240", "grow_days": "10", "regrow": "Every 3 days", "sell_price": "315", "profit_per_day": "45.00", "notes": "4.2x value"},
-    {"name": "Strawberry Wine 🍓", "seed_cost": "100", "grow_days": "8", "regrow": "Every 4 days", "sell_price": "540", "profit_per_day": "67.50", "notes": "4.2x value"},
-    {"name": "Blueberry Wine 🫐", "seed_cost": "80", "grow_days": "13", "regrow": "Every 4 days", "sell_price": "210", "profit_per_day": "23.00", "notes": "4.2x value"},
-    {"name": "Mayonnaise 🥚", "seed_cost": "0", "grow_days": "0", "regrow": "Daily", "sell_price": "190", "profit_per_day": "190.00", "notes": "🔥 Egg 3.8x value! Early game essential"},
-    {"name": "Cheese 🧀", "seed_cost": "0", "grow_days": "0", "regrow": "Daily", "sell_price": "230", "profit_per_day": "230.00", "notes": "Made from Large Milk, 1.2x"},
-    {"name": "Goat Cheese 🧀", "seed_cost": "0", "grow_days": "0", "regrow": "Daily", "sell_price": "375", "profit_per_day": "375.00", "notes": "Made from Goat Milk, 1.7x"},
-    {"name": "Coffee ☕", "seed_cost": "2500", "grow_days": "10", "regrow": "Every 2 days", "sell_price": "150", "profit_per_day": "200.00", "notes": "5 Coffee Beans brew, speed buff included"}
-], "Artisan Goods Profit Table") }}</p>
+<table class="datatable" style="width:100%">
+            <thead><tr>
+                <th>作物</th><th>种子价格</th><th>生长天数</th><th>续收</th><th>卖价</th><th>每日利润</th><th>备注</th>
+            </tr></thead>
+            <tbody><tr style="background:rgba(76,175,80,0.15)">
+                <td><strong>Goat Cheese 🧀</strong></td>
+                <td>0金</td>
+                <td>0天</td>
+                <td>Daily</td>
+                <td>375金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:100%;background:#FFD700;height:100%"></div></div><strong>375.0金</strong></div></td>
+                <td>Made from Goat Milk, 1.7x</td>
+            </tr><tr >
+                <td><strong>Starfruit Wine ⭐</strong></td>
+                <td>400金</td>
+                <td>13天</td>
+                <td>No</td>
+                <td>3150金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:91%;background:#4CAF50;height:100%"></div></div><strong>342.0金</strong></div></td>
+                <td>🔥 Core of Keg strategy! 7-day Keg time</td>
+            </tr><tr >
+                <td><strong>Cheese 🧀</strong></td>
+                <td>0金</td>
+                <td>0天</td>
+                <td>Daily</td>
+                <td>230金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:61%;background:#4CAF50;height:100%"></div></div><strong>230.0金</strong></div></td>
+                <td>Made from Large Milk, 1.2x</td>
+            </tr><tr >
+                <td><strong>Coffee ☕</strong></td>
+                <td>2500金</td>
+                <td>10天</td>
+                <td>Every 2 days</td>
+                <td>150金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:53%;background:#4CAF50;height:100%"></div></div><strong>200.0金</strong></div></td>
+                <td>5 Coffee Beans brew, speed buff included</td>
+            </tr><tr >
+                <td><strong>Beer 🍺</strong></td>
+                <td>0金</td>
+                <td>1天</td>
+                <td>No</td>
+                <td>200金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:50%;background:#4CAF50;height:100%"></div></div><strong>190.0金</strong></div></td>
+                <td>Made from Wheat, 1 day, 20x value</td>
+            </tr><tr >
+                <td><strong>Mayonnaise 🥚</strong></td>
+                <td>0金</td>
+                <td>0天</td>
+                <td>Daily</td>
+                <td>190金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:50%;background:#4CAF50;height:100%"></div></div><strong>190.0金</strong></div></td>
+                <td>🔥 Egg 3.8x value! Early game essential</td>
+            </tr><tr >
+                <td><strong>Pale Ale 🍺</strong></td>
+                <td>60金</td>
+                <td>11天</td>
+                <td>Daily</td>
+                <td>300金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:48%;background:#4CAF50;height:100%"></div></div><strong>180.0金</strong></div></td>
+                <td>🔥 Made from Hops, 1.5 days in Keg</td>
+            </tr><tr >
+                <td><strong>Melon Wine 🍈</strong></td>
+                <td>80金</td>
+                <td>12天</td>
+                <td>No</td>
+                <td>1050金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:30%;background:#4CAF50;height:100%"></div></div><strong>114.0金</strong></div></td>
+                <td>4.2x value, 7-day Keg time</td>
+            </tr><tr >
+                <td><strong>Pumpkin Wine 🎃</strong></td>
+                <td>100金</td>
+                <td>13天</td>
+                <td>No</td>
+                <td>1120金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:30%;background:#4CAF50;height:100%"></div></div><strong>114.0金</strong></div></td>
+                <td>3.5x value, 7-day Keg time</td>
+            </tr><tr >
+                <td><strong>Strawberry Wine 🍓</strong></td>
+                <td>100金</td>
+                <td>8天</td>
+                <td>Every 4 days</td>
+                <td>540金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:18%;background:#4CAF50;height:100%"></div></div><strong>67.5金</strong></div></td>
+                <td>4.2x value</td>
+            </tr><tr >
+                <td><strong>Cranberry Wine 🫐</strong></td>
+                <td>240金</td>
+                <td>10天</td>
+                <td>Every 3 days</td>
+                <td>315金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:12%;background:#4CAF50;height:100%"></div></div><strong>45.0金</strong></div></td>
+                <td>4.2x value</td>
+            </tr><tr >
+                <td><strong>Blueberry Wine 🫐</strong></td>
+                <td>80金</td>
+                <td>13天</td>
+                <td>Every 4 days</td>
+                <td>210金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:6%;background:#4CAF50;height:100%"></div></div><strong>23.0金</strong></div></td>
+                <td>4.2x value</td>
+            </tr></tbody>
+        </table>
+
 <blockquote>
 <p><strong>Key Conclusion:</strong> Keg (Wine) profit far exceeds Preserves Jar (Jelly). Once you unlock the Keg, prioritize building 50-100 of them. Mayonnaise is the fastest ROI choice early game.</p>
 </blockquote>
 <hr />
 <h2 id="fishing-profit-comparison">🐟 Fishing Profit Comparison</h2>
 <p>Fishing is the main income source early in Year 1 Spring. Fish Ponds also provide steady income once upgraded.</p>
-<p>{{ profit_table([
-    {"name": "Legend 🐟", "seed_cost": "0", "grow_days": "0", "regrow": "No", "sell_price": "5000", "profit_per_day": "5000.00", "notes": "⭐ Legend, Spring rainy day, Fishing Level 10, only 1 per save"},
-    {"name": "Lava Eel 🔥", "seed_cost": "0", "grow_days": "0", "regrow": "No", "sell_price": "700", "profit_per_day": "700.00", "notes": "Mines floor 100, Roe 760g each"},
-    {"name": "Ice Pip ❄️", "seed_cost": "0", "grow_days": "0", "regrow": "No", "sell_price": "550", "profit_per_day": "550.00", "notes": "Mines floor 60, Roe 680g each"},
-    {"name": "Sturgeon 🐟", "seed_cost": "0", "grow_days": "0", "regrow": "No", "sell_price": "200", "profit_per_day": "200.00", "notes": "Pond produces Roe 500g → Caviar 600g"},
-    {"name": "Perch 🐟", "seed_cost": "0", "grow_days": "0", "regrow": "No", "sell_price": "150", "profit_per_day": "150.00", "notes": "Spring/Winter river, easy catch"},
-    {"name": "Bream 🐟", "seed_cost": "0", "grow_days": "0", "regrow": "No", "sell_price": "120", "profit_per_day": "120.00", "notes": "Any season/weather, steady source"},
-    {"name": "Largemouth Bass 🐟", "seed_cost": "0", "grow_days": "0", "regrow": "No", "sell_price": "100", "profit_per_day": "100.00", "notes": "Lake, all-weather"},
-    {"name": "Sunfish 🌞", "seed_cost": "0", "grow_days": "0", "regrow": "No", "sell_price": "90", "profit_per_day": "90.00", "notes": "Spring/Summer river, easy catch"},
-    {"name": "Sandfish 🐟", "seed_cost": "0", "grow_days": "0", "regrow": "No", "sell_price": "75", "profit_per_day": "75.00", "notes": "Desert Oasis, available all day"},
-    {"name": "Anchovy 🐟", "seed_cost": "0", "grow_days": "0", "regrow": "No", "sell_price": "60", "profit_per_day": "60.00", "notes": "Spring/Summer Ocean, mass catch"}
-], "Fishing Profit Table (Single Fish)") }}</p>
+<table class="datatable" style="width:100%">
+            <thead><tr>
+                <th>作物</th><th>种子价格</th><th>生长天数</th><th>续收</th><th>卖价</th><th>每日利润</th><th>备注</th>
+            </tr></thead>
+            <tbody><tr style="background:rgba(76,175,80,0.15)">
+                <td><strong>Legend 🐟</strong></td>
+                <td>0金</td>
+                <td>0天</td>
+                <td>No</td>
+                <td>5000金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:100%;background:#FFD700;height:100%"></div></div><strong>5000.0金</strong></div></td>
+                <td>⭐ Legend, Spring rainy day, Fishing Level 10, only 1 per save</td>
+            </tr><tr >
+                <td><strong>Lava Eel 🔥</strong></td>
+                <td>0金</td>
+                <td>0天</td>
+                <td>No</td>
+                <td>700金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:14%;background:#4CAF50;height:100%"></div></div><strong>700.0金</strong></div></td>
+                <td>Mines floor 100, Roe 760g each</td>
+            </tr><tr >
+                <td><strong>Ice Pip ❄️</strong></td>
+                <td>0金</td>
+                <td>0天</td>
+                <td>No</td>
+                <td>550金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:11%;background:#4CAF50;height:100%"></div></div><strong>550.0金</strong></div></td>
+                <td>Mines floor 60, Roe 680g each</td>
+            </tr><tr >
+                <td><strong>Sturgeon 🐟</strong></td>
+                <td>0金</td>
+                <td>0天</td>
+                <td>No</td>
+                <td>200金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:4%;background:#4CAF50;height:100%"></div></div><strong>200.0金</strong></div></td>
+                <td>Pond produces Roe 500g → Caviar 600g</td>
+            </tr><tr >
+                <td><strong>Perch 🐟</strong></td>
+                <td>0金</td>
+                <td>0天</td>
+                <td>No</td>
+                <td>150金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:3%;background:#4CAF50;height:100%"></div></div><strong>150.0金</strong></div></td>
+                <td>Spring/Winter river, easy catch</td>
+            </tr><tr >
+                <td><strong>Bream 🐟</strong></td>
+                <td>0金</td>
+                <td>0天</td>
+                <td>No</td>
+                <td>120金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:2%;background:#4CAF50;height:100%"></div></div><strong>120.0金</strong></div></td>
+                <td>Any season/weather, steady source</td>
+            </tr><tr >
+                <td><strong>Largemouth Bass 🐟</strong></td>
+                <td>0金</td>
+                <td>0天</td>
+                <td>No</td>
+                <td>100金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:2%;background:#4CAF50;height:100%"></div></div><strong>100.0金</strong></div></td>
+                <td>Lake, all-weather</td>
+            </tr><tr >
+                <td><strong>Sunfish 🌞</strong></td>
+                <td>0金</td>
+                <td>0天</td>
+                <td>No</td>
+                <td>90金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:1%;background:#4CAF50;height:100%"></div></div><strong>90.0金</strong></div></td>
+                <td>Spring/Summer river, easy catch</td>
+            </tr><tr >
+                <td><strong>Sandfish 🐟</strong></td>
+                <td>0金</td>
+                <td>0天</td>
+                <td>No</td>
+                <td>75金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:1%;background:#4CAF50;height:100%"></div></div><strong>75.0金</strong></div></td>
+                <td>Desert Oasis, available all day</td>
+            </tr><tr >
+                <td><strong>Anchovy 🐟</strong></td>
+                <td>0金</td>
+                <td>0天</td>
+                <td>No</td>
+                <td>60金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:1%;background:#4CAF50;height:100%"></div></div><strong>60.0金</strong></div></td>
+                <td>Spring/Summer Ocean, mass catch</td>
+            </tr></tbody>
+        </table>
+
 <blockquote>
 <p>💡 <strong>Fishing Tips:</strong> Spring 1-5, fish to build your first fortune. Upgrade Bamboo Rod → Fiberglass Rod → Iridium Rod. Use bait and tackle for efficiency. Once you unlock Fish Ponds, raise <strong>Sturgeon</strong> (Roe → Caviar) and <strong>Lava Eel</strong> (high-value Roe) for passive income.</p>
 </blockquote>
 <hr />
 <h2 id="mining-profit-comparison">⛏️ Mining Profit Comparison</h2>
 <p>Mining profit comes mainly from gems, minerals, and ores. Here are the high-value mineral yields:</p>
-<p>{{ profit_table([
-    {"name": "Diamond 💎", "seed_cost": "0", "grow_days": "0", "regrow": "No", "sell_price": "600", "profit_per_day": "600.00", "notes": "Mines floor 40+, Statue of Endless Fortune produces daily"},
-    {"name": "Jade 💚", "seed_cost": "0", "grow_days": "0", "regrow": "No", "sell_price": "200", "profit_per_day": "200.00", "notes": "Trade at Desert Trader on Sunday for Staircases"},
-    {"name": "Ruby ❤️", "seed_cost": "0", "grow_days": "0", "regrow": "No", "sell_price": "250", "profit_per_day": "250.00", "notes": "Trade at Desert Trader on Thursday for Spicy Eel"},
-    {"name": "Amethyst 💜", "seed_cost": "0", "grow_days": "0", "regrow": "No", "sell_price": "100", "profit_per_day": "100.00", "notes": "Abigail's favorite gift"},
-    {"name": "Aquamarine 💙", "seed_cost": "0", "grow_days": "0", "regrow": "No", "sell_price": "180", "profit_per_day": "180.00", "notes": "Can craft rings"},
-    {"name": "Topaz 🟡", "seed_cost": "0", "grow_days": "0", "regrow": "No", "sell_price": "120", "profit_per_day": "120.00", "notes": "Common gem"},
-    {"name": "Earth Crystal 💎", "seed_cost": "0", "grow_days": "0", "regrow": "No", "sell_price": "50", "profit_per_day": "50.00", "notes": "Common in Mines 1-39"},
-    {"name": "Frozen Tear ❄️", "seed_cost": "0", "grow_days": "0", "regrow": "No", "sell_price": "75", "profit_per_day": "75.00", "notes": "Mines floors 40-79"},
-    {"name": "Fire Quartz 🔥", "seed_cost": "0", "grow_days": "0", "regrow": "No", "sell_price": "90", "profit_per_day": "90.00", "notes": "Mines floors 80-119"},
-    {"name": "Iridium Ore 🪨", "seed_cost": "0", "grow_days": "0", "regrow": "No", "sell_price": "150", "profit_per_day": "150.00", "notes": "Skull Cavern mass drop! Smelt into Iridium Bar 1000g"},
-    {"name": "Gold Ore 🪙", "seed_cost": "0", "grow_days": "0", "regrow": "No", "sell_price": "25", "profit_per_day": "25.00", "notes": "Mines floor 80+, smelt into Gold Bar 300g"},
-    {"name": "Iron Ore 🔩", "seed_cost": "0", "grow_days": "0", "regrow": "No", "sell_price": "10", "profit_per_day": "10.00", "notes": "Mines floor 40+, smelt into Iron Bar 120g"},
-    {"name": "Copper Ore 🥉", "seed_cost": "0", "grow_days": "0", "regrow": "No", "sell_price": "5", "profit_per_day": "5.00", "notes": "Mines floor 1-39, smelt into Copper Bar 60g"}
-], "Mining/Mineral Profit Table (Single Item)") }}</p>
+<table class="datatable" style="width:100%">
+            <thead><tr>
+                <th>作物</th><th>种子价格</th><th>生长天数</th><th>续收</th><th>卖价</th><th>每日利润</th><th>备注</th>
+            </tr></thead>
+            <tbody><tr style="background:rgba(76,175,80,0.15)">
+                <td><strong>Diamond 💎</strong></td>
+                <td>0金</td>
+                <td>0天</td>
+                <td>No</td>
+                <td>600金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:100%;background:#FFD700;height:100%"></div></div><strong>600.0金</strong></div></td>
+                <td>Mines floor 40+, Statue of Endless Fortune produces daily</td>
+            </tr><tr >
+                <td><strong>Ruby ❤️</strong></td>
+                <td>0金</td>
+                <td>0天</td>
+                <td>No</td>
+                <td>250金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:41%;background:#4CAF50;height:100%"></div></div><strong>250.0金</strong></div></td>
+                <td>Trade at Desert Trader on Thursday for Spicy Eel</td>
+            </tr><tr >
+                <td><strong>Jade 💚</strong></td>
+                <td>0金</td>
+                <td>0天</td>
+                <td>No</td>
+                <td>200金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:33%;background:#4CAF50;height:100%"></div></div><strong>200.0金</strong></div></td>
+                <td>Trade at Desert Trader on Sunday for Staircases</td>
+            </tr><tr >
+                <td><strong>Aquamarine 💙</strong></td>
+                <td>0金</td>
+                <td>0天</td>
+                <td>No</td>
+                <td>180金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:30%;background:#4CAF50;height:100%"></div></div><strong>180.0金</strong></div></td>
+                <td>Can craft rings</td>
+            </tr><tr >
+                <td><strong>Iridium Ore 🪨</strong></td>
+                <td>0金</td>
+                <td>0天</td>
+                <td>No</td>
+                <td>150金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:25%;background:#4CAF50;height:100%"></div></div><strong>150.0金</strong></div></td>
+                <td>Skull Cavern mass drop! Smelt into Iridium Bar 1000g</td>
+            </tr><tr >
+                <td><strong>Topaz 🟡</strong></td>
+                <td>0金</td>
+                <td>0天</td>
+                <td>No</td>
+                <td>120金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:20%;background:#4CAF50;height:100%"></div></div><strong>120.0金</strong></div></td>
+                <td>Common gem</td>
+            </tr><tr >
+                <td><strong>Amethyst 💜</strong></td>
+                <td>0金</td>
+                <td>0天</td>
+                <td>No</td>
+                <td>100金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:16%;background:#4CAF50;height:100%"></div></div><strong>100.0金</strong></div></td>
+                <td>Abigail's favorite gift</td>
+            </tr><tr >
+                <td><strong>Fire Quartz 🔥</strong></td>
+                <td>0金</td>
+                <td>0天</td>
+                <td>No</td>
+                <td>90金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:15%;background:#4CAF50;height:100%"></div></div><strong>90.0金</strong></div></td>
+                <td>Mines floors 80-119</td>
+            </tr><tr >
+                <td><strong>Frozen Tear ❄️</strong></td>
+                <td>0金</td>
+                <td>0天</td>
+                <td>No</td>
+                <td>75金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:12%;background:#4CAF50;height:100%"></div></div><strong>75.0金</strong></div></td>
+                <td>Mines floors 40-79</td>
+            </tr><tr >
+                <td><strong>Earth Crystal 💎</strong></td>
+                <td>0金</td>
+                <td>0天</td>
+                <td>No</td>
+                <td>50金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:8%;background:#4CAF50;height:100%"></div></div><strong>50.0金</strong></div></td>
+                <td>Common in Mines 1-39</td>
+            </tr><tr >
+                <td><strong>Gold Ore 🪙</strong></td>
+                <td>0金</td>
+                <td>0天</td>
+                <td>No</td>
+                <td>25金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:4%;background:#4CAF50;height:100%"></div></div><strong>25.0金</strong></div></td>
+                <td>Mines floor 80+, smelt into Gold Bar 300g</td>
+            </tr><tr >
+                <td><strong>Iron Ore 🔩</strong></td>
+                <td>0金</td>
+                <td>0天</td>
+                <td>No</td>
+                <td>10金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:1%;background:#4CAF50;height:100%"></div></div><strong>10.0金</strong></div></td>
+                <td>Mines floor 40+, smelt into Iron Bar 120g</td>
+            </tr><tr >
+                <td><strong>Copper Ore 🥉</strong></td>
+                <td>0金</td>
+                <td>0天</td>
+                <td>No</td>
+                <td>5金</td>
+                <td><div style="display:flex;align-items:center;gap:6px"><div style="background:#333;border-radius:3px;overflow:hidden;height:16px;width:80px"><div style="width:0%;background:#4CAF50;height:100%"></div></div><strong>5.0金</strong></div></td>
+                <td>Mines floor 1-39, smelt into Copper Bar 60g</td>
+            </tr></tbody>
+        </table>
+
 <blockquote>
 <p>💡 <strong>Mining Advice:</strong> Once you unlock Skull Cavern, head straight to floor 100+ for Iridium. Trade Jade for Staircases on Sunday. Bring Spicy Eel (+Luck +Speed) + Coffee (+Speed) = ultimate mining loadout.</p>
 </blockquote>
@@ -5629,7 +6111,10 @@
 <p>💡 <strong>Ultimate Secret:</strong> After unlocking Ginger Island, plant <strong>1200+ Starfruit + 400+ Kegs</strong>, use Junimo Huts for auto-harvest, net <strong>3M+</strong> gold per season.</p>
 </blockquote>
 <hr />
-<p>{{ affiliate_section("Stardew Valley", "413150") }}</p>
+<hr />
+<h3 id="_1">🛒 购买链接</h3>
+<p><a href="https://store.steampowered.com/app/413150/" target="_blank" rel="nofollow sponsored" style="display:inline-block;padding:8px 16px;margin:4px;background:#2e7d32;color:#fff;border-radius:8px;text-decoration:none;font-size:0.9em">🎮 Steam 🛒</a></p>
+<p><em>以上链接为推广链接，购买后本站可获得少量佣金，不影响您的购买价格。</em></p>
 <hr />
 <blockquote>
 <p><em>This calculator is based on Stardew Valley 1.6 official data. Prices are base quality. Iridium quality sells for 2x, Artisan profession adds +40% to artisan good prices.</em></p>
