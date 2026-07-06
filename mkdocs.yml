@@ -26,6 +26,11 @@ extra:
     property: G-NENYIKVWHL
   generator: false
 
+plugins:
+  - search
+  - macros:
+      module_name: hooks/main
+
 nav:
   - 🏠 Home: index.md
   - 🌿 Stardew Valley:
