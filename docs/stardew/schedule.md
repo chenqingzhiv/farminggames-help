@@ -203,7 +203,7 @@ description: Stardew Valley complete NPC schedule & festival calendar — daily 
 
 ## 🎪 Festival Calendar
 
-> Stardew Valley has **12 fixed festivals + 3 days of Night Market** each year. Quick reference below; full details on the [Festival Calendar](festivals/).
+> Stardew Valley has **12 fixed festivals + 3 days of Night Market** each year. Quick reference below; full details on the [Festival Calendar](festivals.md).
 
 | Date | Festival | Season | Location | 🏆 Must-Do |
 |:-----|:-----|:-----|:------|:--------|
@@ -258,7 +258,7 @@ description: Stardew Valley complete NPC schedule & festival calendar — daily 
 
 ---
 
-> Full NPC gift preferences on the [💰 NPC Gift Guide](npc-gifts/)
-> Full festival details on the [🎪 Festival Events Calendar](festivals/)
+> Full NPC gift preferences on the [💰 NPC Gift Guide](npc-gifts.md)
+> Full festival details on the [🎪 Festival Events Calendar](festivals.md)
 
 {{ affiliate_section("Stardew Valley", "413150") }}

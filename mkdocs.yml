@@ -53,9 +53,10 @@ nav:
           - Fruit Trees: stardew/fruit-trees.md
           - Forage Guide: stardew/forage-guide.md
           - Profit Calc: stardew/profit-calc.md
-          - Planting Calendar: stardew/planting-calendar.md
-          - Farm Layout: stardew/farm-layout.md
-          - Artisan: stardew/artisan.md
+          - 🌱 Planting Calendar: stardew/planting-calendar.md
+          - 🚜 Farm Layout: stardew/farm-layout.md
+          - 🐄 Animals: stardew/animals.md
+          - 🧪 Artisan: stardew/artisan.md
       - ⛏️ Skills & Combat:
           - Skills: stardew/skills.md
           - Mining: stardew/mining.md
@@ -101,6 +102,12 @@ nav:
           - Bundle Tracker: tools/bundle-tracker.md
           - Profit Optimizer: tools/profit-optimizer.md
           - Interactive Map: tools/interactive-map.md
+          - 🎒 Community Center: tools/stardew-valley/community-center.md
+          - 🌱 Crop Compare: tools/stardew-valley/crop-compare.md
+          - 🐟 Fish Tracker: tools/stardew-valley/fish-tracker.md
+          - ⛏️ Mining Tracker: tools/stardew-valley/mining-tracker.md
+          - 💝 NPC Friendship: tools/stardew-valley/npc-friendship.md
+          - 💰 Profit Planner: tools/stardew-valley/profit-planner.md
   - 🚜 Farming Sim 25:
       - Overview: farmingsim/index.md
       - Getting Started: farmingsim/getting-started.md
@@ -204,6 +211,8 @@ nav:
       - Game Comparison: tools/game-comparison/index.md
       - Release Calendar: tools/release-calendar/index.md
   - 📖 Guides: guides/index.md
+  - 🌱 New Player Starter: guides/newbie.md
+  - 🌿 Stardew Beginner: guides/stardew-valley-beginners-guide.md
   - 🖥️ Gaming Gear: guides/best-gaming-gear.md
   - About: about.md
   - 🔒 Privacy Policy: privacy-policy.md
