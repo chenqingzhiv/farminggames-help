@@ -34,9 +34,6 @@ Browse all guides organized by game.
 - [🍁 Complete Fall Guide](../stardew/fall-guide.md) — Cranberries, Pumpkins, Stardew Valley Fair
 - [❄️ Winter Guide](../stardew/winter.md) — Mining focus, money-making
 
-### 王道長's Video Guides
-- [🎃 南瓜 vs 蔓越莓全面对比](星露谷物语秋季种什么最赚钱南瓜-vs-蔓越莓全面对比.md) — 秋季作物利润对比，教你秋季种什么最赚钱
-
 ### Crops & Farming
 - [🌱 Full Season Crop Profit Table](../stardew/crops.md) — All crops, all seasons, profit calculations
 - [🏆 Crop Tier List](../stardew/tier-list.md) — Best crops ranked by profitability
