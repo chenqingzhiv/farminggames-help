@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first in Stardew Valley Year 1 Spring?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Day 1: clear 15 parsnip starter seeds, fish until 1:50am. Day 2: plant more parsnips from purchased seeds. Days 3-12: fish daily for income, mine on rainy days. Day 13: buy Strawberries at Egg Festival (as many as possible). Rest of Spring: fish, mine, build relationships."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much money can I make in Spring Year 1?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "With optimal play: 40,000-50,000g by end of Spring. Strategy: fishing in mountain lake (best income), strawberry farming (80+ plants), and investing in backpack upgrades."
+      }
+    }
+  ]
+}

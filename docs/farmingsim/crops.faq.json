@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the most profitable crop in Farming Simulator 25?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Soybeans: ~3,800-4,500\u20ac/ha profit. Sugarcane and Cotton have high per-cycle income but require expensive equipment. Potatoes and Sugar Beets are root crops with high yield but slower harvesting. For year-round operations, consider rotating Soybeans \u2192 Canola \u2192 Wheat."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I buy fields or lease equipment first in FS25?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lease equipment (especially harvesters) in early game \u2014 save capital for buying fields. Start with medium-sized fields (2-5ha), use AI workers for fieldwork, and reinvest profits into land. Own your tractor and seeder, lease the harvester."
+      }
+    }
+  ]
+}

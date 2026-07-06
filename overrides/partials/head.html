@@ -1,0 +1,17 @@
+<!-- ⚡ FAQ Schema injector -->
+<script>
+(function() {
+  // Derive current page path from URL
+  var path = window.location.pathname.replace(/\/$/, '') || '/index';
+  var faqUrl = path + '.faq.json';
+  fetch(faqUrl)
+    .then(function(r) { if (r.ok) return r.json(); throw new Error('no faq'); })
+    .then(function(data) {
+      var script = document.createElement('script');
+      script.type = 'application/ld+json';
+      script.textContent = JSON.stringify(data);
+      document.head.appendChild(script);
+    })
+    .catch(function() { /* no FAQ schema for this page */ });
+})();
+</script>
