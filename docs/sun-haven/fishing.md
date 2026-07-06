@@ -1,208 +1,208 @@
 ---
-title: Sun Haven — 钓鱼完全指南（三图鉴/鱼竿升级/小游戏/技能树/传奇鱼/捕虫网）
-description: Sun Haven 钓鱼深度攻略：解锁条件与鱼竿升级路线、钓鱼小游戏机制详解、全部鱼类按水域分类（Sun Haven / Nel'Vari / Withergate + 季节限定）、最佳利润钓点、技能树加点推荐、传说鱼与远古鱼捕获方法、捕虫网与昆虫收集
+title: Sun Haven — Fishing Complete Guide (Three Biomes/Rod Upgrades/Minigame/Skill Tree/Legendary Fish/Bug Net)
+description: Sun Haven fishing deep dive — unlock conditions and rod upgrade path, fishing minigame mechanics explained, all fish by water zone (Sun Haven / Nel'Vari / Withergate + seasonal variants), best profit spots, skill tree recommendations, legendary and ancient fish catching methods, bug net and insect collection.
 date: 2026-07-05
 ---
 
-# 🎣 Sun Haven — 钓鱼完全指南
+# 🎣 Sun Haven — Fishing Complete Guide
 
-Sun Haven 的钓鱼系统分为三个完全独立的生物群系水域，每种水域有专属鱼类、不同浮标难度和季节性变种。配合技能树和装备升级，钓鱼可以成为前期最强赚钱手段之一。
-
----
-
-## 🔓 解锁与鱼竿升级
-
-### 解锁条件
-
-| 任务/条件 | 说明 |
-|:---------|:------|
-| 📋 前置任务 | 完成主线「Welcome to Sun Haven」后触发 |
-| 🎣 初始鱼竿 | 在城镇码头的 **Anne** 处领取（免费） |
-| 📍 钓鱼点 | 任何水域旁按动作键即可抛竿 |
-
-### 鱼竿升级路线
-
-| 等级 | 鱼竿名称 | 购买价 | 钓鱼等级要求 | 效果 | 解锁地点 |
-|:----|:--------|:-----:|:------------:|:----|:--------|
-| 🟢 **T1** | 竹竿 (Bamboo Rod) | 免费 | Lv.0 | 基础 3m 抛投 | 新手教程 |
-| 🔵 **T2** | 玻璃纤维 (Fiberglass) | 500g | Lv.5 | 抛投 +2m，钓鱼条 +15% | Sun Haven 渔具店 |
-| 🟣 **T3** | 碳素竿 (Carbon Rod) | 1,500g | Lv.10 | 抛投 +4m，钓鱼条 +30%，拉线加速 | Sun Haven 渔具店 |
-| 🟠 **T4** | 秘银竿 (Mythril Rod) | 4,000g | Lv.20 | 抛投 +6m，钓鱼条 +50%，自动收线 | Nel'Vari 精灵渔具店 |
-| 🔴 **T5** | 虚空竿 (Void Rod) | 8,000g | Lv.30 | 抛投 +8m，钓鱼条 +75%，传说鱼概率 +25% | Withergate 黑暗渔具店 |
-| 🪄 **T6** | 星陨竿 (Starfall Rod) | 15,000g | Lv.40 | 抛投 +10m，钓鱼条 +100%，远古鱼可见 | 隐藏商人（博物馆捐赠 40+） |
-
-> **Tip:** **完全没必要买 T2（玻璃纤维竿）**——多攒 1,000g 直接从 T1 跳到 T3（碳素竿）。T1→T3 的价格差才 1,500g，而 T2→T3 的 1,000g 过渡消费完全是浪费。T3 的钓鱼条 +30% 让你的小游戏容错率大增。
+Sun Haven's fishing system spans three completely independent biome waters, each with exclusive fish species, different float difficulty levels, and seasonal variants. Combined with the skill tree and equipment upgrades, fishing can be one of the best early-game money-making methods.
 
 ---
 
-## 🎮 钓鱼小游戏机制详解
+## 🔓 Unlock & Rod Upgrades
 
-### 核心机制
+### Unlock Conditions
 
-| 要素 | 说明 |
-|:----|:------|
-| 🎯 **抛投距离** | 长按蓄力决定抛投距离，不同距离影响鱼种 |
-| 🐟 **上鱼判定** | 浮标入水后，水面波纹表示该位置有鱼 |
-| 🟩 **钓鱼条** | 绿色指示条，必须将鱼保持在绿色区域内 |
-| 🟥 **鱼挣扎** | 红色区域缩小/扩大，鱼种越稀有波动越快 |
-| ⏱️ **出界惩罚** | 鱼脱离绿色区域超过 2 秒 → 脱钩 |
-| 💪 **体力消耗** | 每次收线消耗 5 体力，脱钩不退 |
-| 🌀 **挣扎等级** | 1~5 星：鱼越稀有挣扎等级越高 |
+| Quest / Condition | Description |
+|:-----------------|:------------|
+| 📋 Prerequisite Quest | Triggers after completing the main quest "Welcome to Sun Haven" |
+| 🎣 Starter Rod | Pick it up from **Anne** at the town pier (free) |
+| 📍 Fishing Spots | Press the action key near any body of water to cast |
 
-### 难度星级参考
+### Rod Upgrade Path
 
-| 难度 | 鱼挣扎模式 | 代表鱼 | 预期成功率（T3竿） |
-|:---:|:----------|:------|:----------------:|
-| ⭐ | 缓慢上下浮动 | 鲶鱼、鲤鱼 | 95% |
-| ⭐⭐ | 周期性快跳 | 鲈鱼、鳟鱼 | 85% |
-| ⭐⭐⭐ | 随机快速切换 | 鲑鱼、金枪鱼 | 70% |
-| ⭐⭐⭐⭐ | 剧烈波动 + 快速下降 | 精灵鲑、暗影鳐 | 50% |
-| ⭐⭐⭐⭐⭐ | 几乎无规律疯狂弹跳 | 传说鱼（所有） | 25~35% |
+| Tier | Rod Name | Purchase Price | Fishing Level Required | Effect | Unlock Location |
+|:----:|:---------|:--------------:|:---------------------:|:-------|:----------------|
+| 🟢 **T1** | Bamboo Rod | Free | Lv.0 | Base 3m cast range | Tutorial |
+| 🔵 **T2** | Fiberglass Rod | 500g | Lv.5 | Cast +2m, fishing bar +15% | Sun Haven tackle shop |
+| 🟣 **T3** | Carbon Rod | 1,500g | Lv.10 | Cast +4m, fishing bar +30%, accelerated reeling | Sun Haven tackle shop |
+| 🟠 **T4** | Mythril Rod | 4,000g | Lv.20 | Cast +6m, fishing bar +50%, auto-reel | Nel'Vari elven tackle shop |
+| 🔴 **T5** | Void Rod | 8,000g | Lv.30 | Cast +8m, fishing bar +75%, legendary fish chance +25% | Withergate dark tackle shop |
+| 🪄 **T6** | Starfall Rod | 15,000g | Lv.40 | Cast +10m, fishing bar +100%, ancient fish visible | Hidden merchant (Museum 40+ donations) |
 
-### 技巧
-
-1. **不要长按不放**——轻点式点按比长按更精准控制绿色条位置
-2. **鱼不动时绿色条自动回正**——利用这个间隙恢复位置
-3. **挣扎开始时预判方向**——稀有鱼会先慢后快，前 2 秒是预判关键期
-4. **用鱼饵减少等待**——虫子/面团饵料在上钩时间 -50%
+> **Tip:** **Don't bother with T2 (Fiberglass Rod)** — save 1,000g more and jump straight from T1 to T3 (Carbon Rod). The price gap from T1→T3 is only 1,500g, while T2→T3's 1,000g is completely wasted transitional spending. T3's +30% fishing bar gives you way more minigame leeway.
 
 ---
 
-## 🐟 全部鱼类大全（按水域/季节）
+## 🎮 Fishing Minigame Mechanics in Detail
 
-### ☀️ Sun Haven 城镇水域
+### Core Mechanics
 
-| 鱼名 | 季节 | 时间 | 售价 | 挣扎 | 烹饪用途 | 任务需求 |
-|:----|:---:|:----:|:----:|:---:|:---------|:--------|
-| 🐟 鲶鱼 (Catfish) | 全年 | 全天 | 20g | ⭐ | 烤鱼 (60g) | ❌ |
-| 🐟 鲤鱼 (Carp) | 春/夏/秋 | 全天 | 15g | ⭐ | 鱼汤 (50g) | ❌ |
-| 🐟 河鲈 (Perch) | 全年 | 6-18时 | 25g | ⭐⭐ | 烤鲈鱼 (80g) | 社区任务 |
-| 🐟 虹鳟 (Rainbow Trout) | 春/夏 | 6-14时 | 35g | ⭐⭐ | 烟熏鳟 (110g) | ❌ |
-| 🐟 鲑鱼 (Salmon) | 秋 | 8-16时 | 50g | ⭐⭐⭐ | 烤鲑鱼 (150g) | 派遣任务 |
-| 🐟 蓝鳃 (Bluegill) | 夏/秋 | 全天 | 18g | ⭐ | 炸鱼 (55g) | ❌ |
-| 🐟 鲤鱼王 (Magikarp) | 全年（雨天） | 全天 | 30g | ⭐ | 无 | ❌（收集成就） |
-| 🐟 鳗鱼 (Eel) | 春/秋/冬 | 18-6时 | 65g | ⭐⭐⭐ | 蒲烧鳗 (200g) | 钓鱼 Lv.15 任务 |
+| Element | Description |
+|:--------|:------------|
+| 🎯 **Cast Distance** | Hold to charge; distance affects which fish species you attract |
+| 🐟 **Bite Detection** | Ripples on the water surface indicate a fish is in the area |
+| 🟩 **Fishing Bar** | Green indicator — you must keep the fish inside this zone |
+| 🟥 **Fish Struggle** | Red zone shrinks/expands; rarer fish fluctuate faster |
+| ⏱️ **Out-of-Bounds Penalty** | Fish leaves the green zone for over 2 seconds → unhooked |
+| 💪 **Stamina Cost** | Each reel attempt costs 5 stamina; unhooking doesn't refund |
+| 🌀 **Struggle Level** | 1~5 stars: the rarer the fish, the higher the struggle level |
 
-### 🌿 Nel'Vari 精灵水域
+### Difficulty Star Reference
 
-| 鱼名 | 季节 | 时间 | 售价 | 挣扎 | 特殊效果 | 解锁条件 |
-|:----|:---:|:----:|:----:|:---:|:---------|:--------|
-| 🧚 精灵鲦 (Fairy Minnow) | 全年 | 全天 | 50g | ⭐⭐ | — | 完成 Nel'Vari 主线 |
-| 🌟 星辉鱼 (Starlight Fish) | 全年 | 20-6时 | 120g | ⭐⭐⭐ | 食用 +5 MP 上限 | Nel'Vari 水域 |
-| 🧜‍♀️ 精灵鲑 (Elven Salmon) | 春/夏 | 6-14时 | 150g | ⭐⭐⭐⭐ | 烹饪→精灵大餐 (450g) | Nel'Vari 水域 |
-| 🌺 花鳍鱼 (Flowerfin) | 夏/秋 | 全天 | 80g | ⭐⭐ | 装饰用（鱼缸） | 需投喂特殊饵料 |
-| 🌀 漩涡鱼 (Vortex Fish) | 全年（雨天） | 全天 | 200g | ⭐⭐⭐⭐ | — | Nel'Vari 雨天限定 |
-| 🌸 樱花鱼 (Sakura Fish) | 春 | 6-18时 | 90g | ⭐⭐ | 博物馆捐赠 | 春季限定 |
+| Difficulty | Fish Struggle Pattern | Representative Fish | Expected Success Rate (T3 Rod) |
+|:----------:|:---------------------|:-------------------|:-----------------------------:|
+| ⭐ | Slow steady float | Catfish, Carp | 95% |
+| ⭐⭐ | Periodic quick jumps | Perch, Trout | 85% |
+| ⭐⭐⭐ | Random fast switches | Salmon, Tuna | 70% |
+| ⭐⭐⭐⭐ | Wild fluctuations + rapid drops | Elven Salmon, Shadow Ray | 50% |
+| ⭐⭐⭐⭐⭐ | Near-random frantic bouncing | All Legendary Fish | 25~35% |
 
-### 🦇 Withergate 黑暗水域
+### Tips
 
-| 鱼名 | 季节 | 时间 | 售价 | 挣扎 | 特殊效果 | 解锁条件 |
-|:----|:---:|:----:|:----:|:---:|:---------|:--------|
-| 🖤 暗影鳟 (Shadow Trout) | 全年 | 全天 | 60g | ⭐⭐ | — | Withergate 水域 |
-| 💀 骨鱼 (Bone Fish) | 全年 | 20-6时 | 100g | ⭐⭐⭐ | 可炼药→暗影药水 | Withergate 水域 |
-| 🔮 虚空鲶 (Void Catfish) | 全年 | 全天 | 180g | ⭐⭐⭐⭐ | 食用 +3 攻 10 分钟 | 需 20+ 钓鱼等级 |
-| 🩸 血鳍鱼 (Bloodfin) | 秋/冬 | 18-6时 | 150g | ⭐⭐⭐ | — | Withergate 秋/冬 |
-| 🌑 月鳗 (Moon Eel) | 全年 | 18-6时 | 220g | ⭐⭐⭐⭐ | 高级炼药食材 | Withergate 全季节 |
-| 💎 水晶鱼 (Crystal Fish) | 全年 | 全天 | 250g | ⭐⭐⭐⭐⭐ | 售价极高，但极难捕获 | Withergate 深层水域 |
+1. **Don't hold down continuously** — short taps give you more precise green bar control than holding
+2. **When the fish stops moving, the green bar auto-centers** — use this gap to recover position
+3. **Predict direction when the struggle begins** — rare fish start slow then speed up; the first 2 seconds are critical for reading them
+4. **Use bait to reduce wait time** — bug/dough bait cuts hook time by 50%
 
 ---
 
-## 💰 最佳利润钓点与每小时收益
+## 🐟 Complete Fish Directory (By Zone / Season)
 
-| 钓点 | 平均售价/条 | 预计条/小时 | 每小时收益 | 最佳时间 | 推荐鱼竿 |
-|:----|:----------:|:----------:|:---------:|:--------|:--------|
-| 💧 Sun Haven 码头 | 25~35g | 25~35 | **625~1,225g/h** | 6-14时 | T1~T3 |
-| 🌅 Sun Haven 悬崖 | 35~50g | 20~25 | **700~1,250g/h** | 8-16时（秋） | T3+ |
-| 🧚 Nel'Vari 瀑布 | 80~150g | 15~20 | **1,200~3,000g/h** | 20-6时 | T4+ |
-| 🌺 Nel'Vari 花河 | 80~200g | 12~18 | **960~3,600g/h** | 雨天 | T4+ |
-| 🦇 Withergate 暗河 | 100~250g | 10~15 | **1,000~3,750g/h** | 全天 | T5+ |
-| 💎 Withergate 深潭 | 150~250g | 8~12 | **1,200~3,000g/h** | 18-6时 | T5~T6 |
+### ☀️ Sun Haven Town Waters
 
-> **Tip:** **Nel'Vari 瀑布夜间（20-6时）是固定最佳钓钱点**——夜间星辉鱼（120g）+ 雨天漩涡鱼（200g）的组合让每小时轻松过 2,000g。比 Sun Haven 白天的收益率高 2~3 倍。尽快解锁 Nel'Vari 传送门是钓鱼赚钱的关键节点。
+| Fish | Season | Time | Sell Price | Struggle | Cooking Use | Quest Requirement |
+|:-----|:------:|:----:|:----------:|:--------:|:------------|:-----------------|
+| 🐟 Catfish | All year | All day | 20g | ⭐ | Grilled Fish (60g) | ❌ |
+| 🐟 Carp | Spring/Summer/Autumn | All day | 15g | ⭐ | Fish Soup (50g) | ❌ |
+| 🐟 Perch | All year | 6-18 | 25g | ⭐⭐ | Grilled Perch (80g) | Community quest |
+| 🐟 Rainbow Trout | Spring/Summer | 6-14 | 35g | ⭐⭐ | Smoked Trout (110g) | ❌ |
+| 🐟 Salmon | Autumn | 8-16 | 50g | ⭐⭐⭐ | Grilled Salmon (150g) | Dispatch quest |
+| 🐟 Bluegill | Summer/Autumn | All day | 18g | ⭐ | Fried Fish (55g) | ❌ |
+| 🐟 Magikarp | All year (rainy) | All day | 30g | ⭐ | None | ❌ (collection achievement) |
+| 🐟 Eel | Spring/Autumn/Winter | 18-6 | 65g | ⭐⭐⭐ | Grilled Eel (200g) | Fishing Lv.15 quest |
 
----
+### 🌿 Nel'Vari Elven Waters
 
-## 🌿 钓鱼技能树
+| Fish | Season | Time | Sell Price | Struggle | Special Effect | Unlock Condition |
+|:-----|:------:|:----:|:----------:|:--------:|:---------------|:-----------------|
+| 🧚 Fairy Minnow | All year | All day | 50g | ⭐⭐ | — | Complete Nel'Vari main quest |
+| 🌟 Starlight Fish | All year | 20-6 | 120g | ⭐⭐⭐ | +5 MP cap when eaten | Nel'Vari waters |
+| 🧜‍♀️ Elven Salmon | Spring/Summer | 6-14 | 150g | ⭐⭐⭐⭐ | Cooking → Elven Feast (450g) | Nel'Vari waters |
+| 🌺 Flowerfin | Summer/Autumn | All day | 80g | ⭐⭐ | Decorative (aquarium) | Requires special bait |
+| 🌀 Vortex Fish | All year (rainy) | All day | 200g | ⭐⭐⭐⭐ | — | Nel'Vari rainy day only |
+| 🌸 Sakura Fish | Spring | 6-18 | 90g | ⭐⭐ | Museum donation | Spring only |
 
-| 等级 | 技能 | 效果 | 评价 |
-|:----|:----|:------|:----|
-| Lv.2 | 🎣 幸运鱼钩 | 稀有鱼上钩率 +10% | ✅ 必点 |
-| Lv.5 | 💪 强力拉线 | 鱼挣扎速度 -15% | ✅✅ **核心** |
-| Lv.8 | 📦 双倍收获 | 25% 概率钓到双倍鱼 | ✅✅ **核心** |
-| Lv.10 | 🏆 渔夫精神 | 鱼售价 +20% | ✅✅ **核心** |
-| Lv.12 | 🐟 鱼饵大师 | 鱼饵效果 +100%（持续 2 倍时间） | ✅ 推荐 |
-| Lv.15 | 🧪 炼鱼师 | 烹饪鱼料理售价 +25% | ⚠️ 看流派 |
-| Lv.18 | 🌊 深水专家 | 传说鱼概率 +20% | ✅ 后期必点 |
-| Lv.20 | 🌀 漩涡感知 | 地图显示稀有鱼位置 | ✅ 方便刷传说 |
-| Lv.25 | ✨ 精灵祝福 | Nel'Var i 鱼售价 +30% | ✅✅ **核心中后期** |
-| Lv.30 | 🖤 虚空亲和 | Withergate 鱼挣扎 -25% | ✅ Withergate 刷鱼必备 |
-| Lv.35 | 💰 黄金鱼钩 | 所有鱼有小概率直接变金品质（+50%价） | ⚠️ 赌脸 |
-| Lv.40 | 🏅 鱼神 | 传说鱼售价翻倍 | ✅✅ **终局神技** |
+### 🦇 Withergate Dark Waters
 
-### 推荐加点路线
-
-**赚钱路线（推荐）：** Lv.5(强力拉线) → Lv.8(双倍收获) → Lv.10(+20%售价) → Lv.12(鱼饵延长) → Lv.40(传说鱼双倍)
-
-**图鉴收集路线：** Lv.2(稀有率+) → Lv.18(传说+) → Lv.20(地图显稀有) → Lv.25(精灵祝福) → Lv.40(传说双倍)
-
----
-
-## 👑 传说鱼 & 远古鱼
-
-### 传说鱼（Legendary Fish）
-
-| 鱼名 | 所在水域 | 捕捉条件 | 挣扎等级 | 售价 | 特殊 |
-|:----|:--------|:--------|:-------:|:----:|:----|
-| 🐉 **深渊龙王** (Abyss Wyrm) | Withergate 深潭 | 雨天+深夜+钓鱼 Lv.30 | ⭐⭐⭐⭐⭐ | 2,000g | 最难捕获，博物馆+1 |
-| 🧜 **海妖之泪** (Siren's Tear) | Nel'Vari 瀑布底 | 春季+晴天 6-8时 | ⭐⭐⭐⭐⭐ | 1,500g | 年度限时（春仅 2 小时窗） |
-| 👑 **精灵之王** (Elven King) | Nel'Vari 中心湖 | 精灵祝福技能+夏季 | ⭐⭐⭐⭐ | 1,200g | 必须 Lv.25 技能才可见 |
-| 🌑 **虚空之主** (Void Lord) | Withergate 暗河源头 | 钓鱼 Lv.35+暗影药水 | ⭐⭐⭐⭐⭐ | 2,500g | 需要药水效果才上钩 |
-| 🌊 **太阳之息** (Sun's Breath) | Sun Haven 码头外海 | 夏季+中午 12-14时 | ⭐⭐⭐⭐ | 1,000g | 两小时内限定 |
-
-### 远古鱼（Ancient Fish）
-
-| 鱼名 | 解锁方式 | 售价 | 烹饪用途 |
-|:----|:--------|:----:|:--------|
-| 🦴 腔棘鱼 (Coelacanth) | 星陨竿（T6）+ 深层水域 | 3,000g | 远古炖汤（+50 HP + 50 MP） |
-| 🦈 巨齿鲨 (Megalodon) | Withergate 深潭 + Lv.40 + 传说鱼饵 | 5,000g | 鲨鱼排（+30 攻 15 分钟） |
-| ⚡ 雷鱼 (Thunderfish) | Nel'Vari 雷雨天 + 钓鱼 Lv.38 | 4,000g | 雷霆药剂（+20 速 10 分钟） |
-| ❄️ 冰霜鳕 (Frost Cod) | Withergate 冬季 + 极寒水域 | 3,500g | 冰霜料理（+20 DEF） |
-
-> **Tip:** **传说鱼 = 高额一次性收入，不建议烹饪**。烹饪后价值往往低于生卖价（鱼神技能 Lv.40 传说鱼售价翻倍后更是如此）。只有海妖之泪（1,500g）和深渊龙王（2,000g）以外的传说鱼，在 Lv.40 技能下卖 2,000~5,000g / 条比烹饪划算得多。
+| Fish | Season | Time | Sell Price | Struggle | Special Effect | Unlock Condition |
+|:-----|:------:|:----:|:----------:|:--------:|:---------------|:-----------------|
+| 🖤 Shadow Trout | All year | All day | 60g | ⭐⭐ | — | Withergate waters |
+| 💀 Bone Fish | All year | 20-6 | 100g | ⭐⭐⭐ | Can brew → Shadow Potion | Withergate waters |
+| 🔮 Void Catfish | All year | All day | 180g | ⭐⭐⭐⭐ | +3 Attack for 10 min when eaten | Need Fishing Lv.20+ |
+| 🩸 Bloodfin | Autumn/Winter | 18-6 | 150g | ⭐⭐⭐ | — | Withergate Autumn/Winter |
+| 🌑 Moon Eel | All year | 18-6 | 220g | ⭐⭐⭐⭐ | High-tier alchemy ingredient | Withergate all seasons |
+| 💎 Crystal Fish | All year | All day | 250g | ⭐⭐⭐⭐⭐ | Very high value, extremely hard to catch | Withergate deep waters |
 
 ---
 
-## 🪲 捕虫网系统
+## 💰 Best Profit Fishing Spots & Hourly Earnings
 
-### 解锁与基础
+| Spot | Avg Value/Fish | Est. Fish/Hour | Hourly Earnings | Best Time | Recommended Rod |
+|:-----|:--------------:|:--------------:|:---------------:|:----------|:---------------|
+| 💧 Sun Haven Pier | 25~35g | 25~35 | **625~1,225g/h** | 6-14 | T1~T3 |
+| 🌅 Sun Haven Cliffs | 35~50g | 20~25 | **700~1,250g/h** | 8-16 (Autumn) | T3+ |
+| 🧚 Nel'Vari Waterfall | 80~150g | 15~20 | **1,200~3,000g/h** | 20-6 | T4+ |
+| 🌺 Nel'Vari Flower River | 80~200g | 12~18 | **960~3,600g/h** | Rainy | T4+ |
+| 🦇 Withergate Dark River | 100~250g | 10~15 | **1,000~3,750g/h** | All day | T5+ |
+| 💎 Withergate Deep Pool | 150~250g | 8~12 | **1,200~3,000g/h** | 18-6 | T5~T6 |
 
-| 项目 | 说明 |
-|:----|:------|
-| 🔓 解锁条件 | 完成博物馆剧情后，在 Sun Haven 工具店购买 |
-| 💰 捕虫网价格 | 250g（基础款） |
-| 🔄 升级版 | 精金网（800g，捕获率 +30%）/ 精灵网（2,000g，虫类不逃跑） |
-| 🎯 操作方式 | 按动作键挥网，对准飞行的昆虫 |
+> **Tip:** **Nel'Vari Waterfall at night (20-6) is the single best consistent money spot** — Starlight Fish (120g) + rainy day Vortex Fish (200g) combo easily clears 2,000g/h. That's 2~3 times the rate of Sun Haven daytime fishing. Unlocking the Nel'Vari portal ASAP is the key milestone for fishing profit.
 
-### 昆虫列表与售价
+---
 
-| 昆虫 | 出现地点 | 季节 | 时间 | 售价 | 用途 |
-|:----|:--------|:---:|:----:|:----:|:----|
-| 🦋 蝴蝶 (Butterfly) | 城镇花园 | 春/夏 | 8-18时 | 15g | 博物馆 |
-| 🐝 蜜蜂 (Bee) | 花丛附近 | 春/夏/秋 | 全天 | 25g | 蜂箱产业 |
-| 🪰 萤火虫 (Firefly) | Nel'Vari | 全年 | 20-4时 | 35g | 炼药 |
-| 🦗 蟋蟀 (Cricket) | 草地 | 春/夏/秋 | 6-10时/18-22时 | 10g | 鱼饵制作 |
-| 🕷️ 蜘蛛 (Spider) | 矿洞/Withergate | 全年 | 全天 | 20g | 炼药 |
-| 🥋 螳螂 (Mantis) | 丛林 | 夏/秋 | 8-16时 | 45g | 派遣任务 |
-| 🦎 彩虹甲虫 (Rainbow Beetle) | Nel'Vari 雨林 | 全年（雨天） | 全天 | 120g | 最值钱昆虫 |
-| 🪲 暗影甲虫 (Shadow Beetle) | Withergate 阴影区 | 全年 | 20-6时 | 100g | 黑暗炼药 |
+## 🌿 Fishing Skill Tree
 
-### 捕虫利润
+| Level | Skill | Effect | Rating |
+|:------|:------|:-------|:-------|
+| Lv.2 | 🎣 Lucky Hook | Rare fish bite rate +10% | ✅ Good |
+| Lv.5 | 💪 Strong Reel | Fish struggle speed -15% | ✅✅ **Core** |
+| Lv.8 | 📦 Double Catch | 25% chance to catch two fish | ✅✅ **Core** |
+| Lv.10 | 🏆 Fisher's Spirit | Fish sell price +20% | ✅✅ **Core** |
+| Lv.12 | 🐟 Bait Master | Bait effect +100% (2× duration) | ✅ Recommended |
+| Lv.15 | 🧪 Fish Alchemist | Cooked fish dish price +25% | ⚠️ Build-dependent |
+| Lv.18 | 🌊 Deep Water Expert | Legendary fish chance +20% | ✅ Late-game must |
+| Lv.20 | 🌀 Vortex Sense | Shows rare fish locations on map | ✅ Convenient for legendaries |
+| Lv.25 | ✨ Elven Blessing | Nel'Vari fish price +30% | ✅✅ **Core mid-late** |
+| Lv.30 | 🖤 Void Affinity | Withergate fish struggle -25% | ✅ Withergate fishing essential |
+| Lv.35 | 💰 Golden Hook | All fish have a small chance to be gold quality (+50% price) | ⚠️ Luck-based |
+| Lv.40 | 🏅 Fish God | Legendary fish sell price doubled | ✅✅ **Endgame god-tier** |
 
-| 策略 | 每小时预估 | 难度 | 建议装备 |
-|:----|:---------:|:----:|:--------|
-| Sun Haven 花园刷蝴蝶/蜜蜂 | 150~300g/h | ⭐ | 基础网 |
-| Nel'Vari 夜间刷萤火虫 | 300~500g/h | ⭐⭐ | 精金网 |
-| Nel'Vari 雨天刷彩虹甲虫 | 600~1,000g/h | ⭐⭐⭐ | 精灵网（防逃跑） |
-| Withergate 暗影甲虫 | 500~800g/h | ⭐⭐⭐ | 精灵网 + 火把（照明） |
+### Recommended Skill Paths
 
-> **Tip:** **捕虫网的最佳用途不是卖钱，而是制作高级鱼饵**。蟋蟀×3 + 浆果×1 = 优质鱼饵（减少鱼上钩时间 50% + 稀有鱼概率 +15%）。用自制饵料的钓鱼效率远超直接捕虫卖钱。除非你刷到彩虹甲虫（120g/只），否则建议把虫子都留着做鱼饵。
+**Money-Making Path (Recommended):** Lv.5(Strong Reel) → Lv.8(Double Catch) → Lv.10(+20% Sell Price) → Lv.12(Bait Extension) → Lv.40(Legendary Double Price)
+
+**Collection Path:** Lv.2(Rare Rate+) → Lv.18(Legendary+) → Lv.20(Map Shows Rares) → Lv.25(Elven Blessing) → Lv.40(Legendary Double)
+
+---
+
+## 👑 Legendary Fish & Ancient Fish
+
+### Legendary Fish
+
+| Fish | Water Zone | Capture Conditions | Struggle Level | Sell Price | Special |
+|:-----|:-----------|:-------------------|:--------------:|:----------:|:--------|
+| 🐉 **Abyss Wyrm** | Withergate Deep Pool | Rainy + late night + Fishing Lv.30 | ⭐⭐⭐⭐⭐ | 2,000g | Hardest catch, museum +1 |
+| 🧜 **Siren's Tear** | Nel'Vari Waterfall Base | Spring + sunny 6-8 AM | ⭐⭐⭐⭐⭐ | 1,500g | Annual limited (spring only — 2hr window) |
+| 👑 **Elven King** | Nel'Vari Central Lake | Elven Blessing skill + Summer | ⭐⭐⭐⭐ | 1,200g | Requires Lv.25 skill to be visible |
+| 🌑 **Void Lord** | Withergate Dark River Source | Fishing Lv.35 + Shadow Potion | ⭐⭐⭐⭐⭐ | 2,500g | Needs potion effect for the bite |
+| 🌊 **Sun's Breath** | Sun Haven Pier Open Sea | Summer + midday 12-14 | ⭐⭐⭐⭐ | 1,000g | Two-hour window only |
+
+### Ancient Fish
+
+| Fish | Unlock Method | Sell Price | Cooking Use |
+|:-----|:---------------|:----------:|:------------|
+| 🦴 Coelacanth | Starfall Rod (T6) + deep waters | 3,000g | Ancient Stew (+50 HP + 50 MP) |
+| 🦈 Megalodon | Withergate Deep Pool + Lv.40 + Legendary Bait | 5,000g | Shark Steak (+30 Attack 15 min) |
+| ⚡ Thunderfish | Nel'Vari thunderstorm + Fishing Lv.38 | 4,000g | Thunder Elixir (+20 Speed 10 min) |
+| ❄️ Frost Cod | Withergate Winter + freezing waters | 3,500g | Frost Dish (+20 DEF) |
+
+> **Tip:** **Legendary fish = high one-time income — don't cook them.** Cooking value is often lower than raw sell price (especially with Lv.40 Fish God skill doubling legendary prices). Except for Siren's Tear (1,500g) and Abyss Wyrm (2,000g), most legendaries sell for 2,000~5,000g each at Lv.40, which is far better than cooking them.
+
+---
+
+## 🪲 Bug Net System
+
+### Unlock & Basics
+
+| Item | Description |
+|:-----|:------------|
+| 🔓 Unlock Condition | Complete museum storyline, then buy at Sun Haven tool shop |
+| 💰 Bug Net Price | 250g (basic) |
+| 🔄 Upgrades | Adamant Net (800g, catch rate +30%) / Elven Net (2,000g, bugs don't flee) |
+| 🎯 Controls | Press action key to swing net at flying insects |
+
+### Insect List & Prices
+
+| Insect | Location | Season | Time | Sell Price | Use |
+|:-------|:---------|:------:|:----:|:----------:|:----|
+| 🦋 Butterfly | Town gardens | Spring/Summer | 8-18 | 15g | Museum |
+| 🐝 Bee | Near flower patches | Spring/Summer/Autumn | All day | 25g | Beehive production |
+| 🪰 Firefly | Nel'Vari | All year | 20-4 | 35g | Alchemy |
+| 🦗 Cricket | Grasslands | Spring/Summer/Autumn | 6-10 / 18-22 | 10g | Bait crafting |
+| 🕷️ Spider | Mines / Withergate | All year | All day | 20g | Alchemy |
+| 🥋 Mantis | Jungle | Summer/Autumn | 8-16 | 45g | Dispatch quests |
+| 🦎 Rainbow Beetle | Nel'Vari rainforest | All year (rainy) | All day | 120g | Most valuable insect |
+| 🪲 Shadow Beetle | Withergate shadow zones | All year | 20-6 | 100g | Dark alchemy |
+
+### Bug Catching Profit
+
+| Strategy | Est. Hourly | Difficulty | Recommended Gear |
+|:---------|:-----------:|:----------:|:-----------------|
+| Sun Haven gardens — butterflies/bees | 150~300g/h | ⭐ | Basic Net |
+| Nel'Vari night — fireflies | 300~500g/h | ⭐⭐ | Adamant Net |
+| Nel'Vari rainy day — Rainbow Beetles | 600~1,000g/h | ⭐⭐⭐ | Elven Net (prevents fleeing) |
+| Withergate — Shadow Beetles | 500~800g/h | ⭐⭐⭐ | Elven Net + Torch (lighting) |
+
+> **Tip:** **The bug net's best use isn't selling bugs — it's making advanced bait.** Cricket ×3 + Berry ×1 = Quality Bait (cuts hook time 50% + rare fish chance +15%). Fishing with homemade bait is vastly more efficient than selling bugs directly. Unless you're chasing Rainbow Beetles (120g each), save your bugs for bait.

@@ -1,118 +1,118 @@
 ---
-title: Fields of Mistria — 节日庆典与活动攻略
-description: 完整解析 Fields of Mistria 全年节庆：日历时间线、小游戏必胜策略、奖励优先级、展览最优搭配与不可错过的独占物品
+title: Fields of Mistria — Festivals & Events Guide
+description: Complete walkthrough of Fields of Mistria's year-round festivals — calendar timeline, mini-game winning strategies, reward priorities, optimal exhibit loadouts, and must-get exclusive items.
 date: 2026-07-05
 ---
 
-# 🎪 Fields of Mistria — 节日庆典与活动攻略
+# 🎪 Fields of Mistria — Festivals & Events Guide
 
-Mistria 全年 8 大节日，每个一年仅一次。本攻略涵盖获胜策略与奖励优先级。
+Mistria hosts 8 major festivals a year, each occurring only once. This guide covers winning strategies and reward priorities.
 
 ---
 
-## 📅 全年节日日历
+## 📅 Year-Round Festival Calendar
 
-| 日期 | 节日 | 核心奖励 | 独占？ |
+| Date | Festival | Core Reward | Exclusive? |
 |:----|:----|:---------|:------:|
-| **春 15** | 🌸 春季丰收祭 | 铱星锄头配方 | ✅ |
-| **春 22** | 🐣 彩蛋寻宝 | 彩蛋帽 | ✅ |
-| **夏 11** | ☀️ 烧烤大会 | 魔法烤炉（15%双倍烹饪） | ✅ |
-| **夏 20** | 🐟 钓鱼大赛 | 铱星鱼竿 | ✅ |
-| **夏 28** | ✨ 星光之夜 | 星辰灯笼 | — |
-| **秋 9** | 🏆 秋季博览会 | 星之果实（+30体力上限） | ✅ |
-| **秋 20** | 🎃 万灵节 | 金色南瓜（2500g/装饰） | — |
-| **冬 13** | ❄️ 冬季市集 | 冰霜剑（32~48攻+冰冻） | ✅ |
-| **冬 25** | 🎁 星辉节 | 随机稀有回礼 | — |
+| **Spring 15** | 🌸 Spring Harvest Festival | Iridium Hoe Recipe | ✅ |
+| **Spring 22** | 🐣 Egg Hunt | Egg Hat | ✅ |
+| **Summer 11** | ☀️ BBQ Contest | Magic Stove (15% double cooking) | ✅ |
+| **Summer 20** | 🐟 Fishing Contest | Iridium Fishing Rod | ✅ |
+| **Summer 28** | ✨ Starry Night | Star Lantern | — |
+| **Fall 9** | 🏆 Fall Fair | Star Fruit (+30 max energy) | ✅ |
+| **Fall 20** | 🎃 Spirit Festival | Golden Pumpkin (2500g / decor) | — |
+| **Winter 13** | ❄️ Winter Market | Frost Sword (32–48 ATK + Freeze) | ✅ |
+| **Winter 25** | 🎁 Starfall Festival | Random rare return gift | — |
 
 ---
 
-## 🌸 春 15 — 春季丰收祭
+## 🌸 Spring 15 — Spring Harvest Festival
 
-提交 5 件春作物/采集品。**评分 = Σ(品质倍率×基础分) + 品类数×3**。（铱=3×, 金=2×, 银=1.5×, 普=1×）
+Submit 5 Spring crops/foraged goods. **Score = Σ(Quality Multiplier × Base Score) + (Category Count × 3).** (Iridium=3×, Gold=2×, Silver=1.5×, Normal=1×)
 
-| 推荐配置 | 得分 |
+| Recommended Loadout | Score |
 |:---------|:----:|
-| 铱星草莓+春花+蘑菇+鱼+矿石 | ~50（满分） |
-| 5×金星不同品类（第一年） | ~30 |
+| Iridium Strawberry + Spring Flower + Mushroom + Fish + Ore | ~50 (max) |
+| 5× Gold different categories (Year 1) | ~30 |
 
-**奖励必选：铱星锄头配方**——全年仅此一次，错过等一年。日后锄地范围+1，效率提升 40%。
+**Must-choose reward: Iridium Hoe Recipe** — only available once a year, miss it and you wait 365 days. Hoe range +1, 40% farm efficiency boost.
 
-### 🐣 春 22 — 彩蛋寻宝
+### 🐣 Spring 22 — Egg Hunt
 
-9 个彩蛋从 15 个固定点位池抽取。**速通路线：** 广场花坛→镇长围栏→杂货店后→水井→教堂后→桥底→铁匠屋顶（梯子）→旅店花盆。练习 2 次即可全收集。
+9 eggs drawn from a pool of 15 fixed spawn points. **Speedrun route:** Plaza flowerbed → Mayor's fence → General Store back → Well → Behind church → Under bridge → Blacksmith's roof (ladder) → Inn flowerpot. Practice twice for a full collection.
 
-> **Tip:** 彩蛋帽唯一外观，错过不可重得。
+> **Tip:** The Egg Hat is a one-of-a-kind cosmetic — miss it and it's gone forever.
 
 ---
 
-## ☀️ 夏 11 — 烧烤大会
+## ☀️ Summer 11 — BBQ Contest
 
-提交 1 道料理：美味度 30 + 季节性 20 + 稀有度 20 + 分享性 10 = **满分 80**。≥65 夺冠。
+Submit 1 dish: Taste 30 + Seasonality 20 + Rarity 20 + Shareability 10 = **80 max**. Score ≥65 wins.
 
-| 配置 | 得分 |
+| Loadout | Score |
 |:----|:----:|
-| 铱星烤肉拼盘（夏季食材） | 70~75 |
-| 金星蔬菜浓汤（第一年） | 55~60 |
+| Iridium Grilled Platter (summer ingredients) | 70–75 |
+| Gold Veggie Soup (Year 1) | 55–60 |
 
-**奖励→魔法烤炉**（15%双倍烹饪概率，唯一来源）。
+**Reward → Magic Stove** (15% double cooking chance, only source).
 
-### 🐟 夏 20 — 钓鱼大赛
+### 🐟 Summer 20 — Fishing Contest
 
-限时 5 分钟按总重排名。**必胜：** 提前囤一条 5kg+ 传说鱼→直接提交。无则去矿洞湖钓虎纹鲶鱼（3~5kg）。
+5-minute timed contest ranked by total weight. **Win condition:** Hoard a 5kg+ legendary fish beforehand → submit it immediately. If you don't have one, catch Tiger Catfish (3–5kg) at the mine lake.
 
-**奖励→铱星鱼竿**（鱼钩延迟减半，+1 范围）。错过等一年。
+**Reward → Iridium Fishing Rod** (hook delay halved, +1 range). Miss it, wait a year.
 
-### ✨ 夏 28 — 星光之夜
+### ✨ Summer 28 — Starry Night
 
-纯观赏，得星辰灯笼。集 3 年→星光套装（发光地板+星幕墙纸）。纯收藏向，强迫症必拿。
+Purely scenic — receive a Star Lantern. Collect 3 years' worth → Starry Set (glowing floor + star-pattern wallpaper). Purely cosmetic, but completionists must have it.
 
 ---
 
-## 🏆 秋 9 — 秋季博览会（最重要）
+## 🏆 Fall 9 — Fall Fair (Most Important)
 
-提交 9 件不同品类物品。可押注斗鸡/斗羊赢代币。
+Submit 9 items from different categories. Can bet on cockfighting / sheep racing for tokens.
 
-| 品类 | 推荐 | 品质 | 品类 | 推荐 | 品质 |
+| Category | Recommended | Quality | Category | Recommended | Quality |
 |:----|:----|:----:|:----|:----|:----:|
-| 作物 | 铱星南瓜 | ≥金 | 动物 | 铱星羊奶 | ≥金 |
-| 料理 | 丰收蛋糕 | ≥金 | 鱼 | 传说鱼 | 稀有 |
-| 矿石 | 金锭/宝石 | 无 | 采集 | 秋蘑菇 | ≥银 |
-| 手工 | 果酒 | ≥金 | 锻造 | 金锭 | 无 |
-| 神秘 | 魔法蘑菇 | 任意 | | | |
+| Crop | Iridium Pumpkin | ≥Gold | Animal | Iridium Goat Milk | ≥Gold |
+| Cuisine | Harvest Cake | ≥Gold | Fish | Legendary Fish | Rare |
+| Ore | Gold Bar / Gem | Any | Forage | Fall Mushroom | ≥Silver |
+| Artisan | Wine | ≥Gold | Smithing | Gold Bar | Any |
+| Mystic | Magic Mushroom | Any | | | |
 
-**💰 代币兑换优先级：星之果实（永久+30 体力上限）> 魔法种子 > 墙饰。** 斗鸡技巧：押体重大的。
-
----
-
-## 🎃 秋 20 — 万灵节
-
-3 层迷宫→终点金色南瓜。**解法：** ①推箱子：左→上→右→下 ②记忆配对：截图每张牌 ③暗光迷宫：沿右墙走。
-
-> **Tip:** 金色南瓜是唯一地面发光装饰，收藏>出售（2500g）。
+**💰 Token Exchange Priority:** Star Fruit (permanent +30 max energy) > Magic Seeds > Wall Decor. Cockfighting tip: bet on the heavier bird.
 
 ---
 
-## ❄️ 冬 13 — 冬季市集
+## 🎃 Fall 20 — Spirit Festival
 
-冰雕赛+雪橇竞速+限定商店。
+3-floor maze → Golden Pumpkin at the end. **Solutions:** ① Push blocks: Left → Up → Right → Down ② Memory match: screenshot each card ③ Dark maze: follow the right wall.
 
-| 活动 | 必胜法 | 奖励 |
+> **Tip:** The Golden Pumpkin is the only floor-glow decor item — collectible > sellable (2500g).
+
+---
+
+## ❄️ Winter 13 — Winter Market
+
+Ice sculpting + Sled racing + Limited-time shop.
+
+| Activity | Winning Strategy | Reward |
 |:----|:-------|:-----|
-| 冰雕 | 提交钻石/红宝石 | 冰霜剑（冰冻特效） |
-| 雪橇 | 减速过弯、加速直道 | 代币 |
+| Ice Sculpting | Submit a Diamond / Ruby | Frost Sword (freeze effect) |
+| Sled Racing | Slow on turns, full speed on straights | Tokens |
 
-**商店：** 猫头鹰雕像（+1夜间采集）> 冰晶壁炉 > 暖手宝配方。
+**Shop:** Owl Statue (+1 night foraging) > Ice Crystal Fireplace > Hand Warmer Recipe.
 
-### 🎁 冬 25 — 星辉节
+### 🎁 Winter 25 — Starfall Festival
 
-送礼价值决定回礼（60%~80%）。
+Return gift value = 60%–80% of what you give.
 
-| 送礼 | 回礼期望 |
+| Gift | Expected Return |
 |:----|:---------|
-| 铱星钻石（750g） | ~500g，可能远古种子 |
-| 传说鱼（1000g+） | ~800g 稀有品 |
-| ❌ < 200g | 垃圾 |
+| Iridium Diamond (750g) | ~500g worth, possibly Ancient Seeds |
+| Legendary Fish (1000g+) | ~800g rare item |
+| ❌ <200g | Junk |
 
-**底线：** 春 15/夏 11/秋 9/冬 13 提供独占功能性物品，必须参加且务必夺冠。其余佛系。
+**Bottom line:** Spring 15 / Summer 11 / Fall 9 / Winter 13 offer exclusive functional items — must attend and must win. The rest are low-stakes.
 
 *Data source: Fields of Mistria v0.8+ (Early Access)*

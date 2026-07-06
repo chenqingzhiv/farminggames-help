@@ -218,11 +218,11 @@ Animals are one of the most reliable income sources in Stardew Valley. This guid
 
 || Item | Cost | Details |
 |:---|:---|:---|
-| Slime Egg (Green) | Free | Slime Hutch产出 |
-| Slime Egg (Blue) | Free | Slime Hutch产出 |
-| Slime Egg (Purple) | Free | Slime Hutch产出 |
-| Slime Egg (Gold) | Free | Slime Hutch产出 |
-| Slime Egg (Ocean) | Free | Slime Hutch产出 |
+| Slime Egg (Green) | Free | Slime Hutch Output |
+| Slime Egg (Blue) | Free | Slime Hutch Output |
+| Slime Egg (Purple) | Free | Slime Hutch Output |
+| Slime Egg (Gold) | Free | Slime Hutch Output |
+| Slime Egg (Ocean) | Free | Slime Hutch Output |
 | Slime Hutch | 10,00g + 200 Stone + 100 Wood | Dedicated building |
 
 ### Product Values

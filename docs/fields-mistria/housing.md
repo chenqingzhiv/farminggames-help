@@ -1,158 +1,158 @@
 ---
-title: Fields of Mistria — 房屋升级与装饰完全指南
-description: Fields of Mistria Housing & Decor 深度攻略 — 房屋升级层级、家具分类、收纳优化、农场美学布局、稀有家具获取与室内设计范例
+title: Fields of Mistria — Housing Upgrades & Decor Complete Guide
+description: Fields of Mistria Housing & Decor deep guide — house upgrade tiers, furniture categories, storage optimization, farm aesthetic layouts, rare furniture farming, and interior design examples.
 date: 2026-07-05
 ---
 
-# 🏠 Fields of Mistria — 房屋升级与装饰完全指南
+# 🏠 Fields of Mistria — Housing Upgrades & Decor Complete Guide
 
-从破旧小屋到梦幻庄园，Fields of Mistria 的房屋系统提供了 **4 个升级等级**，每个等级解锁新房间、新功能和装饰槽位。配合完整的家具与装饰系统，你可以打造兼具功能与审美的理想家园。
+From a rundown cabin to a dream estate, Fields of Mistria's housing system offers **4 upgrade tiers**, each unlocking new rooms, features, and decor slots. With the full furniture and decoration system, you can build a home that's both functional and beautiful.
 
 ---
 
-## 📐 房屋升级层级
+## 📐 House Upgrade Tiers
 
-| 等级 | 费用 | 材料需求 | 新增房间 | 总房间数 |
+| Tier | Cost | Materials Needed | New Rooms | Total Rooms |
 |:----:|:----:|:---------|:--------:|:--------:|
-| 1️⃣ 初始 | — | — | 客厅 + 卧室 + 厨房 | 3 |
-| 2️⃣ 升级 | 2500g | 木材×50 + 石材×30 | 浴室 + 储藏室 | 5 |
-| 3️⃣ 扩建 | 8000g | 硬木×40 + 铜锭×20 | 书房 + 客房 | 7 |
-| 4️⃣ 豪宅 | 25000g | 铁锭×30 + 大理石×15 | 地下室 + 阳光房 + 阁楼 | 10 |
+| 1️⃣ Starting | — | — | Living Room + Bedroom + Kitchen | 3 |
+| 2️⃣ Upgrade | 2500g | Wood×50 + Stone×30 | Bathroom + Storage Room | 5 |
+| 3️⃣ Expansion | 8000g | Hardwood×40 + Copper Bar×20 | Study + Guest Room | 7 |
+| 4️⃣ Mansion | 25000g | Iron Bar×30 + Marble×15 | Basement + Sunroom + Attic | 10 |
 
-> 💡 **Tip:** 升级第 2 级之前，优先攒钱升级工具和背包。**储藏室**在 2 级解锁后才可用 — 这是你第一个真正的批量存储解决方案，尽早解锁能极大减少户外箱子的需求。
+> 💡 **Tip:** Before upgrading to Tier 2, prioritize tool upgrades and backpack space. The **Storage Room** unlocks at Tier 2 — it's your first real bulk storage solution. Getting it early drastically reduces your need for outdoor chests.
 
 ---
 
-## 🪑 家具分类体系
+## 🪑 Furniture Classification
 
-### 功能性家具
+### Functional Furniture
 
-| 家具 | 功能 | 获取方式 |
+| Item | Function | How to Get |
 |:-----|:-----|:---------|
-| 🛏️ 床 | 睡眠恢复（等级越高恢复越多） | 木工台制作 |
-| 📦 箱子 | 物品存储（基础 24 格） | 初始配方 |
-| 🔥 熔炉 | 矿石熔炼（室内版） | 升级解锁 |
-| 🍳 灶台 | 烹饪（解锁更多食谱） | 厨房自带 |
-| 🪡 缝纫机 | 布料/服装制作 | 任务奖励 |
-| 📚 书架 | 技能经验加成 | 城镇商店 |
+| 🛏️ Bed | Sleep recovery (higher tier = more recovery) | Workbench crafting |
+| 📦 Chest | Item storage (24 base slots) | Starting recipe |
+| 🔥 Furnace | Ore smelting (indoor version) | Unlock via upgrade |
+| 🍳 Stove | Cooking (unlocks more recipes) | Comes with kitchen |
+| 🪡 Sewing Machine | Cloth / clothing crafting | Quest reward |
+| 📚 Bookshelf | Skill XP bonus | Town shop |
 
-### 装饰性家具
+### Decorative Furniture
 
-装饰不影响数值，但影响 **House Score（房屋评分）** 。评分系统根据房间内的家具数量、稀有度、配色一致性给予分数，达到阈值解锁特殊奖励。
+Decor doesn't affect stats, but it does affect your **House Score**. The scoring system awards points based on furniture quantity, rarity, and color consistency across rooms. Reaching thresholds unlocks special rewards.
 
-| 评分阈值 | 奖励 | 说明 |
+| Score Threshold | Reward | Description |
 |:--------:|:-----|:-----|
-| 100 | 🌟 活力光环 | 每天起床 +10 能量 |
-| 250 | 🌟🌟 好运光环 | +5% 钓鱼/采矿暴击 |
-| 500 | 🌟🌟🌟 丰收祝福 | +10% 作物产量 |
-| 1000 | 🏆 大师徽章 | 专属墙饰 + 成就 |
+| 100 | 🌟 Vitality Aura | +10 energy on waking up |
+| 250 | 🌟🌟 Luck Aura | +5% fishing / mining crit chance |
+| 500 | 🌟🌟🌟 Harvest Blessing | +10% crop yield |
+| 1000 | 🏆 Master Badge | Exclusive wall decor + achievement |
 
 ---
 
-## 📦 收纳策略
+## 📦 Storage Strategy
 
-### 箱子布局方案
+### Chest Layout Design
 
 ```
-┌───────── 厨房/灶台旁 ─────────┐
-│  [食材箱] → [成品箱] → [灶台]  │
-│  蔬菜 | 水果 | 肉类 | 调料      │
-└────────────────────────────────┘
-┌───────── 工作室/工作区 ─────────┐
-│  [矿石箱] → [燃料箱] → [熔炉]   │
-│  [木材箱] → [石材箱] → [工作台]  │
-└────────────────────────────────┘
-┌───────── 入口玄关 ─────────────┐
-│  [工具箱]  [种子箱]  [战利品箱]  │
-│  每日出门顺手拿，回家随手放       │
-└────────────────────────────────┘
+┌───────── Kitchen / Stove Area ──────────┐
+│  [Ingredient Chest] → [Finished Chest] → [Stove]  │
+│  Veggies | Fruits | Meat | Seasonings             │
+└──────────────────────────────────────────────────┘
+┌───────── Workshop / Workbench Area ─────┐
+│  [Ore Chest] → [Fuel Chest] → [Furnace]          │
+│  [Wood Chest] → [Stone Chest] → [Workbench]      │
+└──────────────────────────────────────────────────┘
+┌───────── Entryway / Hallway ─────────────┐
+│  [Tool Chest]  [Seed Chest]  [Loot Chest]         │
+│  Grab-and-go in the morning, dump on return       │
+└──────────────────────────────────────────────────┘
 ```
 
-> 💡 **Tip:** 用 **不同颜色的箱子** 区分类别 — 绿色=食材，灰色=矿石，棕色=木材，蓝色=渔获。**命名箱子**（右键点击箱子名）可以在打开时快速识别。
+> 💡 **Tip:** Use **different-colored chests** to categorize — Green=ingredients, Gray=ores, Brown=wood, Blue=fishing haul. **Naming chests** (right-click the chest name) lets you identify them at a glance when opened.
 
-### 储存优先级
+### Storage Priority
 
-按物品类型决定储存位置：
-- **高周转物品**（食材、矿石、木材）→ 靠近对应工作站
-- **收藏品**（鱼类、文物）→ 等捐赠后再卖，放储藏室深处
-- **季节性物品** → 换季时放入储藏室，非当季不占主箱位
+Sort by item type:
+- **High-turnover items** (ingredients, ore, wood) → near the corresponding workstation
+- **Collectibles** (fish, artifacts) → sell after donating; store deep in the storage room
+- **Seasonal items** → move to the storage room when the season changes — don't clog main chests
 
 ---
 
-## 🌳 农场美学布局
+## 🌳 Farm Aesthetic Layouts
 
-### 围栏类型对比
+### Fence Type Comparison
 
-| 类型 | 材料 | 耐久 | 美观度 | 推荐用途 |
+| Type | Materials | Durability | Aesthetics | Best For |
 |:-----|:-----|:----:|:------:|:---------|
-| 🪵 木栅栏 | 木材×2 | 低 | ⭐⭐ | 初期临时圈地 |
-| 🪨 石墙 | 石材×3 | 中 | ⭐⭐⭐ | 农场边界主围栏 |
-| 🏛️ 砖墙 | 粘土×3 + 石材×2 | 高 | ⭐⭐⭐⭐ | 住宅区围栏 |
-| ✨ 魔法围栏 | 魔法粉尘×3 + 铁锭×2 | ∞ | ⭐⭐⭐⭐⭐ | 终极装饰 |
+| 🪵 Wood Fence | Wood×2 | Low | ⭐⭐ | Early temp enclosures |
+| 🪨 Stone Wall | Stone×3 | Medium | ⭐⭐⭐ | Main farm border fence |
+| 🏛️ Brick Wall | Clay×3 + Stone×2 | High | ⭐⭐⭐⭐ | Residential area fence |
+| ✨ Magic Fence | Magic Dust×3 + Iron Bar×2 | ∞ | ⭐⭐⭐⭐⭐ | Ultimate decor |
 
-### 路径铺设
+### Path Paving
 
-路径系统影响行走速度和美观度：
+The path system affects movement speed and aesthetics:
 
-| 路径 | 移速加成 | 材料 | 解锁 |
+| Path | Speed Bonus | Materials | Unlock |
 |:-----|:-------:|:-----|:-----|
-| 泥土路 | 0% | 免费（锄头） | 初始 |
-| 碎石路 | +10% | 石材×2 | 初期 |
-| 石板路 | +15% | 石材×5 | 中后期 |
-| 魔法砖路 | +25% | 魔法砖×3 | 后期 |
+| Dirt Path | 0% | Free (hoe) | Starting |
+| Gravel Path | +10% | Stone×2 | Early |
+| Stone Path | +15% | Stone×5 | Mid-game |
+| Magic Brick Path | +25% | Magic Brick×3 | Late-game |
 
-**推荐布局：** 从家门口→信箱→农场大门铺一条 **石板主路**，分支到畜棚和温室用 **碎石路**。
+**Recommended layout:** Build a **Stone Path main road** from your front door → mailbox → farm gate. Use **Gravel Path** for branches leading to barns and the greenhouse.
 
-### 照明与绿化
+### Lighting & Greenery
 
-- **灯笼/火把**：每 6 格间距放置一个，防止夜晚怪物刷新在农场内
-- **树木规划**：果树至少留 3×3 空间，装饰树 2×2 即可
-- **花坛**：蜜蜂箱周围 8 格内种花 → 蜂蜜品质翻倍
+- **Lanterns / Torches:** Place one every 6 tiles to prevent nighttime monster spawns on your farm
+- **Tree Planning:** Fruit trees need at least 3×3 space; decorative trees only need 2×2
+- **Flower Beds:** Plant flowers within 8 tiles of beehives → doubles honey quality
 
 ---
 
-## 🔑 稀有家具获取
+## 🔑 Rare Furniture Farming
 
-| 家具 | 来源 | 稀有度 | 备注 |
+| Furniture | Source | Rarity | Notes |
 |:-----|:------|:------:|:-----|
-| 🖼️ 星辰壁挂 | 矿洞 40-60 层宝箱 | 🌟🌟🌟 | 评分 +25 |
-| 🕯️ 魔法枝形吊灯 | 秋季节日奖品 | 🌟🌟🌟🌟 | 评分 +40，照亮整个房间 |
-| 🛋️ 天鹅绒沙发 | 城镇商店（周六刷新） | 🌟🌟🌟 | 2000g，评分 +20 |
-| 🪴 会发光的盆栽 | 魔法森林探索 | 🌟🌟🌟🌟🌟 | 评分 +50，夜光特效 |
-| 🐟 鱼缸（大） | 完成钓鱼图鉴 50% | 🌟🌟🌟🌟 | 放入稀有鱼可额外加分 |
+| 🖼️ Star Hanging | Mine floors 40–60 chests | 🌟🌟🌟 | +25 House Score |
+| 🕯️ Magic Chandelier | Fall festival prize | 🌟🌟🌟🌟 | +40 House Score, lights entire room |
+| 🛋️ Velvet Sofa | Town shop (Saturday refresh) | 🌟🌟🌟 | 2000g, +20 House Score |
+| 🪴 Glowing Potted Plant | Mystic Forest exploration | 🌟🌟🌟🌟🌟 | +50 House Score, night glow effect |
+| 🐟 Large Fish Tank | Complete 50% of fishing collection | 🌟🌟🌟🌟 | Extra score with rare fish inside |
 
-> 💡 **Tip:** 商店家具每天刷新，**每天必看**。稀有家具经常出现在 **周六特卖**、**节日摊位** 和 **矿洞宝箱** 中。装饰不占背包空间，看到就买。
+> 💡 **Tip:** The shop refreshes daily — **check it every day**. Rare furniture often appears in **Saturday sales**, **festival stalls**, and **mine chests**. Decor doesn't take up backpack space, so buy it when you see it.
 
 ---
 
-## 📋 室内布局范例
+## 📋 Interior Layout Examples
 
-### 高效实用布局（80 分 / 5 室）
+### Efficient Utility Layout (80 Score / 5 Rooms)
 
 ```
 ┌─────────────────────────────┐
-│   🛏️ 卧室        🛁 浴室     │
-│   [床] [衣柜]    [浴缸] [盆] │
-├──────────── ─ ─ ─ ─ ─ ─ ─ ─│
-│   🍳 厨房        📚 书房     │
-│   [灶台][冰箱]   [书桌][书架] │
-│   [食材箱]       [技能加成]   │
-├──────────── ─ ─ ─ ─ ─ ─ ─ ─│
-│   🛠️ 储藏室      🛋️ 客厅     │
-│   [熔炉][工作台]  [沙发][茶几] │
-│   [8×箱子墙]     [壁炉][电视] │
-└─────────────────────────────┘
+│   🛏️ Bedroom        🛁 Bathroom     │
+│   [Bed] [Wardrobe]    [Tub] [Basin]  │
+├──────────── ─ ─ ─ ─ ─ ─ ─ ─ ─ ────┤
+│   🍳 Kitchen        📚 Study       │
+│   [Stove][Fridge]   [Desk][Bookshelf]│
+│   [Ingredient Chest] [Skill Bonus]   │
+├──────────── ─ ─ ─ ─ ─ ─ ─ ─ ─ ────┤
+│   🛠️ Storage Room   🛋️ Living Room  │
+│   [Furnace][Workbench] [Sofa][Coffee Table]│
+│   [8× Chest Wall]   [Fireplace][TV] │
+└──────────────────────────────────────┘
 ```
 
-**设计原则：**
-1. **动线最短**：灶台 ↔ 食材箱 ↔ 冰箱 三角布局
-2. **分类集中**：所有箱子放储藏室同一面墙，避免全屋找箱子
-3. **装饰聚拢**：每个房间至少 3 件装饰品触发评分加成
+**Design Principles:**
+1. **Shortest path:** Stove ↔ Ingredient Chest ↔ Fridge — triangle layout
+2. **Group categories:** All chests on one wall in the storage room — no hunting across the house
+3. **Cluster decor:** At least 3 decor items per room to trigger score bonuses
 
-### 美观向布局（500+ 分 / 7 室）
+### Aesthetic Layout (500+ Score / 7 Rooms)
 
-将 4 级豪宅的 10 个房间分为：卧室（星空主题）、浴室（自然风格）、厨房（乡村风）、书房（古籍风）、客厅（豪华风）、储藏室（纯功能，无装饰浪费评分）、阳光房（盆栽 + 鱼缸）、地下室（酿酒 + 腌制加工区）。
+Split the Tier 4 Mansion's 10 rooms into: Bedroom (starry theme), Bathroom (nature style), Kitchen (countryside), Study (antique), Living Room (luxury), Storage Room (purely functional — don't waste score here), Sunroom (potted plants + fish tank), Basement (wine + pickling processing area).
 
 ---
 
-*数据来源：Fields of Mistria Wiki 1.0, game version Early Access 0.8+*
+*Data source: Fields of Mistria Wiki 1.0, game version Early Access 0.8+*

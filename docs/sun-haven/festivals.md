@@ -1,367 +1,367 @@
 ---
-title: Sun Haven — 节日与事件完全指南（全年历/比赛攻略/奖励表/浪漫事件/第一年准备）
-description: Sun Haven 所有节日与赛季性活动的完全攻略：春/夏/秋/冬四季节日历、每个节日的参与机制与要求、比赛评分规则与必胜策略、全节日奖励表（限定家具/宠物/食谱）、各节日代币店最佳兑换推荐、节日触发的浪漫心动事件、一次性错过不可逆内容盘点、第一年各季度提前准备清单、代币经济与性价比分析
+title: Sun Haven — Festivals & Events Complete Guide (Full Calendar/Competition Strategies/Rewards Table/Romance Events/Year 1 Preparation)
+description: Complete guide to all Sun Haven festivals and seasonal events — spring/summer/autumn/winter calendars, participation mechanics and requirements, competition scoring rules and winning strategies, full rewards table (limited furniture/pets/recipes), best token shop exchanges, festival-triggered romance heart events, one-time missable content, Year 1 seasonal preparation checklist, token economy and value analysis.
 date: 2026-07-05
 ---
 
-# 🎉 Sun Haven — 节日与事件完全指南
+# 🎉 Sun Haven — Festivals & Events Complete Guide
 
-Sun Haven 的节日系统横跨三张地图（Sun Haven、Nel'Vari、Withergate），每个季节有多个独特的节日，提供**限定家具、宠物、食谱和服装**。错过一个就要等一整年——提前规划至关重要。
-
----
-
-## 📅 全年节日历
-
-### 主城 Sun Haven
-
-| 季节 | 日期 | 节日名称 | 类型 | 三图联动 |
-|:----|:----:|:---------|:----|:--------|
-| 🌸 **春季** | 春 15日 | 🌱 **Garden Gala**（花园盛会） | 种植比赛 | ✅ |
-| 🌸 **春季** | 春 27日 | 🥚 **Egg Hunt**（寻蛋大赛） | 收集 | ❌ |
-| ☀️ **夏季** | 夏 12日 | 🎣 **Fishing Derby**（钓鱼大赛） | 钓鱼比赛 | ✅ |
-| ☀️ **夏季** | 夏 25日 | 🧜 **Mermaid Festival**（人鱼节） | 浪漫/选美 | ❌ |
-| 🍂 **秋季** | 秋 10日 | 🎪 **Harvest Festival**（丰收祭） | 耕种/展示 | ✅ |
-| 🍂 **秋季** | 秋 22日 | 🎃 **Spook-tacular**（惊魂节） | 迷宫/装扮 | ✅ |
-| ❄️ **冬季** | 冬 8日 | 🍲 **Winter Feast**（冬日宴） | 烹饪比赛 | ❌ |
-| ❄️ **冬季** | 冬 20日 | 🌟 **Starfall Night**（星落之夜） | 烟花/购物 | ✅ |
-
-### Nel'Vari 精灵城 & Withergate 暗城
-
-| 地图 | 季节 | 日期 | 节日名称 | 类型 |
-|:----|:----|:----:|:---------|:----|
-| 🌿 Nel'Vari | 🌸 春 | 春 20日 | 🌺 **Bloom Festival**（百花节） | 花卉 |
-| 🌿 Nel'Vari | ☀️ 夏 | 夏 18日 | 🧚 **Faerie Festival**（妖精节） | 飞行 |
-| 🌿 Nel'Vari | 🍂 秋 | 秋 15日 | 🍄 **Mushroom Festival**（蘑菇节） | 采集 |
-| 🌿 Nel'Vari | ❄️ 冬 | 冬 12日 | ❄️ **Glacier Festival**（冰川节） | 冰雕 |
-| 🦇 Withergate | 🌸 春 | 春 8日 | 🦇 **Night Market**（夜市） | 购物 |
-| 🦇 Withergate | ☀️ 夏 | 夏 8日 | ⚡ **Lightning Rally**（闪电竞速） | 坐骑 |
-| 🦇 Withergate | 🍂 秋 | 秋 25日 | 💀 **Day of the Dead**（亡灵节） | 纪念 |
-| 🦇 Withergate | ❄️ 冬 | 冬 5日 | 🖤 **Shadow Ball**（暗影舞会） | 社交 |
+Sun Haven's festival system spans three maps (Sun Haven, Nel'Vari, Withergate), with unique festivals each season offering **limited furniture, pets, recipes, and outfits**. Miss one and you wait a full year — planning ahead is critical.
 
 ---
 
-## 🌸 春季节日详解
+## 📅 Full Festival Calendar
 
-### 🌱 Garden Gala（花园盛会）— 春 15日
+### Main City: Sun Haven
 
-| 评分项 | 分数占比 | 高分策略 |
-|:-------|:-------:|:---------|
-| 🌟 **作物品质** | 40% | 提交★★★品质作物，使用**优质肥料**培育 |
-| 🆕 **作物稀有度** | 30% | Nel'Vari 魔法果实 (Glorite Fruit) 稀有度最高 |
-| 📦 **提交数量** | 30% | 同一种作物提交 20 个以上有数量加分 |
+| Season | Date | Festival Name | Type | Cross-Map |
+|:-------|:----:|:--------------|:-----|:----------|
+| 🌸 **Spring** | Spring 15 | 🌱 **Garden Gala** | Planting competition | ✅ |
+| 🌸 **Spring** | Spring 27 | 🥚 **Egg Hunt** | Collection | ❌ |
+| ☀️ **Summer** | Summer 12 | 🎣 **Fishing Derby** | Fishing competition | ✅ |
+| ☀️ **Summer** | Summer 25 | 🧜 **Mermaid Festival** | Romance/Beauty pageant | ❌ |
+| 🍂 **Autumn** | Autumn 10 | 🎪 **Harvest Festival** | Farming/Exhibition | ✅ |
+| 🍂 **Autumn** | Autumn 22 | 🎃 **Spook-tacular** | Maze/Costume | ✅ |
+| ❄️ **Winter** | Winter 8 | 🍲 **Winter Feast** | Cooking competition | ❌ |
+| ❄️ **Winter** | Winter 20 | 🌟 **Starfall Night** | Fireworks/Shopping | ✅ |
 
-**必胜策略：** 春 5 日开始种 **Glorite Fruit**（Nel'Vari 购买种子），每天浇优质肥料。到 15 日至少收获 5 个★★★品质果实——提交这 5 个基本稳拿第一。
+### Nel'Vari (Elven City) & Withergate (Dark City)
 
-| 排名 | 奖励 | 代币 |
-|:----:|:-----|:----:|
-| 🥇 **第一名** | 🪟 **Winter Wardrobe**（冬季衣柜家具） + 花冠头饰 | 500代币 |
-| 🥈 **第二名** | 🌸 限定花束家具 | 300代币 |
-| 🥉 **第三名** | 💐 小花环 | 100代币 |
-| 🎖️ **参与奖** | 参与小礼品 | 50代币 |
-
-### 🥚 Egg Hunt（寻蛋大赛）— 春 27日
-
-| 规则 | 说明 |
-|:----|:------|
-| ⏰ 时间 | 8:00-14:00，全城放置了 12 颗彩蛋 |
-| 🎯 目标 | 5 分钟内找到尽可能多的彩蛋 |
-| 🏆 全收集 | 找到全部 12 颗可获得**限定宠物 Spring Bunny** |
-
-**彩蛋位置速查表：**
-
-| 区域 | 蛋数 | 具体位置 |
-|:-----|:----:|:---------|
-| 🌳 中央公园 | 3 | 喷泉背后×2，大树洞里×1 |
-| ⛲ 喷泉广场 | 3 | 喷泉底座下，长椅下×2 |
-| 🏛️ 市政厅 | 1 | 门口右侧花盆后面 |
-| 📚 图书馆 | 2 | 书架顶部，咨询台后面 |
-| 🏠 旅馆 | 1 | 一楼壁炉旁 |
-| 🌺 东花园 | 2 | 灌木丛后，雕像底座旁 |
-
-> **Tip:** 提前跑一遍全城记住位置！这 5 分钟**非常紧迫**，从中央公园开始顺时针跑是最优路线。找到全部 12 颗蛋才能解锁 Spring Bunny——这是**第一年不可逆内容之一**。
+| Map | Season | Date | Festival Name | Type |
+|:----|:-------|:----:|:--------------|:-----|
+| 🌿 Nel'Vari | 🌸 Spring | Spring 20 | 🌺 **Bloom Festival** | Flowers |
+| 🌿 Nel'Vari | ☀️ Summer | Summer 18 | 🧚 **Faerie Festival** | Flight |
+| 🌿 Nel'Vari | 🍂 Autumn | Autumn 15 | 🍄 **Mushroom Festival** | Foraging |
+| 🌿 Nel'Vari | ❄️ Winter | Winter 12 | ❄️ **Glacier Festival** | Ice Sculpture |
+| 🦇 Withergate | 🌸 Spring | Spring 8 | 🦇 **Night Market** | Shopping |
+| 🦇 Withergate | ☀️ Summer | Summer 8 | ⚡ **Lightning Rally** | Mount racing |
+| 🦇 Withergate | 🍂 Autumn | Autumn 25 | 💀 **Day of the Dead** | Memorial |
+| 🦇 Withergate | ❄️ Winter | Winter 5 | 🖤 **Shadow Ball** | Social |
 
 ---
 
-## ☀️ 夏季节日详解
+## 🌸 Spring Festival Details
 
-### 🎣 Fishing Derby（钓鱼大赛）— 夏 12日
+### 🌱 Garden Gala — Spring 15
 
-| 规则 | 说明 |
-|:----|:------|
-| ⏰ 时间 | 8:00-16:00 在 Sun Haven 码头 |
-| 🎣 模式 | 提交一条鱼，按重量评分 |
-| 🐟 最佳鱼种 | **Legendary Sun Haven Tuna**（5-12kg，海滩雨天钓） |
-| 🏆 第一名奖励 | 🎣 **Golden Fishing Rod** + 500代币 |
+| Scoring Category | Weight | Strategy |
+|:-----------------|:------:|:---------|
+| 🌟 **Crop Quality** | 40% | Submit ★★★ quality crops, use **Quality Fertilizer** |
+| 🆕 **Crop Rarity** | 30% | Nel'Vari Glorite Fruit has the highest rarity score |
+| 📦 **Quantity Submitted** | 30% | Submitting 20+ of the same crop gives a quantity bonus |
 
-**必胜策略：** Summer 1 日开始每天到海滩蹲**Legendary Tuna**。用 ★★★鱼饵 + 钓鱼增益食物，钓到后存在箱子里不卖。比赛日直接提交，100% 第一名。
+**Winning Strategy:** Start planting **Glorite Fruit** (buy seeds in Nel'Vari) on Spring 5, watering with Quality Fertilizer daily. By the 15th you'll have at least 5 ★★★ fruits — submit those 5 and first place is basically guaranteed.
 
-| 排名 | 奖励 |
-|:----:|:------|
-| 🥇 **第一名** | 🎣 **Golden Fishing Rod**（金鱼竿，游戏中最好的鱼竿）+ 500代币 |
-| 🥈 **第二名** | 🎣 Silver Fishing Rod + 250代币 |
-| 🥉 **第三名** | 🧪 钓鱼药水×5 + 100代币 |
+| Rank | Reward | Tokens |
+|:----:|:-------|:------:|
+| 🥇 **1st Place** | 🪟 **Winter Wardrobe** furniture + Flower Crown | 500 tokens |
+| 🥈 **2nd Place** | 🌸 Limited flower bouquet furniture | 300 tokens |
+| 🥉 **3rd Place** | 💐 Small flower wreath | 100 tokens |
+| 🎖️ **Participation** | Small gift bag | 50 tokens |
 
-### 🧜 Mermaid Festival（人鱼节）— 夏 25日
+### 🥚 Egg Hunt — Spring 27
 
-> **💍 年度唯一求婚机会！** 这是 Sun Haven 中**唯一可以触发求婚事件**的节日。
+| Rule | Description |
+|:-----|:------------|
+| ⏰ Time | 8:00-14:00, 12 eggs hidden across town |
+| 🎯 Goal | Find as many eggs as possible in 5 minutes |
+| 🏆 Full Collection | Find all 12 eggs to unlock the **limited pet Spring Bunny** |
 
-| 环节 | 内容 | 要求 |
-|:-----|:------|:-----|
-| 💑 **选美比赛** | 与心仪 NPC 组成搭档参赛 | 需要 10♥ 好感度 |
-| 💍 **求婚** | 使用**美人鱼项链 (Mermaid Pendant)**正式求婚 | 需要提前在珠宝店购买（500代币） |
-| 🏆 **获胜奖励** | 🪞 **Mermaid Crown**（限定家具） | 选美比赛获胜 |
+**Egg Location Quick Reference:**
 
-| 选美评分项 | 占比 |
-|:----------|:----:|
-| 👗 **服装评分** | 40% — 穿整套夏季服装加分 |
-| 💇 **发型评分** | 20% — 去 Salon 做发型 |
-| 💞 **搭档好感度** | 40% — 搭档 NPC 好感度越高越好 |
+| Area | Eggs | Exact Spot |
+|:-----|:----:|:-----------|
+| 🌳 Central Park | 3 | Behind fountain ×2, inside big tree hollow ×1 |
+| ⛲ Fountain Plaza | 3 | Under fountain base, under benches ×2 |
+| 🏛️ Town Hall | 1 | Behind flower pot at right of entrance |
+| 📚 Library | 2 | On top of bookshelf, behind information desk |
+| 🏠 Inn | 1 | By the fireplace on the first floor |
+| 🌺 East Garden | 2 | Behind bushes, beside statue base |
 
-> **Tip:** 人鱼节**一年只有一次求婚机会**。如果你和某个 NPC 达到了 10♥，Summer 25 日前一定要买好美人鱼项链。错过了就要再等一年才能结婚。选美比赛不是必须赢得，但赢的话有 Mermaid Crown 限定家具。
-
----
-
-## 🍂 秋季节日详解
-
-### 🎪 Harvest Festival（丰收祭）— 秋 10日
-
-**三项目全胜才能获得限定宠物 Harvest Fox！**
-
-| 分类 | 提交物品 | 必胜策略 |
-|:-----|:---------|:---------|
-| 🌿 **作物** | ★★★ Pumpking（南瓜王）| 秋 1 日种，每天用超级肥料 |
-| 🐟 **鱼** | ★★★ Legendary Tuna | 夏季存的传奇金枪鱼，一直留着 |
-| 🧀 **工匠品** | ★★★ Unicorn Cheese | 用 Nel'Vari 独角兽牛奶 + 高级奶酪机 |
-
-| 全胜奖励 | 说明 |
-|:---------|:------|
-| 🥇 **Harvest Fox 宠物蛋** | 限定宠物，仅此一处获取 |
-| 🪙 代币 | 每个分类获胜 200代币，共 600代币 |
-
-> **Tip:** **从夏天就开始存★品质原料！** Legendary Tuna 只在夏季海滩雨天出现，错过了秋季就没有了。独角兽牛奶需要在 Nel'Vari 养独角兽，至少需要 2 周时间培养好感。
-
-### 🎃 Spook-tacular（惊魂节）— 秋 22日
-
-| 活动 | 内容 | 攻略 |
-|:-----|:------|:------|
-| 🏚️ **幽灵迷宫** | 在 Nel'Vari 森林迷宫中找到出口 | **路线：** 入口→左转→右转→左侧暗门→直走→出口 |
-| 👗 **装扮比赛** | 穿最恐怖的服装参赛 | 穿整套万圣节套装（商店限时出售） |
-| 🏆 **奖励** | 🎃 **Golden Pumpkin**（价值 800g）+ 🧛 **Vampire Cape** | |
-
-**装扮比赛评分：**
-| 装扮部件 | 分数 |
-|:---------|:---:|
-| 🎃 万圣节帽子 | 25 |
-| 👻 万圣节衣服 | 30 |
-| 🧛 万圣节鞋子 | 20 |
-| 💀 全套加成 | +25 |
-
-> **Tip:** 迷宫中的暗门**非常隐蔽**——在第二个右转后，面对墙壁按交互键才能发现。很多人在这里转 10 分钟找不到出口。一次跑通后记住路线，以后的年份就简单了。
+> **Tip:** Scope out the route beforehand! Those **5 minutes are tight** — start at Central Park and go clockwise for the most efficient path. Finding all 12 eggs is the only way to unlock Spring Bunny — **one of Year 1's missable items.**
 
 ---
 
-## ❄️ 冬季节日详解
+## ☀️ Summer Festival Details
 
-### 🍲 Winter Feast（冬日宴）— 冬 8日
+### 🎣 Fishing Derby — Summer 12
 
-| 环节 | 内容 | 必胜策略 |
-|:-----|:------|:---------|
-| 🥘 **烹饪比赛** | 提交一道菜，按品质+稀有度评分 | 做 **Golden Feast**（金色盛宴） |
-| 🎵 **冬日颂歌** | 合唱小游戏 | 注意节奏提示，全员 Perfect 有额外奖励 |
+| Rule | Description |
+|:-----|:------------|
+| ⏰ Time | 8:00-16:00 at Sun Haven Pier |
+| 🎣 Format | Submit one fish, scored by weight |
+| 🐟 Best Fish | **Legendary Sun Haven Tuna** (5-12kg, beach rainy day catch) |
+| 🏆 1st Place Reward | 🎣 **Golden Fishing Rod** + 500 tokens |
 
-**Golden Feast 配方：**
-| 材料 | 获取 |
-|:-----|:------|
-| 金色品质作物×5 | ★★★ 小麦/南瓜/玉米混合 |
-| 高级肉类×3 | Withergate 商店购买的 premium meat |
-| 烹饪等级 | 需要烹饪 Lv.8+ |
+**Winning Strategy:** Starting Summer 1, camp the beach daily for **Legendary Tuna**. Use ★★★ bait + fishing buff food, then stash it in a chest. Submit it on competition day for an easy 100% first place.
 
-| 排名 | 奖励 |
-|:----:|:------|
-| 🥇 **第一名** | 🎄 **Winter Wreath**（冬之花环）+ 500代币 |
-| 🥈 **第二名** | 🧣 冬日围巾 + 250代币 |
-| 🥉 **第三名** | ☕ 热可可食谱 + 100代币 |
+| Rank | Reward |
+|:----:|:-------|
+| 🥇 **1st Place** | 🎣 **Golden Fishing Rod** (best rod in the game) + 500 tokens |
+| 🥈 **2nd Place** | 🎣 Silver Fishing Rod + 250 tokens |
+| 🥉 **3rd Place** | 🧪 Fishing Potion ×5 + 100 tokens |
 
-### 🌟 Starfall Night（星落之夜）— 冬 20日
+### 🧜 Mermaid Festival — Summer 25
 
-| 活动 | 内容 |
-|:-----|:------|
-| 🎆 **烟花表演** | 全三图可见，最佳观赏点 Nel'Vari 悬崖 |
-| 🛍️ **星落商店** | 用全年攒的代币兑换限定物品 |
+> **💍 The only annual proposal opportunity!** This is the **only festival** in Sun Haven where a marriage proposal can be triggered.
 
-> **🪙 全年最重要的代币消费日！** — Starfall Night 的商店包含游戏中**唯一的飞行坐骑天马 (Pegasus Mount)**，错过等一年。
+| Phase | Content | Requirements |
+|:------|:--------|:-------------|
+| 💑 **Beauty Pageant** | Enter as a pair with your chosen NPC | Need 10♥ affection |
+| 💍 **Proposal** | Use the **Mermaid Pendant** to propose officially | Must buy it in advance at the jewelry shop (500 tokens) |
+| 🏆 **Winning Prize** | 🪞 **Mermaid Crown** (limited furniture) | Win the beauty pageant |
 
-**星落商店兑换表：**
+| Pageant Scoring | Weight |
+|:----------------|:------|
+| 👗 **Outfit Score** | 40% — Wearing a full summer outfit gives bonus points |
+| 💇 **Hairstyle Score** | 20% — Get a hairstyle at the Salon |
+| 💞 **Partner Affection** | 40% — Higher partner affection = better score |
 
-| 物品 | 代币价格 | 优先级 | 说明 |
-|:-----|:--------:|:------:|:------|
-| 🦄 **Pegasus Mount（天马坐骑）** | 3,000 | 🥇 **必换** | 唯一的飞行坐骑，全游戏最稀有的移动方式 |
-| ⭐ **Star Fragment（星之碎片）** | 200/个 | 🥈 中后期 | 制作星落家具和终极装备的材料 |
-| 🛏️ **Starfall Bed（星落床）** | 800 | 🥉 装饰党 | 限定家具，外观极美 |
-| 🧪 **Starlight Potion（星光药水）** | 100 | ❌ 不推荐 | 性价比低，和普通药水效果一样 |
-
-> **Tip:** **从春 1 日开始就为天马攒代币！** 一年最多获得 2,000-3,000 代币——天马刚好需要 3,000。这意味着你不能在其它节日随意挥霍代币。如果 Year 1 错过了天马，整个第一年就没有飞行坐骑可用。
+> **Tip:** The Mermaid Festival is your **only chance to propose each year**. If you have a NPC at 10♥, buy the Mermaid Pendant before Summer 25. Miss it and you wait another full year to marry. Winning the pageant isn't required, but if you do, the Mermaid Crown furniture is yours.
 
 ---
 
-## 🏆 全奖励表
+## 🍂 Autumn Festival Details
 
-### 限定永久奖励（每个节日）
+### 🎪 Harvest Festival — Autumn 10
 
-| 节日 | 限定家具/物品 | 限定宠物 | 限定食谱 |
-|:----|:-------------|:---------|:---------|
-| 🌱 Garden Gala | 🌸 樱花壁纸、花冠 | — | 鲜花沙拉 |
-| 🥚 Egg Hunt | 🧺 彩蛋篮 | 🐥 **Spring Bunny** | — |
-| 🎣 Fishing Derby | 🐟 鱼形灯笼、渔夫奖杯 | 🐚 贝壳寄居蟹 | 渔夫浓汤 |
+**Win all three categories to get the limited pet Harvest Fox!**
+
+| Category | Item to Submit | Winning Strategy |
+|:---------|:---------------|:-----------------|
+| 🌿 **Crops** | ★★★ Pumpking | Plant on Autumn 1, use super fertilizer daily |
+| 🐟 **Fish** | ★★★ Legendary Tuna | Save the Tuna you caught in summer |
+| 🧀 **Artisan Goods** | ★★★ Unicorn Cheese | Use Nel'Vari unicorn milk + advanced cheese press |
+
+| Triple Win Reward | Description |
+|:------------------|:------------|
+| 🥇 **Harvest Fox Pet Egg** | Limited pet, only obtainable here |
+| 🪙 Tokens | 200 tokens per category won, total 600 |
+
+> **Tip:** **Start saving ★ quality ingredients from summer!** Legendary Tuna only appears on rainy beach days in summer — miss it and you won't have it for autumn. Unicorn milk requires raising a unicorn in Nel'Vari, which takes at least 2 weeks of friendship building.
+
+### 🎃 Spook-tacular — Autumn 22
+
+| Activity | Content | Guide |
+|:---------|:--------|:------|
+| 🏚️ **Ghost Maze** | Find the exit in Nel'Vari's forest maze | **Route:** Entrance → Left → Right → Hidden door on left → Straight → Exit |
+| 👗 **Costume Contest** | Wear the spookiest costume | Wear the full Halloween set (limited-time shop sale) |
+| 🏆 **Rewards** | 🎃 **Golden Pumpkin** (worth 800g) + 🧛 **Vampire Cape** | |
+
+**Costume Contest Scoring:**
+| Outfit Piece | Score |
+|:-------------|:-----:|
+| 🎃 Halloween Hat | 25 |
+| 👻 Halloween Top | 30 |
+| 🧛 Halloween Shoes | 20 |
+| 💀 Full Set Bonus | +25 |
+
+> **Tip:** The hidden door in the maze is **very sneaky** — after the second right turn, face the wall and press the interact key to find it. Many players wander for 10+ minutes looking for the exit. Learn the route once and future years become simple.
+
+---
+
+## ❄️ Winter Festival Details
+
+### 🍲 Winter Feast — Winter 8
+
+| Phase | Content | Winning Strategy |
+|:------|:--------|:-----------------|
+| 🥘 **Cooking Competition** | Submit one dish, scored on quality + rarity | Make a **Golden Feast** |
+| 🎵 **Winter Carol** | Chorus minigame | Hit the rhythm prompts, all-Perfect gives bonus rewards |
+
+**Golden Feast Recipe:**
+| Ingredient | How to Get |
+|:-----------|:-----------|
+| Gold-quality crops ×5 | ★★★ wheat/pumpkin/corn mix |
+| Premium meat ×3 | Buy at Withergate general store |
+| Cooking Skill | Need Cooking Lv.8+ |
+
+| Rank | Reward |
+|:----:|:-------|
+| 🥇 **1st Place** | 🎄 **Winter Wreath** + 500 tokens |
+| 🥈 **2nd Place** | 🧣 Winter Scarf + 250 tokens |
+| 🥉 **3rd Place** | ☕ Hot Cocoa recipe + 100 tokens |
+
+### 🌟 Starfall Night — Winter 20
+
+| Activity | Content |
+|:---------|:--------|
+| 🎆 **Fireworks Show** | Visible across all three maps, best viewed from Nel'Vari cliffs |
+| 🛍️ **Starfall Shop** | Use your year's worth of tokens on limited items |
+
+> **🪙 The most important token spending day of the year!** — The Starfall Night shop sells the game's **only flying mount, the Pegasus Mount** — miss it and you wait a full year.
+
+**Starfall Shop Exchange Table:**
+
+| Item | Token Price | Priority | Notes |
+|:-----|:-----------:|:--------:|:------|
+| 🦄 **Pegasus Mount** | 3,000 | 🥇 **Must-buy** | Only flying mount, rarest form of transport in the game |
+| ⭐ **Star Fragment** | 200 each | 🥈 Mid-late game | Crafting material for starfall furniture and ultimate gear |
+| 🛏️ **Starfall Bed** | 800 | 🥉 Decor | Limited furniture, gorgeous appearance |
+| 🧪 **Starlight Potion** | 100 | ❌ Skip | Poor value, same effect as regular potions |
+
+> **Tip:** **Start saving tokens for the Pegasus from Spring 1!** You can earn roughly 2,000-3,000 tokens per year — the Pegasus costs exactly 3,000. That means you can't spend tokens freely at other festivals. If you miss it in Year 1, you go the entire first year without a flying mount.
+
+---
+
+## 🏆 Full Rewards Table
+
+### Limited Permanent Rewards (Per Festival)
+
+| Festival | Limited Furniture/Item | Limited Pet | Limited Recipe |
+|:---------|:----------------------|:------------|:---------------|
+| 🌱 Garden Gala | 🌸 Cherry Blossom Wallpaper, Flower Crown | — | Flower Salad |
+| 🥚 Egg Hunt | 🧺 Egg Basket | 🐥 **Spring Bunny** | — |
+| 🎣 Fishing Derby | 🐟 Fish Lantern, Fisherman's Trophy | 🐚 Hermit Crab Shell | Fisherman's Chowder |
 | 🧜 Mermaid Festival | 🪞 **Mermaid Crown** | — | — |
-| 🎪 Harvest Festival | 🎃 巨型南瓜灯、丰收花环 | 🦊 **Harvest Fox** | 南瓜派 |
-| 🎃 Spook-tacular | 💀 幽灵长椅、Vampire Cape | 👻 幽灵猫 | 幽灵蛋糕 |
-| 🍲 Winter Feast | ❄️ 雪雕企鹅、冬之花环 | 🐧 冰企鹅 | 热可可 |
-| 🌟 Starfall Night | 🎄 星落床、星之碎片 | 🦄 **Pegasus Mount** | 星光果汁 |
-| 🌺 Bloom Festival | 🌺 百花拱门、精灵长椅 | 🦋 魔法蝴蝶 | 花蜜酒 |
-| 🧚 Faerie Festival | 🧚 妖精之翼（可装备） | 🐦 发光小鸟 | 妖精蛋糕 |
-| 🍄 Mushroom Festival | 🍄 发光蘑菇椅 | 🐭 蘑菇鼠 | 蘑菇烩饭 |
-| ❄️ Glacier Festival | 🧊 冰晶王座 | 🐻 冰川熊 | 冰霜果汁 |
-| 🦇 Night Market | 🎐 夜市灯笼 | 🦇 宠物蝙蝠 | 夜市炒面 |
-| ⚡ Lightning Rally | 🏆 闪电奖杯 | ⚡ 雷电松鼠 | 闪电能量棒 |
-| 💀 Day of the Dead | 💀 亡灵花架 | 🦎 骷髅龟 | 亡灵面包 |
-| 🖤 Shadow Ball | 🖤 暗影王子套装 | 🐱 黑猫 | 暗影鸡尾酒 |
+| 🎪 Harvest Festival | 🎃 Giant Pumpkin Lamp, Harvest Wreath | 🦊 **Harvest Fox** | Pumpkin Pie |
+| 🎃 Spook-tacular | 💀 Ghost Bench, Vampire Cape | 👻 Ghost Cat | Ghost Cake |
+| 🍲 Winter Feast | ❄️ Snow Penguin Sculpture, Winter Wreath | 🐧 Ice Penguin | Hot Cocoa |
+| 🌟 Starfall Night | 🎄 Starfall Bed, Star Fragment | 🦄 **Pegasus Mount** | Starlight Juice |
+| 🌺 Bloom Festival | 🌺 Blossom Arch, Elven Bench | 🦋 Magic Butterfly | Nectar Wine |
+| 🧚 Faerie Festival | 🧚 **Faerie Wings** (equippable) | 🐦 Glowing Bird | Faerie Cake |
+| 🍄 Mushroom Festival | 🍄 Glowing Mushroom Chair | 🐭 Mushroom Mouse | Mushroom Risotto |
+| ❄️ Glacier Festival | 🧊 Crystal Throne | 🐻 Glacier Bear | Frost Juice |
+| 🦇 Night Market | 🎐 Night Market Lantern | 🦇 Pet Bat | Night Market Noodles |
+| ⚡ Lightning Rally | 🏆 Lightning Trophy | ⚡ Thunder Squirrel | Lightning Energy Bar |
+| 💀 Day of the Dead | 💀 Day of the Dead Flower Stand | 🦎 Skull Turtle | Day of the Dead Bread |
+| 🖤 Shadow Ball | 🖤 Shadow Prince Outfit | 🐱 Black Cat | Shadow Cocktail |
 
-> **Tip:** **最值得优先兑换的限定物品排名：** ① 🦄 **天马坐骑**（唯一飞行坐骑）→ ② 🧚 **妖精之翼**（可飞行装备）→ ③ 🦊 **Harvest Fox**（稀有宠物）→ ④ 🦇 **宠物蝙蝠**（战斗宠物）。
-
----
-
-## 💖 节日浪漫事件
-
-### 节日专属心动事件
-
-| NPC | 触发节日 | 触发条件 | 后果 |
-|:----|:---------|:---------|:-----|
-| ❤️ **Liam** | Garden Gala | 一起参加种植比赛 +10♥ | 赛后告白事件 |
-| ❤️ **Catherine** | Winter Feast | 烹饪比赛获胜后对话 | 「冬日温情」场景 |
-| ❤️ **Jun** | Mermaid Festival | 选美搭档 + 求婚 | **结婚 💍** |
-| ❤️ **Anne** | Harvest Festival | 提交最好南瓜 + 对话 | 「南瓜王」搞笑事件 |
-| ❤️ **Bernard** | Spook-tacular | 一起完成幽灵迷宫 | 「Ghostly Embrace」 |
-| ❤️ **Claude** | Night Market | 夜市买指定物品送他 | 「Moonlit Date」 |
-| ❤️ **Lydia** | Faerie Festival | 完成妖精翅膀任务 | 「Faerie Flight」双人飞行 |
-| ❤️ **Darius** | Lightning Rally | 坐骑竞速赢他 | 「Race to the Heart」 |
-| ❤️ **Vivi** | Winter Feast | 送 ★品质冬日蛋糕 | Silent Night 事件 |
-| ❤️ **Wesley** | Shadow Ball | 暗影舞会穿同色系礼服 | 双人舞事件 |
-
-> **Tip:** **同一节日只能触发一个 NPC 的浪漫事件！** 用不同存档或分年触发。Year 1 先确定主攻略目标。**所有节日浪漫事件触发一次后不可在同一个档中重复触发。**
+> **Tip:** **Best limited items to prioritize:** ① 🦄 **Pegasus Mount** (only flying mount) → ② 🧚 **Faerie Wings** (flight equipment) → ③ 🦊 **Harvest Fox** (rare pet) → ④ 🦇 **Pet Bat** (combat pet).
 
 ---
 
-## ⚠️ 第一年必做清单（错过不可逆）
+## 💖 Festival Romance Events
 
-### Year 1 专属/限时内容
+### Festival-Exclusive Heart Events
 
-| 内容 | 节日/时间 | 为什么不能错过 |
-|:-----|:---------|:-------------|
-| 🐥 **Spring Bunny** | Egg Hunt（春 27日） | 全 12 蛋收集奖励，错过等一年 |
-| 🦊 **Harvest Fox** | Harvest Festival（秋 10日） | 三项目全胜奖励，唯一获取途径 |
-| 🦄 **Pegasus Mount** | Starfall Night（冬 20日） | 唯一飞行坐骑，3,000代币 |
-| 💍 **求婚机会** | Mermaid Festival（夏 25日） | 年度唯一求婚机会 |
-| 🎣 **Golden Fishing Rod** | Fishing Derby（夏 12日） | 最强鱼竿，一年一次 |
-| 🌟 **首次冬幕老人对话** | Winter Feast（冬 8日） | 仅第一年有的特殊剧情 |
-| 🥚 **隐藏彩蛋对话** | Egg Hunt | 每个彩蛋第一年有特殊提示文本 |
+| NPC | Trigger Festival | Trigger Condition | Outcome |
+|:----|:-----------------|:------------------|:--------|
+| ❤️ **Liam** | Garden Gala | Join planting competition together +10♥ | Post-event confession scene |
+| ❤️ **Catherine** | Winter Feast | Talk to her after winning the cooking contest | "Winter Warmth" scene |
+| ❤️ **Jun** | Mermaid Festival | Beauty pageant partner + proposal | **Marriage 💍** |
+| ❤️ **Anne** | Harvest Festival | Submit the best pumpkin + talk to her | "Pumpkin King" funny event |
+| ❤️ **Bernard** | Spook-tacular | Complete the ghost maze together | "Ghostly Embrace" |
+| ❤️ **Claude** | Night Market | Buy a specific item at the market and give it to him | "Moonlit Date" |
+| ❤️ **Lydia** | Faerie Festival | Complete the Faerie Wings quest | "Faerie Flight" dual flying |
+| ❤️ **Darius** | Lightning Rally | Beat him in mount racing | "Race to the Heart" |
+| ❤️ **Vivi** | Winter Feast | Give her a ★ quality winter cake | Silent Night event |
+| ❤️ **Wesley** | Shadow Ball | Wear the same color formal wear to the Shadow Ball | Couple's dance event |
 
-### Year 1 全年时间线清单
-
-| 时段 | 该做的事 |
-|:-----|:---------|
-| 🌸 **春 1-14日** | 买 Glorite Fruit 种子+优质肥料，准备 Garden Gala |
-| 🌸 **春 15日** | ✅ 参加 Garden Gala——提交★★★果实 |
-| 🌸 **春 20日** | 🌿 Nel'Vari Bloom Festival——解锁传送 |
-| 🌸 **春 27日** | 🥚 **Egg Hunt**——记住 12 蛋位置，拿 Spring Bunny |
-| ☀️ **夏 1-11日** | 🎣 蹲 Legendary Tuna（海滩雨天的金色鱼影） |
-| ☀️ **夏 12日** | 🎣 钓鱼大赛——提交存好的 Legendary Tuna |
-| ☀️ **夏 25日** | 💍 人鱼节——10♥ NPC 求婚 |
-| 🍂 **秋 1-9日** | 种 ★★★ Pumpking + 存好传奇鱼+奶酪 |
-| 🍂 **秋 10日** | 🎪 Harvest Festival——三项目全胜拿 Harvest Fox |
-| 🍂 **秋 22日** | 🎃 Spook-tacular——跑迷宫记路线 |
-| ❄️ **冬 1-7日** | 做 Golden Feast，确认代币够 3,000 |
-| ❄️ **冬 8日** | 🍲 Winter Feast——提交 Golden Feast |
-| ❄️ **冬 20日** | 🌟 **Starfall Night——换天马！** |
+> **Tip:** **Only one NPC romance event can trigger per festival!** Use different saves or different years to trigger them all. Pick your main target in Year 1. **All festival romance events can only be triggered once per save file.**
 
 ---
 
-## 🪙 代币经济与兑换优先级
+## ⚠️ Year 1 Must-Do Checklist (Missable Content)
 
-### 各节日代币获取
+### Year 1 Exclusive / Limited Content
 
-| 节日 | 参与奖 | 第一名 | 第二名 | 第三名 | 最佳兑换物 |
-|:----|:-----:|:-----:|:-----:|:-----:|:---------|
-| 🌱 Garden Gala | 50 | 500 | 300 | 100 | 花冠头饰（200） |
-| 🥚 Egg Hunt | 30 | 300 | 200 | 100 | 🐥 Spring Bunny（全蛋） |
-| 🎣 Fishing Derby | 50 | 500 | 250 | 100 | 🎣 Golden Rod（冠军） |
-| 🧜 Mermaid Festival | 50 | 400 | 200 | 100 | 💍 Mermaid Pendant（500） |
-| 🎪 Harvest Festival | 50 | 600 | 300 | 150 | 🦊 Harvest Fox（冠军） |
-| 🎃 Spook-tacular | 50 | 300 | 150 | 80 | 🎃 Golden Pumpkin（800g） |
-| 🍲 Winter Feast | 50 | 500 | 250 | 100 | 🎄 Winter Wreath（冠军） |
-| 🌟 Starfall Night | 50 | — | — | — | 🦄 **Pegasus（3,000）** |
-| 🌺 Bloom Festival | 50 | 300 | 150 | 80 | 🦋 魔法蝴蝶（250） |
-| 🧚 Faerie Festival | 50 | 400 | 200 | 100 | 🧚 妖精之翼（400） |
-| 🍄 Mushroom Festival | 50 | 300 | 150 | 80 | 🍄 发光蘑菇椅（150） |
-| 🦇 Night Market | 50 | 500 | 250 | 100 | 🦇 宠物蝙蝠（600） |
-| ⚡ Lightning Rally | 50 | 400 | 200 | 100 | ⚡ 雷电松鼠（350） |
+| Item | Festival / Time | Why You Can't Miss It |
+|:-----|:----------------|:----------------------|
+| 🐥 **Spring Bunny** | Egg Hunt (Spring 27) | All-12-egg collection reward, once per year |
+| 🦊 **Harvest Fox** | Harvest Festival (Autumn 10) | Triple-category win reward, only source |
+| 🦄 **Pegasus Mount** | Starfall Night (Winter 20) | Only flying mount, 3,000 tokens |
+| 💍 **Proposal Opportunity** | Mermaid Festival (Summer 25) | Only annual proposal chance |
+| 🎣 **Golden Fishing Rod** | Fishing Derby (Summer 12) | Best rod in the game, once per year |
+| 🌟 **First winter elder dialogue** | Winter Feast (Winter 8) | Year 1 only special story event |
+| 🥚 **Hidden egg hints** | Egg Hunt | Each egg has unique Year 1 flavor text |
 
-### 全年代币预算
+### Year 1 Full Timeline Checklist
 
-| 活动 | 可获代币（大约） |
-|:-----|:---------------:|
-| 🌸 春季节日（3个） | 300-1,500 |
-| ☀️ 夏季节日（3个） | 300-1,400 |
-| 🍂 秋季节日（3个） | 300-1,400 |
-| ❄️ 冬季节日（2个） | 300-1,000 |
-| 🏆 全年日常任务 | ≈ 800（每周日常） |
-| **总计** | **≈ 2,000-6,100** |
-
-### 代币消费优先级
-
-| 优先级 | 物品 | 代币 | 原因 |
-|:------:|:-----|:----:|:------|
-| 🥇 1 | 🦄 **Pegasus Mount** | 3,000 | 唯一飞行坐骑，不可替代 |
-| 🥇 2 | 🧚 **妖精之翼** | 400 | 飞行装备，探索利器 |
-| 🥇 3 | 🦊 **Harvest Fox** | 冠军奖 | 限定宠物，战斗实用 |
-| 🥈 4 | 🎣 **Golden Rod** | 冠军奖 | 全游戏最强鱼竿 |
-| 🥈 5 | ⭐ **Star Fragment** | 200/个 | 终极材料，中后期必备 |
-| 🥉 6 | 🐥 **Spring Bunny** | 全蛋 | 可爱外观宠 |
-| 🥉 7 | 🎃 **Golden Pumpkin** | 800g | 卖钱还行，但不如以上 |
-| ❌ 8 | 🧪 **Starlight Potion** | 100 | 性价比极低，跳过 |
-
-> **Tip:** 全年最多获得约 6,100 代币。**天马坐骑 + 妖精之翼 + 几个星之碎片**就是最优消费方案，大约花掉 4,000-5,000 代币。剩下 1,000 左右可以买限定家具。**不要买药水类和普通材料**——那些在普通商店更便宜。
+| Period | What to Do |
+|:-------|:-----------|
+| 🌸 **Spring 1-14** | Buy Glorite Fruit seeds + quality fertilizer, prep for Garden Gala |
+| 🌸 **Spring 15** | ✅ Attend Garden Gala — submit ★★★ fruit |
+| 🌸 **Spring 20** | 🌿 Nel'Vari Bloom Festival — unlock the portal |
+| 🌸 **Spring 27** | 🥚 **Egg Hunt** — memorize 12 egg locations, get Spring Bunny |
+| ☀️ **Summer 1-11** | 🎣 Camp Legendary Tuna (golden fish shadow on rainy beach) |
+| ☀️ **Summer 12** | 🎣 Fishing Derby — submit your saved Legendary Tuna |
+| ☀️ **Summer 25** | 💍 Mermaid Festival — propose to a 10♥ NPC |
+| 🍂 **Autumn 1-9** | Plant ★★★ Pumpking + save Legendary Fish + Cheese |
+| 🍂 **Autumn 10** | 🎪 Harvest Festival — triple win for Harvest Fox |
+| 🍂 **Autumn 22** | 🎃 Spook-tacular — learn the maze route |
+| ❄️ **Winter 1-7** | Cook Golden Feast, confirm 3,000 tokens ready |
+| ❄️ **Winter 8** | 🍲 Winter Feast — submit Golden Feast |
+| ❄️ **Winter 20** | 🌟 **Starfall Night — buy the Pegasus!** |
 
 ---
 
-## 📋 快速一览表
+## 🪙 Token Economy & Exchange Priority
 
-### 全年比赛必胜准备清单
+### Token Earnings by Festival
 
-| 季节 | 提前准备 | 关键日期 |
-|:----|:---------|:--------:|
-| 🌸 **春** | ★★★ Glorite Fruit × 5 + 记住 12 蛋位置 | 春 15, 20, 27 |
-| ☀️ **夏** | Legendary Tuna × 1（存箱）+ Mermaid Pendant | 夏 12, 18, 25 |
-| 🍂 **秋** | ★★★ Pumpking + ★★★ Tuna + ★★★ Unicorn Cheese | 秋 10, 15, 22 |
-| ❄️ **冬** | Golden Feast 材料 + 至少 3,000 代币留给天马 | 冬 8, 12, 20 |
+| Festival | Participation | 1st Place | 2nd Place | 3rd Place | Best Exchange Item |
+|:---------|:-------------:|:---------:|:---------:|:---------:|:-------------------|
+| 🌱 Garden Gala | 50 | 500 | 300 | 100 | Flower Crown (200) |
+| 🥚 Egg Hunt | 30 | 300 | 200 | 100 | 🐥 Spring Bunny (all eggs) |
+| 🎣 Fishing Derby | 50 | 500 | 250 | 100 | 🎣 Golden Rod (champion) |
+| 🧜 Mermaid Festival | 50 | 400 | 200 | 100 | 💍 Mermaid Pendant (500) |
+| 🎪 Harvest Festival | 50 | 600 | 300 | 150 | 🦊 Harvest Fox (champion) |
+| 🎃 Spook-tacular | 50 | 300 | 150 | 80 | 🎃 Golden Pumpkin (800g) |
+| 🍲 Winter Feast | 50 | 500 | 250 | 100 | 🎄 Winter Wreath (champion) |
+| 🌟 Starfall Night | 50 | — | — | — | 🦄 **Pegasus (3,000)** |
+| 🌺 Bloom Festival | 50 | 300 | 150 | 80 | 🦋 Magic Butterfly (250) |
+| 🧚 Faerie Festival | 50 | 400 | 200 | 100 | 🧚 Faerie Wings (400) |
+| 🍄 Mushroom Festival | 50 | 300 | 150 | 80 | 🍄 Glowing Mushroom Chair (150) |
+| 🦇 Night Market | 50 | 500 | 250 | 100 | 🦇 Pet Bat (600) |
+| ⚡ Lightning Rally | 50 | 400 | 200 | 100 | ⚡ Thunder Squirrel (350) |
 
-### 代币使用速查
+### Yearly Token Budget
 
-| 节日 | 最佳第一换 | 价格 | 次选 | 价格 |
-|:-----|:---------|:----:|:----|:----:|
-| Garden Gala | 🌸 樱花壁纸 | 200 | 💐 花冠头饰 | 150 |
-| Egg Hunt | 🐥 **Spring Bunny** | 12蛋全 | 🧺 彩蛋篮 | 100 |
-| Fishing Derby | 🎣 **Golden Rod** | 冠军 | 🐚 贝壳寄居蟹 | 250 |
-| Mermaid | 💍 **求婚项链** | 500 | 🪞 Mermaid Crown | 300 |
-| Harvest | 🦊 **Harvest Fox** | 三冠 | 🎃 巨型南瓜灯 | 200 |
+| Activity | Approximate Tokens Earned |
+|:---------|:------------------------:|
+| 🌸 Spring Festivals (3) | 300-1,500 |
+| ☀️ Summer Festivals (3) | 300-1,400 |
+| 🍂 Autumn Festivals (3) | 300-1,400 |
+| ❄️ Winter Festivals (2) | 300-1,000 |
+| 🏆 Year-round daily tasks | ≈ 800 (weekly quests) |
+| **Total** | **≈ 2,000-6,100** |
+
+### Token Spending Priority
+
+| Priority | Item | Tokens | Reason |
+|:--------:|:-----|:------:|:-------|
+| 🥇 1 | 🦄 **Pegasus Mount** | 3,000 | Only flying mount, irreplaceable |
+| 🥇 2 | 🧚 **Faerie Wings** | 400 | Flight equipment, exploration essential |
+| 🥇 3 | 🦊 **Harvest Fox** | Champion reward | Limited pet, useful in combat |
+| 🥈 4 | 🎣 **Golden Rod** | Champion reward | Best fishing rod in the game |
+| 🥈 5 | ⭐ **Star Fragment** | 200 each | Ultimate material, mid-late game |
+| 🥉 6 | 🐥 **Spring Bunny** | All eggs | Cute cosmetic pet |
+| 🥉 7 | 🎃 **Golden Pumpkin** | 800g | Decent cash, but below the rest |
+| ❌ 8 | 🧪 **Starlight Potion** | 100 | Terrible value, skip it |
+
+> **Tip:** You can earn roughly 6,100 tokens in a full year. **Pegasus Mount + Faerie Wings + a few Star Fragments** is the optimal spending plan, costing about 4,000-5,000 tokens total. Keep the remaining ~1,000 for limited furniture. **Don't buy potions or common materials** — those are cheaper at regular shops.
+
+---
+
+## 📋 Quick Reference Tables
+
+### Yearly Competition Prep Checklist
+
+| Season | Prepare in Advance | Key Dates |
+|:-------|:-------------------|:----------|
+| 🌸 **Spring** | ★★★ Glorite Fruit × 5 + memorize 12 egg locations | Spring 15, 20, 27 |
+| ☀️ **Summer** | Legendary Tuna × 1 (keep in chest) + Mermaid Pendant | Summer 12, 18, 25 |
+| 🍂 **Autumn** | ★★★ Pumpking + ★★★ Tuna + ★★★ Unicorn Cheese | Autumn 10, 15, 22 |
+| ❄️ **Winter** | Golden Feast ingredients + at least 3,000 tokens for Pegasus | Winter 8, 12, 20 |
+
+### Token Spending Quick Reference
+
+| Festival | Best First Purchase | Price | Second Pick | Price |
+|:---------|:--------------------|:-----:|:------------|:-----:|
+| Garden Gala | 🌸 Cherry Blossom Wallpaper | 200 | 💐 Flower Crown | 150 |
+| Egg Hunt | 🐥 **Spring Bunny** | All 12 eggs | 🧺 Egg Basket | 100 |
+| Fishing Derby | 🎣 **Golden Rod** | Champion | 🐚 Hermit Crab Shell | 250 |
+| Mermaid Festival | 💍 **Mermaid Pendant** | 500 | 🪞 Mermaid Crown | 300 |
+| Harvest Festival | 🦊 **Harvest Fox** | Triple win | 🎃 Giant Pumpkin Lamp | 200 |
 | Spook-tacular | 🧛 Vampire Cape | 150 | 🎃 Golden Pumpkin | — |
-| Winter Feast | 🎄 Winter Wreath | 冠军 | ☕ 热可可 | 100 |
-| Starfall | 🦄 **Pegasus** | 3,000 | ⭐ Star Fragment | 200/个 |
-| Bloom | 🌺 百花拱门 | 180 | 🦋 魔法蝴蝶 | 250 |
-| Faerie | 🧚 **妖精之翼** | 400 | 🐦 发光小鸟 | 300 |
-| Mushroom | 🍄 发光蘑菇椅 | 150 | 🐭 蘑菇鼠 | 250 |
-| Night Market | 🦇 宠物蝙蝠 | 600 | 🎐 夜市灯笼 | 350 |
+| Winter Feast | 🎄 Winter Wreath | Champion | ☕ Hot Cocoa recipe | 100 |
+| Starfall Night | 🦄 **Pegasus** | 3,000 | ⭐ Star Fragment | 200 each |
+| Bloom Festival | 🌺 Blossom Arch | 180 | 🦋 Magic Butterfly | 250 |
+| Faerie Festival | 🧚 **Faerie Wings** | 400 | 🐦 Glowing Bird | 300 |
+| Mushroom Festival | 🍄 Glowing Mushroom Chair | 150 | 🐭 Mushroom Mouse | 250 |
+| Night Market | 🦇 Pet Bat | 600 | 🎐 Night Market Lantern | 350 |
 
 ---
 
-> **🎉 结语：** Sun Haven 的节日系统是游戏中**最直接获取限定内容**的途径——每天参与奖就有 50 代币，全年 8 个主节日就是 400 免费代币。**Year 1 最关键**：Spring Bunny、Harvest Fox、Pegasus Mount 都是一年一次的不可逆内容。提前 7 天为每个比赛准备材料，全年攒够 3,000 代币留给天马——这是你在 Sun Haven 做的最值的一笔交易。祝你在 Sun Haven 的每个节日都满载而归！
+> **🎉 Conclusion:** Sun Haven's festival system is the **most direct way to access limited content** — just showing up gives you 50 participation tokens, and across 8 main festivals that's 400 free tokens a year. **Year 1 is the most critical**: Spring Bunny, Harvest Fox, and Pegasus Mount are all once-a-year missable content. Start preparing materials 7 days before each competition, save 3,000 tokens for the Pegasus, and you'll have made the best investment you can in Sun Haven. Happy festival season!

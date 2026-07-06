@@ -1,262 +1,262 @@
 ---
 title: Stardew Valley NPC Schedule & Festival Calendar
-description: Stardew Valley 完整NPC行程表与节日日历 — Abigail/Penny/Sebastian等村民日常行程、全部12个节日详情与最佳策略
+description: Stardew Valley complete NPC schedule & festival calendar — daily routines for Abigail, Penny, Sebastian, and all villagers, plus all 12 festivals with best strategies
 ---
 
 # 🗓️ NPC Schedule & Festival Calendar
 
-> Stardew Valley 的 NPC 们每天都有固定的日程安排。想送礼、结婚、触发剧情？你需要知道他们在哪儿。
+> Stardew Valley NPCs follow daily schedules based on the day, weather, and season. Trying to give gifts, get married, or trigger heart events? You need to know where to find them.
 
-*数据来源：Stardew Valley Wiki v1.6*
+*Data source: Stardew Valley Wiki v1.6*
 
 ---
 
-## 👨‍🌾 NPC 日常行程表
+## 👨‍🌾 NPC Daily Schedules
 
-以下为主要可结婚 NPC 以及重要村民的日常行程。**天气、季节、节日**会影响行程。
+> Below are the daily routines of marriage candidates and key villagers. **Weather, season, and festivals** affect schedules.
 
-### 💜 Abigail（阿比盖尔）
+### 💜 Abigail
 
-| 星期 | 时间 | 地点 | 活动 |
+| Day | Time | Location | Activity |
 |:----|:----|:-----|:-----|
-| **周一** | 全天 | 🏠 家中（2 Willow Lane） | 在房间练电子琴 |
-| **周二** | 9:00-12:00 | 🏠 家中 | 在房间 |
-| | 12:30-17:00 | 📍 Pierre's General Store 柜台 | 帮工收银 |
-| | 18:00-22:00 | 🏠 家中 | 回房睡觉 |
-| **周三** | 9:00-15:00 | 🏠 家中 | 在房间 |
-| | 15:00-17:00 | 📍 墓地（教堂东侧） | 闲逛 |
-| | 17:00-22:00 | 🏠 家中 | 回房 |
-| **周四** | 9:00-12:00 | 🏠 家中 | 在房间 |
-| | 12:30-17:00 | 📍 Pierre's General Store | 帮工 |
-| | 17:00-22:00 | 🏠 家中 | 回房 |
-| **周五** | 9:00-17:30 | 🏠 家中 | 在房间 |
-| | 18:00-22:00 | 📍 Saloon | 打街机 |
-| **周六** | 9:00-17:30 | 🏠 家中 | 在房间 |
-| | 18:00-22:00 | 📍 Saloon | 和 Sebastian 一起 |
-| **周日** | 10:00-16:00 | 📍 Pierre's General Store 柜台 | 帮工 |
-| | 16:00-22:00 | 🏠 家中 | 回房 |
-| **☔ 雨天** | 13:00-17:00 | 📍 Saloon | 和 Sam 一起 |
-| | 17:00-22:00 | 🏠 家中 | 回房 |
+| **Mon** | All day | 🏠 Home (2 Willow Lane) | Practicing flute in her room |
+| **Tue** | 9:00-12:00 | 🏠 Home | In her room |
+| | 12:30-17:00 | 📍 Pierre's General Store counter | Working the register |
+| | 18:00-22:00 | 🏠 Home | Goes to bed |
+| **Wed** | 9:00-15:00 | 🏠 Home | In her room |
+| | 15:00-17:00 | 📍 Graveyard (east of church) | Hanging out |
+| | 17:00-22:00 | 🏠 Home | Goes home |
+| **Thu** | 9:00-12:00 | 🏠 Home | In her room |
+| | 12:30-17:00 | 📍 Pierre's General Store | Working the register |
+| | 17:00-22:00 | 🏠 Home | Goes home |
+| **Fri** | 9:00-17:30 | 🏠 Home | In her room |
+| | 18:00-22:00 | 📍 Saloon | Playing arcade |
+| **Sat** | 9:00-17:30 | 🏠 Home | In her room |
+| | 18:00-22:00 | 📍 Saloon | Hanging with Sebastian |
+| **Sun** | 10:00-16:00 | 📍 Pierre's General Store counter | Working the register |
+| | 16:00-22:00 | 🏠 Home | Goes home |
+| **☔ Rainy** | 13:00-17:00 | 📍 Saloon | Hanging with Sam |
+| | 17:00-22:00 | 🏠 Home | Goes home |
 
-**🎁 最爱礼物：** Amethyst（紫水晶）、Pumpkin（南瓜）、Chocolate Cake（巧克力蛋糕）、Blackberry Cobbler（黑莓酥）
+**🎁 Loved Gifts:** Amethyst, Pumpkin, Chocolate Cake, Blackberry Cobbler
 
 ---
 
-### 👩‍🏫 Penny（潘妮）
+### 👩‍🏫 Penny
 
-| 星期 | 时间 | 地点 | 活动 |
+| Day | Time | Location | Activity |
 |:----|:----|:-----|:-----|
-| **周一~二** | 全天 | 🏠 拖车（Trailer, 24 Willow Lane） | 在家看书/打扫 |
-| **周三~五** | 9:00-13:00 | 📍 Museum 南侧 | 教孩子们读书 |
-| | 13:00-17:00 | 📍 河边长椅（Cindersap Forest） | 独自坐着看书 |
-| | 17:00-22:00 | 🏠 拖车 | 回家 |
-| **周六** | 9:00-13:00 | 📍 Museum 南侧 | 教孩子们读书 |
-| | 13:00-16:30 | 📍 河边长椅 | 看书 |
-| | 17:00-22:00 | 🏠 拖车 | 回家 |
-| **周日** | 9:00-17:00 | 🏠 拖车 | 在家 |
-| | 17:00-22:00 | 📍 Saloon | 和 Maru 一起 |
-| **☔ 雨天** | 全天 | 🏠 拖车 | 在家 |
+| **Mon~Tue** | All day | 🏠 Trailer (24 Willow Lane) | Reading/cleaning at home |
+| **Wed~Fri** | 9:00-13:00 | 📍 South of Museum | Teaching the kids |
+| | 13:00-17:00 | 📍 Riverside bench (Cindersap Forest) | Sitting alone reading |
+| | 17:00-22:00 | 🏠 Trailer | Goes home |
+| **Sat** | 9:00-13:00 | 📍 South of Museum | Teaching the kids |
+| | 13:00-16:30 | 📍 Riverside bench | Reading |
+| | 17:00-22:00 | 🏠 Trailer | Goes home |
+| **Sun** | 9:00-17:00 | 🏠 Trailer | At home |
+| | 17:00-22:00 | 📍 Saloon | Hanging with Maru |
+| **☔ Rainy** | All day | 🏠 Trailer | At home |
 
-**🎁 最爱礼物：** Poppy（罂粟花）、Melon（甜瓜）、Emerald（祖母绿）、Pancakes（薄煎饼）、Hashbrowns（土豆饼）、Diamond（钻石）
+**🎁 Loved Gifts:** Poppy, Melon, Emerald, Pancakes, Hashbrowns, Diamond
 
 ---
 
-### 💃 Haley（海莉）
+### 💃 Haley
 
-| 星期 | 时间 | 地点 | 活动 |
+| Day | Time | Location | Activity |
 |:----|:----|:-----|:-----|
-| **周一~二** | 9:00-11:00 | 🏠 家中（2 Willow Lane） | 在家 |
-| | 11:00-14:00 | 📍 Town Center 喷泉旁 | 拍照 |
-| | 14:00-18:00 | 📍 Emily's 家（1 Willow Lane） | 和姐姐一起 |
-| | 18:00-22:00 | 🏠 家中 | 回家 |
-| **周三** | 10:00-15:30 | 📍 更衣区（海滩方向） | 运动 |
-| | 16:00-22:00 | 🏠 家中 | 回家 |
-| **周四** | 9:00-15:00 | 📍 喷泉旁（被 Alex 搭讪） | 社交 |
-| | 15:00-17:00 | 📍 河边 | 闲逛 |
-| | 17:00-22:00 | 🏠 家中 | 回家 |
-| **周五** | 9:00-12:00 | 📍 Saloon | 玩街机 |
-| | 12:00-22:00 | 🏠 家中 | 回家 |
-| **周六** | 9:00-17:00 | 📍 逛街（喷泉→河边→回家） | 闲逛 |
-| **周日** | 10:00-18:00 | 📍 Emily's 家 | 和姐姐待一起 |
-| **☔ 雨天** | 全天 | 🏠 家中 | 在家 |
+| **Mon~Tue** | 9:00-11:00 | 🏠 Home (2 Willow Lane) | At home |
+| | 11:00-14:00 | 📍 Town Center fountain | Taking photos |
+| | 14:00-18:00 | 📍 Emily's house (1 Willow Lane) | With her sister |
+| | 18:00-22:00 | 🏠 Home | Goes home |
+| **Wed** | 10:00-15:30 | 📍 Changing room (near beach) | Working out |
+| | 16:00-22:00 | 🏠 Home | Goes home |
+| **Thu** | 9:00-15:00 | 📍 Near the fountain (being hit on by Alex) | Socializing |
+| | 15:00-17:00 | 📍 Riverside | Strolling |
+| | 17:00-22:00 | 🏠 Home | Goes home |
+| **Fri** | 9:00-12:00 | 📍 Saloon | Playing arcade |
+| | 12:00-22:00 | 🏠 Home | Goes home |
+| **Sat** | 9:00-17:00 | 📍 Strolling (fountain → riverside → home) | Hanging out |
+| **Sun** | 10:00-18:00 | 📍 Emily's house | Staying with her sister |
+| **☔ Rainy** | All day | 🏠 Home | At home |
 
-**🎁 最爱礼物：** Pink Cake（粉红蛋糕）、Coconut（椰子）、Sunflower（向日葵）、Fruit Salad（水果沙拉）
+**🎁 Loved Gifts:** Pink Cake, Coconut, Sunflower, Fruit Salad
 
 ---
 
-### 🖤 Sebastian（塞巴斯蒂安）
+### 🖤 Sebastian
 
-| 星期 | 时间 | 地点 | 活动 |
+| Day | Time | Location | Activity |
 |:----|:----|:-----|:-----|
-| **周一~二** | 全天 | 🏠 地下室（24 Willow Lane） | 玩电脑/D&D |
-| **周三** | 10:00-16:00 | 🏠 地下室 | 玩电脑 |
-| | 16:00-18:00 | 📍 山上湖右侧 | 抽烟散步 |
-| | 18:00-23:00 | 📍 Saloon | 和 Sam/Abigail 一起 |
-| **周四** | 全天 | 🏠 地下室 | 玩电脑 |
-| **周五** | 10:00-16:00 | 🏠 地下室 | 玩电脑 |
-| | 16:00-18:00 | 📍 山上湖右侧 | 抽烟 |
-| | 18:00-23:00 | 🏠 地下室 | 回房 |
-| **周六** | 10:00-16:00 | 🏠 地下室 | 玩电脑 |
-| | 16:00-20:00 | 📍 山上湖右侧 | 抽烟 |
-| | 20:00-23:00 | 🏠 家中 | 回房 |
-| **周日** | 9:00-12:00 | 🏠 地下室 | 玩电脑 |
-| | 12:00-16:00 | 📍 Sam's 家（1 Willow Lane） | D&D 聚会 |
-| | 16:00-23:00 | 🏠 地下室 | 回房 |
-| **☔ 雨天** | 全天 | 🏠 地下室 | 玩电脑 |
+| **Mon~Tue** | All day | 🏠 Basement (24 Willow Lane) | Playing computer / D&D |
+| **Wed** | 10:00-16:00 | 🏠 Basement | Playing computer |
+| | 16:00-18:00 | 📍 Right of mountain lake | Smoking / walking |
+| | 18:00-23:00 | 📍 Saloon | Hanging with Sam & Abigail |
+| **Thu** | All day | 🏠 Basement | Playing computer |
+| **Fri** | 10:00-16:00 | 🏠 Basement | Playing computer |
+| | 16:00-18:00 | 📍 Right of mountain lake | Smoking |
+| | 18:00-23:00 | 🏠 Basement | Goes home |
+| **Sat** | 10:00-16:00 | 🏠 Basement | Playing computer |
+| | 16:00-20:00 | 📍 Right of mountain lake | Smoking |
+| | 20:00-23:00 | 🏠 Home | Goes home |
+| **Sun** | 9:00-12:00 | 🏠 Basement | Playing computer |
+| | 12:00-16:00 | 📍 Sam's house (1 Willow Lane) | D&D session |
+| | 16:00-23:00 | 🏠 Basement | Goes home |
+| **☔ Rainy** | All day | 🏠 Basement | Playing computer |
 
-**🎁 最爱礼物：** Frozen Tear（冰封泪滴）、Sashimi（生鱼片）、Void Egg（虚空蛋）、Pumpkin Soup（南瓜汤）、Obsidian（黑曜石）
+**🎁 Loved Gifts:** Frozen Tear, Sashimi, Void Egg, Pumpkin Soup, Obsidian
 
 ---
 
-### 🧑‍🎤 Sam（山姆）
+### 🧑‍🎤 Sam
 
-| 星期 | 时间 | 地点 | 活动 |
+| Day | Time | Location | Activity |
 |:----|:----|:-----|:-----|
-| **周一~二** | 全天 | 🏠 家中（1 Willow Lane） | 在房间玩吉他 |
-| **周三** | 9:00-13:00 | 🏠 家中 | 睡觉/吃早饭 |
-| | 13:00-18:00 | 📍 JojaMart | 打工 |
-| | 18:00-22:00 | 🏠 家中 | 回房 |
-| **周四** | 8:00-11:00 | 📍 河边桥上 | 滑板 |
-| | 11:00-14:00 | 📍 Saloon | 和 Sebastian 玩 |
-| | 14:00-18:00 | 📍 河边桥上 | 滑板 |
-| | 18:00-22:00 | 🏠 家中 | 回房 |
-| **周五** | 10:00-15:00 | 📍 山上湖钓鱼区 | 闲逛 |
-| | 15:00-18:00 | 📍 海滩 | 闲逛 |
-| | 18:00-22:00 | 📍 Saloon | 打台球 |
-| **周六** | 9:00-17:00 | 📍 河边 | 滑板 |
-| | 17:00-22:00 | 📍 Saloon | 和朋友们一起 |
-| **周日** | 8:00-12:00 | 🏠 家中 | 在家 |
-| | 12:00-16:00 | 📍 Sam's 家 | D&D 聚会 |
-| | 16:00-18:00 | 📍 河边桥上 | 滑板 |
-| **☔ 雨天** | 全天 | 🏠 家中 | 玩乐器 |
+| **Mon~Tue** | All day | 🏠 Home (1 Willow Lane) | Playing guitar in his room |
+| **Wed** | 9:00-13:00 | 🏠 Home | Sleeping / eating breakfast |
+| | 13:00-18:00 | 📍 JojaMart | Working |
+| | 18:00-22:00 | 🏠 Home | Goes home |
+| **Thu** | 8:00-11:00 | 📍 River bridge | Skateboarding |
+| | 11:00-14:00 | 📍 Saloon | Hanging with Sebastian |
+| | 14:00-18:00 | 📍 River bridge | Skateboarding |
+| | 18:00-22:00 | 🏠 Home | Goes home |
+| **Fri** | 10:00-15:00 | 📍 Mountain lake fishing area | Loitering |
+| | 15:00-18:00 | 📍 Beach | Loitering |
+| | 18:00-22:00 | 📍 Saloon | Playing pool |
+| **Sat** | 9:00-17:00 | 📍 Riverside | Skateboarding |
+| | 17:00-22:00 | 📍 Saloon | Hanging with friends |
+| **Sun** | 8:00-12:00 | 🏠 Home | At home |
+| | 12:00-16:00 | 📍 Sam's house | D&D session |
+| | 16:00-18:00 | 📍 River bridge | Skateboarding |
+| **☔ Rainy** | All day | 🏠 Home | Playing instruments |
 
-**🎁 最爱礼物：** Pizza（披萨）、Cactus Fruit（仙人掌果）、Tigerseye（虎眼石）、Maple Bar（枫糖棒）、Hazelnut（榛子）
+**🎁 Loved Gifts:** Pizza, Cactus Fruit, Tigerseye, Maple Bar, Hazelnut
 
 ---
 
-### 🐑 Maru（玛鲁）
+### 🐑 Maru
 
-| 星期 | 时间 | 地点 | 活动 |
+| Day | Time | Location | Activity |
 |:----|:----|:-----|:-----|
-| **周一~二** | 9:00-12:00 | 🏠 家中（24 Willow Lane） | 在房间做实验 |
-| | 13:00-17:00 | 📍 Harvey's Clinic | 在诊所上班 |
-| | 17:00-21:00 | 🏠 家中 | 做实验 |
-| **周三** | 9:00-12:00 | 🏠 家中 | 做实验 |
-| | 12:00-17:00 | 📍 镇上河边 | 看星星/研究 |
-| | 17:00-21:00 | 🏠 家中 | 做实验 |
-| **周四** | 9:00-12:00 | 🏠 家中 | 做实验 |
-| | 13:00-17:00 | 📍 Harvey's Clinic | 上班 |
-| | 17:00-21:00 | 🏠 家中 | 做实验 |
-| **周五** | 9:00-12:00 | 🏠 家中 | 做实验 |
-| | 12:00-17:00 | 📍 Saloon | 和 Robin 一起 |
-| | 17:00-21:00 | 🏠 家中 | 做实验 |
-| **周六** | 10:00-12:00 | 📍 山上湖边 | 研究 |
-| | 13:00-17:00 | 📍 Harvey's Clinic | 上班 |
-| | 17:00-21:00 | 🏠 家中 | 做实验 |
-| **周日** | 9:00-15:00 | 🏠 家中 | 做实验 |
-| | 15:00-20:00 | 📍 Saloon | 和 Penny 一起 |
-| **☔ 雨天** | 全天 | 🏠 家中或诊所 | 做实验 |
+| **Mon~Tue** | 9:00-12:00 | 🏠 Home (24 Willow Lane) | Experimenting in her room |
+| | 13:00-17:00 | 📍 Harvey's Clinic | Working at the clinic |
+| | 17:00-21:00 | 🏠 Home | Experimenting |
+| **Wed** | 9:00-12:00 | 🏠 Home | Experimenting |
+| | 12:00-17:00 | 📍 Riverside in town | Stargazing / research |
+| | 17:00-21:00 | 🏠 Home | Experimenting |
+| **Thu** | 9:00-12:00 | 🏠 Home | Experimenting |
+| | 13:00-17:00 | 📍 Harvey's Clinic | Working |
+| | 17:00-21:00 | 🏠 Home | Experimenting |
+| **Fri** | 9:00-12:00 | 🏠 Home | Experimenting |
+| | 12:00-17:00 | 📍 Saloon | Hanging with Robin |
+| | 17:00-21:00 | 🏠 Home | Experimenting |
+| **Sat** | 10:00-12:00 | 📍 Mountain lake | Researching |
+| | 13:00-17:00 | 📍 Harvey's Clinic | Working |
+| | 17:00-21:00 | 🏠 Home | Experimenting |
+| **Sun** | 9:00-15:00 | 🏠 Home | Experimenting |
+| | 15:00-20:00 | 📍 Saloon | Hanging with Penny |
+| **☔ Rainy** | All day | 🏠 Home or Clinic | Experimenting |
 
-**🎁 最爱礼物：** Diamond（钻石）、Strawberry（草莓）、Rhubarb Pie（大黄派）、Cheese Cauliflower（奶酪菜花）、Pepper Poppers（胡椒爆弹）
+**🎁 Loved Gifts:** Diamond, Strawberry, Rhubarb Pie, Cheese Cauliflower, Pepper Poppers
 
 ---
 
-### 🩺 Harvey（哈维）
+### 🩺 Harvey
 
-| 星期 | 时间 | 地点 | 活动 |
+| Day | Time | Location | Activity |
 |:----|:----|:-----|:-----|
-| **周一~四** | 9:00-12:00 | 🏥 Clinic | 坐诊 |
-| | 12:00-14:00 | 📍 诊所二楼 | 午休 |
-| | 14:00-18:00 | 🏥 Clinic | 下午坐诊 |
-| | 18:00-22:00 | 🏠 家中（诊所楼上） | 在家看书/模型 |
-| **周五** | 9:00-12:00 | 🏥 Clinic | 坐诊 |
-| | 12:00-15:00 | 📍 镇上广场 | 散步 |
-| | 15:00-18:00 | 🏥 Clinic | 下午坐诊 |
-| | 18:00-22:00 | 📍 Saloon | 喝咖啡 |
-| **周六** | 9:00-15:00 | 🏠 家中 | 在家 |
-| | 15:00-18:00 | 📍 镇上散步 | 闲逛 |
-| **周日** | 9:00-13:00 | 🏠 家中 | 在家 |
-| | 13:00-18:00 | 📍 山上湖/河边 | 户外 |
-| **☔ 雨天** | 全天 | 🏥 Clinic | 坐诊/在家 |
+| **Mon~Thu** | 9:00-12:00 | 🏥 Clinic | Seeing patients |
+| | 12:00-14:00 | 📍 Clinic 2nd floor | Lunch break |
+| | 14:00-18:00 | 🏥 Clinic | Afternoon consultations |
+| | 18:00-22:00 | 🏠 Home (above clinic) | Reading / model building |
+| **Fri** | 9:00-12:00 | 🏥 Clinic | Seeing patients |
+| | 12:00-15:00 | 📍 Town square | Walking |
+| | 15:00-18:00 | 🏥 Clinic | Afternoon consultations |
+| | 18:00-22:00 | 📍 Saloon | Drinking coffee |
+| **Sat** | 9:00-15:00 | 🏠 Home | At home |
+| | 15:00-18:00 | 📍 Town streets | Strolling |
+| **Sun** | 9:00-13:00 | 🏠 Home | At home |
+| | 13:00-18:00 | 📍 Mountain lake / riverside | Outdoors |
+| **☔ Rainy** | All day | 🏥 Clinic | Consultations / at home |
 
-**🎁 最爱礼物：** Coffee（咖啡）、Wine（果酒）、Pickles（泡菜）、Super Meal（超级餐）、Truffle Oil（松露油）
+**🎁 Loved Gifts:** Coffee, Wine, Pickles, Super Meal, Truffle Oil
 
 ---
 
-### 🧙‍♂️ 其他重要 NPC
+### 🧙‍♂️ Other Key NPCs
 
-| NPC | 常驻地 | 最佳拜访时间 | 最爱礼物 |
+| NPC | Usual Location | Best Time to Visit | Loved Gifts |
 |:----|:-------|:------------|:---------|
-| **Lewis** 🏆 | 市政厅（白天）/ 家中（晚上） | 10:00-16:00 | Glazed Yams、Hot Pepper、Green Tea |
-| **Robin** 🪚 | 木匠铺（白天）/ 家中（晚上） | 9:00-17:00 木匠铺 | Peach、Goat Cheese、Spaghetti |
-| **Clint** 🔨 | 铁匠铺（白天）/ Saloon（晚上） | 10:00-17:00 铁匠铺 | 所有宝石（Emerald、Ruby 等） |
-| **Elliott** ✍️ | 海滩小屋（上午）/ Saloon（晚上） | 10:00-18:00 | Crab Cakes、Duck Feather、Tom Kha Soup |
-| **Leah** 🎨 | 森林小屋（上午）/ Saloon（晚上） | 10:00-17:00 | Salad、Wine、Poppyseed Muffin |
-| **Emily** 👗 | 家中（上午）/ Saloon（夜班调酒） | 12:00-17:00 | Cloth、Emerald、Ruby、Topaz |
-| **Pam** 🚌 | 拖车（上午）/ Saloon（下午开始） | 12:00 前拖车 | Beer、Pale Ale、Glazed Yams |
-| **Jodi** 🏡 | 家中（1 Willow Lane） | 9:00-16:00 | Pancakes、Crispy Bass、Chocolate Cake |
-| **Marnie** 🐄 | Ranch（白天）/ Saloon（周二晚） | 9:00-16:00 Ranch | Diamond、Farmer's Lunch、Pumpkin Pie |
-| **Gus** 🍳 | Saloon（全天营业） | 12:00-22:00 | Fish Taco、Diamond、Orange |
-| **Wizard** 🔮 | 巫师塔（全天） | 6:00-23:00 | Purple Mushroom、Super Cucumber、Void Essence |
+| **Lewis** 🏆 | Town Hall (day) / Home (night) | 10:00-16:00 | Glazed Yams, Hot Pepper, Green Tea |
+| **Robin** 🪚 | Carpenter's Shop (day) / Home (night) | 9:00-17:00 at shop | Peach, Goat Cheese, Spaghetti |
+| **Clint** 🔨 | Blacksmith (day) / Saloon (night) | 10:00-17:00 at shop | All gems (Emerald, Ruby, etc.) |
+| **Elliott** ✍️ | Beach cabin (morning) / Saloon (night) | 10:00-18:00 | Crab Cakes, Duck Feather, Tom Kha Soup |
+| **Leah** 🎨 | Forest cabin (morning) / Saloon (night) | 10:00-17:00 | Salad, Wine, Poppyseed Muffin |
+| **Emily** 👗 | Home (morning) / Saloon (bartending nights) | 12:00-17:00 | Cloth, Emerald, Ruby, Topaz |
+| **Pam** 🚌 | Trailer (morning) / Saloon (afternoon onwards) | Before 12:00 at trailer | Beer, Pale Ale, Glazed Yams |
+| **Jodi** 🏡 | Home (1 Willow Lane) | 9:00-16:00 | Pancakes, Crispy Bass, Chocolate Cake |
+| **Marnie** 🐄 | Ranch (day) / Saloon (Tue night) | 9:00-16:00 at Ranch | Diamond, Farmer's Lunch, Pumpkin Pie |
+| **Gus** 🍳 | Saloon (open all day) | 12:00-22:00 | Fish Taco, Diamond, Orange |
+| **Wizard** 🔮 | Wizard Tower (all day) | 6:00-23:00 | Purple Mushroom, Super Cucumber, Void Essence |
 
 ---
 
-## 🎪 节日日历
+## 🎪 Festival Calendar
 
-> 星露谷物语每年有 **12 个固定节日 + 3 天夜市**。以下为精简指南，完整节日攻略请见[节日日历](festivals/)。
+> Stardew Valley has **12 fixed festivals + 3 days of Night Market** each year. Quick reference below; full details on the [Festival Calendar](festivals/).
 
-| 日期 | 节日 | 季节 | 地点 | 🏆 必做 |
+| Date | Festival | Season | Location | 🏆 Must-Do |
 |:-----|:-----|:-----|:------|:--------|
-| **🌸 春 13** | 🥚 **Egg Festival** | 春季 | 镇中心 | 🥇 **买草莓种子！** 参赛得 Straw Hat |
-| **🌸 春 24** | 💃 **Flower Dance** | 春季 | Cindersap 森林 | 💞 和心仪对象跳舞（需 4❤️+） |
-| **☀️ 夏 11-13** | 🌙 **Night Market** | 夏季 | 海滩 | 🐟 钓深海鲜鱼、买 Pearl |
-| **☀️ 夏 28** | 🪼 **Moonlight Jellies** | 夏季 | 海滩 | 🌙 观赏水母、领装饰品 |
-| **🍁 秋 16** | 🎡 **Stardew Valley Fair** | 秋季 | 镇中心 | 🥇 **赢 Stardrop！** Grange Display + 小游戏 |
-| **🍁 秋 27** | 🎃 **Spirit's Eve** | 秋季 | 镇广场 | 🥇 拿 Golden Pumpkin（2500g 或送 Abigail 最爱） |
-| **❄️ 冬 8** | 🎣 **Ice Fishing Festival** | 冬季 | 海滩 | 🎣 Iridium Rod 或帽子 |
-| **❄️ 冬 15-17** | 🌙 **Night Market** | 冬季 | 海滩 | 🐟 深海鲜鱼（重复夏季） |
-| **❄️ 冬 25** | 🎄 **Feast of the Winter Star** | 冬季 | Lewis 家 | 🎁 送礼物收礼物、获得稀有道具 |
+| **🌸 Spr 13** | 🥚 **Egg Festival** | Spring | Town Center | 🥇 **Buy Strawberry Seeds!** Win Straw Hat in contest |
+| **🌸 Spr 24** | 💃 **Flower Dance** | Spring | Cindersap Forest | 💞 Dance with your crush (need 4❤️+) |
+| **☀️ Sum 11-13** | 🌙 **Night Market** | Summer | Beach | 🐟 Catch deep-sea fish, buy Pearl |
+| **☀️ Sum 28** | 🪼 **Moonlight Jellies** | Summer | Beach | 🌙 Watch jellyfish, claim decorative item |
+| **🍁 Fall 16** | 🎡 **Stardew Valley Fair** | Fall | Town Center | 🥇 **Win Stardrop!** Grange Display + minigames |
+| **🍁 Fall 27** | 🎃 **Spirit's Eve** | Fall | Town Square | 🥇 Get Golden Pumpkin (2,500g or Abigail's loved gift) |
+| **❄️ Win 8** | 🎣 **Ice Fishing Festival** | Winter | Beach | 🎣 Win Iridium Rod or hat |
+| **❄️ Win 15-17** | 🌙 **Night Market** | Winter | Beach | 🐟 Deep-sea fish (same as summer) |
+| **❄️ Win 25** | 🎄 **Feast of the Winter Star** | Winter | Lewis's House | 🎁 Give & receive gifts, earn rare items |
 
-### 🏆 节日最佳策略
+### 🏆 Festival Best Strategies
 
-| 节日 | 最佳策略 |
+| Festival | Best Strategy |
 |:-----|:---------|
-| 🥚 **Egg Festival** | 把所有钱买 **Strawberry Seeds**（100g/包），春季最赚钱作物。种下后用 Speed-Gro 可收 3 次 |
-| 💃 **Flower Dance** | 第一年几乎没有 4 心 NPC，跳舞只能当观众；第二年提前送礼刷好感 |
-| 🌙 **Night Market** | 花 1,000g 买 **Pearl**（送 **Penny/Emily** 最爱）；用潜艇钓深海鱼卖高价 |
-| 🪼 **Moonlight Jellies** | 纯观赏性节日，必参加（所有 NPC 到场），可获得稀有装饰品 |
-| 🎡 **Stardew Valley Fair** | **Grange Display** 用 9 个高价值物品（Iridium 品质优先）拿满分；小游戏换 Star Token 买 **Stardrop**（第一要务！） |
-| 🎃 **Spirit's Eve** | 走迷宫拿 **Golden Pumpkin**（送 Abigail 🏆 或卖 2500g） |
-| 🎣 **Ice Fishing Festival** | 钓鱼比赛赢 **Iridium Rod**，不用自己花 7500g 买了 |
-| 🎄 **Feast of the Winter Star** | 给分配的目标送礼（攻略站有全 NPC 最爱清单）；可能收到 **Tea Set**（稀有家具）或 Iridium 物品 |
+| 🥚 **Egg Festival** | Spend all your money on **Strawberry Seeds** (100g/pack) — the most profitable spring crop. Use Speed-Gro to harvest 3 times |
+| 💃 **Flower Dance** | Almost no NPC hits 4 hearts in year 1, so you'll watch from the sidelines. Boost friendship early in year 2 |
+| 🌙 **Night Market** | Spend 1,000g on **Pearl** (loved by **Penny/Emily**); fish deep-sea fish from the submarine for high prices |
+| 🪼 **Moonlight Jellies** | Purely scenic festival — attend for the atmosphere (all NPCs show up) and claim a rare decoration |
+| 🎡 **Stardew Valley Fair** | **Grange Display**: use 9 high-value items (Iridium quality preferred) for max score. Spend Star Tokens on **Stardrop** (top priority!) |
+| 🎃 **Spirit's Eve** | Navigate the maze for **Golden Pumpkin** (gift to Abigail 🏆 or sell for 2,500g) |
+| 🎣 **Ice Fishing Festival** | Win the fishing contest for an **Iridium Rod** — save yourself 7,500g |
+| 🎄 **Feast of the Winter Star** | Give your assigned NPC their loved gift (full list in our gift guide); you may receive **Tea Set** (rare furniture) or Iridium items |
 
-### 🎫 最佳节日购物清单
+### 🎫 Best Festival Shopping List
 
-| 节日 | 必买物品 | 价格 | 优先级 |
+| Festival | Must-Buy Item | Price | Priority |
 |:-----|:---------|:-----|:-------|
 | 🥚 Egg Festival | 🍓 Strawberry Seeds | 100g | **⭐⭐⭐⭐⭐** |
-| 💃 Flower Dance | — | — | 仅社交活动 |
-| 🌙 Night Market | 🦪 Pearl、🎣 深海鱼竿配件 | 1,000g+ | **⭐⭐⭐⭐** |
+| 💃 Flower Dance | — | — | Social event only |
+| 🌙 Night Market | 🦪 Pearl, 🎣 Deep-sea fishing gear | 1,000g+ | **⭐⭐⭐⭐** |
 | 🎡 Stardew Valley Fair | 🌟 Stardrop ⭐ | 2,000 Tokens | **⭐⭐⭐⭐⭐** |
-| 🎃 Spirit's Eve | 🎃 Golden Pumpkin | 免费(迷宫) | **⭐⭐⭐⭐** |
-| 🎣 Ice Fishing Festival | 🎣 Iridium Rod (奖) | 免费(比赛) | **⭐⭐⭐⭐⭐** |
-| 🎄 Winter Star | 🎁 随机礼物 | 免费 | **⭐⭐⭐** |
+| 🎃 Spirit's Eve | 🎃 Golden Pumpkin | Free (maze) | **⭐⭐⭐⭐** |
+| 🎣 Ice Fishing Festival | 🎣 Iridium Rod (prize) | Free (contest) | **⭐⭐⭐⭐⭐** |
+| 🎄 Winter Star | 🎁 Random gift | Free | **⭐⭐⭐** |
 
 ---
 
-## 💡 送礼与好感度小贴士
+## 💡 Gift Giving & Friendship Tips
 
-| 技巧 | 说明 |
+| Tip | Details |
 |:-----|:------|
-| 🎂 **生日送礼 ×8** | 生日当天送最爱的礼物，好感度加成是普通日的 8 倍！ |
-| 📅 **每周可送 2 次** | 生日不计入每周次数 |
-| ⭐ **品质加成** | Iridium (铱星) > Gold (金星) > Silver (银星) > Normal (普通) |
-| 💎 **万能礼物** | **Diamond**（钻石）被多数 NPC 喜欢，部分最爱 |
-| 🌸 **花** | Crocus、Sweet Pea 等被多数人喜欢（少数人讨厌） |
-| 🤝 **每周对话** | 每天第一次对话 +20 好感（不算 0 心时的限制） |
-| 🎯 **目标** | 8 心解锁好感剧情（可结婚 NPC 需 Bouquet 突破到 10 心） |
+| 🎂 **Birthday gift ×8** | Giving a loved gift on their birthday grants 8× the usual friendship points! |
+| 📅 **2 gifts per week** | Birthdays don't count toward the weekly limit |
+| ⭐ **Quality bonus** | Iridium > Gold > Silver > Normal quality |
+| 💎 **Universal gift** | **Diamond** is liked by most NPCs and loved by several |
+| 🌸 **Flowers** | Crocus, Sweet Pea, etc. are liked by most (a few dislike them) |
+| 🤝 **Daily chat** | First conversation each day gives +20 friendship (no limit at 0 hearts) |
+| 🎯 **Target** | 8 hearts unlocks backstory events (marriage candidates need Bouquet to go to 10 hearts) |
 
 ---
 
-> 完整 NPC 礼物偏好请见 [💰 NPC Gift Guide](npc-gifts/)
-> 完整节日详情请见 [🎪 Festival Events Calendar](festivals/)
+> Full NPC gift preferences on the [💰 NPC Gift Guide](npc-gifts/)
+> Full festival details on the [🎪 Festival Events Calendar](festivals/)

@@ -1,6 +1,6 @@
 ---
 title: 🌷 Complete Spring Guide
-description: > From Stardew Valley 1.6 | Win from the very start of your first spring
+description: "From Stardew Valley 1.6 — Win from the very start of your first spring"
 date: 2026-06-27
 ---
 

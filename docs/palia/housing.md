@@ -1,278 +1,279 @@
 ---
-title: Palia — 房屋与装修完全指南（地块解锁/房屋升级/家具分类/和谐值系统/园艺育种/外观装饰）
-description: Palia 房屋与装修深度攻略：房屋地块解锁流程（第一个任务/城镇声望要求）、帐篷→庄园全升级路线（材料/金币/房间数）、房间增建系统与费用、全家具分类与获取途径（等级奖励/Zeki地下商店/Tish好感度/收集包）、和谐值/舒适度房间评分机制详解、地块扩建与花园摆放、仓库方案与整理技巧、工坊布局（含ASCII图）、园艺种植与品质系统、花朵杂交育种攻略、庭院外观装饰方案
+title: Palia — Complete Housing & Decorating Guide (Plot Unlocks, House Upgrades, Furniture Categories, Harmony System, Gardening, Outdoor Decor)
+description: "Palia housing and decorating deep dive: plot unlock process, tent-to-manor upgrade tree with materials and gold, room addition system and costs, full furniture categories by source, Coziness/Harmony room rating mechanics, plot expansion and garden layout, storage solutions and organizing tips, workshop layout with ASCII diagram, gardening with quality system, flower cross-breeding guide, and outdoor decor ideas"
 date: 2026-07-05
 ---
 
-# 🏠 Palia — 房屋与装修完全指南
+# 🏠 Palia — Complete Housing & Decorating Guide
 
-房屋是 Palia 玩家的核心基地——不只是睡觉的地方，更是**工匠站集群、园艺中心、收藏展示厅和社交空间**。合理的房屋规划能大幅提升游戏效率。
-
----
-
-## 🏕️ 房屋地块解锁
-
-### 第一步：获取你的第一个地块
-
-| 步骤 | 说明 |
-|:----|:------|
-| 📋 触发任务 | 完成基础教程「Welcome to Palia」系列，抵达**Kilima Village**后与**Jina**对话 |
-| 🏠 获得帐篷 | 任务奖励：**Builder's Tent**（建造者帐篷）——免费，自带一个基础储物箱 |
-| 🗺️ 位置 | 默认位于 Kilima Valley 住宅区，可通过地图快速传送回家 |
-| 📏 初始尺寸 | 一个约 30×40 格的标准地块 |
-
-> **Tip:** 拿到帐篷后第一件事——在帐篷旁边放一个**工作台 (Workbench)**，解锁基础家具制造。否则你连床都要找 Tish 买。
+Your home is the central hub for every Palia player — not just a place to sleep, but a **workshop cluster, gardening center, collection gallery, and social space**. Smart housing layout dramatically improves your gameplay efficiency.
 
 ---
 
-## 🏰 房屋升级路线
+## 🏕️ Unlocking Your First Plot
 
-### 帐篷 → 庄园完整升级表
+### Step 1: Get Your First Plot
 
-| 等级 | 名称 | 花费 💰 | 材料 | 房间数 | 存储格数 | 解锁内容 |
-|:----|:----|:------:|:-----|:-----:|:-------:|:---------|
-| 🏕️ **T0** | Builder's Tent | 免费 | — | 1 | 20 | 初始住所 |
-| 🪟 **T1** | Harvest House | 1,000g | 木材×30, 石块×20 | 4 | 40 | 解锁房间增建、壁纸/地板功能 |
-| 🪨 **T2** | Stone House | 8,000g | 木材×80, 石块×60, 铜条×15 | 7 | 60 | 解锁二楼、室外平台、双层高度窗户 |
-| 🏛️ **T3** | Manor | 25,000g | 木材×200, 石块×150, 铁条×50, 玻璃×30 | 10 | 80 | 解锁豪华外观、尖顶屋顶、大窗户、庭院灯柱 |
+| Step | Details |
+|:-----|:--------|
+| 📋 Trigger Quest | Complete the basic tutorial «Welcome to Palia» series, reach **Kilima Village** and talk to **Jina** |
+| 🏠 Get Your Tent | Quest reward: **Builder's Tent** — free, comes with a basic storage chest |
+| 🗺️ Location | Default in the Kilima Valley residential area, fast-travel home from the map |
+| 📏 Initial Size | A standard ~30×40 tile plot |
 
-### 升级注意事项
-
-> **Tip:** **不要急着上 T3！** T1→T2 的 8,000g 性价比最高——解锁 7 个房间足够放下所有工匠站 + 卧室 + 客厅。T3 的 25,000g 主要是外观提升，建议等园艺和烹饪回本后再升级。优先升 T2，用多余金币扩建房间数。
+> **Tip:** First thing after getting your tent — place a **Workbench** next to it to unlock basic furniture crafting. Otherwise you'll have to buy even a bed from Tish.
 
 ---
 
-## 🚪 房间增建系统
+## 🏰 House Upgrade Path
 
-### 如何添加房间
+### Tent → Manor Complete Upgrade Table
 
-升级到 **T1 Harvest House** 后，就可以手动增建房间：
+| Tier | Name | Cost 💰 | Materials | Rooms | Storage Slots | Unlocks |
+|:-----|:-----|:------:|:---------|:----:|:-------------:|:--------|
+| 🏕️ **T0** | Builder's Tent | Free | — | 1 | 20 | Initial shelter |
+| 🪟 **T1** | Harvest House | 1,000g | Wood×30, Stone×20 | 4 | 40 | Room additions, wallpapers/floors |
+| 🪨 **T2** | Stone House | 8,000g | Wood×80, Stone×60, Copper Bar×15 | 7 | 60 | Second floor, outdoor platforms, double-height windows |
+| 🏛️ **T3** | Manor | 25,000g | Wood×200, Stone×150, Iron Bar×50, Glass×30 | 10 | 80 | Luxury exterior, spired roof, large windows, courtyard lampposts |
 
-| 操作 | 方式 | 花费 |
-|:----|:----|:----:|
-| ➕ 添加标准房间 | 在房屋边缘选择「添加房间」，自动生成新房间入口 | 1,000g |
-| ➕ 添加有大窗户的房间 | 同上，选择「Window Room」 | 1,250g |
-| 🚪 添加门廊 | 房屋外部连接走廊 | 500g |
-| 🪜 添加楼梯 | T2 后解锁，通往二楼 | 1,500g |
-| 🏗️ 拆除房间 | 拆除不想要的房间（**材料不返还**） | 免费，但材料损失 |
+### Upgrade Tips
 
-### 房间布局建议
+> **Tip:** **Don't rush T3!** T1 → T2 at 8,000g gives the best value — 7 rooms is enough for all your workshops, a bedroom, and a living room. T3 at 25,000g is mostly a visual upgrade. Prioritize T2, then use extra gold to add more rooms. Save T3 for after gardening and cooking are paying off.
+
+---
+
+## 🚪 Room Addition System
+
+### How to Add Rooms
+
+Once you upgrade to **T1 Harvest House**, you can manually add rooms:
+
+| Action | Method | Cost |
+|:-------|:-------|:----:|
+| ➕ Add Standard Room | Choose «Add Room» on a house edge — auto-generates a new doorway | 1,000g |
+| ➕ Add Window Room | Same, choose «Window Room» | 1,250g |
+| 🚪 Add Porch | Exterior connecting hallway | 500g |
+| 🪜 Add Stairs | Unlocked at T2, leads to second floor | 1,500g |
+| 🏗️ Remove Room | Demolish unwanted rooms (**materials not refunded**) | Free, but material loss |
+
+### Room Layout Suggestions
 
 ```
 +------+------+------+------+
-| 储藏室 | 厨房  | 餐厅  | 阳台  |
+| Pantry| Kitchen |Dining | Deck  |
 +------+------+------+------+
-| 卧室  | 玄关  | 客厅  | 书房  |
+| Bedroom| Hall | Living | Study |
 +------+------+------+------+
-       | 楼梯  |
-       | (上2F)|
-       +------+
+       | Stairs |
+       | (to 2F)|
+       +-------+
 ```
 
-> **Tip:** 尽量把**厨房（烹饪台）**和**工坊（工匠站）**放在同一层靠近门口的位置——每天收菜后快速进屋加工，省去来回跑动的时间。二楼留给卧室和收藏室。
+> **Tip:** Keep the **kitchen (cooking stations)** and **workshop (crafting stations)** on the same floor near the entrance — collect your harvest, head inside to process, all without extra running. Leave the second floor for a bedroom and collection room.
 
 ---
 
-## 🛋️ 家具分类与获取
+## 🛋️ Furniture Categories & Sources
 
-### 按来源分类
+### By Source
 
-| 家具类型 | 获取方式 | 代表系列 |
-|:---------|:---------|:---------|
-| 🏅 **等级奖励** | 家具制作技能升级时自动解锁配方 | Ranch House, Makeshift, Log Cabin |
-| 🛍️ **Zeki的地下商店** | Zeki's Underground Wondrous (黑市)，每周刷新，需要**Zeki金币** | Dragon Tales, Lunar, Exquisite |
-| 💕 **Tish好感度** | 与 Tish 提升好友等级（Lv.2/3/4 解锁配方） | Bellflower, Emberborn, Florist |
-| 📦 **收集包** | 完成各类收集包（Vault bundles）奖励 | Vault, Ancient, Phoenix |
-| 🎨 **自制** | 工作台制作，需要配方和材料 | 基础系列：粗木、农舍、石制 |
-| 🏪 **家具商店** | Tish 的家具店每日刷新，金币购买 | 随机限定/装饰性家具 |
-| 🛡️ **兑换券** | 使用奖券 (Prize Tickets) 在 Zeki 门口兑换 | Prize Wheel 系列 |
+| Furniture Type | How to Get | Examples |
+|:---------------|:-----------|:---------|
+| 🏅 **Level Rewards** | Auto-unlocked as Furniture Making skill levels up | Ranch House, Makeshift, Log Cabin |
+| 🛍️ **Zeki's Underground Shop** | Zeki's Underground Wondrous (black market), weekly refresh, needs **Zeki Coins** | Dragon Tales, Lunar, Exquisite |
+| 💕 **Tish Friendship** | Raising friendship with Tish (Lv.2/3/4 unlocks recipes) | Bellflower, Emberborn, Florist |
+| 📦 **Bundle Rewards** | Completing Vault bundles | Vault, Ancient, Phoenix |
+| 🎨 **Crafted** | Workbench with recipe and materials | Basic: Coarse Wood, Homestead, Stone |
+| 🏪 **Furniture Store** | Tish's furniture shop, daily refresh, gold purchase | Random limited/seasonal decor |
+| 🛡️ **Prize Tickets** | Redeem Prize Tickets at Zeki's entrance | Prize Wheel series |
 
-### 按功能分类
+### By Function
 
-| 类别 | 包含 | 作用 |
-|:----|:-----|:----|
-| 🛏️ **床** | 单人床、双人床、帐篷床垫 | 睡觉回专注值、房间和谐值核心 |
-| 🪑 **座椅** | 椅子、沙发、长凳、地垫 | 增加舒适度 (Coziness) |
-| 🗄️ **存储** | 箱子、橱柜、架子 | 存放物品（见下文仓库方案） |
-| 💡 **灯具** | 吊灯、台灯、壁灯、蜡烛 | 增加和谐值 (Harmony)，改善房间评分 |
-| 🌿 **植物** | 盆栽、花盆、墙花 | 高性价比 Coziness 来源 |
-| 🖼️ **墙面** | 壁纸、挂画、挂毯、镜子 | 墙面装饰，影响房间评分 |
-| 🧶 **地面** | 地毯、地板 | 大幅提升 Coziness |
-| 🎭 **特殊** | 鱼缸、雕塑、音乐盒、奖杯 | 收藏展示 + 高评分加成 |
+| Category | Includes | Effect |
+|:---------|:---------|:-------|
+| 🛏️ **Bed** | Single bed, double bed, tent bedroll | Sleep restores Focus, core Coziness item |
+| 🪑 **Seating** | Chairs, sofas, benches, floor cushions | Increases Coziness |
+| 🗄️ **Storage** | Chests, cabinets, shelves | Store items (see storage section) |
+| 💡 **Lighting** | Chandeliers, lamps, wall sconces, candles | Increases Harmony, improves room rating |
+| 🌿 **Plants** | Potted plants, flowerpots, wall vines | High Coziness-to-cost ratio |
+| 🖼️ **Walls** | Wallpapers, paintings, tapestries, mirrors | Wall decor, affects room rating |
+| 🧶 **Floor** | Rugs, floor tiles | Big Coziness boost |
+| 🎭 **Special** | Fish tanks, sculptures, music boxes, trophies | Collection display + high rating bonus |
 
-> **Tip:** 早期 Coziness 最快的提升方式是地毯 + 盆栽的组合。地毯可以给一个房间加 30-50 点 Coziness，盆栽加 20-30 点。少而精比满地堆杂物效率高。
-
----
-
-## ⚖️ 装修评分系统：Coziness vs Harmony
-
-### 房间评分双重机制
-
-| 属性 | 含义 | 提升方式 | 主要来源 | 上限影响 |
-|:----|:-----|:---------|:---------|:--------|
-| 🛋️ **Coziness（舒适度）** | 房间的**温暖感**和**温馨度** | 地毯、沙发、床、盆栽、壁炉 | 布料/木制家具 | 决定专注值恢复效率 |
-| 🕊️ **Harmony（和谐度）** | 房间的**美学平衡**和**整体感** | 灯具、窗户、同系列家具搭配、颜色协调 | 灯饰/配套系列 | 决定额外经验加成倍数 |
-
-### Coziness 高分家具排行
-
-| 排名 | 家具 | 类型 | Coziness值 | 获取难度 |
-|:---:|:----|:----|:---------:|:--------:|
-| 🥇 | **宽敞双人床 (Grand King Bed)** | 床 | 120 | ⭐⭐⭐（Tish Lv.4图纸） |
-| 🥈 | **大壁炉 (Large Stone Fireplace)** | 装饰 | 100 | ⭐⭐（自制） |
-| 🥉 | **豪华地毯 (Grand Rug)** | 地毯 | 85 | ⭐⭐（Zeki商店/自制） |
-| 4 | **组合沙发 (Sectional Sofa)** | 座椅 | 75 | ⭐⭐（自制） |
-| 5 | **大盆栽 (Large Potted Plant)** | 植物 | 60 | ⭐（Tish商店购买） |
-
-### Harmony 高分家具排行
-
-| 排名 | 家具 | 类型 | Harmony值 | 获取难度 |
-|:---:|:----|:----|:---------:|:--------:|
-| 🥇 | **水晶吊灯 (Crystal Chandelier)** | 灯 | 110 | ⭐⭐⭐（Zeki商店） |
-| 🥈 | **月光书架 (Moonshelf)** | 架子 | 85 | ⭐⭐（自制） |
-| 🥉 | **全套 Dragon Tales 系列** | 套装 | **套装配件数×15** | ⭐⭐⭐⭐（Zeki黑市） |
-| 4 | **拱形大窗 (Arched Window)** | 窗户 | 60 | ⭐（房屋建造） |
-| 5 | **落地镜 (Full-length Mirror)** | 墙面 | 50 | ⭐⭐（自制） |
-
-### 评分加成机制
-
-| 房间星级 | 所需总评分 | 加成效果 |
-|:--------:|:---------:|:---------|
-| ⭐ | 0-200 | 基础专注值恢复 |
-| ⭐⭐ | 201-500 | 专注值恢复 +10% |
-| ⭐⭐⭐ | 501-1,000 | 专注值恢复 +25%，经验获取 +10% |
-| ⭐⭐⭐⭐ | 1,001-2,000 | 专注值恢复 +50%，经验获取 +25% |
-| ⭐⭐⭐⭐⭐ | 2,001+ | 专注值恢复 +100%，经验获取 +50% |
-
-> **Tip:** **同系列家具给 Harmony 加成！** 放置同一系列（如全部 Bellflower 系列、全部 Dragon Tales 系列）的家具会触发套装加成——每多一件同系列家具，加成递增。这是快速冲击高评分的捷径。混搭不同系列虽然 Coziness 不低，但 Harmony 会差很多。
+> **Tip:** The fastest early-game Coziness boost is a **rug + potted plant** combo. Rugs add 30-50 Coziness to a room, potted plants add 20-30. A few quality pieces beat scattering cheap items everywhere.
 
 ---
 
-## 🗺️ 地块扩建
+## ⚖️ Room Rating System: Coziness vs Harmony
 
-### 解锁更多土地
+### Two-Part Room Rating
 
-| 地块数 | 解锁方式 | 花费 | 面积 |
-|:-----:|:---------|:----:|:----:|
-| 1 | 默认（帐篷任务） | 免费 | 30×40 |
-| 2 | 完成「A New Home」任务后 | 2,000g + 木材×50 | 30×40 |
-| 3 | 完成「Expanding the Homestead」 | 5,000g + 石块×80 + 铜条×20 | 40×40 |
-| 4 | 房屋升级到 T2 Stone House | 8,000g（含在升级中） | 40×50 |
-| 5 | 完成「Garden Expansion」任务 | 12,000g + 铁条×30 | 50×50 |
+| Attribute | What It Means | How to Boost | Main Sources | Affects |
+|:----------|:--------------|:-------------|:-------------|:--------|
+| 🛋️ **Coziness** | The room's warmth and comfort | Rugs, sofas, beds, potted plants, fireplace | Fabric/wooden furniture | Focus recovery rate |
+| 🕊️ **Harmony** | The room's aesthetic balance and cohesion | Lighting, windows, matching sets, color coordination | Lamps/matching furniture sets | Bonus XP multiplier |
 
-### 花园/农田摆放建议
+### Top Coziness Furniture
+
+| Rank | Item | Type | Coziness Value | Difficulty |
+|:----:|:-----|:----|:--------------:|:----------:|
+| 🥇 | **Grand King Bed** | Bed | 120 | ⭐⭐⭐ (Tish Lv.4 blueprint) |
+| 🥈 | **Large Stone Fireplace** | Decor | 100 | ⭐⭐ (Crafted) |
+| 🥉 | **Grand Rug** | Rug | 85 | ⭐⭐ (Zeki Shop / Crafted) |
+| 4 | **Sectional Sofa** | Seating | 75 | ⭐⭐ (Crafted) |
+| 5 | **Large Potted Plant** | Plant | 60 | ⭐ (Tish Shop) |
+
+### Top Harmony Furniture
+
+| Rank | Item | Type | Harmony Value | Difficulty |
+|:----:|:-----|:-----|:-------------:|:----------:|
+| 🥇 | **Crystal Chandelier** | Light | 110 | ⭐⭐⭐ (Zeki Shop) |
+| 🥈 | **Moonshelf** | Shelf | 85 | ⭐⭐ (Crafted) |
+| 🥉 | **Full Dragon Tales Set** | Set Bonus | **Set piece count ×15** | ⭐⭐⭐⭐ (Zeki Black Market) |
+| 4 | **Arched Window** | Window | 60 | ⭐ (House Building) |
+| 5 | **Full-length Mirror** | Wall | 50 | ⭐⭐ (Crafted) |
+
+### Rating Bonus Mechanism
+
+| Room Stars | Total Rating Required | Bonus Effects |
+|:----------:|:--------------------:|:--------------|
+| ⭐ | 0-200 | Basic Focus recovery |
+| ⭐⭐ | 201-500 | Focus recovery +10% |
+| ⭐⭐⭐ | 501-1,000 | Focus recovery +25%, XP gain +10% |
+| ⭐⭐⭐⭐ | 1,001-2,000 | Focus recovery +50%, XP gain +25% |
+| ⭐⭐⭐⭐⭐ | 2,001+ | Focus recovery +100%, XP gain +50% |
+
+> **Tip:** **Same-set furniture gives Harmony bonuses!** Placing furniture from the same set (e.g., all Bellflower series, all Dragon Tales series) triggers a set bonus — each additional matching piece adds increasing Harmony. This is the shortcut to high ratings. Mixing sets won't hurt Coziness much, but Harmony will suffer.
+
+---
+
+## 🗺️ Plot Expansion
+
+### Unlocking More Land
+
+| Plots | Unlock Method | Cost | Area |
+|:-----:|:--------------|:----:|:----:|
+| 1 | Default (Tent quest) | Free | 30×40 |
+| 2 | Complete «A New Home» quest | 2,000g + Wood×50 | 30×40 |
+| 3 | Complete «Expanding the Homestead» | 5,000g + Stone×80 + Copper Bar×20 | 40×40 |
+| 4 | Upgrade house to T2 Stone House | 8,000g (included in upgrade) | 40×50 |
+| 5 | Complete «Garden Expansion» quest | 12,000g + Iron Bar×30 | 50×50 |
+
+### Garden / Farm Layout Suggestions
 
 ```
 +----------+----------+----------+
-|   房屋    |  花园1   |  花园2   |
-| (主建筑)  | (蔬菜区)  | (花卉区)  |
+|   House   |  Garden 1 |  Garden 2 |
+| (Main Bldg)| (Vegetables)| (Flowers) |
 +----------+----------+----------+
-|  工匠站群  |  果园/树  |  仓储区   |
-| (5-6个)   |  (果树)   | (箱子列)  |
+| Workshop   | Orchard   | Storage   |
+| Cluster    | (Fruit    | (Chest    |
+| (5-6)     |  Trees)   |  Rows)    |
 +----------+----------+----------+
-|  育花区    |  扩展区   |  外观庭院  |
-| (杂交用)   | (预留)   | (步行道)  |
+| Flower Lab  | Expansion  | Courtyard |
+| (Crossing)  | (Reserved) | (Walkway)  |
 +----------+----------+----------+
 ```
 
 ---
 
-## 📦 仓库方案
+## 📦 Storage Solutions
 
-### 三种箱子对比
+### Three Chest Types Compared
 
-| 箱子类型 | 解锁 | 容量 | 花费 | 特点 |
-|:--------|:----|:---:|:----:|:-----|
-| 🟤 **标准储物箱** | 初始 | 20格 | 木材×10 | 最基础，可多个叠放 |
-| 🔵 **大型储物箱** | 工作台 Lv.2 | 40格 | 木材×30 + 铜条×5 | 性价比最佳 |
-| 🟡 **安全箱** | Zeki商店购买 | 30格 | 2,000g | **不会被偷**（多人模式） |
-| 🔴 **上锁箱** | 自制（需要图纸） | 50格 | 铁条×10 + 玻璃×5 | 最大容量，可设密码 |
+| Chest Type | Unlock | Capacity | Cost | Notes |
+|:-----------|:-------|:--------:|:----:|:------|
+| 🟤 **Standard Storage Chest** | Initial | 20 slots | Wood×10 | Basic, stackable |
+| 🔵 **Large Storage Chest** | Workbench Lv.2 | 40 slots | Wood×30 + Copper Bar×5 | Best value |
+| 🟡 **Safe Box** | Zeki Shop | 30 slots | 2,000g | **Can't be stolen** (multiplayer) |
+| 🔴 **Lockbox** | Crafted (needs blueprint) | 50 slots | Iron Bar×10 + Glass×5 | Largest capacity, password-coded |
 
-### 仓库整理黄金法则
+### Storage Organizing Golden Rules
 
-> **Tip:** 在工匠站区域放**1个通用材料箱**（木材/石块/纤维/铜铁）→ 烹饪台旁边放**1个食材箱** → 卧室放**1个收藏品箱**（宝石/鱼/虫）。按类型分箱比一个超级大箱快3倍——因为 Palia 的箱子搜索是按箱子顺序遍历的。
+> **Tip:** Place **1 general material chest** (wood/stone/fiber/copper/iron) near the workshop area → **1 ingredient chest** next to cooking stations → **1 collection chest** (gems/fish/bugs) in the bedroom. Sorting by type is 3× faster than one mega-chest — Palia's chest search iterates chests in order.
 
 ---
 
-## 🔧 工坊布局
+## 🔧 Workshop Layout
 
-### 工匠站清单
+### Crafting Station List
 
-| 工匠站 | 解锁等级 | 用途 |
-|:------|:-------:|:-----|
-| 🪚 **工作台 (Workbench)** | Lv.1 | 家具制造 |
-| 🔩 **锻造台 (Forge)** | Lv.2 | 金属制品 |
-| 🧵 **缝纫台 (Sewing Table)** | Lv.3 | 布料/服装 |
-| ⚗️ **炼金台 (Alchemy Table)** | Lv.4 | 药水/染料 |
-| 🎣 **钓鱼站 (Fishing Node)** | Lv.5 | 渔具升级 |
-| 🎯 **狩猎站 (Hunting Node)** | Lv.5 | 箭矢/弓升级 |
+| Station | Unlock Level | Use |
+|:--------|:------------:|:----|
+| 🪚 **Workbench** | Lv.1 | Furniture crafting |
+| 🔩 **Forge** | Lv.2 | Metalworking |
+| 🧵 **Sewing Table** | Lv.3 | Fabric / Clothing |
+| ⚗️ **Alchemy Table** | Lv.4 | Potions / Dyes |
+| 🎣 **Fishing Node** | Lv.5 | Fishing rod upgrades |
+| 🎯 **Hunting Node** | Lv.5 | Arrow / Bow upgrades |
 
-### 最优工坊布局 (ASCII)
+### Optimal Workshop Layout (ASCII)
 
 ```
 +=================================+
-|           🏠 房屋内部            |
+|           🏠 House Interior      |
 |  +------+------+------+------+  |
 |  | 🏭    | 🏭    | 🏭    | 📦   |  |
-|  |工作台  |锻造台  |缝纫台  |箱子A  |  |
+|  |Workbn.| Forge | Sewing | Chest|  |
 |  +------+------+------+------+  |
 |  | ⚗️    | 🎣    | 🎯    | 📦   |  |
-|  |炼金台  |钓鱼站  |狩猎站  |箱子B  |  |
+|  |Alchemy|Fishing|Hunting| Chest|  |
 |  +------+------+------+------+  |
 +=================================+
          |
-         ▼ 室外区域
+         ▼ Outdoor Area
 +---------------------------------+
-|  🪵 木材堆  |  石头堆   |  精炼区  |
-|  原木储存   |  矿石堆   |  熔炉   |
+|  🪵 Lumber Pile | Stone Pile | Refining |
+|  Log storage    | Ore stock  | Furnace  |
 +---------------------------------+
 ```
 
 ---
 
-## 🌱 园艺种植
+## 🌱 Gardening
 
-### 种子类型与生长
+### Seed Types & Growth
 
-| 种子 | 购买价 | 生长天数 | 每季收成 | 基础售价 | ★品质售价 |
-|:----|:-----:|:-------:|:-------:|:-------:|:---------:|
-| 🥕 胡萝卜 | 10g | 3天 | 1次 | 18g | 24g |
-| 🥬 卷心菜 | 15g | 4天 | 1次 | 24g | 33g |
-| 🫘 绿豆 | 20g | 4天 | **每3天** | 20g | 28g |
-| 🍅 番茄 | 25g | 5天 | **每4天** | 32g | 44g |
-| 🫑 辣椒 | 30g | 5天 | 1次 | 40g | 55g |
-| 🌽 玉米 | 20g | 6天 | 1次 | 28g | 38g |
-| 🍎 苹果 | 50g | 7天 | **每5天** | 60g | 82g |
-| 🫐 蓝莓 | 40g | 6天 | **每4天** | 52g | 72g |
-| 🌾 小麦 | 10g | 4天 | 1次 | 15g | 20g |
+| Seed | Buy Price | Growth Days | Harvests/Season | Base Price | ★ Starred Price |
+|:-----|:--------:|:-----------:|:---------------:|:----------:|:---------------:|
+| 🥕 Carrot | 10g | 3 days | 1 | 18g | 24g |
+| 🥬 Cabbage | 15g | 4 days | 1 | 24g | 33g |
+| 🫘 Green Bean | 20g | 4 days | **Every 3 days** | 20g | 28g |
+| 🍅 Tomato | 25g | 5 days | **Every 4 days** | 32g | 44g |
+| 🫑 Pepper | 30g | 5 days | 1 | 40g | 55g |
+| 🌽 Corn | 20g | 6 days | 1 | 28g | 38g |
+| 🍎 Apple | 50g | 7 days | **Every 5 days** | 60g | 82g |
+| 🫐 Blueberry | 40g | 6 days | **Every 4 days** | 52g | 72g |
+| 🌾 Wheat | 10g | 4 days | 1 | 15g | 20g |
 
-### 品质系统
+### Quality System
 
-| 品质等级 | 售价倍率 | 如何获得 |
-|:--------:|:--------:|:---------|
-| ⚪ **普通** | 1× | 基础种植 |
-| 🟢 **好品质** | 1.2× | 使用**优质肥料 (Quality Fertilizer)** |
-| 🔵 **高星品质** | 1.5× | 连续浇水不中断 + 优质肥料 |
-| 🟣 **极品** | 2.0× | 使用**超级肥料 (Super Fertilizer)** + 满星园艺技能 |
+| Quality Level | Price Multiplier | How to Get |
+|:-------------:|:----------------:|:-----------|
+| ⚪ **Normal** | 1× | Basic planting |
+| 🟢 **Good Quality** | 1.2× | Use **Quality Fertilizer** |
+| 🔵 **Star Quality** | 1.5× | Consistent watering + Quality Fertilizer |
+| 🟣 **Excellent** | 2.0× | Use **Super Fertilizer** + max gardening skill |
 
-> **Tip:** **辣椒 (Pepper) 是 Palia 单季利润之王**——5 天成熟售价 40g，种子仅 30g。配合优质肥料升到蓝色品质售价 60g，利润率 100%。番茄和蓝莓的可重复收获特性适合中期稳定收入。
+> **Tip:** **Pepper is Palia's per-season profit king** — 5-day maturity, sells for 40g, seeds cost only 30g. With Quality Fertilizer getting it to blue star (60g), that's a 100% profit margin. Tomato and Blueberry's regrowth mechanics are great for mid-game steady income.
 
 ---
 
-## 🌺 花卉杂交育种
+## 🌺 Flower Cross-Breeding
 
-### 基本原理
+### Basic Principles
 
-Palia 的花朵可以**不同颜色之间杂交**产生新颜色品种。
+Palia flowers can be **cross-bred between different colors** to produce new color varieties.
 
-| 步骤 | 操作 |
-|:----|:-----|
-| 1️⃣ | 获取至少两种颜色的同种花（如红+白郁金香） |
-| 2️⃣ | 将它们**相邻种植**（九宫格内，相邻格） |
-| 3️⃣ | 给两朵花浇水至开花 |
-| 4️⃣ | 每天检查：花朵旁边的空地上可能长出新颜色的小芽 |
-| 5️⃣ | 新芽长成后就是杂交品种 |
+| Step | Action |
+|:-----|:-------|
+| 1️⃣ | Get at least two colors of the same flower type (e.g., Red + White Tulips) |
+| 2️⃣ | Plant them **adjacent to each other** (within a 3×3 grid, neighboring tiles) |
+| 3️⃣ | Water both until they bloom |
+| 4️⃣ | Check daily: new colored buds may sprout on empty ground next to flowers |
+| 5️⃣ | New buds are the cross-bred variety |
 
-### 最佳杂交布局
+### Best Cross-Breeding Layout
 
 ```
 +----+----+----+----+----+
@@ -284,70 +285,70 @@ Palia 的花朵可以**不同颜色之间杂交**产生新颜色品种。
 +----+----+----+----+----+
 ```
 
-### 花种颜色杂交表
+### Flower Color Cross-Breeding Table
 
-| 亲本1 | 亲本2 | 可能产出颜色 |
-|:-----|:-----|:------------|
-| 🔴 红 | ⚪ 白 | 🟣 **粉红**, 🟠 **鲑鱼色** |
-| 🔴 红 | 💛 黄 | 🟠 **橙色**, 🔴 深红 |
-| 💛 黄 | ⚪ 白 | 🟡 **淡黄**, 🟣 **浅粉** |
-| 🔴 红 | 🔵 蓝 | 🟣 **紫色**, 🟠 珊瑚色 |
-| 💛 黄 | 🔵 蓝 | 🟢 **浅绿**, 🟣 紫罗兰 |
+| Parent 1 | Parent 2 | Possible Offspring Colors |
+|:---------|:---------|:--------------------------|
+| 🔴 Red | ⚪ White | 🟣 **Pink**, 🟠 **Salmon** |
+| 🔴 Red | 💛 Yellow | 🟠 **Orange**, 🔴 Deep Red |
+| 💛 Yellow | ⚪ White | 🟡 **Pale Yellow**, 🟣 **Light Pink** |
+| 🔴 Red | 🔵 Blue | 🟣 **Purple**, 🟠 Coral |
+| 💛 Yellow | 🔵 Blue | 🟢 **Light Green**, 🟣 Violet |
 
-> **Tip:** 优先杂交**郁金香 (Tulip)**——颜色种类最多（12种），售价高。红+白杂交出粉红后，粉红郁金香售价 200g/朵，是普通花的 5 倍。
-
----
-
-## 🏡 外观装饰
-
-### 路径
-
-| 类型 | 获取方式 | 单价 | 特点 |
-|:----|:--------|:---:|:-----|
-| 🪵 **木制路径** | 工作台自制 | 木材×2/块 | 基础款，自然风格 |
-| 🪨 **石制路径** | 工作台自制 (Lv.2) | 石块×3/块 | 耐久高，经典 |
-| 🧱 **砖制路径** | 工作台自制 (Lv.3) | 黏土×3/块 | 精致美观 |
-| 💎 **水晶路径** | 炼金台 (Lv.4) | 玻璃×2 + 水晶×1 | 发光效果 |
-
-### 围栏
-
-| 类型 | 获取方式 | 材料 | 特点 |
-|:----|:--------|:----|:-----|
-| 🪵 **木栅栏** | 初始配方 | 木材×2/段 | 高度 1 格 |
-| 🪨 **石墙** | 工作台 Lv.2 | 石块×3/段 | 高度 2 格，防透 |
-| 💐 **花栅栏** | Tish好感度Lv.3 | 木材×2 + 花卉×1 | 美观 |
-| 🏗️ **铁艺围栏** | 锻造台 Lv.3 | 铁条×2/段 | 高端大气 |
-
-### 照明
-
-| 类型 | 获取方式 | 光照范围 | 推荐 |
-|:----|:--------|:--------:|:----|
-| 🪔 **小火炬** | 初始配方 | 3格 | ⭐ **初期必备入门灯** |
-| 🏮 **灯笼** | 工作台 Lv.2 | 5格 | ⭐⭐⭐ **性价比之王** |
-| 🔦 **路灯** | 工作台 Lv.3 | 6格 | ⭐⭐ 需铁条 |
-| 💡 **魔法灯笼** | Zeki商店 | 8格 | ⭐⭐⭐ 高颜值大范围 |
-
-> **Tip:** 外观装饰直接影响访客评价系统。推荐**灯笼路径 + 花栅栏**组合——灯笼照亮石路两边，花栅栏做花坛边界，成本不到 10,000g 就能做出高级庭院效果。
+> **Tip:** Prioritize cross-breeding **Tulips** — they have the most color varieties (12 types) and sell for the most. Crossing Red + White produces Pink, and Pink Tulips sell for 200g each — 5× the price of a regular flower.
 
 ---
 
-## 📋 快速检查清单
+## 🏡 Outdoor Decor
 
-| 阶段 | 目标 | 预算 |
-|:----|:-----|:----:|
-| 🆕 **新手期** | T1 Harvest House + 2个额外房间 | ~5,000g |
-| 🌱 **成长期** | T2 Stone House + 工匠站全放满 | ~15,000g |
-| 🏆 **中后期** | T3 Manor + 地块全解锁 | ~50,000g |
-| 🌟 **装修期** | 五星房间评分 + 全外观装饰 | ~100,000g+ |
+### Paths
 
-### 每日必做
+| Type | How to Get | Per-Tile Cost | Notes |
+|:-----|:-----------|:-------------:|:------|
+| 🪵 **Wood Path** | Workbench crafted | Wood×2 | Basic, natural style |
+| 🪨 **Stone Path** | Workbench crafted (Lv.2) | Stone×3 | Durable, classic |
+| 🧱 **Brick Path** | Workbench crafted (Lv.3) | Clay×3 | Refined, attractive |
+| 💎 **Crystal Path** | Alchemy Table (Lv.4) | Glass×2 + Crystal×1 | Glowing effect |
 
-- [ ] 🪣 **浇花**——杂交花断水一天杂交进度重置
-- [ ] 🌾 **收菜**——可重复收获植物（番茄/蓝莓/苹果）别忘了收
-- [ ] 🪚 **取工匠站产物**——成品堆满会停止生产
-- [ ] 🎁 **拜访 Tish 商店**——每日刷新，可能有高 Harmony 值家具
-- [ ] 🏷️ **检查 Zeki 广告牌**——可能有低折扣家具图纸
+### Fences
+
+| Type | How to Get | Per-Section Cost | Notes |
+|:-----|:-----------|:----------------:|:------|
+| 🪵 **Wood Fence** | Initial recipe | Wood×2 | 1 tile high |
+| 🪨 **Stone Wall** | Workbench Lv.2 | Stone×3 | 2 tiles high, opaque |
+| 💐 **Flower Fence** | Tish Friendship Lv.3 | Wood×2 + Flower×1 | Decorative |
+| 🏗️ **Wrought Iron Fence** | Forge Lv.3 | Iron Bar×2 | Premium look |
+
+### Lighting
+
+| Type | How to Get | Light Range | Recommendation |
+|:-----|:-----------|:-----------:|:---------------|
+| 🪔 **Small Torch** | Initial recipe | 3 tiles | ⭐ **Essential starter light** |
+| 🏮 **Lantern** | Workbench Lv.2 | 5 tiles | ⭐⭐⭐ **Best value** |
+| 🔦 **Street Lamp** | Workbench Lv.3 | 6 tiles | ⭐⭐ Needs iron bars |
+| 💡 **Magic Lantern** | Zeki Shop | 8 tiles | ⭐⭐⭐ Beautiful, wide range |
+
+> **Tip:** Outdoor decor directly affects your visitor rating system. **Lantern path + Flower fence** is the recommended combo — lanterns light up both sides of the stone path, flower fences border the garden beds. Costs under 10,000g for a premium courtyard look.
 
 ---
 
-> **🏠 结语：** Palia 的房屋系统是「先功能后美观」的游戏流程——先升级 T2 解锁工匠站位，再用园艺和烹饪赚来的钱慢慢装修。好的房屋布局 = 省去每日大量跑路时间。合理安排房间位置、工匠站集群、花园布局，省下来的时间就是金。
+## 📋 Quick Checkup Checklist
+
+| Stage | Goal | Budget |
+|:------|:-----|:------:|
+| 🆕 **Beginner** | T1 Harvest House + 2 extra rooms | ~5,000g |
+| 🌱 **Growing** | T2 Stone House + all crafting stations placed | ~15,000g |
+| 🏆 **Mid-Late** | T3 Manor + all plots unlocked | ~50,000g |
+| 🌟 **Decorating** | 5-star room rating + full outdoor decor | ~100,000g+ |
+
+### Daily Must-Do's
+
+- [ ] 🪣 **Water flowers** — cross-breeding progress resets if they go a day without water
+- [ ] 🌾 **Harvest crops** — don't forget regrow plants (Tomato/Blueberry/Apple)
+- [ ] 🪚 **Collect station outputs** — full backlog stops production
+- [ ] 🎁 **Visit Tish's shop** — daily refresh, might have high-Harmony furniture
+- [ ] 🏷️ **Check Zeki's billboard** — possible discounted furniture blueprints
+
+---
+
+> **🏠 Closing thoughts:** Palia's housing system is a «function first, aesthetics later» progression. Upgrade to T2 first to unlock workshop space, then use gardening and cooking profits to slowly decorate. A good house layout = saving tons of daily running time. Smart room placement, workshop clustering, and garden layout all translate into saved time — and saved time is gold.

@@ -1,218 +1,218 @@
 ---
-title: Coral Island — 恋爱社交与婚姻完全指南
-description: Coral Island 恋爱关系深度攻略：全部可恋爱角色列表、送礼偏好表、红心事件触发条件与选择、多线恋爱机制、婚姻要求与婚礼费用、室友路线对比、子女系统与房屋升级需求
+title: Coral Island — Complete Romance, Socializing & Marriage Guide
+description: "Coral Island romance deep dive: all romanceable characters, gift preference tables, heart event triggers and choices, multi-dating mechanics, marriage requirements and wedding costs, roommate route comparison, children system, and house upgrade requirements"
 date: 2026-07-05
 ---
 
-# 💕 Coral Island — 恋爱社交与婚姻完全指南
+# 💕 Coral Island — Complete Romance, Socializing & Marriage Guide
 
-Coral Island 有 14 位可恋爱角色 + 2 位独特路线，比 Stardew 更丰富的互动系统、多线恋爱机制和分居/离婚选项。本指南帮你规划最优攻略路线。
-
----
-
-## 👩‍❤️‍👨 全部可恋爱角色一览
-
-### 🌸 女性候选人（7 位）
-
-| 角色 | 居住地 | 职业 | 生日 | 日常活动区域 | 难度 |
-|:----|:------|:----|:---:|:-----------|:---:|
-| 💃 **Nina** | 起点镇 | 裁缝店店员 | 春 12 | 裁缝店/镇广场 | ⭐⭐ |
-| 🌿 **Surya** | 起点镇 | 植物学者 | 春 22 | 研究所/花园 | ⭐⭐ |
-| 🐟 **Alice** | 海滩区 | 渔具店老板 | 夏 7 | 码头/渔具店 | ⭐ |
-| 🥧 **Lily** | 起点镇 | 面包师傅 | 夏 24 | 面包房 | ⭐⭐⭐ |
-| 🎨 **Macy** | 起点镇 | 杂货店老板 | 秋 5 | 杂货店 | ⭐⭐ |
-| 📚 **Eva** | 起点镇 | 图书馆员 | 秋 19 | 图书馆/社区 | ⭐ |
-| 🎭 **Pablo** | 起点镇 | 剧团经纪人 | 冬 3 | 剧院/广场 | ⭐⭐⭐⭐ |
-
-### 🌸 男性候选人（7 位）
-
-| 角色 | 居住地 | 职业 | 生日 | 日常活动区域 | 难度 |
-|:----|:------|:----|:---:|:-----------|:---:|
-| 🌊 **Rafael** | 海滩区 | 潜水教练 | 春 8 | 海滩/潜水店 | ⭐ |
-| 🎸 **Charles** | 起点镇 | 吉他手/音乐家 | 春 15 | 广场/酒吧 | ⭐⭐ |
-| 🔧 **Mark** | 起点镇 | 工匠/修理店 | 夏 10 | 修理铺 | ⭐⭐ |
-| 🏥 **Kenny** | 起点镇 | 医生 | 夏 20 | 医院 | ⭐⭐⭐ |
-| ⚓ **Theo** | 海滩区 | 渔夫 | 秋 8 | 码头/船上 | ⭐ |
-| 🚜 **Scott** | 起点镇 | 农机店老板 | 秋 15 | 农机店/农场 | ⭐ |
-| ☕ **Ben** | 起点镇 | 咖啡馆老板 | 冬 14 | 咖啡馆 | ⭐⭐⭐⭐ |
-
-### 🌸 独特路线（2 位）
-
-| 角色 | 解锁条件 | 特殊机制 | 备注 |
-|:----|:--------|:--------|:----|
-| 🗿 **Ling（潜水教练）** | 解锁潜水后触发 | 非结婚对象，但有独特好感剧情 | 好感度满后解锁特殊饰品奖励 |
-| 👻 **Jake** | 特定剧情选择 | 非传统恋爱路线 | 游戏后期解锁 |
-
-> **Tip:** **Alice（渔具店）和 Theo（渔夫）是两性中最容易攻略的角色**。他们的最爱礼物都可以钓鱼获得（Alice 喜欢生鱼片，Theo 喜欢稀有鱼），日常也最容易找到。如果想速通结婚成就，选他俩之一的送礼路线。
+Coral Island features 14 romanceable characters + 2 unique routes, with a richer interaction system than Stardew including multi-dating mechanics and separation/divorce options. This guide helps you plan the best strategy.
 
 ---
 
-## 🎁 送礼偏好表
+## 👩‍❤️‍👨 All Romanceable Characters
 
-### 送礼规则
+### 🌸 Female Candidates (7)
 
-| 规则 | 说明 |
-|:----|:------|
-| 📊 每周最多送 **2** 次礼物 | 超过只有 30% 好感度 |
-| 🧠 每周最多 **1** 次最爱礼物 | 第二个最爱礼物好感度减半 |
-| 🎂 生日礼物 | 好感度 **×8**，生日必送最爱 |
-| 💍 送花/香水 | 恋爱后才解锁，好感度加成 ×2 |
-| 📈 每周好感度上限 | 800 经验值/周（约 1~1.5 颗心） |
+| Character | Residence | Occupation | Birthday | Daily Area | Difficulty |
+|:----------|:----------|:-----------|:--------:|:-----------|:-----------|
+| 💃 **Nina** | Starter Town | Tailor Shop Clerk | Spring 12 | Tailor Shop / Town Square | ⭐⭐ |
+| 🌿 **Surya** | Starter Town | Botanist | Spring 22 | Research Lab / Garden | ⭐⭐ |
+| 🐟 **Alice** | Beach Area | Fishing Shop Owner | Summer 7 | Pier / Fishing Shop | ⭐ |
+| 🥧 **Lily** | Starter Town | Baker | Summer 24 | Bakery | ⭐⭐⭐ |
+| 🎨 **Macy** | Starter Town | General Store Owner | Fall 5 | General Store | ⭐⭐ |
+| 📚 **Eva** | Starter Town | Librarian | Fall 19 | Library / Community Center | ⭐ |
+| 🎭 **Pablo** | Starter Town | Theater Agent | Winter 3 | Theater / Town Square | ⭐⭐⭐⭐ |
 
-### 完整送礼偏好速查
+### 🌸 Male Candidates (7)
 
-| 角色 | 🏆 最爱 ❤️ | 👍 喜欢 | ❌ 厌恶 |
-|:----|:----------|:--------|:-------|
-| **Alice** 🐟 | 生鱼片、热带鱼 | 海鲜、贝壳 | 蘑菇 |
-| **Surya** 🌿 | 稀有种子、兰花 | 花卉、盆栽 | 肉制品 |
-| **Nina** 💃 | 布料、丝绸 | 服饰材料 | 虫饵 |
-| **Lily** 🥧 | 草莓蛋糕、甜点 | 水果、糖 | 鱼（所有） |
-| **Macy** 🛒 | 咖啡豆、异域香料 | 杂货类 | 垃圾 |
-| **Eva** 📚 | 古籍、神秘卷轴 | 工艺品 | 噪音物品 |
-| **Pablo** 🎭 | 香水、羽毛装饰 | 奢侈品 | 廉价物品 |
-| **Rafael** 🌊 | 潜水装备、珊瑚 | 海洋产出 | 人工合成物 |
-| **Charles** 🎸 | 音乐唱片、手工琴 | 工艺品 | 肉类 |
-| **Mark** 🔧 | 金属锭、工具 | 矿石、石材 | 装饰品 |
-| **Kenny** 🏥 | 药用植物、稀有草药 | 蔬菜 | 甜食 |
-| **Theo** ⚓ | 稀有鱼类、鱼饵 | 海鲜 | 花 |
-| **Scott** 🚜 | 机械零件、发动机油 | 矿石、木头 | 花卉 |
-| **Ben** ☕ | 稀有咖啡、茶 | 饮品 | 海产 |
+| Character | Residence | Occupation | Birthday | Daily Area | Difficulty |
+|:----------|:----------|:-----------|:--------:|:-----------|:-----------|
+| 🌊 **Rafael** | Beach Area | Diving Instructor | Spring 8 | Beach / Dive Shop | ⭐ |
+| 🎸 **Charles** | Starter Town | Guitarist / Musician | Spring 15 | Town Square / Bar | ⭐⭐ |
+| 🔧 **Mark** | Starter Town | Craftsman / Repair Shop | Summer 10 | Repair Shop | ⭐⭐ |
+| 🏥 **Kenny** | Starter Town | Doctor | Summer 20 | Hospital | ⭐⭐⭐ |
+| ⚓ **Theo** | Beach Area | Fisherman | Fall 8 | Pier / Boat | ⭐ |
+| 🚜 **Scott** | Starter Town | Farm Supply Store Owner | Fall 15 | Farm Supply / Farm | ⭐ |
+| ☕ **Ben** | Starter Town | Cafe Owner | Winter 14 | Cafe | ⭐⭐⭐⭐ |
 
-> **Tip:** **最容易批量获取的最爱礼物**：Alice 的「热带鱼」（钓鱼获得，夏季多）、Rafael 的「珊瑚」（潜水 Zone1-2 极多）、Theo 的「稀有鱼」（钓鱼浮标机制）。如果多线恋爱，强烈建议用这三位降低礼物成本。
+### 🌸 Unique Routes (2)
 
----
+| Character | Unlock Condition | Special Mechanic | Notes |
+|:----------|:-----------------|:-----------------|:------|
+| 🗿 **Ling (Diving Coach)** | Triggered after diving unlocks | Not marriageable, but has unique friendship story | Full friendship unlocks special accessory rewards |
+| 👻 **Jake** | Specific story choices | Non-traditional romance route | Unlocked later in the game |
 
-## 💖 红心事件触发指南
-
-### 事件触发通用规则
-
-| 条件 | 要求 |
-|:----|:----|
-| 📅 时间段 | 除深夜（22:00-6:00）外的任何时间 |
-| 🌤️ 天气 | 晴天（部分事件需要特定天气） |
-| 📍 地点 | 角色当日所在位置 |
-| 💕 爱心门槛 | 每 2~4 颗心触发一个事件 |
-| ❌ 不可同时 | 一次只能触发一个红心事件 |
-
-### 关键红心事件选择建议
-
-| 角色 | 事件 | 建议选择 | 理由 |
-|:----|:----|:--------|:----|
-| **Alice** | 4❤️ 码头求助 | ✅ 帮忙修船 | +30 好感，且解锁后期渔业剧情 |
-| **Alice** | 8❤️ 表白选择 | ✅ 真诚回答 | 无论选什么都会触发表白，真诚路线最佳 |
-| **Rafael** | 6❤️ 潜水事故 | ✅ 跳下去救人 | 好感度大幅提升，触发后续剧情 |
-| **Lily** | 6❤️ 烘焙比赛 | ✅ 让她自己选配方 | 尊重选择 → 好感度最高 |
-| **Scott** | 4❤️ 农机展览 | ✅ 帮忙布置 | 解锁农机折扣 |
-| **Theo** | 8❤️ 船上表白 | ✅ 接受邀请 | 最高好感度增长，错过需再等一周 |
-| **Surya** | 6❤️ 植物园 | ✅ 选择稀有植物 | 好感度+50，解锁稀有花种购买 |
-| **Mark** | 4❤️ 工坊 | ✅ 帮忙修理 | — |
+> **Tip:** **Alice (Fishing Shop) and Theo (Fisherman)** are the easiest to romance for both genders. Their loved gifts can both be obtained from fishing (Alice loves sashimi, Theo loves rare fish), and they're the easiest to find day-to-day. If you want to speed-run the marriage achievement, pick one of them as your gift route.
 
 ---
 
-## 💍 多线恋爱与嫉妒机制
+## 🎁 Gift Preference Tables
 
-### 花束（Bouquet）系统
+### Gift-Giving Rules
 
-| 阶段 | 物品 | 获取方式 | 效果 |
-|:----|:----|:--------|:----|
-| 💐 表白 | 花束 | Pierre's 花店 200g | 确认恋爱关系 |
-| 💍 订婚 | 戒指 | 金匠铺 1,000g + 金锭×2 | 订婚，触发 10❤️ 求婚 |
-| 🫂 分手 | — | 自行对话选择 | 好感度降 5❤️，一周内不可再约 |
+| Rule | Details |
+|:-----|:--------|
+| 📊 Max **2** gifts per week | Beyond that, only 30% friendship gain |
+| 🧠 Max **1** loved gift per week | Second loved gift in same week gives half friendship |
+| 🎂 Birthday gift | Friendship **×8** — always give a loved gift on birthdays |
+| 💍 Flowers/Perfume | Unlocked only after dating, ×2 friendship multiplier |
+| 📈 Weekly friendship cap | 800 XP/week (about 1~1.5 hearts) |
 
-### 嫉妒机制
+### Complete Gift Preference Reference
 
-| 情况 | 效果 | 惩罚 |
-|:----|:----|:----|
-| 同时给 2 位候选人送花束 | ❌ 触发嫉妒对话 | −100 好感度每人 |
-| 与 A 约会时被 B 看到 | ❌ −50 好感度 | 需送礼物挽回 |
-| 已婚状态与其他角色有 8❤️+ | ❌ 配偶对话警告 | −200 好感度 |
-| **无花束阶段（7❤️前）** | ✅ 无嫉妒 | 可安全多线送礼 |
+| Character | 🏆 Loved ❤️ | 👍 Liked | ❌ Disliked |
+|:----------|:-------------|:---------|:------------|
+| **Alice** 🐟 | Sashimi, Tropical Fish | Seafood, Shells | Mushrooms |
+| **Surya** 🌿 | Rare Seeds, Orchids | Flowers, Potted Plants | Meat Products |
+| **Nina** 💃 | Cloth, Silk | Clothing Materials | Bait |
+| **Lily** 🥧 | Strawberry Cake, Desserts | Fruits, Sugar | Fish (all) |
+| **Macy** 🛒 | Coffee Beans, Exotic Spices | Groceries | Trash |
+| **Eva** 📚 | Ancient Books, Mysterious Scrolls | Handicrafts | Noisy Items |
+| **Pablo** 🎭 | Perfume, Feather Decorations | Luxury Goods | Cheap Items |
+| **Rafael** 🌊 | Diving Equipment, Coral | Ocean Products | Synthetic Items |
+| **Charles** 🎸 | Music Records, Handmade Instruments | Handicrafts | Meat |
+| **Mark** 🔧 | Metal Bars, Tools | Ores, Stone | Decorations |
+| **Kenny** 🏥 | Medicinal Plants, Rare Herbs | Vegetables | Sweets |
+| **Theo** ⚓ | Rare Fish, Fish Bait | Seafood | Flowers |
+| **Scott** 🚜 | Machine Parts, Engine Oil | Ores, Wood | Flowers |
+| **Ben** ☕ | Rare Coffee, Tea | Beverages | Seafood |
 
-> **Tip:** **建议 7❤️ 前把所有候选人的礼物拉到同一梯队**，选一个最喜欢的送花束确立关系。花束前没有任何惩罚机制，是「广撒网」的安全窗口。花束后每送一朵花给另一个人，之前的爱人都可能吃醋，所以选定了就别乱送。
-
----
-
-## 💒 婚姻系统详解
-
-### 结婚要求
-
-| 条件 | 具体要求 |
-|:----|:--------|
-| 💕 好感度 | 至少 10❤️（满心） |
-| 💐 花束状态 | 已送花束确认恋爱 |
-| 💍 订婚戒指 | 已送出并接受 |
-| 🏠 房屋升级 | 至少升级到 Tier 2（有配偶房间） |
-| 💰 婚礼费用 | **婚礼策划 5,000g** |
-
-### 婚礼费用明细
-
-| 项目 | 费用 | 说明 |
-|:----|:---:|:-----|
-| 💍 订婚戒指 | 1,000g + 金锭×2 | 不可省 |
-| 💐 婚礼策划 | 5,000g | 找社区中心缴费 |
-| 🏡 房屋升级（Tier 2） | 10,000g + 硬木×50 + 金锭×10 | 必须有配偶单独房间 |
-| 🎀 可选：婚礼装饰 | 1,000g 起 | 不影响功能 |
-
-### 室友路线（Roommate Option）
-
-| 对比项 | 结婚 | 室友 |
-|:------|:----|:----|
-| 好感度门槛 | 10❤️ | 8❤️ |
-| 费用 | 5,000g + 戒指 + 房屋升级 | 免费 |
-| 同住 | ✅ 搬入农场 | ✅ 搬入农场（但分房睡） |
-| 配偶日常帮助 | ✅ 做饭/浇水/喂动物/修围栏 | ❌ 无帮助 |
-| 星露露早餐 | ✅ 配偶每日做早餐 | ❌ |
-| 孩子 | ✅ 可以有 | ❌ 不可以 |
-| 离婚/解除 | 需找镇长（5,000g） | 可选择退出 |
+> **Tip:** **Easiest loved gifts to source in bulk:** Alice's «Tropical Fish» (fishing, abundant in summer), Rafael's «Coral» (plentiful in Dive Zones 1-2), Theo's «Rare Fish» (fishing bobber mechanic). If multi-dating, strongly consider these three to keep gift costs low.
 
 ---
 
-## 👶 家庭系统
+## 💖 Heart Event Trigger Guide
 
-### 子女
+### General Trigger Rules
 
-| 阶段 | 触发条件 | 持续时间 | 说明 |
-|:----|:--------|:--------|:----|
-| 🍼 孕育 | 结婚 14 天后 | 14 天 | 配偶会告知你怀孕的消息 |
-| 👶 婴儿阶段 | 14 天孕育期后 | 14 天 | 在婴儿床上 |
-| 👧 幼儿阶段 | 婴儿期 14 天后 | 永久 | 会在农场里奔跑、互动 |
-| 👦 成长 | 不进一步成长 | — | 幼儿形态永久不变 |
+| Condition | Requirement |
+|:----------|:------------|
+| 📅 Time | Any time except late night (22:00-6:00) |
+| 🌤️ Weather | Sunny (some events need specific weather) |
+| 📍 Location | Character's current daily location |
+| 💕 Heart Threshold | One event every 2~4 hearts |
+| ❌ No overlap | Only one heart event active at a time |
 
-### 孩子上限
+### Key Heart Event Choices
 
-| 问题 | 答案 |
-|:----|:----|
-| 📊 最多几个孩子 | **2 个**（一次最多同时养育） |
-| ♂️♀️ 性别 | 随机，不可选 |
-| 👶 名字 | 玩家自定义 |
-| 🛌 是否需要单独房间 | 需要 **Tier 3 房屋升级**（10,000g + 硬木×75 + 金锭×15） |
-| 🪄 功能 | 纯装饰/情感功能，不会帮忙做农活 |
-
-### 房屋升级费用总表
-
-| 升级等级 | 费用 | 材料 | 解锁功能 |
-|:--------|:---:|:----|:--------|
-| 🏠 Tier 1 | 默认 | 无 | 基础一室一厅 |
-| 🏠 Tier 2 | 10,000g | 硬木×50 + 金锭×10 | 配偶房间（结婚必需）|
-| 🏠 Tier 3 | 15,000g | 硬木×75 + 金锭×15 + 精炼石英×10 | 儿童房（有孩子必需） |
-| 🏠 Tier 4 | 20,000g | 锇锭×10 + 精炼石英×15 | 地下室 + 豪华厨房 |
-
-> **Tip:** **如果想尽快结婚，不要等攒够 10,000g 才升级房屋**。先升级工具到铁/金级确保收入的提升，同时给目标角色每天送最爱礼物。通常春季开始送礼，夏季末即可求婚。房屋升级可以放在确立关系（送花束）之后再慢慢攒。
+| Character | Event | Recommended Choice | Reason |
+|:----------|:------|:------------------:|:-------|
+| **Alice** | 4❤️ Pier Help | ✅ Help fix the boat | +30 friendship, unlocks late-game fishing story |
+| **Alice** | 8❤️ Confession | ✅ Answer honestly | Either choice triggers confession; honest route is best |
+| **Rafael** | 6❤️ Diving Accident | ✅ Jump in to save him | Major friendship boost, triggers follow-up story |
+| **Lily** | 6❤️ Baking Contest | ✅ Let her choose the recipe | Respecting her choice → max friendship gain |
+| **Scott** | 4❤️ Farm Equipment Exhibition | ✅ Help set up | Unlocks equipment discount |
+| **Theo** | 8❤️ Boat Confession | ✅ Accept the invitation | Highest friendship gain; missing it means waiting another week |
+| **Surya** | 6❤️ Botanical Garden | ✅ Choose rare plant | +50 friendship, unlocks rare seed purchases |
+| **Mark** | 4❤️ Workshop | ✅ Help with repairs | — |
 
 ---
 
-## ⏱️ 速通结婚路线（最快时间线）
+## 💍 Multi-Dating & Jealousy Mechanics
 
-| 时间点 | 动作 | 累计天数 |
-|:------|:----|:-------:|
-| 第 1 天 | 确定目标角色，了解爱好好奇表 | D1 |
-| 第 2~10 天 | 每天送喜欢礼物，至少 2 次/周 | D10 |
-| 第 14 天 | 首次达到 2❤️，触发第一个红心事件 | D14 |
-| 第 21 天 | 每天送礼 + 对话，达到 4❤️ | D21 |
-| 第 30 天 | 解锁 6❤️ 事件 | D30 |
-| 第 40 天 | 达到 8❤️，可以送花束确立恋爱 | D40 |
-| 第 42 天 | 送花束，进入恋爱阶段 | D42 |
-| 第 55 天 | 达到 10❤️ + 房屋 Tier 2 | D55 |
-| 第 56 天 | 求婚 → 婚礼！ | **D56（约 2 季）** |
+### Bouquet System
 
-**最快结婚纪录：约 8 周（游戏内 56 天），一个完整夏季到秋季初。**
+| Stage | Item | How to Get | Effect |
+|:------|:-----|:-----------|:-------|
+| 💐 Confession | Bouquet | Pierre's Flower Shop 200g | Confirms dating relationship |
+| 💍 Engagement | Ring | Blacksmith 1,000g + Gold Bar×2 | Engaged, triggers 10❤️ proposal |
+| 🫂 Breakup | — | Choose in dialogue | Friendship drops 5❤️, can't date for 1 week |
+
+### Jealousy Mechanics
+
+| Situation | Effect | Penalty |
+|:----------|:-------|:--------|
+| Giving bouquets to 2+ candidates | ❌ Triggers jealousy dialogue | −100 friendship each |
+| Caught dating A by B | ❌ −50 friendship | Need gift to recover |
+| Married & 8❤️+ with another | ❌ Spouse dialogue warning | −200 friendship |
+| **Pre-bouquet (before 7❤️)** | ✅ No jealousy | Safe to multi-gift |
+
+> **Tip:** **Pull everyone's gifts to the same tier before 7❤️**, then pick your favorite to give the bouquet. There's no penalty before the bouquet — it's your safe window to cast a wide net. After the bouquet, every flower you give someone else can make your partner jealous, so once you've chosen, don't stray.
+
+---
+
+## 💒 Marriage System
+
+### Marriage Requirements
+
+| Condition | Specific Requirement |
+|:----------|:---------------------|
+| 💕 Friendship | At least 10❤️ (max hearts) |
+| 💐 Bouquet Status | Bouquet given, dating confirmed |
+| 💍 Engagement Ring | Ring given and accepted |
+| 🏠 House Upgrade | At least Tier 2 (includes spouse room) |
+| 💰 Wedding Cost | **Wedding planning 5,000g** |
+
+### Wedding Cost Breakdown
+
+| Item | Cost | Notes |
+|:-----|:----:|:------|
+| 💍 Engagement Ring | 1,000g + Gold Bar×2 | Non-negotiable |
+| 💐 Wedding Planning | 5,000g | Pay at Community Center |
+| 🏡 House Upgrade (Tier 2) | 10,000g + Hardwood×50 + Gold Bar×10 | Must have separate spouse room |
+| 🎀 Optional: Wedding Decor | 1,000g+ | Cosmetic only |
+
+### Roommate Route
+
+| Comparison | Marriage | Roommate |
+|:-----------|:---------|:---------|
+| Friendship Threshold | 10❤️ | 8❤️ |
+| Cost | 5,000g + Ring + House Upgrade | Free |
+| Living Together | ✅ Moves onto farm | ✅ Moves onto farm (separate bedrooms) |
+| Spouse Daily Help | ✅ Cooks/waters/feeds animals/repairs fences | ❌ No help |
+| Breakfast | ✅ Spouse cooks daily breakfast | ❌ |
+| Children | ✅ Possible | ❌ Not possible |
+| Divorce/Ending | Requires Mayor (5,000g) | Can opt out |
+
+---
+
+## 👶 Family System
+
+### Children
+
+| Stage | Trigger Condition | Duration | Notes |
+|:------|:-----------------|:---------|:------|
+| 🍼 Pregnancy | 14 days after marriage | 14 days | Spouse tells you the news |
+| 👶 Baby Stage | After 14-day pregnancy | 14 days | In the crib |
+| 👧 Toddler Stage | 14 days after baby stage | Permanent | Runs around the farm, interacts |
+| 👦 Growth | Doesn't grow further | — | Toddler form is permanent |
+
+### Child Limits
+
+| Question | Answer |
+|:---------|:-------|
+| 📊 Max number of children | **2** (can have both at once) |
+| ♂️♀️ Gender | Random, not selectable |
+| 👶 Name | Player custom |
+| 🛌 Separate room needed? | Requires **Tier 3 House Upgrade** (10,000g + Hardwood×75 + Gold Bar×15) |
+| 🪄 Function | Cosmetic/emotional only — won't help with farm work |
+
+### House Upgrade Cost Table
+
+| Upgrade Level | Cost | Materials | Unlocks |
+|:--------------|:----:|:----------|:--------|
+| 🏠 Tier 1 | Default | None | Basic 1-bedroom |
+| 🏠 Tier 2 | 10,000g | Hardwood×50 + Gold Bar×10 | Spouse room (required for marriage) |
+| 🏠 Tier 3 | 15,000g | Hardwood×75 + Gold Bar×15 + Refined Quartz×10 | Child's room (required for kids) |
+| 🏠 Tier 4 | 20,000g | Osmium Bar×10 + Refined Quartz×15 | Basement + Luxury Kitchen |
+
+> **Tip:** **Don't wait until you've saved 10,000g to upgrade the house if you want to marry quickly.** First upgrade your tools to Iron/Gold tier for better income, while giving your target character their loved gift daily. Start gifting in spring, propose by late summer. The house upgrade can wait until after you've given the bouquet.
+
+---
+
+## ⏱️ Speedrun Marriage Route (Fastest Timeline)
+
+| Time | Action | Cumulative Days |
+|:-----|:-------|:---------------:|
+| Day 1 | Pick target character, learn loved gift | D1 |
+| Days 2~10 | Daily liked gifts, at least 2/week | D10 |
+| Day 14 | First 2❤️ reached, trigger first heart event | D14 |
+| Day 21 | Daily gifts + conversation → 4❤️ | D21 |
+| Day 30 | Unlock 6❤️ event | D30 |
+| Day 40 | Reach 8❤️ → ready to give bouquet | D40 |
+| Day 42 | Give bouquet → dating phase | D42 |
+| Day 55 | Reach 10❤️ + Tier 2 house ready | D55 |
+| Day 56 | Propose → Wedding! | **D56 (~2 seasons)** |
+
+**Fastest marriage record: about 8 weeks (56 in-game days), from early summer to early fall.**

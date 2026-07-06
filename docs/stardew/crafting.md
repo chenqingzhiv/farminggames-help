@@ -1,6 +1,6 @@
 ---
 title: 🧪 Stardew Valley Complete Crafting Guide
-description: > Data version: Stardew Valley 1.6 | All craftable items, recipes, materials, and production chains
+description: "Data version: Stardew Valley 1.6 | All craftable items, recipes, materials, and production chains"
 date: 2026-07-03
 ---
 

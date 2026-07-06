@@ -1,0 +1,52 @@
+/* ========================================================== */
+/* 🏜️ Sandrock — Rust & Gears · 锈与齿轮                     */
+/*    Palette: Rust Orange + Stone Gray + Desert Gold         */
+/* ========================================================== */
+
+[data-game="sandrock"] {
+  /* Core palette */
+  --pm-primary: #c2410c;
+  --pm-primary-light: #ea580c;
+  --pm-primary-dark: #9a3412;
+  --pm-on-primary: #FFFFFF;
+  --pm-accent: #475569;
+  --pm-accent-light: #64748b;
+
+  /* Surfaces */
+  --pm-background: #FFF7ED;
+  --pm-foreground: #1F2937;
+  --pm-muted: #FFEDD5;
+  --pm-card-bg: #FFFFFF;
+  --pm-card-bg-soft: rgba(255,255,255,0.85);
+  --pm-border: #FED7AA;
+  --pm-border-light: #FFEDD5;
+
+  /* Text */
+  --pm-text: #374151;
+  --pm-text-light: #6B7280;
+  --pm-text-muted: #9CA3AF;
+
+  /* Tints & shadows */
+  --pm-green-tint: rgba(194,65,12,0.08);
+  --pm-amber-tint: rgba(71,85,105,0.08);
+  --pm-shadow-green: rgba(194,65,12,0.12);
+  --pm-shadow-amber: rgba(71,85,105,0.12);
+  --pm-shadow-card: rgba(194,65,12,0.08);
+}
+
+/* ── Sandrock-specific decorations ──────────────────────── */
+
+[data-game="sandrock"] .md-typeset h2 {
+  border-bottom-color: rgba(194,65,12,0.25);
+}
+[data-game="sandrock"] .md-typeset h2::after {
+  background: #c2410c;
+}
+
+[data-game="sandrock"] .md-content {
+  border-color: #FED7AA;
+}
+
+[data-game="sandrock"] .md-header {
+  border-bottom-color: #FED7AA;
+}

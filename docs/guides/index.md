@@ -10,15 +10,15 @@ Browse all guides organized by game.
 
 ---
 
-## 🎬 王道長's Video Guide Series
+## 🎥 Recommended YouTube Creator Guides
 
 <div class="guide-series-banner">
-  <div class="guide-series-banner-icon">🎥</div>
+  <div class="guide-series-banner-icon">🎬</div>
   <div class="guide-series-banner-text">
-    <h3>Weekly Video-to-Text Guides</h3>
-    <p>We convert 王道長's B站 videos into detailed text guides with screenshots. Updated every <strong>Mon / Wed / Fri</strong> at 16:00 (CST).</p>
+    <h3>Curated Video-to-Text Guides</h3>
+    <p>We convert top community YouTube tutorials into detailed text guides with screenshots — no need to scrub through footage. Featured creators include <strong>Wickedy</strong>, <strong>Ezlilyy</strong>, and <strong>SeanieDew</strong>. New guides every <strong>Mon / Wed / Fri</strong>.</p>
     <p>
-      <a href="../guides/stardew-valley-beginners-guide/" class="md-button md-button--primary">📖 星露谷第一天开局指南</a>
+      <a href="../guides/stardew-valley-beginners-guide/" class="md-button md-button--primary">🌱 Day 1 Beginner's Guide</a>
       <a href="../news/" class="md-button">📰 View Release History</a>
     </p>
   </div>
@@ -33,6 +33,9 @@ Browse all guides organized by game.
 - [☀️ Complete Summer Guide](../stardew/summer-guide.md) — Blueberries, Hops, summer festivals
 - [🍁 Complete Fall Guide](../stardew/fall-guide.md) — Cranberries, Pumpkins, Stardew Valley Fair
 - [❄️ Winter Guide](../stardew/winter.md) — Mining focus, money-making
+
+### 王道長's Video Guides
+- [🎃 南瓜 vs 蔓越莓全面对比](星露谷物语秋季种什么最赚钱南瓜-vs-蔓越莓全面对比.md) — 秋季作物利润对比，教你秋季种什么最赚钱
 
 ### Crops & Farming
 - [🌱 Full Season Crop Profit Table](../stardew/crops.md) — All crops, all seasons, profit calculations

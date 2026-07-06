@@ -3,6 +3,8 @@ title: My Time at Sandrock — Complete Game Overview
 description: My Time at Sandrock complete guide — desert workshop builder and successor to My Time at Portia, covering crafting, combat, and town restoration
 ---
 
+<a href="/assets/images/sandrock-hero.jpg"><img src="/assets/images/sandrock-hero.jpg" alt="My Time at Sandrock" style="width:100%; border-radius:8px; margin-bottom:16px;"></a>
+
 # 🏜️ My Time at Sandrock — Game Overview
 
 ## About the Game

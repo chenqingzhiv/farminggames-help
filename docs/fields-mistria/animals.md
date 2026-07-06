@@ -1,117 +1,117 @@
 ---
-title: Fields of Mistria — 动物与宠物终极攻略
-description: 全面解析 Fields of Mistria 畜牧系统：全部可购买动物数据、每日利润计算、好感度机制、宠物特殊能力、畜棚升级时机、产品质量等级与季节策略
+title: Fields of Mistria — Animals & Pets Ultimate Guide
+description: Complete breakdown of the Fields of Mistria ranching system — all purchasable animal stats, daily profit calculations, friendship mechanics, pet special abilities, barn upgrade timing, product quality tiers, and seasonal strategies.
 date: 2026-07-05
 ---
 
-# 🐄 Fields of Mistria — 动物与宠物终极攻略
+# 🐄 Fields of Mistria — Animals & Pets Ultimate Guide
 
-畜牧业是 Mistria 中后期稳定的日收入来源。与作物不同，动物不需要每天重新种植，且产品质量随好感度线性提升。合理配置畜棚是实现财务自由的关键。
+Ranching is your most reliable daily income source in the mid-to-late game. Unlike crops, animals don't need replanting every day, and product quality scales linearly with friendship. Smart barn management is key to financial freedom.
 
 ---
 
-## 🐔 可购买动物全览
+## 🐔 All Purchasable Animals
 
-| 动物 | 购买价 | 建筑 | 产出 | 基础售价 | 每日利润 | 产出间隔 |
+| Animal | Cost | Building | Product | Base Price | Daily Profit | Interval |
 |:----|:-----:|:----|:----|:--------:|:--------:|:--------:|
-| 🐔 鸡 | 800g | 鸡舍 | 鸡蛋🥚 | 50g | **38g** | 每日 |
-| 🦆 鸭 | 2000g | 鸡舍 (升级) | 鸭蛋🥚 | 80g | **48g** | 每日 |
-| 🐄 牛 | 3000g | 畜棚 | 牛奶🥛 | 100g | **70g** | 每日 |
-| 🐑 羊 | 4000g | 畜棚 (升级) | 羊毛🧶 | 150g | **55g** | 每 2 天 |
-| 🐐 山羊 | 5000g | 畜棚 (大) | 羊奶🥛 | 180g | **125g** | 每日 |
-| 🐇 兔子 | 3000g | 鸡舍 (大) | 兔毛🧶 | 200g | **50g** | 每 3 天 |
-| 🦙 羊驼 | 8000g | 畜棚 (大) | 羊驼毛🧶 | 280g | **110g** | 每 2 天 |
-| 🐖 猪 | 12000g | 畜棚 (豪华) | 松露🍄 | 350g | **175g** | 每日 (晴天) |
+| 🐔 Chicken | 800g | Coop | Egg🥚 | 50g | **38g** | Daily |
+| 🦆 Duck | 2000g | Coop (Upgraded) | Duck Egg🥚 | 80g | **48g** | Daily |
+| 🐄 Cow | 3000g | Barn | Milk🥛 | 100g | **70g** | Daily |
+| 🐑 Sheep | 4000g | Barn (Upgraded) | Wool🧶 | 150g | **55g** | Every 2 days |
+| 🐐 Goat | 5000g | Barn (Large) | Goat Milk🥛 | 180g | **125g** | Daily |
+| 🐇 Rabbit | 3000g | Coop (Large) | Rabbit Fur🧶 | 200g | **50g** | Every 3 days |
+| 🦙 Alpaca | 8000g | Barn (Large) | Alpaca Wool🧶 | 280g | **110g** | Every 2 days |
+| 🐖 Pig | 12000g | Barn (Deluxe) | Truffle🍄 | 350g | **175g** | Daily (Sunny) |
 
-> **Tip:** 猪的日利润最高（175g），但**雨天不出松露**。平均每月雨天 6~8 天，实际日利润约 130g。山羊才是稳定的日利润之王——不论天气，每日稳定 125g。
+> **Tip:** Pigs have the highest daily profit (175g), but **no truffles on rainy days**. With 6–8 rainy days per month on average, real daily profit is ~130g. Goats are the true daily profit king — 125g every day, rain or shine.
 
 ---
 
-## ❤️ 好感度系统与解锁
+## ❤️ Friendship System & Milestones
 
-| 好感度等级 | 所需天数 (每日摸+喂) | 解锁效果 |
+| Hearts | Days (Pet + Feed Daily) | Unlock |
 |:----------|:-------------------:|:---------|
-| ❤️ 1 颗心 | 0~3 天 | 基础品质产出 |
-| ❤️❤️ 2 颗心 | 4~7 天 | 小型畜棚自动喂食器解锁 |
-| ❤️❤️❤️ 3 颗心 | 8~12 天 | 银星品质产出 (1.25× 售价) |
-| ❤️❤️❤️❤️ 4 颗心 | 13~18 天 | 大型畜棚自动喂食器 + 动物参加节日 |
-| ❤️❤️❤️❤️❤️ 5 颗心 | 19~25 天 | 金星品质产出 (1.5× 售价) |
-| ⭐ 满好感 | 26~35 天 | 铱星品质产出 (2× 售价) + 特殊产品 |
+| ❤️ 1 Heart | 0–3 days | Basic quality products |
+| ❤️❤️ 2 Hearts | 4–7 days | Small coop auto-feeder unlocked |
+| ❤️❤️❤️ 3 Hearts | 8–12 days | Silver quality products (1.25× price) |
+| ❤️❤️❤️❤️ 4 Hearts | 13–18 days | Large barn auto-feeder + Animal festival entry |
+| ❤️❤️❤️❤️❤️ 5 Hearts | 19–25 days | Gold quality products (1.5× price) |
+| ⭐ Max Friendship | 26–35 days | Iridium quality products (2× price) + Special products |
 
-> **Tip:** 满好感一只动物约需 30 天。**每天抚摸是最高效的方式**——同样花 2 秒，收益是喂食的 2 倍。开局 4 只鸡只需 10 秒操作，日收入增加 150g+。
+> **Tip:** It takes about 30 days to max out one animal. **Petting daily is the most efficient method** — same 2 seconds, twice the reward of feeding. Starting with 4 chickens takes just 10 seconds of morning work for 150g+ daily income.
 
 ---
 
-## 🐾 宠物系统
+## 🐾 Pet System
 
-| 宠物 | 获取方式 | 特殊能力 | 评价 |
+| Pet | How to Get | Special Ability | Verdict |
 |:----|:--------|:---------|:----|
-| 🐱 猫 | 宠物店 2000g | 每日随机赠送礼物（概率出现稀有鱼/宝石） | 🥇 实用 |
-| 🐶 狗 | 宠物店 2000g | 牧羊：自动将放牧动物赶回棚内 | 🥇 懒人必备 |
-| 🦊 狐狸 | 森林事件触发 | 寻找隐藏的采集物品（夜晚加成） | 🥈 采集流 |
-| 🐦 猫头鹰 | 完成法师塔任务 | 夜间捕鼠保护储存的谷物 | 🥈 仓库流 |
-| 🐢 乌龟 | 海滩 4000g | 水池自动收集鱼塘产物 | 🥉 钓鱼流 |
+| 🐱 Cat | Pet Shop 2000g | Random daily gift (rare fish/gems possible) | 🥇 Practical |
+| 🐶 Dog | Pet Shop 2000g | Herding — automatically brings grazing animals inside | 🥇 Lazy farmer's best friend |
+| 🦊 Fox | Forest event trigger | Finds hidden forage items (night bonus) | 🥈 Forager build |
+| 🐦 Owl | Complete wizard tower quest | Night pest control — protects stored grain | 🥈 Stockpile build |
+| 🐢 Turtle | Beach 4000g | Auto-collects pond products | 🥉 Fishing build |
 
-**宠物好感度升级（满 5 心后能力翻倍）：**
-- 猫：礼物稀有度提升，可能送宝石
-- 狗：牧羊范围从 5 格扩大至 15 格
-- 狐狸：采集物标记显示在小地图上
+**Pet Friendship Upgrades (ability doubles at 5 hearts):**
+- Cat: Better gift rarity, may bring gems
+- Dog: Herding range expands from 5 tiles to 15 tiles
+- Fox: Forage markers appear on the minimap
 
 ---
 
-## 🏠 畜棚升级与自动喂食器
+## 🏠 Barn Upgrades & Auto-Feeders
 
-| 建筑 | 容量 | 价格/材料 | 自动喂食 |
+| Building | Capacity | Cost/Materials | Auto-Feed |
 |:----|:---:|:---------|:--------|
-| 基础鸡舍 | 4 | 2000g + 40木+20石 | ❌ |
-| 大型鸡舍 | 8 | 6000g + 60木+40石+5铁锭 | ✅ |
-| 豪华鸡舍 | 12 | 12000g + 10金锭+8铁锭+80木 | ✅ |
-| 基础畜棚 | 4 | 3000g + 50木+30石 | ❌ |
-| 大型畜棚 | 8 | 8000g + 80木+50石+8铁锭 | ✅ |
-| 豪华畜棚 | 12 | 18000g + 15金锭+10铁锭+100木+5丝 | ✅ |
+| Basic Coop | 4 | 2000g + 40 Wood + 20 Stone | ❌ |
+| Large Coop | 8 | 6000g + 60 Wood + 40 Stone + 5 Iron Bars | ✅ |
+| Deluxe Coop | 12 | 12000g + 10 Gold Bars + 8 Iron Bars + 80 Wood | ✅ |
+| Basic Barn | 4 | 3000g + 50 Wood + 30 Stone | ❌ |
+| Large Barn | 8 | 8000g + 80 Wood + 50 Stone + 8 Iron Bars | ✅ |
+| Deluxe Barn | 12 | 18000g + 15 Gold Bars + 10 Iron Bars + 100 Wood + 5 Silk | ✅ |
 
-**自动喂食器投资回报：** 自动喂食器 ≈ 每日节省 3 分钟放干草时间。按每小时 300g 的机会成本计算，大型畜棚的 6000g 升级费约 **13 天回本**。建议在购买第 3 只动物前完成升级。
+**Auto-Feeder ROI:** An auto-feeder saves ~3 minutes of hay-placing per day. At an opportunity cost of ~300g/hour, the 6000g Large Barn upgrade pays for itself in **about 13 days**. Upgrade before buying your 3rd animal.
 
 ---
 
-## ⭐ 产品质量等级与提升
+## ⭐ Product Quality Tiers & Improvement
 
-| 品质 | 售价倍率 | 解锁要求 | 提升方法 |
+| Quality | Price Multiplier | Requirement | How to Improve |
 |:----|:--------:|:---------|:--------|
-| 普通 ⚪ | 1.0× | 默认 | — |
-| 银星 ⭐ | 1.25× | 3 心好感 | 每日抚摸 + 牧草放牧 |
-| 金星 ⭐⭐ | 1.5× | 5 心好感 | 高级饲料 + 魔法草籽 |
-| 铱星 ⭐⭐⭐ | 2.0× | 满好感 + 魔法项圈 | 完成魔法塔任务后购买项圈 |
+| Normal ⚪ | 1.0× | Default | — |
+| Silver ⭐ | 1.25× | 3 Hearts | Daily petting + Pasture grazing |
+| Gold ⭐⭐ | 1.5× | 5 Hearts | Premium feed + Magic grass seeds |
+| Iridium ⭐⭐⭐ | 2.0× | Max Friendship + Magic Collar | Complete wizard tower quest, then buy the collar |
 
-**铱星策略：** 1 只铱星山羊日产羊奶 360g（180×2），相当于 3 只普通鸡的总产出。集中资源养 3 只高好感山羊 > 养 12 只普通鸡。建议队伍配置：2 牛（奶酪原料）+ 4 山羊（现金流）+ 2 羊驼（高级布料）。
+**Iridium Strategy:** One iridium goat produces 360g of milk per day (180×2) — equivalent to 3 regular chickens combined. Focus on raising 3 high-friendship goats instead of 12 regular chickens. Recommended squad: 2 Cows (cheese ingredient) + 4 Goats (cash flow) + 2 Alpacas (premium cloth).
 
 ---
 
-## ❄️ 季节策略与过冬装备
+## ❄️ Seasonal Strategy & Winter Prep
 
-| 季节 | 放牧可行？ | 注意事项 |
+| Season | Grazing Possible? | Notes |
 |:----|:----------:|:---------|
-| 🌸 春 | ✅ 放牧 | 种植牧草种子，1 格牧草养 1 只动物 |
-| ☀️ 夏 | ✅ 放牧 | 牧草生长最快，囤积干草（割草机） |
-| 🍂 秋 | ✅ 放牧至 20 号 | 最后 8 天开始囤干草过冬 |
-| ❄️ 冬 | ❌ 室内 | 每日消耗 2 捆干草/动物，需储备 50+ 捆 |
+| 🌸 Spring | ✅ Graze | Plant grass starters — 1 tile of grass feeds 1 animal |
+| ☀️ Summer | ✅ Graze | Fastest grass growth — stockpile hay (use scythe) |
+| 🍂 Fall | ✅ Graze until the 20th | Last 8 days — start hoarding hay for winter |
+| ❄️ Winter | ❌ Indoors only | 2 hay per animal per day — stockpile 50+ bales |
 
-**冬季干草预算：** 8 只动物 × 2 干草/天 × 28 天 = **448 捆干草**。秋季最后两周用镰刀收割牧草（每刀 3~5 捆），每保留 1 块牧草地 = 10~15 捆干草库存。
+**Winter Hay Budget:** 8 animals × 2 hay/day × 28 days = **448 hay bales**. During the last two weeks of fall, use your scythe on grass (3–5 hay per swing); every patch of grass you preserve = 10–15 bales in reserve.
 
-> **Tip:** 冬季动物**不产出**？错！室内动物冬季正常产出，只是不能放牧。好感度 3 心以上的动物冬季也能产出银星品质。冬天反而是全力爬好感度的最佳时机——每天只需进屋抚摸，不耽误矿洞时间。
+> **Tip:** Think winter means **no animal products**? Wrong! Indoor animals produce normally in winter — you just can't graze them. Animals at 3+ hearts still produce Silver quality in winter. Winter is actually the best time to grind friendship — just pop inside for a pet and you're done, no mining time lost.
 
 ---
 
-## 📊 畜牧 vs 种植 利润对比
+## 📊 Ranching vs. Farming Profit Comparison
 
-| 对比维度 | 🌱 种植 (20 格) | 🐄 畜牧 (4 山羊) |
+| Metric | 🌱 Crops (20 Plots) | 🐄 Ranching (4 Goats) |
 |:--------|:--------------:|:----------------:|
-| 日均收入 | 180~250g (季节依赖) | 500g (稳定) |
-| 前期投入 | 200~800g 种子 | 12000g + 畜棚 |
-| 每日劳动 | 浇水 20 次 | 2 分钟 |
-| 回本周期 | 4~10 天 | 24 天 |
-| 升级空间 | 魔法增强 | 铱星 ×2 倍 |
+| Daily Income | 180–250g (season-dependent) | 500g (stable) |
+| Upfront Cost | 200–800g seeds | 12000g + barn |
+| Daily Labor | Water 20 times | 2 minutes |
+| Payback Period | 4–10 days | 24 days |
+| Upgrade Potential | Magic enhancements | Iridium ×2 multiplier |
 
-**结论：** 春季种植积累资本→夏季扩建畜棚→秋季买山羊→冬季靠畜牧现金流+温室草莓烹饪，双线并行利润最大化。
+**Bottom Line:** Spring crops build capital → Summer barn expansion → Fall goat purchases → Winter ranching cash flow + greenhouse strawberry cooking. Dual-track for maximum profit.
 
 *Data source: Fields of Mistria v0.8+ (Early Access)*

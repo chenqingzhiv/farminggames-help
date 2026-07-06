@@ -1,0 +1,52 @@
+/* ========================================================== */
+/* ✨ Palia — Cozy Magic · 精灵梦境                            */
+/*    Palette: Amethyst Purple + Emerald Green + Soft Pink    */
+/* ========================================================== */
+
+[data-game="palia"] {
+  /* Core palette */
+  --pm-primary: #7c3aed;
+  --pm-primary-light: #a855f7;
+  --pm-primary-dark: #6d28d9;
+  --pm-on-primary: #FFFFFF;
+  --pm-accent: #0d9488;
+  --pm-accent-light: #14b8a6;
+
+  /* Surfaces */
+  --pm-background: #FAF5FF;
+  --pm-foreground: #1F2937;
+  --pm-muted: #F3E8FF;
+  --pm-card-bg: #FFFFFF;
+  --pm-card-bg-soft: rgba(255,255,255,0.85);
+  --pm-border: #E9D5FF;
+  --pm-border-light: #F3E8FF;
+
+  /* Text */
+  --pm-text: #374151;
+  --pm-text-light: #6B7280;
+  --pm-text-muted: #9CA3AF;
+
+  /* Tints & shadows */
+  --pm-green-tint: rgba(124,58,237,0.08);
+  --pm-amber-tint: rgba(13,148,136,0.08);
+  --pm-shadow-green: rgba(124,58,237,0.12);
+  --pm-shadow-amber: rgba(13,148,136,0.12);
+  --pm-shadow-card: rgba(124,58,237,0.08);
+}
+
+/* ── Palia-specific decorations ─────────────────────────── */
+
+[data-game="palia"] .md-typeset h2 {
+  border-bottom-color: rgba(124,58,237,0.25);
+}
+[data-game="palia"] .md-typeset h2::after {
+  background: #7c3aed;
+}
+
+[data-game="palia"] .md-content {
+  border-color: #E9D5FF;
+}
+
+[data-game="palia"] .md-header {
+  border-bottom-color: #E9D5FF;
+}

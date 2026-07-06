@@ -1,176 +1,176 @@
 ---
-title: Coral Island — 工匠设备与加工利润完全指南
-description: Coral Island 工匠设备深度攻略：糖化罐/压榨机/奶酪机/蛋黄酱机/织布机等全部机器数据、投入产出利润表、最佳加工路线选择、机器布局优化、工匠技能树加点、终局每日最大利润配置
+title: Coral Island — Complete Artisan Equipment & Processing Profit Guide
+description: "Coral Island artisan equipment deep dive: preserve jars, kegs, cheese presses, mayo machines, looms and all other machines with input-output profit tables, best processing routes, machine layout optimization, artisan skill tree allocation, and endgame maximum daily profit setup"
 date: 2026-07-05
 ---
 
-# 🏭 Coral Island — 工匠设备与加工利润完全指南
+# 🏭 Coral Island — Complete Artisan Equipment & Processing Profit Guide
 
-加工是 Coral Island 财富增长的核心引擎——一个价值 50g 的鸡蛋经过蛋黄酱机变成 150g（+200%），一个 260g 的甜瓜经过压榨机变成 740g 甜瓜酒（+185%）。本指南拆解所有机器的经济模型，帮你做出最优加工决策。
-
----
-
-## ⚙️ 全部工匠设备总览
-
-| 机器 | 解锁条件 | 制作材料 | 加工时间 | 输入 | 输出 |
-|:----|:--------|:--------|:-------:|:----|:----|
-| 🫙 **糖化罐** (Preserve Jar) | 耕种 Lv.3 | 木材×30 + 石头×15 + 铜锭×3 | 12 小时 | 蔬菜/水果 | 腌菜/果酱 |
-| 🍷 **压榨机** (Keg) | 耕种 Lv.6 | 木材×40 + 铜锭×5 + 银锭×2 | 24 小时（果）/ 48 小时（蔬菜） | 水果/蔬菜/谷物 | 酒/果汁/醋/清酒 |
-| 🧀 **奶酪机** (Cheese Press) | 畜牧 Lv.2 | 铜锭×3 + 石头×20 | 6 小时 | 牛奶/山羊奶 | 奶酪/山羊奶酪 |
-| 🧈 **黄油机** (Butter Churn) | 畜牧 Lv.3 | 银锭×2 + 硬木×15 | 4 小时 | 牛奶 | 黄油 |
-| 🍮 **布丁机** (Pudding Maker) | 畜牧 Lv.5 | 金锭×3 + 精炼石英×2 | 8 小时 | 牛奶 | 布丁 |
-| 🫙 **蛋黄酱机** (Mayo Machine) | 畜牧 Lv.1 | 铜锭×2 + 木材×15 | 3 小时 | 蛋类 | 蛋黄酱 |
-| 🧥 **织布机** (Loom) | 畜牧 Lv.4 | 银锭×3 + 硬木×20 | 4 小时 | 羊毛/兔毛 | 布料 |
-| 🥩 **烘干机** (Dehydrator) | 耕种 Lv.8 | 金锭×3 + 精炼石英×3 | 8 小时 | 辣椒/羽衣甘蓝/西蓝花 | 干制蔬菜 |
-| 🫒 **榨油机** (Oil Press) | 耕种 Lv.5 | 银锭×2 + 石材×15 | 6 小时 | 松露/向日葵/玉米 | 松露油/食用油 |
-| 🐝 **蜂箱** (Bee House) | 中期任务 | 木材×20 + 铁锭×2 + 蜂后 | 72 小时（花附近） | 花+花蜜 | 蜂蜜/特种蜜 |
-| 🎣 **发酵桶** (Fermenter) | 耕种 Lv.10 | 金锭×5 + 锇锭×3 | 36~48 小时 | 酒 | 陈酿酒 |
+Processing is the engine of wealth in Coral Island — a 50g egg through the Mayo Machine becomes 150g (+200%), a 260g melon through the Keg becomes 740g Melon Wine (+185%). This guide breaks down every machine's economics so you can make the best processing decisions.
 
 ---
 
-## 📊 完整加工利润数学
+## ⚙️ All Artisan Equipment Overview
 
-### 糖化罐（Preserve Jar）— 12 小时
-
-| 输入作物 | 基础价 | 糖化后价 | 利润增幅 | 每小时利润 |
-|:--------|:-----:|:--------:|:-------:|:---------:|
-| 🍉 西瓜 (Watermelon) | 300g | 700g | +400g (+133%) | 33.3g/h |
-| 🎃 南瓜 (Pumpkin) | 280g | 660g | +380g (+136%) | 31.7g/h |
-| 🍈 甜瓜 (Melon) | 260g | 620g | +360g (+138%) | 30.0g/h |
-| 🥦 花椰菜 (Cauliflower) | 250g | 590g | +340g (+136%) | 28.3g/h |
-| 🥦 西蓝花 (Broccoli) | 185g | 470g | +285g (+154%) | 23.8g/h |
-| 🥬 卷心菜 (Cabbage) | 120g | 320g | +200g (+167%) | 16.7g/h |
-| 🍅 番茄 (Tomato) | 110g | 280g | +170g (+155%) | 14.2g/h |
-| 🫐 蓝莓 (Blueberry) | 140g | 340g | +200g (+143%) | 16.7g/h |
-| 🥒 茄子 (Eggplant) | 120g | 310g | +190g (+158%) | 15.8g/h |
-
-### 压榨机（Keg）— 24 / 48 小时
-
-| 输入作物 | 基础价 | 酒/果汁价 | 时间 | 利润增幅 | 每小时利润 |
-|:--------|:-----:|:---------:|:---:|:-------:|:---------:|
-| 🍈 甜瓜 (Melon) | 260g | 740g (甜瓜酒) | 24h | +480g (+185%) | **20.0g/h** |
-| 🎃 南瓜 (Pumpkin) | 280g | 690g (南瓜酒) | 24h | +410g (+146%) | 17.1g/h |
-| 🍉 西瓜 (Watermelon) | 300g | 700g (西瓜酒) | 24h | +400g (+133%) | 16.7g/h |
-| 🥦 花椰菜 | 250g | 620g | 24h | +370g (+148%) | 15.4g/h |
-| 🍇 葡萄 (Grape) | 85g | 340g (葡萄酒) | 24h | +255g (+300%) | 10.6g/h |
-| 🌾 水稻 (Rice) | 130g | 390g (清酒) | 24h | +260g (+200%) | 10.8g/h |
-| ☕ 咖啡豆 (Coffee Bean) | 65g | 250g (咖啡) | 24h | +185g (+285%) | 7.7g/h |
-| 🥕 胡萝卜 (Carrot) | 68g | 200g (胡萝卜汁) | 24h | +132g (+194%) | 5.5g/h |
-| 🌽 玉米 (Corn) | 120g | 310g (玉米汁) | 48h | +190g (+158%) | 4.0g/h |
-
-### 烘干机（Dehydrator）— 8 小时
-
-| 输入作物 | 基础价 | 干制售价 | 利润增幅 | 每小时利润 |
-|:--------|:-----:|:--------:|:-------:|:---------:|
-| 🌶️ 辣椒 (Hot Pepper) | 85g | 230g | +145g (+171%) | **18.1g/h** |
-| 🥬 羽衣甘蓝 (Kale) | 100g | 270g | +170g (+170%) | 21.3g/h |
-| 🥦 西蓝花 (Broccoli) | 185g | 470g | +285g (+154%) | **35.6g/h** |
-
-> **Tip:** **西蓝花烘干**是全局每小时利润最高的加工路线——35.6g/h 超过糖化罐的 33.3g/h。但烘干机只能处理这三种作物，适用范围有限。秋季西蓝花/羽衣甘蓝丰收时优先走烘干路线。
+| Machine | Unlock Condition | Materials | Processing Time | Input | Output |
+|:--------|:-----------------|:----------|:--------------:|:------|:-------|
+| 🫙 **Preserve Jar** | Farming Lv.3 | Wood×30 + Stone×15 + Copper Bar×3 | 12 hours | Vegetables/Fruits | Pickles/Jam |
+| 🍷 **Keg** | Farming Lv.6 | Wood×40 + Copper Bar×5 + Silver Bar×2 | 24h (Fruit) / 48h (Veg) | Fruits/Veg/Grain | Wine/Juice/Vinegar/Sake |
+| 🧀 **Cheese Press** | Husbandry Lv.2 | Copper Bar×3 + Stone×20 | 6 hours | Milk/Goat Milk | Cheese/Goat Cheese |
+| 🧈 **Butter Churn** | Husbandry Lv.3 | Silver Bar×2 + Hardwood×15 | 4 hours | Milk | Butter |
+| 🍮 **Pudding Maker** | Husbandry Lv.5 | Gold Bar×3 + Refined Quartz×2 | 8 hours | Milk | Pudding |
+| 🫙 **Mayo Machine** | Husbandry Lv.1 | Copper Bar×2 + Wood×15 | 3 hours | Eggs | Mayonnaise |
+| 🧥 **Loom** | Husbandry Lv.4 | Silver Bar×3 + Hardwood×20 | 4 hours | Wool/Rabbit Wool | Cloth |
+| 🥩 **Dehydrator** | Farming Lv.8 | Gold Bar×3 + Refined Quartz×3 | 8 hours | Hot Pepper/Kale/Broccoli | Dried Vegetables |
+| 🫒 **Oil Press** | Farming Lv.5 | Silver Bar×2 + Stone×15 | 6 hours | Truffle/Sunflower/Corn | Truffle Oil/Cooking Oil |
+| 🐝 **Bee House** | Mid-game quest | Wood×20 + Iron Bar×2 + Queen Bee | 72 hours (near flowers) | Flower+Nectar | Honey/Special Honey |
+| 🎣 **Fermenter** | Farming Lv.10 | Gold Bar×5 + Osmium Bar×3 | 36~48 hours | Wine | Aged Wine |
 
 ---
 
-## 🔄 每种作物最佳加工路线选择
+## 📊 Full Processing Profit Math
 
-| 作物 | 季节 | 糖化罐 | 压榨机 | 烘干机 | 加工 | 最佳选择 |
-|:----|:---:|:-----:|:-----:|:-----:|:----|:--------|
-| 🍉 西瓜 | ☀️夏 | 700g ✓ | 700g ✓ | — | — | **糖化罐**（12h vs 24h，同价更快） |
-| 🍈 甜瓜 | ☀️夏 | 620g | **740g ✓** | — | — | **压榨机**（溢价最高） |
-| 🎃 南瓜 | 🍂秋 | 660g | 690g ✓ | — | — | **压榨机糖化罐**皆可（差价 30g，看你机器数量） |
-| 🥦 花椰菜 | 🌸春 | 590g ✓ | 620g | — | — | **压榨机**（高 30g，等 24h 值得） |
-| 🥦 西蓝花 | 🌸春 | 470g | — | **470g ✓** | — | **糖化罐或烘干机均可**（同价，烘干机更快） |
-| 🌶️ 辣椒 | ☀️夏 | — | — | **230g ✓** | — | **烘干机**（唯一路线） |
-| 🍅 番茄 | ☀️夏 | **280g ✓** | — | — | — | **糖化罐** |
-| 🫐 蓝莓 | ☀️夏 | **340g ✓** | — | — | — | **糖化罐** |
-| 🍇 葡萄 | 🍂秋 | — | **340g ✓** | — | — | **压榨机→葡萄酒** |
-| 🌾 水稻 | 🍂秋 | — | **390g ✓** | — | — | **压榨机→清酒** |
-| ☕ 咖啡豆 | ☀️夏 | — | **250g ✓** | — | — | **压榨机→咖啡** |
-| 🍓 草莓 | 🌸春 | 360g | — | — | — | **糖化罐**（草莓不能进压榨机） |
+### Preserve Jar — 12 hours
 
----
+| Input Crop | Base Price | Jarred Price | Profit Increase | Profit per Hour |
+|:-----------|:----------:|:------------:|:---------------:|:---------------:|
+| 🍉 Watermelon | 300g | 700g | +400g (+133%) | 33.3g/h |
+| 🎃 Pumpkin | 280g | 660g | +380g (+136%) | 31.7g/h |
+| 🍈 Melon | 260g | 620g | +360g (+138%) | 30.0g/h |
+| 🥦 Cauliflower | 250g | 590g | +340g (+136%) | 28.3g/h |
+| 🥦 Broccoli | 185g | 470g | +285g (+154%) | 23.8g/h |
+| 🥬 Cabbage | 120g | 320g | +200g (+167%) | 16.7g/h |
+| 🍅 Tomato | 110g | 280g | +170g (+155%) | 14.2g/h |
+| 🫐 Blueberry | 140g | 340g | +200g (+143%) | 16.7g/h |
+| 🥒 Eggplant | 120g | 310g | +190g (+158%) | 15.8g/h |
 
-## 📐 机器布局优化
+### Keg — 24 / 48 hours
 
-### 你需要多少台机器
+| Input Crop | Base Price | Wine/Juice Price | Time | Profit Increase | Profit per Hour |
+|:-----------|:----------:|:----------------:|:----:|:---------------:|:---------------:|
+| 🍈 Melon | 260g | 740g (Melon Wine) | 24h | +480g (+185%) | **20.0g/h** |
+| 🎃 Pumpkin | 280g | 690g (Pumpkin Wine) | 24h | +410g (+146%) | 17.1g/h |
+| 🍉 Watermelon | 300g | 700g (Watermelon Wine) | 24h | +400g (+133%) | 16.7g/h |
+| 🥦 Cauliflower | 250g | 620g | 24h | +370g (+148%) | 15.4g/h |
+| 🍇 Grape | 85g | 340g (Wine) | 24h | +255g (+300%) | 10.6g/h |
+| 🌾 Rice | 130g | 390g (Sake) | 24h | +260g (+200%) | 10.8g/h |
+| ☕ Coffee Bean | 65g | 250g (Coffee) | 24h | +185g (+285%) | 7.7g/h |
+| 🥕 Carrot | 68g | 200g (Carrot Juice) | 24h | +132g (+194%) | 5.5g/h |
+| 🌽 Corn | 120g | 310g (Corn Juice) | 48h | +190g (+158%) | 4.0g/h |
 
-| 机器类型 | 前期（50 格田） | 中期（150 格田） | 后期（300+ 格田） |
-|:--------|:--------------:|:---------------:|:----------------:|
-| 🫙 糖化罐 | 3~4 台 | 8~12 台 | 20~30 台 |
-| 🍷 压榨机 | 2~3 台 | 6~10 台 | 15~25 台 |
-| 🧀 奶酪机 | 1 台 | 2 台 | 4~6 台 |
-| 🫙 蛋黄酱机 | 1~2 台 | 3~5 台 | 8~12 台 |
-| 🥩 烘干机 | 1~2 台 | 3~4 台 | 6~8 台 |
+### Dehydrator — 8 hours
 
-### 布局原则
+| Input Crop | Base Price | Dried Price | Profit Increase | Profit per Hour |
+|:-----------|:----------:|:-----------:|:---------------:|:---------------:|
+| 🌶️ Hot Pepper | 85g | 230g | +145g (+171%) | **18.1g/h** |
+| 🥬 Kale | 100g | 270g | +170g (+170%) | 21.3g/h |
+| 🥦 Broccoli | 185g | 470g | +285g (+154%) | **35.6g/h** |
 
-1. **分组摆放**：5 台机器为一组，留 1 格走道
-2. **靠近仓库**：机器贴着仓库放置，减少跑路时间
-3. **糖化罐＞压榨机优先**：前期机器数量有限时，优先造糖化罐（12h vs 24h，更快的资金周转）
-4. **畜产品机器放畜棚内**：奶酪机/黄油机/蛋黄酱机放在畜棚里，挤奶→加工一步到位
-5. **户外 vs 室内**：压榨机和糖化罐可以放室外，建议做棚顶避雨（虽然游戏没有损坏机制，但整齐）
-
-> **Tip:** 当你有 10 台糖化罐和 5 台压榨机后，**不要继续增建普通机器**。转而投资**发酵桶（Fermenter）**——将压榨机产的普通酒陈酿升级为陈酿酒，售价再翻 1.5~2 倍。一个甜瓜酒（740g）陈酿后约值 1,200g。
-
----
-
-## 🌟 工匠技能树（Artisan Skill Tree）
-
-| 技能等级 | 技能名称 | 效果 | 是否必点 |
-|:--------|:--------|:-----|:--------:|
-| Lv.1 | 🥘 基础烹饪 | 解锁糖化罐 | ✅ |
-| Lv.3 | 🫙 保鲜术 | 糖化罐产出 +10% 售价 | ✅ |
-| Lv.5 | 🧈 品质提升 | 加工品有 15% 概率双倍产出 | ✅✅**核心** |
-| Lv.7 | ⚡ 效率专家 | 所有机器加工时间 -15% | ✅✅**核心** |
-| Lv.9 | 💰 溢价谈判 | 加工品售价 +20% | ✅✅**核心** |
-| Lv.10 | 🏆 超级工匠 | 加工品可达到锇品质 | ✅（终局） |
-
-### 加点顺序建议
-
-**前期优先：** Lv.1 → Lv.3（糖化罐 +10% 价）→ Lv.5（双倍产出）
-
-**中期转压榨机流：** Lv.7（加速）→ Lv.9（+20%售价）
-
-**终局：** Lv.10 解锁锇品质加工品，单件售价再翻 1.5 倍
+> **Tip:** **Broccoli in the Dehydrator** has the highest per-hour profit of any processing route in the game — 35.6g/h beats the Preserve Jar's 33.3g/h. But the Dehydrator only handles these three crops, so its use is limited. When broccoli and kale are in season during fall, prioritize the dehydrator route.
 
 ---
 
-## 🏆 终局最大利润配置
+## 🔄 Best Processing Route per Crop
 
-### 理想配比（300+ 格农场）
-
-| 配置项 | 数量 | 单周期产出 | 说明 |
-|:------|:---:|:---------:|:----|
-| 🍷 压榨机 (Keg) | 20 台 | 20 瓶酒/天 | 主力加工设备 |
-| 🫙 糖化罐 (Preserve Jar) | 15 台 | 30 罐/天 | 快速周转补充 |
-| 🥩 烘干机 (Dehydrator) | 8 台 | 24 份/天 | 西蓝花专用 |
-| 🧀 奶酪机/布丁机 | 6 台 | 12 个/天 | 畜产品处理 |
-| 🫙 蛋黄酱机 | 8 台 | 24 瓶/天 | 鸡蛋加工 |
-| 🎣 发酵桶 (Fermenter) | 6 桶 | 3~6 桶陈酿酒/天 | 最高端路线 |
-
-### 每日估算收入
-
-| 时段 | 日收入估算 | 收入来源 |
-|:----|:---------:|:--------|
-| 🌸 春季 | 15,000~25,000g | 花椰菜酒 + 西蓝花干 + 蛋黄酱 |
-| ☀️ 夏季 | 25,000~40,000g | 甜瓜酒 + 西瓜罐 + 番茄罐 + 松露油 |
-| 🍂 秋季 | 30,000~50,000g | 南瓜酒 + 葡萄酒 + 陈酿发酵 |
-| ❄️ 冬季 | 5,000~10,000g | 畜产品 + 陈酿酒库存出清 |
-
-> **Tip:** **冬季前必须陈酿一批甜瓜酒/南瓜酒**。发酵桶里的酒会在冬季完成陈酿，冬季正是清仓卖高价的最佳时机——此时农场没有新鲜作物需要加工，机器全部闲置，陈酿酒就是唯一的加工收入。
+| Crop | Season | Preserve Jar | Keg | Dehydrator | Best Choice |
+|:-----|:------:|:-----------:|:---:|:----------:|:------------|
+| 🍉 Watermelon | ☀️ Summer | 700g ✓ | 700g ✓ | — | **Preserve Jar** (12h vs 24h, same price, faster) |
+| 🍈 Melon | ☀️ Summer | 620g | **740g ✓** | — | **Keg** (highest premium) |
+| 🎃 Pumpkin | 🍂 Fall | 660g | 690g ✓ | — | **Keg or Preserve Jar** (30g difference, depends on machine count) |
+| 🥦 Cauliflower | 🌸 Spring | 590g ✓ | 620g | — | **Keg** (30g more, worth the 24h wait) |
+| 🥦 Broccoli | 🌸 Spring | 470g | — | **470g ✓** | **Preserve Jar or Dehydrator** (same price, Dehydrator faster) |
+| 🌶️ Hot Pepper | ☀️ Summer | — | — | **230g ✓** | **Dehydrator** (only route) |
+| 🍅 Tomato | ☀️ Summer | **280g ✓** | — | — | **Preserve Jar** |
+| 🫐 Blueberry | ☀️ Summer | **340g ✓** | — | — | **Preserve Jar** |
+| 🍇 Grape | 🍂 Fall | — | **340g ✓** | — | **Keg → Wine** |
+| 🌾 Rice | 🍂 Fall | — | **390g ✓** | — | **Keg → Sake** |
+| ☕ Coffee Bean | ☀️ Summer | — | **250g ✓** | — | **Keg → Coffee** |
+| 🍓 Strawberry | 🌸 Spring | 360g | — | — | **Preserve Jar** (strawberries can't go in Keg) |
 
 ---
 
-## 📊 生卖 vs 加工全对比速查
+## 📐 Machine Layout Optimization
 
-| 输入 | 生卖价 | 最佳加工品 | 加工价 | 倍数 | 机器 | 时间 |
-|:----|:-----:|:----------|:-----:|:----:|:----|:---:|
-| 🥚 鸡蛋 | 50g | 蛋黄酱 | 150g | **×3.0** | 蛋黄酱机 | 3h |
-| 🥛 牛奶 | 100g | 布丁 | 250g | **×2.5** | 布丁机 | 8h |
-| 🍇 葡萄 | 85g | 红酒 | 340g | **×4.0** | 压榨机 | 24h |
-| ☕ 咖啡豆 | 65g | 咖啡 | 250g | **×3.8** | 压榨机 | 24h |
-| 🥦 西蓝花 | 185g | 干西蓝花/罐 | 470g | **×2.5** | 烘干机/罐 | 8h |
-| 🍈 甜瓜 | 260g | 甜瓜酒 | 740g | **×2.8** | 压榨机 | 24h |
-| 🐖 松露 | 200g | 松露油 | 400g | **×2.0** | 榨油机 | 6h |
-| 👕 羊毛 | 120g | 布料 | 240g | **×2.0** | 织布机 | 4h |
+### How Many Machines You Need
 
-**黄金法则：** 任何可加工的物品，**永远不要生卖**。哪怕只有一个蛋黄酱机，也把鸡蛋加工了再卖。3 小时换 +100g 的 ROI，没有任何活动比得上。
+| Machine Type | Early Game (50 tiles) | Mid Game (150 tiles) | Late Game (300+ tiles) |
+|:-------------|:--------------------:|:--------------------:|:----------------------:|
+| 🫙 Preserve Jar | 3~4 | 8~12 | 20~30 |
+| 🍷 Keg | 2~3 | 6~10 | 15~25 |
+| 🧀 Cheese Press | 1 | 2 | 4~6 |
+| 🫙 Mayo Machine | 1~2 | 3~5 | 8~12 |
+| 🥩 Dehydrator | 1~2 | 3~4 | 6~8 |
+
+### Layout Principles
+
+1. **Group in batches**: Place 5 machines per row, leave 1 tile for walking
+2. **Near storage**: Keep machines close to your chest to minimize running time
+3. **Preserve Jars before Kegs**: With limited machines early on, build Preserve Jars first (12h vs 24h, faster capital turnover)
+4. **Animal product machines inside the barn**: Cheese Presses, Butter Churns and Mayo Machines go inside the barn — milk → process in one step
+5. **Outdoor vs. indoor**: Kegs and Preserve Jars can go outside; consider a roof overhang for tidiness (no damage mechanic in the game, but looks cleaner)
+
+> **Tip:** Once you have 10 Preserve Jars and 5 Kegs, **stop building basic machines**. Invest in **Fermenters** instead — age your regular wine from Kegs into Aged Wine, selling for 1.5~2× more. A Melon Wine (740g) aged is worth about 1,200g.
+
+---
+
+## 🌟 Artisan Skill Tree
+
+| Skill Level | Skill Name | Effect | Must-Have? |
+|:------------|:-----------|:-------|:-----------:|
+| Lv.1 | 🥘 Basic Cooking | Unlocks Preserve Jar | ✅ |
+| Lv.3 | 🫙 Preservation Tech | Preserve Jar output +10% sell price | ✅ |
+| Lv.5 | 🧈 Quality Boost | 15% chance of double artisan output | ✅✅ **Core** |
+| Lv.7 | ⚡ Efficiency Expert | All machine processing time -15% | ✅✅ **Core** |
+| Lv.9 | 💰 Premium Negotiation | Artisan product sell price +20% | ✅✅ **Core** |
+| Lv.10 | 🏆 Master Artisan | Artisan goods can reach Osmium quality | ✅ (Endgame) |
+
+### Recommended Order
+
+**Early priority:** Lv.1 → Lv.3 (Preserve Jar +10%) → Lv.5 (Double output)
+
+**Mid-game Keg pivot:** Lv.7 (Speed) → Lv.9 (+20% price)
+
+**Endgame:** Lv.10 unlocks Osmium-quality artisan goods — single-item price jumps 1.5× again
+
+---
+
+## 🏆 Endgame Maximum Profit Setup
+
+### Ideal Configuration (300+ tile farm)
+
+| Item | Quantity | Per-Cycle Output | Notes |
+|:-----|:--------:|:----------------:|:------|
+| 🍷 Keg | 20 | 20 wines/day | Primary processing |
+| 🫙 Preserve Jar | 15 | 30 jars/day | Fast turnover supplement |
+| 🥩 Dehydrator | 8 | 24 units/day | Broccoli specialist |
+| 🧀 Cheese Press / Pudding Maker | 6 | 12 units/day | Animal product processing |
+| 🫙 Mayo Machine | 8 | 24 bottles/day | Egg processing |
+| 🎣 Fermenter | 6 | 3~6 aged wines/day | Highest-end route |
+
+### Estimated Daily Income
+
+| Season | Daily Income Estimate | Income Sources |
+|:-------|:--------------------:|:---------------|
+| 🌸 Spring | 15,000~25,000g | Cauliflower Wine + Dried Broccoli + Mayonnaise |
+| ☀️ Summer | 25,000~40,000g | Melon Wine + Watermelon Preserves + Tomato Preserves + Truffle Oil |
+| 🍂 Fall | 30,000~50,000g | Pumpkin Wine + Grape Wine + Aged Ferments |
+| ❄️ Winter | 5,000~10,000g | Animal products + Aged wine inventory sell-off |
+
+> **Tip:** **Age a batch of Melon Wine or Pumpkin Wine before winter.** Wines sitting in Fermenters will finish aging during winter — the best time to clear inventory at high prices since there are no fresh crops to process. Aged wine becomes your only processing income during the cold months.
+
+---
+
+## 📊 Raw Sale vs. Processing Quick Reference
+
+| Input | Raw Price | Best Processed Product | Processed Price | Multiplier | Machine | Time |
+|:------|:---------:|:----------------------|:---------------:|:----------:|:--------|:----:|
+| 🥚 Egg | 50g | Mayonnaise | 150g | **×3.0** | Mayo Machine | 3h |
+| 🥛 Milk | 100g | Pudding | 250g | **×2.5** | Pudding Maker | 8h |
+| 🍇 Grape | 85g | Wine | 340g | **×4.0** | Keg | 24h |
+| ☕ Coffee Bean | 65g | Coffee | 250g | **×3.8** | Keg | 24h |
+| 🥦 Broccoli | 185g | Dried/Preserved | 470g | **×2.5** | Dehydrator/Jar | 8h |
+| 🍈 Melon | 260g | Melon Wine | 740g | **×2.8** | Keg | 24h |
+| 🐖 Truffle | 200g | Truffle Oil | 400g | **×2.0** | Oil Press | 6h |
+| 👕 Wool | 120g | Cloth | 240g | **×2.0** | Loom | 4h |
+
+**Golden rule:** Any item that can be processed — **never sell it raw**. Even if you only have one Mayo Machine, process those eggs before selling. 3 hours for +100g is an ROI no other activity can touch.

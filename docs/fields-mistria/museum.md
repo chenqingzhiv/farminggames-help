@@ -1,144 +1,144 @@
 ---
-title: Fields of Mistria — 博物馆捐赠与收藏完全指南
-description: Fields of Mistria Museum & Collection 深度攻略 — 捐赠触发条件、所有捐赠类别、稀有度系统、里程碑奖励、最佳刷取地点与完整收藏清单
+title: Fields of Mistria — Museum Donation & Collection Complete Guide
+description: Fields of Mistria Museum & Collection deep guide — donation unlock conditions, all donation categories, rarity system, milestone rewards, best farming locations, and full collection checklist.
 date: 2026-07-05
 ---
 
-# 🏛️ Fields of Mistria — 博物馆捐赠与收藏完全指南
+# 🏛️ Fields of Mistria — Museum Donation & Collection Complete Guide
 
-将你的发现捐赠给 Mistria 博物馆，不仅可以修复这座古老建筑、解锁新区域和功能，还能获得全游戏最丰厚的里程碑奖励。本指南覆盖 **所有捐赠类别、稀有度分级、刷取策略和完整收藏清单。**
-
----
-
-## 🔓 博物馆解锁
-
-**触发条件：** 游戏第 5 天左右，镇长会给你一封信告知博物馆已开放。前往城镇中心右侧的博物馆，与馆长 **Katherine** 对话即可开始捐赠。
-
-> 💡 **Tip:** 从第 1 天起就**保存所有你捡到的"可捐赠"物品** — 不要急着卖。很多早期看似值钱的物品（如金色齿轮、远古钱币）只有一两百金币，但捐赠后解锁的奖励价值远超这个数字。
+Donate your discoveries to the Mistria Museum to restore the ancient building, unlock new areas and features, and earn the game's richest milestone rewards. This guide covers **all donation categories, rarity tiers, farming strategies, and a complete collection checklist.**
 
 ---
 
-## 📂 捐赠类别一览
+## 🔓 Unlocking the Museum
 
-| 类别 | 总件数 | 典型物品 | 难度 |
+**Trigger:** Around day 5, the mayor sends you a letter announcing the museum is open. Head to the museum on the right side of town center and speak with curator **Katherine** to begin donating.
+
+> 💡 **Tip:** From day 1, **save every "donatable" item you find** — don't rush to sell them. Many early items that seem valuable (like Golden Gears or Ancient Coins) are only worth a few hundred gold, but the rewards they unlock are worth far more.
+
+---
+
+## 📂 Donation Categories Overview
+
+| Category | Total Items | Sample Items | Difficulty |
 |:-----|:------:|:---------|:----:|
-| 🧱 文物 (Artifacts) | 35 | 古代工具、陶器碎片、珠宝 | ⭐⭐⭐ |
-| 🦴 化石 (Fossils) | 25 | 恐龙骨骼、远古贝壳、琥珀 | ⭐⭐⭐⭐ |
-| 💎 宝石 (Gems) | 20 | 红宝石、祖母绿、紫水晶 | ⭐⭐⭐ |
-| 🐟 鱼类 (Fish) | 30 | 河鱼、海鱼、洞穴鱼 | ⭐⭐ |
-| 🌿 植物标本 (Flora) | 20 | 稀有花卉、魔法植物 | ⭐⭐ |
-| 🥘 烹饪 (Cuisine) | 25 | 各季节特色料理 | ⭐⭐⭐⭐ |
-| 🎭 历史文物 (Relics) | 15 | 符石、古代卷轴、神器 | ⭐⭐⭐⭐⭐ |
-| **总计** | **170** | — | — |
+| 🧱 Artifacts | 35 | Ancient tools, pottery shards, jewelry | ⭐⭐⭐ |
+| 🦴 Fossils | 25 | Dinosaur bones, ancient shells, amber | ⭐⭐⭐⭐ |
+| 💎 Gems | 20 | Ruby, Emerald, Amethyst | ⭐⭐⭐ |
+| 🐟 Fish | 30 | River fish, sea fish, cave fish | ⭐⭐ |
+| 🌿 Flora | 20 | Rare flowers, magical plants | ⭐⭐ |
+| 🥘 Cuisine | 25 | Seasonal specialty dishes | ⭐⭐⭐⭐ |
+| 🎭 Relics | 15 | Rune stones, ancient scrolls, artifacts | ⭐⭐⭐⭐⭐ |
+| **Total** | **170** | — | — |
 
 ---
 
-## 🎲 稀有度系统
+## 🎲 Rarity System
 
-每件物品有 4 个稀有度等级，直接影响捐赠分数和奖励质量：
+Every item has 4 rarity tiers, directly affecting donation score and reward quality:
 
-| 等级 | 标识 | 基准分 | 常见来源 | 售价范围 |
+| Tier | Color | Base Score | Common Sources | Price Range |
 |:----:|:-----|:-----:|:---------|:--------:|
-| ⚪ 普通 Common | 白色 | 5 | 地面拾取、浅层挖掘 | 10-50g |
-| 🟢 罕见 Uncommon | 绿色 | 15 | 矿洞 1-20 层、钓鱼 | 50-150g |
-| 🔵 稀有 Rare | 蓝色 | 40 | 矿洞 20-60 层、特殊事件 | 150-400g |
-| 🟣 史诗 Epic | 紫色 | 100 | 矿洞 60+ 层、BOSS掉落 | 400-1000g |
+| ⚪ Common | White | 5 | Ground pickup, shallow digging | 10–50g |
+| 🟢 Uncommon | Green | 15 | Mine floors 1–20, fishing | 50–150g |
+| 🔵 Rare | Blue | 40 | Mine floors 20–60, special events | 150–400g |
+| 🟣 Epic | Purple | 100 | Mine floors 60+, Boss drops | 400–1000g |
 
-**稀有度权重：** 同类别中，捐赠一件史诗物品 ≈ 捐赠 20 件普通物品的分数。优先刷取高稀有度物品能更快达到里程碑阈值。
+**Rarity Weight:** One Epic item in a category is worth roughly 20 Common items for score. Prioritize high-rarity items to hit milestone thresholds faster.
 
 ---
 
-## 🏆 里程碑奖励
+## 🏆 Milestone Rewards
 
-| 捐赠分数 | 奖励 | 解锁内容 |
+| Donation Score | Reward | Unlocks |
 |:-------:|:-----|:---------|
-| 50 | 📜 考古学指南 | 解锁挖掘点标记 |
-| 100 | 🧪 鉴定工具 | 可鉴定未识别物品 |
-| 200 | 🗺️ 探宝地图 | 显示隐藏收藏品位置 |
-| 350 | 🎣 稀有鱼饵配方×5 | 钓鱼收藏加速 |
-| 500 | 💧 水之魔法卷轴 | 新魔法技能解锁 |
-| 750 | 🪴 温室蓝图 | 可以建造温室 |
-| 1000 | 🚂 火车站修复 | 解锁新区域 — 每天来新商品 |
-| 1500 | ⚡ 雷之魔法卷轴 | 新魔法技能 |
-| 2000 | 🏅 博物馆大师奖杯 | 全收藏家成就进度 |
+| 50 | 📜 Archaeology Guide | Dig site markers revealed |
+| 100 | 🧪 Identification Tool | Can identify unidentified items |
+| 200 | 🗺️ Treasure Map | Shows hidden collectible locations |
+| 350 | 🎣 Rare Bait Recipe×5 | Fish collection accelerator |
+| 500 | 💧 Water Magic Scroll | New magic skill unlocked |
+| 750 | 🪴 Greenhouse Blueprint | Can build a greenhouse |
+| 1000 | 🚂 Train Station Repair | Unlocks new area — new goods daily |
+| 1500 | ⚡ Thunder Magic Scroll | New magic skill |
+| 2000 | 🏅 Museum Master Trophy | Full collector achievement progress |
 
-> 💡 **Tip:** **500 分解锁温室**是游戏最重要的中期里程碑。建议优先刷宝石和鱼类捐赠 — 这两类物品数量多、获取稳定，能最快堆到 500 分。化石和史诗文物虽有高分但随机性太大。
+> 💡 **Tip:** **500 points for the Greenhouse** is the game's most important mid-game milestone. Prioritize Gems and Fish donations — these categories have lots of items with steady availability, getting you to 500 fastest. Fossils and Epic artifacts give high scores but are too RNG-dependent.
 
 ---
 
-## 🗺️ 最佳刷取地点
+## 🗺️ Best Farming Locations
 
-### 文物类
+### Artifacts
 
-| 物品 | 最佳地点 | 推荐工具 |
+| Item | Best Location | Recommended Tool |
 |:-----|:---------|:---------|
-| 陶器碎片 | 农场南部海滩挖掘点 | 铲子（铜级+） |
-| 古代工具 | 矿洞 10-25 层 | 镐子 |
-| 珠宝饰品 | 矿洞 40-50 层宝箱 | 钥匙 |
-| 符文石碑 | 森林遗迹区（雨天刷新率高） | 铲子 |
+| Pottery Shard | Southern beach dig sites | Shovel (Copper+) |
+| Ancient Tool | Mine floors 10–25 | Pickaxe |
+| Jewelry | Mine floors 40–50 chests | Keys |
+| Rune Tablet | Forest ruins (higher spawn rate on rainy days) | Shovel |
 
-### 化石类
+### Fossils
 
-| 物品 | 最佳地点 | 时段 |
+| Item | Best Location | Time |
 |:-----|:---------|:----:|
-| 小型骨骼 | 矿洞 5-15 层（地面拾取） | 全天 |
-| 大型骨骼 | 矿洞 55-70 层 | 全天 |
-| 琥珀化石 | 森林挖掘点（树桩旁） | 雨后概率翻倍 |
-| 远古贝壳 | 海滩区域 | 退潮时 |
+| Small Bone | Mine floors 5–15 (ground pickup) | Any |
+| Large Bone | Mine floors 55–70 | Any |
+| Amber Fossil | Forest dig sites (near tree stumps) | Chance doubles after rain |
+| Ancient Shell | Beach area | Low tide |
 
-### 宝石类
+### Gems
 
-| 宝石 | 层数 | 开采技巧 |
+| Gem | Floors | Mining Tips |
 |:-----|:----:|:---------|
-| 紫水晶 | 10-30 | 留意紫色晶体群 |
-| 红宝石 | 30-50 | 火把照明下反光明显 |
-| 祖母绿 | 50-70 | 黑色岩石背景中找绿色 |
-| 钻石 | 70+ | 用炸弹炸大范围岩层 |
-| 星之碎片 | 80+ | 仅限特殊裂缝岩壁 |
+| Amethyst | 10–30 | Look for purple crystal clusters |
+| Ruby | 30–50 | Reflects torchlight — easy to spot |
+| Emerald | 50–70 | Green against dark rock background |
+| Diamond | 70+ | Use bombs on large rock formations |
+| Star Shard | 80+ | Special cracked walls only |
 
 ---
 
-## ✅ 完整收藏清单（按类别）
+## ✅ Complete Collection Checklist (By Category)
 
-### 文物（35/35）
+### Artifacts (35/35)
 
-- [ ] 陶器碎片 (1/6) — 普通，海滩
-- [ ] 古代钱币 (1/3) — 罕见，矿洞 5-20 层
-- [ ] 铜制工具头 (1/2) — 普通，农场挖掘
-- [ ] 铁制工具头 (1/2) — 罕见，矿洞 30-45 层
-- [ ] 古代钥匙 — 稀有，矿洞 50+ 层宝箱
-- [ ] 破碎雕像 (1/4) — 各种碎片在不同层数
-- [ ] 符文石 (1/5) — 史诗，矿洞 60+ 层
-- ...（游戏内图鉴查看完整列表）
+- [ ] Pottery Shard (1/6) — Common, Beach
+- [ ] Ancient Coin (1/3) — Uncommon, Floors 5–20
+- [ ] Copper Tool Head (1/2) — Common, Farm digging
+- [ ] Iron Tool Head (1/2) — Uncommon, Floors 30–45
+- [ ] Ancient Key — Rare, Floors 50+ chests
+- [ ] Broken Statue (1/4) — Various pieces on different floors
+- [ ] Rune Stone (1/5) — Epic, Floors 60+
+- [ ] ... (see in-game collection for full list)
 
-### 鱼类（30/30）
+### Fish (30/30)
 
-- [ ] 鲈鱼 — 河流，全天
-- [ ] 鲶鱼 — 河流，雨天
-- [ ] 金鱼 — 矿洞地下湖
-- [ ] 灯笼鱼 — 矿洞 40+ 层水域
-- [ ] 海马 — 海滩，清晨
-- [ ] 小丑鱼 — 海滩，下午
-- [ ] 古代鱼 — 矿洞 70+ 层（史诗）
-- ...（详见钓鱼图鉴）
+- [ ] Bass — River, any time
+- [ ] Catfish — River, rainy weather
+- [ ] Goldfish — Mine underground lake
+- [ ] Lantern Fish — Mine floors 40+ water areas
+- [ ] Seahorse — Beach, early morning
+- [ ] Clownfish — Beach, afternoon
+- [ ] Ancient Fish — Mine floors 70+ (Epic)
+- [ ] ... (see fishing collection for full list)
 
 ---
 
-## 🔄 重复物品处理策略
+## 🔄 Duplicate Item Strategy
 
-| 类别 | 重复物品 → 建议处理 | 原因 |
+| Category | Dupes → Recommended | Why |
 |:-----|:------------------|:-----|
-| 普通文物 | ✅ **卖掉** | 售价 10-50g，捐赠分已拿 |
-| 罕见文物 | ⚖️ **留 1-2 个备用** | 部分用于制作或任务 |
-| 稀有文物 | ❌ **保留** | 可能有隐藏用途或后续更新 |
-| 普通鱼类 | ✅ **烹饪/卖掉** | 钓鱼量大，不缺这一个 |
-| 稀有鱼类 | 🐟 **放鱼缸** | 鱼缸装饰评分高 |
-| 宝石（普通） | ✅ **卖掉** | 好卖，不值得囤积 |
-| 宝石（稀有） | ❌ **保留** | 制作高级饰品需要 |
-| 化石 | ✅ **卖掉** | 化石超过捐赠量后无其他用途 |
+| Common Artifacts | ✅ **Sell** | 10–50g each — already got the donation score |
+| Uncommon Artifacts | ⚖️ **Keep 1–2** | Some used in crafting or quests |
+| Rare Artifacts | ❌ **Keep** | Potential hidden uses or future updates |
+| Common Fish | ✅ **Cook / Sell** | You'll catch plenty |
+| Rare Fish | 🐟 **Put in fish tank** | Fish tank decor gives high score |
+| Common Gems | ✅ **Sell** | Not worth hoarding |
+| Rare Gems | ❌ **Keep** | Needed for high-end accessory crafting |
+| Fossils | ✅ **Sell** | No use beyond donation |
 
-> 💡 **Tip:** **博物馆捐赠给分 ≠ 物品售价。** 一件史诗文物卖商店可能值 800g，但捐给博物馆给 100 分，而 100 分可能需要 20 件普通物品（总售价约 200g 以上）。所以：**先捐后卖** — 每种物品捐第一件，重复的再卖。
+> 💡 **Tip:** **Donation score ≠ item sell price.** An Epic artifact might sell for 800g at the store, but it gives 100 donation points — the same score you'd need 20 Common items (worth ~200g total) to match. So: **donate first, sell later** — donate one of each, sell the rest.
 
 ---
 
-*数据来源：Fields of Mistria Wiki 1.0, game version Early Access 0.8+*
+*Data source: Fields of Mistria Wiki 1.0, game version Early Access 0.8+*

@@ -1,179 +1,195 @@
-# 🏞️ 星露谷物语新手攻略：开局第一天全指南
+---
+title: "Stardew Valley Beginner's Guide: Day 1 Complete Walkthrough"
+description: "Complete walkthrough for Day 1 in Stardew Valley 1.6 — character creation, farm selection, daily routine, fishing, combat, mining, and newbie pitfalls to avoid"
+date: 2026-07-05
+---
 
-> 参考视频：[王道長「纯新手向攻略（第一期）——开局第一天」](https://www.bilibili.com/video/BV195411N7Hv) · 244万播放
+# 🏞️ Stardew Valley Beginner's Guide: Day 1 Complete Walkthrough
+
+> Reference: [Stardew Valley Wiki - Getting Started](https://stardewvalleywiki.com/Starting) · [r/StardewValley Beginner FAQ](https://www.reddit.com/r/StardewValley/wiki/faq)
 
 ---
 
-## 📋 本篇涵盖
+## 📋 What This Guide Covers
 
-- 开局前准备：角色创建与农场类型选择
-- 第一天上午：起床、看电视、接任务
-- 第一天下午：探索农场、拜访鹈鹕镇
-- 第一天晚间：钓鱼、整理工具、存档策略
-- 新手避坑清单
-
----
-
-## 🎮 1. 开局前的关键选择
-
-刚打开游戏，主菜单下有三个关键选择：
-
-![星露谷物语主菜单](../images/guides/sv-beginner-menu.jpg)
-
-### 1.1 农场类型
-
-星露谷有 **7种农场布局**，新手推荐：
-
-| 农场类型 | 推荐度 | 理由 |
-|:---------|:------|:-----|
-| **标准农场** | ⭐⭐⭐⭐⭐ | 最大种植面积，最适合新手熟悉游戏机制 |
-| 河边农场 | ⭐⭐⭐ | 钓鱼方便但种地空间少 |
-| 森林农场 | ⭐⭐⭐⭐ | 前期物资丰富（硬木/野草），喜欢采集可选 |
-| 山顶农场 | ⭐⭐ | 地形崎岖，新手容易迷路 |
-| 荒野农场 | ⭐⭐ | 晚上刷怪，新手压力大 |
-| 四角农场 | ⭐⭐⭐⭐ | 联机或喜欢规整布局可选 |
-| 海滩农场 | ⭐ | 不能放洒水器，极度不适合新手 |
-
-> 💡 **推荐**：第一档玩 **标准农场**，熟悉后再换其他类型。
-
-### 1.2 角色自定义
-
-- **名字**：随意，但建议用自己能记住的英文名（联机时方便）
-- **宠物偏好**：猫🐱 和狗🐶 只是外观区别，不影响游戏性
-- **喜欢的事物**：不影响游戏机制，只是NPC对话彩蛋
+- Pre-game setup: Character creation & farm type selection
+- Morning routine: Wake up, watch TV, and check your mail
+- Afternoon exploration: Tour your farm and visit Pelican Town
+- Evening fishing: Your first money-making session
+- Newbie pitfalls to avoid
+- Optional: Rushing the mines on day 1
 
 ---
 
-## 🏠 2. 第一天早上（6:00–8:00）
+## 🎮 1. Critical Choices Before You Start
 
-![第一天清晨：站在农场上](../images/guides/sv-beginner-first-farm.jpg)
+When you first open the game, the main menu has three key decisions:
 
-游戏从 **春1日 早上6:00** 开始。你站在爷爷留下的荒废农场上。
+### Character Creation
 
-### 2.1 第一步：进屋看电视
+Your appearance choices affect nothing mechanically — pick whatever you like. The only meaningful decision is **pet preference**: choose between a cat or a dog. This affects which pet bowl item you interact with but has no gameplay impact beyond aesthetics.
 
-![在家看电视选频道](../images/guides/sv-beginner-tv.jpg)
+### Farm Type Selection — The Most Important Decision
 
-进门前先按 **E** 打开工具栏，**右键电视** 可以收看：
+| Farm Type | Focus | Difficulty | Best For |
+|:----------|:------|:-----------|:---------|
+| 🌱 **Standard Farm** | All-around | Easy | First-time players — largest tillable area |
+| 🌲 **Forest Farm** | Foraging + berry bushes | Easy | Forage-heavy playstyles |
+| 🪨 **Hill-top Farm** | Mining | Medium | Players who want more mining access |
+| 🏝️ **Wilderness Farm** | Combat | Hard | Monsters spawn at night |
+| 🪴 **Four Corners Farm** | Multiplayer | Easy | Co-op players, organized layouts |
+| 🪷 **Beach Farm** | Fishing | Hard | Limited sprinklers — advanced only |
+| 🏜️ **Meadowlands Farm** | Animals | Medium | 1.6 new farm type — starter animals + grass |
 
-| 频道 | 作用 | 建议 |
-|:-----|:----|:----|
-| 🌤️ **天气预报** | 查看明天的天气 | ✅ **每天必看** — 下雨天不用浇水，适合下矿 |
-| 🔮 **算命占卜** | 查看今日运气 | ✅ **每天必看** — 好运日适合下矿/钓鱼/开晶球 |
-| 🍳 **酱料女皇** | 学新菜谱（周日/周三重播） | 前期不太重要 |
-| 🌙 **离地而居** | 游戏小贴士 | 新手建议看几期 |
+**For your first playthrough:** Choose **Standard Farm**. It has the most space and no gimmicks. The Forest Farm is also beginner-friendly if you like foraging.
 
-> ⚡ **第一天**：春1日通常是晴天，运气中等偏上。看完电视后，时间才到6:10左右，有大把时间。
-
-### 2.2 检查信箱 📬
-
-出门后在房屋右侧的邮箱处拿到第一封信——**市长刘易斯** 欢迎你来到星露谷，并给了你 **15个防风草种子** 作为见面礼。
-
----
-
-## 🌱 3. 第一天最重要的事
-
-### 3.1 开垦农田
-
-先别急着去镇上！第一天最重要的任务是 **开垦土地并种下防风草**：
-
-1. **清出空地**：用斧头砍几棵树（获得木材），用镰刀割杂草
-2. **耕地**：用锄头右键点击土地，开垦约 **15格** 即可（刚好种完送的种子）
-3. **播种**：打开背包（E键），选中防风草种子，在耕好的地上右键
-4. **浇水**：用水壶右键浇满每一格（水壶在池塘边右键可以灌水）
-
-> 📝 **第一天的体力管理**：你有 **270体力**（绿色能量条）。砍树和锄地都会消耗体力。建议保留至少一半体力去钓鱼。
-
-### 3.2 必做：拜访罗宾（木匠）
-
-**往地图右侧走** → 进入**深山**区域 → 找到 **罗宾的木匠店**（营业到下午5点）。
-
-跟她说话可以获得重要信息，同时解锁 **接取任务** 功能。
+> **Tip:** Once you pick a farm type, you cannot change it without starting a new save. The Meadowlands Farm (added in 1.6) gives you two starter chickens and a coop already built — a great choice if you want to jump straight into animals.
 
 ---
 
-## 🗺️ 4. 探索鹈鹕镇
+## 🌅 2. Day 1 Morning Routine
 
-**沿农场的路一直往下走**，你会进入鹈鹕镇。第一天建议至少认识这几个关键NPC：
+### Wake Up (6:00 AM)
 
-| NPC | 位置 | 为何重要 |
-|:----|:-----|:--------|
-| **皮埃尔** 🏪 | 杂货店（镇上中央） | 买种子、卖作物的地方（营业到下午5点） |
-| **罗宾** 🪚 | 木匠店（山上） | 建建筑、升级工具、买家具 |
-| **克林特** ⛏️ | 铁匠铺（镇东南） | 升级工具、开晶球 |
-| **威利** 🎣 | 鱼店（海滩） | 买鱼竿、鱼饵 |
-| **乔迪 / 玛妮** | 各自家中 | 前期任务会用到 |
+You arrive in Stardew Valley via bus, greeted by **Robin** and **Lewis**. Follow the brief tutorial cutscene, then you are free to explore.
 
-> ⚠️ **注意**：大部分商店 **下午5点关门**！第一天主要是认路，不用急着买东西。
+### Watch TV (Essential!)
 
-### 第一天路线推荐
+| Channel | What You Get | Priority |
+|:--------|:-------------|:---------|
+| 🎤 Fortune Teller | Daily luck forecast | **Must-watch** before mining |
+| 🌤️ Weather Report | Tomorrow's weather | Important for planning |
+| 🍳 Queen of Sauce | Cooking recipes (Sunday reruns on Wed) | Collect every new recipe |
+| 🏋️ Livin' Off The Land | Farming tips | Useful for brand new players |
 
-```
-农场 → 罗宾木匠店（看路） → 皮埃尔杂货店（卖作物换钱）
-→ 海滩见威利（买训练鱼竿） → 回家种地 → 傍晚钓鱼
-```
+**Day 1 Specific:** Check the weather — if it's going to rain tomorrow, you can skip watering and spend the day mining or fishing instead.
 
----
+### Check Your Mail
 
-## 🎣 5. 傍晚：钓鱼开局
-
-钓鱼是 **星露谷前期最赚钱的活动**。
-
-### 5.1 怎么获得鱼竿
-
-> 如果第一天不钓鱼，可以在春3日 **威利给你邮寄** 一根竹鱼竿。
-
-要提前钓鱼：
-- 去海滩找威利花 **50g** 买竹鱼竿（或 **25g** 训练鱼竿——鱼更难跑）
-- 想钓鱼需要先挖一些 **虫子**（用锄头挖地里的蠕虫洞），合成鱼饵
-
-### 5.2 第一天钓鱼收益
-
-| 时间 | 地点 | 常见鱼 | 售价 |
-|:----|:-----|:-------|:----|
-| 6:00–19:00 | 山区湖 | 虹鳟鱼/鲈鱼 | 75g~100g |
-| 全天 | 海滩 | 沙丁鱼 | 50g |
-| 全天 | 镇旁河 | 鲈鱼 | 50g |
-
-> 💡 **新手钓鱼技巧**：轻点鼠标控制进度条，不要一直按着。鱼动你才动，鱼停就松开让进度条回到中间。
+You receive several letters on day 1:
+- **Introduction to the Valley** — from Lewis
+- **The Adventurer's Guild invitation** — from Marlon
+- **A package** from your grandfather (contains 15 parsnip seeds and 15g)
 
 ---
 
-## ⚔️ 6. 避坑清单（新手必看）
+## 🌾 3. Afternoon: Clear & Plant
 
-| ❌ 不要做的事 | ✅ 应该做的事 |
-|:-------------|:-------------|
-| ❌ 卖掉所有木材和石头 | ✅ 留下至少 **50个木材** 修桥（春3日任务） |
-| ❌ 第一天就买很多种子 | ✅ 先防风草15个，赚钱后春2日补种 |
-| ❌ 挥霍体力砍树 | ✅ 保留 **100+体力** 钓鱼/下矿 |
-| ❌ 晚上12点后还在外面 | ✅ 凌晨2点前必须上床睡觉！ |
-| ❌ 开垦超出播种能力的土地 | ✅ 第一天15格就够 |
-| ❌ 把所有金币花光 | ✅ 至少要留 **100g** 以备不时之需 |
+### Clearing the Farm
+
+You start with an overgrown farm full of:
+- **Weeds** → Mixed Seeds (save these), Fiber
+- **Twigs & branches** → Wood
+- **Small stones** → Stone
+- **Large stumps & boulders** → need an upgraded axe/pickaxe (leave for later)
+
+**Day 1 clearing priorities:**
+1. Clear enough space for **15 parsnip seeds** (about 20 tiles)
+2. Clear a path to your front door
+3. Chop enough wood for a **chest** (50 wood) and **fence** (optional)
+4. Leave large stumps and boulders — you can't break them day 1
+
+### Planting Parsnips
+
+**Plant all 15 parsnip seeds.** Here's why:
+
+| Factor | Parsnip | Other Crops | Notes |
+|:-------|:--------|:-------------|:------|
+| Grow Time | 4 days | 6-12 days | Harvest before Spring 5 |
+| Seed Cost | 20g | 50-150g | Affordable for starting capital |
+| Sell Price | 35g | 60-250g | Quick reinvestment cycle |
+| Water | Daily | Daily | Same requirements |
+
+**Planting strategy:**
+1. Hoe 15 tiles of soil (right-click with hoe equipped)
+2. Apply fertilizer if you have any (optional day 1)
+3. Plant seeds (right-click with seeds selected)
+4. Water each tile (right-click with watering can equipped)
+
+> **Tip:** Leave at least 2 empty tiles for mixed seeds from weeds. You will also want room for Spring Onion foraging patches along the river south of your farm — those respawn daily and sell for 8-24g each.
 
 ---
 
-## 📊 第一天目标清单
+## 🎣 4. Evening: Fishing For Starter Gold
 
-- [x] 起床看电视（天气预报 + 算命）
-- [x] 查看邮箱，拿到防风草种子
-- [x] 开垦15格土地，种下防风草
-- [x] 认识罗宾、皮埃尔等关键NPC
-- [x] 保留足够体力钓鱼赚钱
-- [x] 凌晨2点前回家睡觉
-- [x] 保存游戏（睡觉自动存）
+After planting and watering, head to **Pelican Town** via the bus stop path (south of your farm).
+
+### Get Your Fishing Rod
+
+1. Walk to **Beach** (east from town square, then south)
+2. Talk to **Willy** at the fish shop (south pier)
+3. He will give you the **Bamboo Pole** for free after a short tutorial
+4. Buy **Bait** (5g each from Willy's shop) — 20-30 pieces is enough for day 1
+
+### Where to Fish on Day 1
+
+| Location | Common Fish | Difficulty | Best For |
+|:---------|:------------|:-----------|:---------|
+| 🌊 Ocean (Beach) | Sardine, Anchovy, Herring | Medium | Best prices |
+| 🏞️ River (Town) | Chub, Sunfish, Perch | Easy | Beginners |
+| 🌲 Mountain Lake | Carp, Bullhead | Medium | Good variety |
+
+**Beginner Recommendation:** Start at the **river near Leah's Cottage** (south of town). The fish are easier to catch, and chub sell for a reliable 50g each.
+
+### Fishing Mini-Game Tips
+
+| Problem | Solution |
+|:--------|:---------|
+| 🎯 Fish bounces too fast | Tap, don't hold — short bursts keep the bar steady |
+| 🐟 Fish moves to top/bottom | Let the bar float down naturally, then burst back |
+| ⚡ Small fish icon | Harder to catch — skip these, focus on medium fish |
+| 🤚 Green bar too small | Level up fishing skill = bigger bar |
 
 ---
 
-## 🎯 第一天小目标总结
+## ⛏️ 5. Optional: Rush the Mines Day 1
 
-**目标**：把15个防风草种下去 → 认识镇上几个关键NPC → 傍晚钓鱼攒第一桶金。
+If you prefer combat over fishing, you can reach the mines on day 1 with a focused sprint:
 
-**春2日预告**：
-- 皮埃尔杂货店开门（买更多防风草种子）
-- 如果下雨 → 不用浇水 → 适合去矿洞
-- 继续钓鱼攒钱 → 春5日之前目标是 **攒够2000g买草莓种子**
+1. Skip fishing — go straight to the **Adventurer's Guild** (east of town, north of the mines entrance)
+2. Talk to **Marlon** to register
+3. Enter the mines (requires **Rusty Sword** from Marlon)
+4. Clear **floors 1-5** for copper ore and gems
+
+**Rewards for rushing:**
+- Copper ore for tool upgrades days earlier
+- Gemstones that sell for 100-300g each
+- Experience toward mining skill
+- **Bug Meat** drops — usable in 1.6 recipes
+
+> **Tip:** Don't overdo it. If your health drops below 50%, eat or leave. Passing out in the mines costs you 10% of your gold and you might lose items. Day 1 stamina is limited — mine until you have 10-15 copper ore, then head home.
 
 ---
 
-> 视频来源：[B站 · 王道長 — 纯新手向攻略（第一期）——开局第一天](https://www.bilibili.com/video/BV195411N7Hv)  
-> 发布于 FarmingGames.Help — 种田游戏攻略一站式数据库
+## ❌ Common Newbie Pitfalls
+
+| Mistake | Consequence | Solution |
+|:--------|:------------|:---------|
+| ❌ Buying too many seeds | Can't afford fishing rod or food | Stick to the 15 free parsnips + 2-3 extra |
+| ❌ Cutting all grass | No hay for animals later | Leave at least 50 grass tiles uncut |
+| ❌ Selling all resources | Can't build chests/fences day 2 | Keep 50 wood + 50 stone minimum |
+| ❌ Ignoring the TV | Miss weather forecast | Watch TV every morning, no exceptions |
+| ❌ Overworking stamina | Pass out at 2:00 AM, lose gold | Stop farming by 10 PM, save energy for last-minute fishing |
+| ❌ Foraging but not saving | Need Spring Onions for community bundle | Store 1 of each foragable before selling |
+| ❌ Not talking to NPCs | Miss early relationship opportunities | Talk to everyone you pass — costs no stamina |
+| ❌ Throwing away artifacts/donations | Delays museum completion | Check the museum before selling anything marked "artifact" |
+
+---
+
+## ✅ Day 1 Summary Checklist
+
+| ✅ | Task | Status |
+|:--|:-----|:-------|
+| ✅ | Complete prologue cutscene | |
+| ✅ | Check TV (weather + fortune) | |
+| ✅ | Read all mail | |
+| ✅ | Clear 20+ farm tiles | |
+| ✅ | Plant and water 15 parsnips | |
+| ✅ | Craft at least 1 chest | |
+| ✅ | Visit Pelican Town | |
+| ✅ | Talk to Willy → get fishing rod | |
+| ✅ | Catch 3-5 fish | |
+| ✅ | Save 50 wood + 50 stone | |
+| ✅ | Sleep before 12:00 AM (to avoid low energy next day) | |
+
+> **Final tip:** Day 1 in Stardew Valley is about **foundation, not perfection**. You don't need to min-max — just plant your parsnips, catch a few fish, and enjoy the atmosphere. The game rewards consistent daily progress far more than perfect day 1 execution. Save your min-max energy for Spring 5+, when you have a feel for the game and some gold in your pocket.

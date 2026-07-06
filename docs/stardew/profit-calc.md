@@ -1,6 +1,6 @@
 ---
 title: 💰 Complete Money-Making Profit Calculator
-description: > Data version: Stardew Valley 1.6 | This page compares ROI for all major money-making methods
+description: "Data version: Stardew Valley 1.6 | This page compares ROI for all major money-making methods"
 date: 2026-06-27
 ---
 

@@ -1,123 +1,123 @@
 ---
-title: Fields of Mistria — 工匠系统与锻造攻略
-description: 全面解析 Fields of Mistria 工匠系统：工作台解锁顺序、各机器投入产出收益、作物加工路线选择、附魔升级机制与材料 farming 策略
+title: Fields of Mistria — Crafting & Forging Guide
+description: Complete breakdown of the Fields of Mistria crafting system — workbench unlock order, machine input/output profit analysis, crop processing route decisions, enchantment upgrade mechanics, and material farming strategies.
 date: 2026-07-05
 ---
 
-# ⚒️ Fields of Mistria — 工匠系统与锻造攻略
+# ⚒️ Fields of Mistria — Crafting & Forging Guide
 
-工匠加工是 Mistria 财富积累的核心引擎。一台加工机可将作物价值提升 150%~250%，但设备顺序和配方选择决定了你的资金周转效率。
+Crafting is the core engine of wealth in Mistria. A single processing machine can boost crop value by 150%–250%, but your equipment order and recipe choices determine how fast your cash flows.
 
 ---
 
-## 🛠️ 工匠台解锁顺序
+## 🛠️ Workbench Unlock Order
 
-| # | 设备 | 解锁条件 | 材料 | 功能 |
+| # | Device | Unlock Condition | Materials | Function |
 |:-:|:----|:---------|:----|:-----|
-| 1 | 基础工作台 | 初始 | 10木+5石 | 基础工具/栅栏 |
-| 2 | 🔥 熔炉 | 任务：修复矿井 | 20石+10铜矿 | 矿石→金属锭 |
-| 3 | 🔨 铁砧 | 获得 2 铁锭 | 30石+5铁锭 | 武器/工具升级 |
-| 4 | 🧵 织布机 | 获得羊毛 | 40木+10铁锭 | 羊毛→布料(160g) |
-| 5 | 🪡 纺车 | 织布机+ | 30木+5铜锭 | 布料→丝绸(320g) |
-| 6 | 🫙 腌菜缸 | 城镇等级 D | 50石+10铜锭+5粘土 | 蔬菜→腌菜(1.8×) |
-| 7 | 🍷 酿酒桶 | 城镇 C | 60木+15铜+10铁 | 作物→果酒(2.5×) |
-| 8 | 🍯 蜂箱 | 城镇 C | 40木+5铁+花 | 花→蜂蜜(200g+) |
-| 9 | ✨ 魔法工坊 | 完成法师塔任务 | 8金锭+5神秘宝石 | 附魔/魔法装备 |
+| 1 | Basic Workbench | Starting | 10 Wood + 5 Stone | Basic tools / fences |
+| 2 | 🔥 Furnace | Quest: Fix the Mines | 20 Stone + 10 Copper Ore | Ore → Metal Bars |
+| 3 | 🔨 Anvil | Obtain 2 Iron Bars | 30 Stone + 5 Iron Bars | Weapon / tool upgrades |
+| 4 | 🧵 Loom | Obtain Wool | 40 Wood + 10 Iron Bars | Wool → Cloth (160g) |
+| 5 | 🪡 Spinning Wheel | Loom+ | 30 Wood + 5 Copper Bars | Cloth → Silk (320g) |
+| 6 | 🫙 Pickle Jar | Town Rank D | 50 Stone + 10 Copper Bars + 5 Clay | Veggies → Pickles (1.8×) |
+| 7 | 🍷 Keg | Town Rank C | 60 Wood + 15 Copper + 10 Iron | Crops → Wine (2.5×) |
+| 8 | 🍯 Beehive | Town Rank C | 40 Wood + 5 Iron + Flower | Flower → Honey (200g+) |
+| 9 | ✨ Magic Workshop | Complete wizard tower quest | 8 Gold Bars + 5 Mystery Gems | Enchant / magic gear |
 
-> **Tip:** 熔炉第一优先——没有金属锭就无法升级工具，无法搭建后续设备。第一周目标就是攒够 20 石头造熔炉。
+> **Tip:** Furnace is priority one — no metal bars means no tool upgrades and no follow-up machines. Your week 1 goal is gathering 20 Stone for the furnace.
 
 ---
 
-## 🏭 工匠机数学：投入→产出→利润
+## 🏭 Machine Math: Input → Output → Profit
 
-### 果酒 vs 腌菜 vs 果酱
+### Wine vs. Pickles vs. Jam
 
-| 原料 | 售价 | 🫙 腌菜(1.8×) | 时间 | 日利 | 🍷 果酒(2.5×) | 时间 | 日利 |
+| Ingredient | Sell Price | 🫙 Pickles (1.8×) | Time | Daily Profit | 🍷 Wine (2.5×) | Time | Daily Profit |
 |:----|:----:|:-------------:|:---:|:----:|:-------------:|:---:|:----:|
-| 南瓜 | 150g | 270g | 2天 | 60g | 375g | 4天 | 56g |
-| 草莓 | 85g | 153g | 1天 | 68g | 212g | 3天 | 42g |
-| 西瓜 | 160g | 288g | 2天 | 64g | 400g | 4天 | 60g |
-| 番茄 | 60g | 108g | 1天 | **48g** | 150g | 2天 | 45g |
+| Pumpkin | 150g | 270g | 2d | 60g | 375g | 4d | 56g |
+| Strawberry | 85g | 153g | 1d | 68g | 212g | 3d | 42g |
+| Watermelon | 160g | 288g | 2d | 64g | 400g | 4d | 60g |
+| Tomato | 60g | 108g | 1d | **48g** | 150g | 2d | 45g |
 
-**结论：腌菜胜在周转快，果酒胜在单次毛利高。** 前期缺设备时优先腌菜缸（1 天回本）。后期仓库满了再做果酒。
+**Bottom line: Pickles win on turnover, Wine wins on per-batch margin.** Early game when you're short on machines, prioritize Pickle Jars (1-day turnaround). Switch to Kegs later when your stockpile is overflowing.
 
-### 蜂蜜与丝绸
+### Honey & Silk
 
-| 机器 | 原料 | 产出 | 售价 | 加工时间 | 日利润 |
+| Machine | Input | Output | Sell Price | Processing Time | Daily Profit |
 |:----|:----|:----|:----:|:--------:|:------:|
-| 蜂箱 | 花（春/夏/秋可放置） | 季节蜂蜜 | 200~350g | 3天 | 67~117g |
-| 纺车 | 布料×1 | 丝绸 | 320g | 1天 | 160g |
-| 织布机 | 羊毛×2 | 布料 | 160g | 1天 | 80g |
+| Beehive | Flowers (placed Spring/Summer/Fall) | Seasonal honey | 200–350g | 3d | 67–117g |
+| Spinning Wheel | Cloth×1 | Silk | 320g | 1d | 160g |
+| Loom | Wool×2 | Cloth | 160g | 1d | 80g |
 
-**蜂蜜策略：** 春天蓝花蜜 200g → 夏日向日葵蜜 280g → 秋季魔法花蜜 350g。蜂箱放置在大量种植区旁，3 天收一次。推荐 4 个蜂箱起手，不计人力日利润 400g+。
-
----
-
-## 🧪 最佳工匠路线决策树
-
-```
-农作物
-├── 高价值单次作物（西瓜/南瓜）
-│   └── 🍷 果酒（长期陈酿，等 4 天卖高价）
-├── 低价值快速作物（番茄/胡萝卜）
-│   └── 🫙 腌菜（1 天快速周转，资金不断）
-├── 再生作物（草莓/蓝莓/玉米）
-│   ├── 🫙 腌菜（单次采 1 天回本→再投）
-│   └── 🍯 或保留鲜食（玉米→鸡饲料）
-└── 花卉
-    └── 🍯 蜂箱（3 天出蜂蜜，零人工成本）
-```
-
-**资金效率公式：** 日利润 = (加工售价 − 原料机会成本) ÷ 加工天数。前期资金紧张时选腌菜（高日利润），后期资金充裕时选果酒（高总利润）。
+**Honey Strategy:** Spring blue flower honey 200g → Summer sunflower honey 280g → Fall magic flower honey 350g. Place beehives near your main planting zones and harvest every 3 days. Start with 4 beehives for 400g+ daily profit (not counting labor).
 
 ---
 
-## ✨ 附魔系统：魔法工具升级
+## 🧪 Optimal Crafting Route Decision Tree
 
-魔法工坊解锁后，可使用神秘宝石对工具和武器进行附魔。
+```
+Crops
+├── High-value single-harvest (Watermelon / Pumpkin)
+│   └── 🍷 Wine (long maturing, wait 4 days for high price)
+├── Low-value fast crops (Tomato / Carrot)
+│   └── 🫙 Pickles (1-day fast turnover, keeps cash flowing)
+├── Regrow crops (Strawberry / Blueberry / Corn)
+│   ├── 🫙 Pickles (single harvest → 1-day ROI → reinvest)
+│   └── 🍯 Or keep fresh (Corn → chicken feed)
+└── Flowers
+    └── 🍯 Beehive (3-day honey, zero labor cost)
+```
 
-| 工具 | 附魔效果 | 需要材料 | 推荐度 |
+**Capital Efficiency Formula:** Daily Profit = (Processing Price − Ingredient Opportunity Cost) ÷ Processing Days. Tight on cash early on? Go pickles (high daily profit). Late-game loaded? Go wine (higher total profit).
+
+---
+
+## ✨ Enchantment System: Magic Tool Upgrades
+
+Once the Magic Workshop is unlocked, use Mystery Gems to enchant your tools and weapons.
+
+| Tool | Enchant Effect | Materials Needed | Rating |
 |:----|:---------|:---------|:------:|
-| ⛏️ 锄头 | 范围+1 / 消耗能量-25% | 3 神秘宝石 | 🥇 |
-| 🪓 斧头 | 硬木掉落率+50% / 速度+1 | 3 神秘宝石 | 🥇 |
-| 💧 水壶 | 范围+1 / 浇灌面积扇形 | 3 神秘宝石 | 🥇 |
-| ⚔️ 剑 | 吸血3% / 暴击率+10% / 元素伤害 | 5 神秘宝石 | 🥈 |
-| 🪚 镰刀 | 收割范围+1 / 干草掉落+50% | 3 神秘宝石 | 🥈 |
-| ⛏️ 镐 | 采矿速度+2 / 双倍矿石概率+15% | 3 神秘宝石 | 🥉 |
+| ⛏️ Hoe | Range+1 / Energy cost −25% | 3 Mystery Gems | 🥇 |
+| 🪓 Axe | Hardwood drop rate +50% / Speed+1 | 3 Mystery Gems | 🥇 |
+| 💧 Watering Can | Range+1 / Fan-shaped watering area | 3 Mystery Gems | 🥇 |
+| ⚔️ Sword | Lifesteal 3% / Crit rate +10% / Elemental damage | 5 Mystery Gems | 🥈 |
+| 🪚 Scythe | Harvest range+1 / Hay drop rate +50% | 3 Mystery Gems | 🥈 |
+| ⛏️ Pickaxe | Mining speed+2 / Double ore chance +15% | 3 Mystery Gems | 🥉 |
 
-**附魔顺序：** 锄头 > 水壶 > 斧头 > 剑 > 镰刀 > 镐。锄头和水壶的范围+1 直接减少每日农作时间 40%，是时间管理的最佳投资。
+**Enchant Order:** Hoe > Watering Can > Axe > Sword > Scythe > Pickaxe. Range+1 on Hoe and Watering Can cuts daily farm work by 40% — the best time management investment you can make.
 
-> **Tip:** 神秘宝石主要来自矿井 11~20 层的宝石矿脉、Boss 掉落和钓鱼宝箱。建议前 10 个附魔工具，多余的出售（每个 800g）。
+> **Tip:** Mystery Gems mainly drop from gem veins on mine floors 11–20, Boss drops, and fishing treasure chests. Use your first 10 for enchanting tools; sell any extras for 800g each.
 
 ---
 
-## 🗺️ 稀有材料获取指南
+## 🗺️ Rare Material Farming Guide
 
-| 材料 | 用途 | 获取方式 | 稀有度 |
+| Material | Use | How to Get | Rarity |
 |:----|:----|:---------|:---:|
-| 神秘宝石 | 附魔 | 矿井11~20层(15%) / 宝箱(5%) | ⭐⭐⭐ |
-| 魔法蘑菇 | 料理/附魔 | 矿井15~20层(日刷新) | ⭐⭐⭐ |
-| 古代种子 | 温室特殊作物 | 远古遗迹挖掘(3%) / 宝箱(2%) | ⭐⭐⭐⭐ |
-| 龙鳞矿 | 传说武器 | 矿井20层 Boss(25%) | ⭐⭐⭐⭐⭐ |
-| 丝线 | 丝绸/高级布料 | 纺车加工(布料→丝绸) | ⭐⭐ |
-| 硬木 | 高级建筑 | 神秘森林(每日刷新, 斧头Lv.3+) | ⭐⭐ |
-| 粘土 | 腌菜缸/建筑 | 锄地(15%) / 矿洞1~5层 | ⭐ |
+| Mystery Gem | Enchanting | Floors 11–20 (15%) / Chests (5%) | ⭐⭐⭐ |
+| Magic Mushroom | Cooking / Enchanting | Floors 15–20 (daily respawn) | ⭐⭐⭐ |
+| Ancient Seed | Greenhouse special crop | Ancient ruins dig (3%) / Chests (2%) | ⭐⭐⭐⭐ |
+| Dragon Scale Ore | Legendary weapon | Floor 20 Boss (25%) | ⭐⭐⭐⭐⭐ |
+| Silk Thread | Silk / premium cloth | Spinning Wheel (Cloth → Silk) | ⭐⭐ |
+| Hardwood | Advanced buildings | Mystic Forest (daily respawn, Axe Lv.3+) | ⭐⭐ |
+| Clay | Pickle Jar / buildings | Hoe ground (15%) / Mine floors 1–5 | ⭐ |
 
 ---
 
-## 🌳 工匠技能树
+## 🌳 Crafting Skill Tree
 
-| 技能 | 等级 | 效果 | 优先级 |
+| Skill | Level | Effect | Priority |
 |:----|:---:|:------|:------:|
-| 高效加工 | Lv.3 | 工匠机时间 -15% | 🥇 |
-| 双倍产出 | Lv.5 | 10% 概率双份 | 🥇 |
-| 品质提升 | Lv.7 | 加工品品质+1 级 | 🥈 |
-| 批量生产 | Lv.9 | 单次可投入 2 份 | 🥈 |
-| 魔法工匠 | Lv.10 | 25% 概率出魔法版(+50%售价) | 🥉 |
-| 附魔大师 | Lv.12 | 附魔 -1 宝石 | 🥉 |
+| Efficient Processing | Lv.3 | Machine time −15% | 🥇 |
+| Double Output | Lv.5 | 10% chance for double yield | 🥇 |
+| Quality Boost | Lv.7 | Processed goods quality +1 tier | 🥈 |
+| Batch Production | Lv.9 | Can input 2× materials at once | 🥈 |
+| Magic Crafter | Lv.10 | 25% chance for magic version (+50% sell price) | 🥉 |
+| Enchant Master | Lv.12 | Enchant costs −1 gem | 🥉 |
 
-**升级路线：** Lv.3 高效加工 → Lv.5 双倍产出 → Lv.7 品质提升 → Lv.10 魔法工匠。加工 200+ 件冲等级。
+**Leveling Path:** Lv.3 Efficient Processing → Lv.5 Double Output → Lv.7 Quality Boost → Lv.10 Magic Crafter. Process 200+ items to push your level.
 
-> **Tip:** 不要忽略蜂箱——蜂箱加工**不消耗手艺等级**（白送经验），3 天产一次蜂蜜 = 每 3 天白嫖 30~50 经验。长期挂 4 个，月赚 2400g + 600+ 经验。
+> **Tip:** Don't neglect beehives — they give **free XP regardless of your crafting level**. 3 days per honey batch = 30–50 free XP every 3 days. Run 4 long-term for 2400g/month + 600+ XP.
 
 *Data source: Fields of Mistria v0.8+ (Early Access)*

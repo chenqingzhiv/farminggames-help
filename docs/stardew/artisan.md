@@ -1,6 +1,6 @@
 ---
 title: 🧑‍🍳 Artisan Goods Profit Comparison
-description: > Data version: Stardew Valley 1.6 | Should you build a Keg? This table will tell you.
+description: "Data version: Stardew Valley 1.6 | Should you build a Keg? This table will tell you."
 date: 2026-06-27
 ---
 

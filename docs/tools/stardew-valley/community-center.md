@@ -1,6 +1,7 @@
 ---
 title: "Stardew Valley Community Center Bundle Tracker"
 description: "Interactive bundle tracking tool for Stardew Valley 1.6 — track all 6 rooms, their bundles, and required items with progress saved in your browser."
+date: 2026-07-05
 ---
 
 # 🏛️ Stardew Valley Community Center Bundle Tracker
@@ -76,7 +77,7 @@ Track your Community Center bundle progress in Stardew Valley 1.6. Check off ite
 ### 💡 Tips
 
 - **Don't rush the Quality Crops bundle** — you need Gold-quality Parsnips, Melons, Pumpkins, and Corn. Use Basic/Quality Fertilizer!
-- **The Fish Tank requires multiple seasons** — check which fish are available each season using the [Fish Tracker](/tools/stardew-valley/fish-tracker)
+- **The Fish Tank requires multiple seasons** — check which fish are available each season using the [Fish Tracker](fish-tracker.md)
 - **The Bulletin Board** has many cooking recipes — save your ingredients!
 - **The Vault** requires a total of 42,500g — start saving early
 - **1.6 additions**: Legendary Fish II bundles and the Children's Bundle with new 1.6 items (Raisins, Pear, etc.)

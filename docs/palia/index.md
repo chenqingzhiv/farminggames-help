@@ -4,6 +4,8 @@ description: 1. Complete the tutorial → Unlock basic tools
 date: 2026-06-27
 ---
 
+<a href="/assets/images/palia-library.jpg"><img src="/assets/images/palia-library.jpg" alt="Palia" style="width:100%; border-radius:8px; margin-bottom:16px;"></a>
+
 # Palia — Complete Guide
 
 ## Game Overview

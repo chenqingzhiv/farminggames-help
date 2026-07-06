@@ -1,176 +1,176 @@
 ---
-title: My Time at Sandrock — 作物与种植完全指南
-description: Sandrock 作物与种植深度攻略 — 完整作物数据表、水分管理策略、土壤品质与肥料、全季节利润排名、温室 vs 露地对比、技能加点推荐与作物加工分析
+title: My Time at Sandrock — Crops & Farming Complete Guide
+description: Sandrock crops and farming deep dive — full crop data table, water management strategy, soil quality and fertilizer, all-season profit rankings, greenhouse vs outdoor comparison, skill recommendations and crop processing analysis.
 date: 2026-07-05
 ---
 
-# 🌵 My Time at Sandrock — 作物与种植完全指南
+# 🌵 My Time at Sandrock — Crops & Farming Complete Guide
 
-在 Sandrock 的沙漠环境中，**水是最稀缺的资源**。与传统农场游戏不同，这里的种植需要精打细算每一滴水、每一块地。本指南带你从第一颗种子到全自动化农场，实现 **利润/水/时间 三重优化**。
-
----
-
-## 📊 完整作物数据表
-
-| 作物 | 种子价 | 生长(天) | 再生 | 需水/天 | 售价 | 利润/天 | 利润/水 |
-|:-----|:------:|:--------:|:----:|:-------:|:----:|:-------:|:-------:|
-| 🌵 仙人掌 Cactus | 20g | 6 | ✅ 3d | 1 | 80g | 🥇 **15.0** | 🥇 **15.0** |
-| 🌿 芦荟 Aloe | 30g | 7 | ✅ 4d | 1 | 75g | 🥈 **12.9** | 🥈 **12.9** |
-| 🌾 沙米 Sandrice | 15g | 5 | ❌ | 2 | 55g | 🥉 **8.0** | 4.0 |
-| 🫘 豆类 Beans | 10g | 4 | ❌ | 1 | 35g | **6.3** | 6.3 |
-| 🥕 沙漠胡萝卜 | 12g | 5 | ❌ | 2 | 45g | **6.6** | 3.3 |
-| 🎃 南瓜 Pumpkin | 25g | 8 | ❌ | 2 | 100g | **9.4** | 4.7 |
-| 🌽 玉米 Corn | 20g | 7 | ❌ | 2 | 85g | **9.3** | 4.7 |
-| 🍅 番茄 Tomato | 15g | 6 | ❌ | 1 | 60g | **7.5** | 7.5 |
-| 🫐 蓝莓 Blueberry | 25g | 8 | ✅ 5d | 2 | 65g | **5.0** | 2.5 |
-| 🧅 洋葱 Onion | 10g | 4 | ❌ | 1 | 28g | **4.5** | 4.5 |
-
-> 💡 **Tip:** **仙人掌是绝对的王者** — 利润/天最高（15g）且利润/水最高（15g/单位）。只需要每天 1 滴水且可再生。**初期种植优先级：仙人掌 ＞ 芦荟 ＞ 番茄。** 放弃蓝莓和洋葱。
+In Sandrock's desert environment, **water is the scarcest resource**. Unlike traditional farming games, every drop and every plot of land needs careful planning. This guide takes you from your first seed to a fully automated farm, achieving **profit/water/time triple optimization**.
 
 ---
 
-## 💧 水分管理
+## 📊 Complete Crop Data Table
 
-### Sandrock 天气模式
+| Crop | Seed Price | Growth (Days) | Regrowth | Water/Day | Sell Price | Profit/Day | Profit/Water |
+|:-----|:----------:|:-------------:|:--------:|:---------:|:----------:|:----------:|:------------:|
+| 🌵 Cactus | 20g | 6 | ✅ 3d | 1 | 80g | 🥇 **15.0** | 🥇 **15.0** |
+| 🌿 Aloe | 30g | 7 | ✅ 4d | 1 | 75g | 🥈 **12.9** | 🥈 **12.9** |
+| 🌾 Sandrice | 15g | 5 | ❌ | 2 | 55g | 🥉 **8.0** | 4.0 |
+| 🫘 Beans | 10g | 4 | ❌ | 1 | 35g | **6.3** | 6.3 |
+| 🥕 Desert Carrot | 12g | 5 | ❌ | 2 | 45g | **6.6** | 3.3 |
+| 🎃 Pumpkin | 25g | 8 | ❌ | 2 | 100g | **9.4** | 4.7 |
+| 🌽 Corn | 20g | 7 | ❌ | 2 | 85g | **9.3** | 4.7 |
+| 🍅 Tomato | 15g | 6 | ❌ | 1 | 60g | **7.5** | 7.5 |
+| 🫐 Blueberry | 25g | 8 | ✅ 5d | 2 | 65g | **5.0** | 2.5 |
+| 🧅 Onion | 10g | 4 | ❌ | 1 | 28g | **4.5** | 4.5 |
 
-| 季节 | 平均降雨天数 | 总降雨量 | 策略建议 |
-|:----:|:-----------:|:--------:|:---------|
-| 🌸 春 | 3-5 天 | 低 | 依靠露水收集器，种植低需水作物 |
-| ☀️ 夏 | 1-2 天 | 极低 | 大量露水收集器，种仙人掌 |
-| 🍂 秋 | 5-8 天 | 中等 | 适合扩展种植面积 |
-| ❄️ 冬 | 8-12 天 | 较高 | 全年最佳种植季 |
-
-### 露水收集器产能
-
-| 收集器等级 | 日产量 | 材料成本 | 升级优先度 |
-|:----------:|:------:|:---------|:----------:|
-| 基础 Dew Collector | 3 瓶 | 木材×10 + 铜锭×2 | 🥇 第 1 天就做 3 个 |
-| 升级 Dew Collector | 6 瓶 | 铜锭×10 + 玻璃×5 | 🥇 第 2 周做 3 个 |
-| 高级 Dew Collector | 10 瓶 | 铁锭×8 + 钢化玻璃×3 | 🥈 第 1 个月末升级 |
-
-> 💡 **Tip:** **每个升级收集器 ≈ 减少 4 天的用水焦虑。** 4 个高级收集器 = 每天 40 瓶水，足够 50 株仙人掌 + 20 株芦荟。在水塔买水是最后的应急手段（10g/瓶，请抵制）。
+> 💡 **Tip:** **Cactus is the undisputed king** — highest profit/day (15g) AND highest profit/water (15g/unit). Needs just 1 water per day and regrows. **Early planting priority: Cactus > Aloe > Tomato.** Skip blueberries and onions.
 
 ---
 
-## 🌱 土壤品质与肥料
+## 💧 Water Management
 
-### 土壤等级
+### Sandrock Weather Patterns
 
-| 土壤品质 | 基础生长速度 | 施肥效果倍率 | 说明 |
-|:--------:|:-----------:|:-----------:|:-----|
-| 🟤 普通土 | 1.0× | 1.0× | 初始地块 |
-| 🟢 好土 | 1.2× | 1.5× | 用肥料改良后 |
-| 🔵 沃土 | 1.4× | 2.0× | 长期施肥+堆肥 |
+| Season | Avg Rain Days | Total Rainfall | Strategy |
+|:------:|:-------------:|:--------------:|:---------|
+| 🌸 Spring | 3-5 days | Low | Rely on Dew Collectors, plant low-water crops |
+| ☀️ Summer | 1-2 days | Very Low | Lots of Dew Collectors, plant cactus |
+| 🍂 Autumn | 5-8 days | Moderate | Good time to expand planting area |
+| ❄️ Winter | 8-12 days | Higher | Best planting season all year |
 
-### 肥料效果
+### Dew Collector Output
 
-| 肥料 | 效果 | 制作配方 | 最适合 |
-|:-----|:-----|:---------|:-------|
-| 💩 基础堆肥 | +15% 生长速度 | 植物废料×5 | 前期缺材料时 |
-| ⚗️ 营养液 | +25% 生长速度 +10% 产量 | 植物废料×5 + 水×2 | 中期主力 |
-| 🌟 品质肥料 | +30% 品质概率 | 鱼废料×5 + 堆肥×3 | 高价值作物 |
-| ✨ 魔法肥料 | +40% 生长速度 +20% 产量 | 苔藓×3 + 营养液×2 | 秋/冬季大规模种植 |
+| Collector Tier | Daily Output | Material Cost | Upgrade Priority |
+|:--------------:|:------------:|:--------------|:----------------:|
+| Basic Dew Collector | 3 bottles | Wood ×10 + Copper Bar ×2 | 🥇 Make 3 on Day 1 |
+| Upgraded Dew Collector | 6 bottles | Copper Bar ×10 + Glass ×5 | 🥇 Make 3 in Week 2 |
+| Advanced Dew Collector | 10 bottles | Iron Bar ×8 + Tempered Glass ×3 | 🥈 Upgrade end of Month 1 |
 
-**施肥策略：** 营养液是性价比最高的选择。把品质肥料留给出价最高的作物（南瓜、玉米、仙人掌）。
-
----
-
-## 🏆 全季节利润排名
-
-### 春
-
-| 排名 | 作物 | 利润/天 | 需水/天 | 推荐量 |
-|:----:|:-----|:-------:|:-------:|:------|
-| 🥇 | 仙人掌 | 15.0 | 1 | 20-30 |
-| 🥈 | 芦荟 | 12.9 | 1 | 10-15 |
-| 🥉 | 南瓜 | 9.4 | 2 | 5-8 |
-
-### 夏（干旱季 → 优先低需水）
-
-| 排名 | 作物 | 利润/天 | 需水/天 | 推荐量 |
-|:----:|:-----|:-------:|:-------:|:------|
-| 🥇 | 仙人掌 | 15.0 | 1 | 30-40 |
-| 🥈 | 芦荟 | 12.9 | 1 | 15-20 |
-| 🥉 | 番茄 | 7.5 | 1 | 10-15 |
-
-### 秋（最适合扩大种植）
-
-| 排名 | 作物 | 利润/天 | 需水/天 | 推荐量 |
-|:----:|:-----|:-------:|:-------:|:------|
-| 🥇 | 仙人掌 | 15.0 | 1 | 40-50 |
-| 🥈 | 南瓜 | 9.4 | 2 | 20-30 |
-| 🥉 | 玉米 | 9.3 | 2 | 15-20 |
-
-### 冬（最佳种植季，降雨多）
-
-| 排名 | 作物 | 利润/天 | 需水/天 | 推荐量 |
-|:----:|:-----|:-------:|:-------:|:------|
-| 🥇 | 仙人掌 | 15.0 | 1 | 50-80 |
-| 🥈 | 芦荟 | 12.9 | 1 | 30-50 |
-| 🥉 | 南瓜+玉米 | ~9.4 | 2 | 20-30 |
+> 💡 **Tip:** **Each upgraded collector ≈ 4 fewer days of water anxiety.** 4 Advanced Collectors = 40 bottles/day, enough for 50 cactus + 20 aloe. Buying water from the tower is a last resort (10g/bottle — resist the temptation).
 
 ---
 
-## 🏗️ 温室 vs 露地
+## 🌱 Soil Quality & Fertilizer
 
-| 维度 | 露地种植 | 温室种植 |
-|:-----|:---------|:---------|
-| 💧 用水 | 1-2/天/格 | **0（自动灌溉）** |
-| 🌡️ 季节限制 | 有 | **全年可种任何作物** |
-| 🛠️ 成本 | 低（仅种子+水） | 高（材料+建造费） |
-| 📈 长期 ROI | 中等 | **极高**（省水=更多作物） |
-| 📐 面积 | 大（无限扩展） | 有限（固定格数） |
+### Soil Tiers
 
-**建议：** 温室建好前 → 露地只种 **仙人掌+芦荟**（低需水高回报）。温室建好后 → 把 **南瓜、玉米、番茄** 全移进温室，露地留给大规模仙人掌。
+| Soil Quality | Base Growth Rate | Fertilizer Effect Multiplier | Notes |
+|:------------:|:----------------:|:----------------------------:|:------|
+| 🟤 Normal Soil | 1.0× | 1.0× | Starting plots |
+| 🟢 Good Soil | 1.2× | 1.5× | After fertilizing |
+| 🔵 Rich Soil | 1.4× | 2.0× | Long-term fertilizing + compost |
 
----
+### Fertilizer Effects
 
-## 🎯 种植技能加点
+| Fertilizer | Effect | Crafting Recipe | Best For |
+|:-----------|:-------|:----------------|:---------|
+| 💩 Basic Compost | +15% Growth Speed | Plant Waste ×5 | Early game when materials are scarce |
+| ⚗️ Nutrient Solution | +25% Growth Speed +10% Yield | Plant Waste ×5 + Water ×2 | Mid-game mainstay |
+| 🌟 Quality Fertilizer | +30% Quality Chance | Fish Waste ×5 + Compost ×3 | High-value crops |
+| ✨ Magic Fertilizer | +40% Growth Speed +20% Yield | Moss ×3 + Nutrient Solution ×2 | Large-scale autumn/winter planting |
 
-| 技能 | 等级解锁 | 效果 | 推荐度 |
-|:-----|:--------:|:-----|:------|
-| 💧 节水栽培 | 2 | -20% 作物需水量 | 🥇 必点 |
-| 🌿 丰收祝福 | 4 | +15% 作物产量 | 🥇 必点 |
-| 🧪 肥料大师 | 6 | 肥料效果+30% | 🥇 必点 |
-| 📦 批量收获 | 8 | 收获范围 3×3 | 🥈 强烈推荐 |
-| 🌞 光合加成 | 10 | +10% 生长速度 | 🥈 强烈推荐 |
-| 💰 作物溢价 | 12 | 作物售价+10% | 🥉 后期补点 |
-
-**推荐顺序：** 节水栽培(2) → 丰收祝福(4) → 肥料大师(6) → 批量收获(8) → 光合加成(10) → 作物溢价(12)
+**Fertilizer Strategy:** Nutrient Solution offers the best value. Save Quality Fertilizer for your highest-paying crops (pumpkin, corn, cactus).
 
 ---
 
-## 🍳 作物加工：烹饪 vs 直售
+## 🏆 All-Season Profit Rankings
 
-| 作物 | 直售价 | 🍲 料理价 | 🍲 材料 | 增值比 | 推荐 |
-|:-----|:------:|:---------:|:-------:|:------:|:----:|
-| 仙人掌 | 80g | 110g（仙人掌沙拉） | 仙人掌×1 + 盐×1 | +38% | ✅ |
-| 芦荟 | 75g | 140g（芦荟汁） | 芦荟×1 + 水×2 | +87% | ✅✅ |
-| 南瓜 | 100g | 210g（南瓜汤） | 南瓜×1 + 牛奶×1 | +110% | ✅✅✅ |
-| 玉米 | 85g | 160g（玉米浓汤） | 玉米×1 + 黄油×1 | +88% | ✅✅ |
-| 沙米 | 55g | 120g（沙米粥） | 沙米×1 + 糖×1 | +118% | ✅✅✅ |
+### Spring
 
-> 💡 **Tip:** **南瓜汤和沙米粥的增值比最高。** 但要注意：烹饪需要解锁厨房和收集食材。如果时间紧张，直售仙人掌+芦荟仍然是高效的赚钱方式。**前期直售，中期开始烹饪，后期全加工。**
+| Rank | Crop | Profit/Day | Water/Day | Recommended Amount |
+|:----:|:-----|:----------:|:---------:|:------------------|
+| 🥇 | Cactus | 15.0 | 1 | 20-30 |
+| 🥈 | Aloe | 12.9 | 1 | 10-15 |
+| 🥉 | Pumpkin | 9.4 | 2 | 5-8 |
+
+### Summer (Dry Season → Prioritize Low Water Crops)
+
+| Rank | Crop | Profit/Day | Water/Day | Recommended Amount |
+|:----:|:-----|:----------:|:---------:|:------------------|
+| 🥇 | Cactus | 15.0 | 1 | 30-40 |
+| 🥈 | Aloe | 12.9 | 1 | 15-20 |
+| 🥉 | Tomato | 7.5 | 1 | 10-15 |
+
+### Autumn (Best Time to Expand)
+
+| Rank | Crop | Profit/Day | Water/Day | Recommended Amount |
+|:----:|:-----|:----------:|:---------:|:------------------|
+| 🥇 | Cactus | 15.0 | 1 | 40-50 |
+| 🥈 | Pumpkin | 9.4 | 2 | 20-30 |
+| 🥉 | Corn | 9.3 | 2 | 15-20 |
+
+### Winter (Best Planting Season — High Rainfall)
+
+| Rank | Crop | Profit/Day | Water/Day | Recommended Amount |
+|:----:|:-----|:----------:|:---------:|:------------------|
+| 🥇 | Cactus | 15.0 | 1 | 50-80 |
+| 🥈 | Aloe | 12.9 | 1 | 30-50 |
+| 🥉 | Pumpkin + Corn | ~9.4 | 2 | 20-30 |
 
 ---
 
-## 📈 完整利润对比表（按利润/天排序）
+## 🏗️ Greenhouse vs. Outdoor
 
-| # | 作物 | 种子 | 生长 | 再生 | 总收成 | 需水 | 总投入 | 总收入 | 利润/天 | 利润/水 |
-|:-:|:-----|:----:|:----:|:----:|:-----:|:----:|:------:|:------:|:-------:|:-------:|
-| 1 | 🌵 仙人掌 | 20 | 6 | 3 | 8/季 | 1 | 20 | 640 | **15.0** | **15.0** |
-| 2 | 🌿 芦荟 | 30 | 7 | 4 | 6/季 | 1 | 30 | 450 | **12.9** | **12.9** |
-| 3 | 🎃 南瓜 | 25 | 8 | ❌ | 3-4 | 2 | 25 | 350 | **9.4** | 4.7 |
-| 4 | 🌽 玉米 | 20 | 7 | ❌ | 3-4 | 2 | 20 | 298 | **9.3** | 4.7 |
-| 5 | 🍅 番茄 | 15 | 6 | ❌ | 4-5 | 1 | 15 | 260 | **7.5** | 7.5 |
-| 6 | 🥕 胡萝卜 | 12 | 5 | ❌ | 5-6 | 2 | 12 | 225 | **6.6** | 3.3 |
-| 7 | 🫘 豆类 | 10 | 4 | ❌ | 6-7 | 1 | 10 | 210 | **6.3** | 6.3 |
-| 8 | 🫐 蓝莓 | 25 | 8 | 5 | 4-5/季 | 2 | 25 | 280 | **5.0** | 2.5 |
-| 9 | 🧅 洋葱 | 10 | 4 | ❌ | 6-7 | 1 | 10 | 168 | **4.5** | 4.5 |
-| 10 | 🌾 沙米 | 15 | 5 | ❌ | 5-6 | 2 | 15 | 275 | **8.0** | 4.0 |
+| Aspect | Outdoor | Greenhouse |
+|:-------|:--------|:-----------|
+| 💧 Water Usage | 1-2/day/plot | **0 (auto-irrigated)** |
+| 🌡️ Season Limit | Yes | **Any crop, any season** |
+| 🛠️ Cost | Low (seeds + water only) | High (materials + build cost) |
+| 📈 Long-term ROI | Medium | **Very High** (saved water = more crops) |
+| 📐 Area | Large (infinite expansion) | Limited (fixed plots) |
 
-> 💡 **Tip:** 用这表做种植计划：每天优先浇水 **仙人掌→芦荟→番茄→南瓜/玉米**。如果水不够，先保证前 3 名作物的供水，后面的停浇一天也不会死，只是生长延迟一天。
+**Recommendation:** Before building a greenhouse → Only grow **cactus + aloe** outdoors (low water, high return). After building a greenhouse → Move **pumpkin, corn, and tomato** inside, leave outdoor space for mass cactus farming.
 
 ---
 
-*数据来源：My Time at Sandrock Wiki 1.0, game version 1.4+*
+## 🎯 Farming Skill Points
+
+| Skill | Level Unlock | Effect | Priority |
+|:------|:------------:|:-------|:---------|
+| 💧 Water-Saving Cultivation | 2 | -20% Crop Water Need | 🥇 Must-have |
+| 🌿 Harvest Blessing | 4 | +15% Crop Yield | 🥇 Must-have |
+| 🧪 Fertilizer Master | 6 | +30% Fertilizer Effect | 🥇 Must-have |
+| 📦 Batch Harvest | 8 | 3×3 Harvest Radius | 🥈 Strongly recommended |
+| 🌞 Photosynthesis Bonus | 10 | +10% Growth Speed | 🥈 Strongly recommended |
+| 💰 Crop Premium | 12 | +10% Crop Sell Price | 🥉 Late-game filler |
+
+**Recommended Order:** Water-Saving Cultivation(2) → Harvest Blessing(4) → Fertilizer Master(6) → Batch Harvest(8) → Photosynthesis Bonus(10) → Crop Premium(12)
+
+---
+
+## 🍳 Crop Processing: Cooking vs. Direct Sale
+
+| Crop | Raw Sell Price | 🍲 Cooked Price | 🍲 Ingredients | Value Add | Recommendation |
+|:-----|:--------------:|:---------------:|:---------------|:---------:|:--------------:|
+| Cactus | 80g | 110g (Cactus Salad) | Cactus ×1 + Salt ×1 | +38% | ✅ |
+| Aloe | 75g | 140g (Aloe Juice) | Aloe ×1 + Water ×2 | +87% | ✅✅ |
+| Pumpkin | 100g | 210g (Pumpkin Soup) | Pumpkin ×1 + Milk ×1 | +110% | ✅✅✅ |
+| Corn | 85g | 160g (Corn Chowder) | Corn ×1 + Butter ×1 | +88% | ✅✅ |
+| Sandrice | 55g | 120g (Sandrice Porridge) | Sandrice ×1 + Sugar ×1 | +118% | ✅✅✅ |
+
+> 💡 **Tip:** **Pumpkin Soup and Sandrice Porridge have the highest value multipliers.** But cooking requires unlocking the kitchen and sourcing ingredients. If time is tight, selling raw cactus and aloe is still efficient. **Sell raw early on, start cooking mid-game, full processing in late game.**
+
+---
+
+## 📈 Complete Profit Comparison Table (Sorted by Profit/Day)
+
+| # | Crop | Seed | Growth | Regrowth | Total Harvest | Water | Total Input | Total Revenue | Profit/Day | Profit/Water |
+|:-:|:-----|:----:|:------:|:--------:|:-------------:|:----:|:-----------:|:-------------:|:----------:|:------------:|
+| 1 | 🌵 Cactus | 20 | 6 | 3 | 8/season | 1 | 20 | 640 | **15.0** | **15.0** |
+| 2 | 🌿 Aloe | 30 | 7 | 4 | 6/season | 1 | 30 | 450 | **12.9** | **12.9** |
+| 3 | 🎃 Pumpkin | 25 | 8 | ❌ | 3-4 | 2 | 25 | 350 | **9.4** | 4.7 |
+| 4 | 🌽 Corn | 20 | 7 | ❌ | 3-4 | 2 | 20 | 298 | **9.3** | 4.7 |
+| 5 | 🍅 Tomato | 15 | 6 | ❌ | 4-5 | 1 | 15 | 260 | **7.5** | 7.5 |
+| 6 | 🥕 Carrot | 12 | 5 | ❌ | 5-6 | 2 | 12 | 225 | **6.6** | 3.3 |
+| 7 | 🫘 Beans | 10 | 4 | ❌ | 6-7 | 1 | 10 | 210 | **6.3** | 6.3 |
+| 8 | 🫐 Blueberry | 25 | 8 | 5 | 4-5/season | 2 | 25 | 280 | **5.0** | 2.5 |
+| 9 | 🧅 Onion | 10 | 4 | ❌ | 6-7 | 1 | 10 | 168 | **4.5** | 4.5 |
+| 10 | 🌾 Sandrice | 15 | 5 | ❌ | 5-6 | 2 | 15 | 275 | **8.0** | 4.0 |
+
+> 💡 **Tip:** Use this table for daily watering priority: **Cactus → Aloe → Tomato → Pumpkin/Corn.** If you're short on water, secure the top 3 crops first. The rest can survive a missed day — they won't die, just grow a day slower.
+
+---
+
+*Data source: My Time at Sandrock Wiki 1.0, game version 1.4+*

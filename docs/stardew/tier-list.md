@@ -1,6 +1,6 @@
 ---
 title: 🏆 Complete Crop Tier Ranking
-description: > Data version: Stardew Valley 1.6 | Based on daily profit, growth speed, and regrow ability
+description: "Data version: Stardew Valley 1.6 | Based on daily profit, growth speed, and regrow ability"
 date: 2026-06-27
 ---
 

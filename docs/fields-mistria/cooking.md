@@ -1,104 +1,104 @@
 ---
-title: Fields of Mistria — 烹饪深度攻略与食谱大全
-description: 全面解析 Fields of Mistria 烹饪系统：厨房升级路线、全食谱数据表、体力/属性增益、各场景最佳菜品、季节食材规划与利润链计算
+title: Fields of Mistria — Cooking Deep Guide & Recipe Compendium
+description: Complete breakdown of the Fields of Mistria cooking system — kitchen upgrade path, full recipe data table, energy and stat boosts, best dishes for every scenario, seasonal ingredient planning, and profit chain calculations.
 date: 2026-07-05
 ---
 
-# 🍳 Fields of Mistria — 烹饪深度攻略与食谱大全
+# 🍳 Fields of Mistria — Cooking Deep Guide & Recipe Compendium
 
-烹饪是 Mistria 中后期最重要的能量管理工具和属性增益来源。厨房升级后，你可以将农作物转化为高性价比料理，其体力/金币转换效率远超直接卖原料。
+Cooking is your most important energy management tool and stat-boost source in the mid-to-late game. Once your kitchen is upgraded, you can turn crops into high-value meals with far better energy/gold efficiency than selling raw ingredients.
 
 ---
 
-## 🏠 厨房升级与解锁
+## 🏠 Kitchen Upgrades & Unlocks
 
-| 等级 | 解锁条件 | 花费 | 解锁内容 |
+| Tier | Unlock Condition | Cost | Unlocks |
 |:----|:---------|:----|:--------|
-| **基础厨房** | 房屋升级 Lv.2（木屋→农舍） | 3000g + 50 木头 | 基础炉灶、2 个烹饪槽 |
-| **中级厨房** | 城镇等级 B | 8000g + 80 石头 + 5 铁锭 | 烤箱、发酵桶、4 槽位 |
-| **高级厨房** | 城镇等级 A | 18000g + 10 金锭 + 3 神秘宝石 | 魔法炉（双倍产出概率+15%） |
+| **Basic Kitchen** | House Upgrade Lv.2 (Cabin → Farmhouse) | 3000g + 50 Wood | Basic stove, 2 cooking slots |
+| **Mid Kitchen** | Town Rank B | 8000g + 80 Stone + 5 Iron Bars | Oven, fermenting vat, 4 slots |
+| **Advanced Kitchen** | Town Rank A | 18000g + 10 Gold Bars + 3 Mystery Gems | Magic Stove (+15% double-produce chance) |
 
-> **Tip:** 中级厨房是性价比最高的投资——发酵桶让你可以批量制作能量料理，采矿恢复效率直接翻倍。
+> **Tip:** The Mid Kitchen is the best value upgrade — the fermenting vat lets you batch-produce energy meals and effectively doubles your mining recovery.
 
 ---
 
-## 📋 全食谱数据表
+## 📋 Full Recipe Data Table
 
-### 体力恢复类
+### Energy Recovery Meals
 
-| 料理 | ⭐ 稀有度 | 材料 | 体力 | HP | 成本 | 售价 | 利润 |
+| Dish | ⭐ Rarity | Ingredients | Energy | HP | Cost | Sell Price | Profit |
 |:----|:--------:|:----|:--:|:--:|:----:|:----:|:----:|
-| 🥗 田园沙拉 | 普通 | 生菜×1 + 番茄×1 | 45 | 30 | 20g | 110g | 90g |
-| 🍲 蔬菜浓汤 | 普通 | 胡萝卜×2 + 土豆×1 | 60 | 40 | 35g | 160g | 125g |
-| 🥟 蘑菇馅饼 | 稀有 | 蘑菇×2 + 面粉×1 + 鸡蛋×1 | 90 | 60 | 55g | 250g | 195g |
-| 🍝 奶油意面 | 稀有 | 小麦×2 + 牛奶×1 + 奶酪×1 | 110 | 80 | 70g | 320g | 250g |
-| 🥩 烤肉拼盘 | 史诗 | 熟肉×1 + 土豆×2 + 洋葱×1 | 160 | 120 | 120g | 480g | 360g |
-| 🍰 丰收蛋糕 | 传说 | 南瓜×1 + 鸡蛋×2 + 蜂蜜×1 + 奶油×1 | 220 | 180 | 180g | 750g | 570g |
+| 🥗 Garden Salad | Common | Lettuce×1 + Tomato×1 | 45 | 30 | 20g | 110g | 90g |
+| 🍲 Veggie Soup | Common | Carrot×2 + Potato×1 | 60 | 40 | 35g | 160g | 125g |
+| 🥟 Mushroom Pie | Rare | Mushroom×2 + Flour×1 + Egg×1 | 90 | 60 | 55g | 250g | 195g |
+| 🍝 Cream Pasta | Rare | Wheat×2 + Milk×1 + Cheese×1 | 110 | 80 | 70g | 320g | 250g |
+| 🥩 Grilled Platter | Epic | Cooked Meat×1 + Potato×2 + Onion×1 | 160 | 120 | 120g | 480g | 360g |
+| 🍰 Harvest Cake | Legendary | Pumpkin×1 + Egg×2 + Honey×1 + Cream×1 | 220 | 180 | 180g | 750g | 570g |
 
-### 属性增益类
+### Stat Boost Meals
 
-| 料理 | 增益效果 | 持续时间 | 材料 | 体力恢复 |
+| Dish | Effect | Duration | Ingredients | Energy Restored |
 |:----|:---------|:-------:|:----|:-------:|
-| 🌶️ 辣炖菜 | +3 采矿, +2 攻击 | 5min | 辣椒×2 + 肉×1 + 番茄×1 | 80 |
-| 🐟 烤鱼套餐 | +4 钓鱼, +1 速度 | 5min | 鱼×2 + 柠檬×1 + 黄油×1 | 70 |
-| 🧊 冰镇果饮 | +2 能量恢复/秒 | 3min | 蓝莓×3 + 蜂蜜×1 + 冰块×1 | 50 |
-| 🍄 魔力浓汤 | +20% 魔法伤害 | 4min | 魔法蘑菇×1 + 牛奶×2 + 糖×1 | 100 |
-| 🥊 战士餐 | +5 攻击, +3 防御 | 6min | 肉×3 + 鸡蛋×2 + 辣椒×1 | 130 |
-| 🦐 海鲜盛宴 | +3 运气, +2 钓鱼 | 6min | 虾×2 + 蛤蜊×3 + 柠檬×1 + 黄油×1 | 150 |
+| 🌶️ Spicy Stew | +3 Mining, +2 Attack | 5min | Chili×2 + Meat×1 + Tomato×1 | 80 |
+| 🐟 Grilled Fish Set | +4 Fishing, +1 Speed | 5min | Fish×2 + Lemon×1 + Butter×1 | 70 |
+| 🧊 Icy Fruit Drink | +2 Energy/sec regen | 3min | Blueberry×3 + Honey×1 + Ice×1 | 50 |
+| 🍄 Magic Broth | +20% Magic Damage | 4min | Magic Mushroom×1 + Milk×2 + Sugar×1 | 100 |
+| 🥊 Warrior's Meal | +5 Attack, +3 Defense | 6min | Meat×3 + Egg×2 + Chili×1 | 130 |
+| 🦐 Seafood Feast | +3 Luck, +2 Fishing | 6min | Shrimp×2 + Clam×3 + Lemon×1 + Butter×1 | 150 |
 
-> **Tip:** 增益料理的持续时间**不叠加**，但吃新料理会**刷新**计时。进矿洞前吃辣炖菜，战斗前补战士餐——两个增益可共存。
+> **Tip:** Buff durations **don't stack**, but eating a new dish **refreshes** the timer. Eat Spicy Stew before heading into the mines, then chug a Warrior's Meal before combat — the two buffs coexist fine.
 
 ---
 
-## 🎯 场景最佳菜品推荐
+## 🎯 Best Dish by Scenario
 
-| 场景 | 🥇 最佳料理 | 理由 |
+| Scenario | 🥇 Best Dish | Why |
 |:----|:-----------|:-----|
-| ⛏️ 深层采矿 | 蘑菇馅饼 | 90 体力/55g 成本，体力成本比 1.64，采矿 20 层需 8~10 个 |
-| 🎣 钓鱼马拉松 | 烤鱼套餐 | +4 钓鱼可将铜鱼竿等效为铁鱼竿，配合 buff 可钓传说鱼 |
-| ⚔️  Boss 战 | 战士餐 + 魔力浓汤 | 6 分钟双 buff 覆盖整个 Golem Guardian 战斗 |
-| 💰 纯利润线 | 丰收蛋糕 | 成本 180g → 售价 750g，净利 570g，比直接卖南瓜高 120% |
-| 🌾 日常农作 | 田园沙拉 | 45 体力仅 20g 成本，体力/g 效率全表最高（2.25） |
-| 🧪 冲技能等级 | 奶油意面 | 经验值最高，110 体力 + 250g 利润，技能升级与赚钱兼得 |
+| ⛏️ Deep Mining | Mushroom Pie | 90 energy / 55g cost = 1.64 energy/g ratio — you'll need 8–10 for 20 floors |
+| 🎣 Fishing Marathon | Grilled Fish Set | +4 Fishing upgrades a Copper Rod to equivalent of Iron; lets you catch legendaries |
+| ⚔️ Boss Fight | Warrior's Meal + Magic Broth | 6 minutes of dual buffs covers the entire Golem Guardian fight |
+| 💰 Pure Profit | Harvest Cake | 180g cost → 750g sale = 570g net, 120% more than selling the pumpkin raw |
+| 🌾 Daily Farm Work | Garden Salad | 45 energy for only 20g — the best energy/g ratio on the table (2.25) |
+| 🧪 Skill Grinding | Cream Pasta | Highest XP — 110 energy + 250g profit, leveling skills while earning gold |
 
 ---
 
-## 📊 体力-利润转换链
+## 📊 Energy-to-Profit Conversion Chain
 
-| 路线 | 投入食材 | 步骤 | 总利润 | 体力/g | 推荐度 |
+| Route | Ingredients | Steps | Total Profit | Energy/g | Rating |
 |:----|:---------|:-----|:------:|:------:|:------:|
-| 直接卖南瓜 | 南瓜×1 | 无处理 | 150g | 0.50 | ⭐ |
-| 南瓜→丰收蛋糕 | 南瓜+蛋×2+蜂蜜+奶油 | 厨房加工 | +420g | 1.22 | ⭐⭐⭐ |
-| 小麦→面粉→奶油意面 | 小麦×2+牛奶+奶酪 | 磨粉→烹饪 | +250g | 1.57 | ⭐⭐⭐⭐ |
-| 番茄+生菜→沙拉 | 番茄+生菜 | 直烹 | +90g | 2.25 | ⭐⭐⭐⭐⭐ |
+| Sell Pumpkin Raw | Pumpkin×1 | None | 150g | 0.50 | ⭐ |
+| Pumpkin → Harvest Cake | Pumpkin + Egg×2 + Honey + Cream | Kitchen | +420g | 1.22 | ⭐⭐⭐ |
+| Wheat → Flour → Cream Pasta | Wheat×2 + Milk + Cheese | Mill → Cook | +250g | 1.57 | ⭐⭐⭐⭐ |
+| Tomato + Lettuce → Salad | Tomato + Lettuce | Direct cook | +90g | 2.25 | ⭐⭐⭐⭐⭐ |
 
-**收益公式：** 每份料理净利 = 售价 − 食材机会成本。沙拉看似单价低，但食材成本仅 20g，体力产出 45，是**体力转化效率之王**。
+**Profit Formula:** Net profit per dish = Sell price − Ingredient opportunity cost. Salad may look low-value per dish, but its ingredients cost only 20g for 45 energy — it's the **king of energy conversion efficiency**.
 
 ---
 
-## 🌸 季节食材储备计划
+## 🌸 Seasonal Ingredient Stockpile Plan
 
-| 季节 | 必囤食材 | 用途 | 建议储备量 |
+| Season | Must-Hoard Ingredients | Use | Stockpile Target |
 |:----|:--------|:-----|:----------|
-| 🌸 春 | 生菜、番茄、胡萝卜、土豆 | 沙拉/浓汤（全年采矿口粮） | 各 50+ |
-| ☀️ 夏 | 辣椒、蓝莓、玉米、小麦 | 辣炖菜/冰饮/面粉原料 | 辣椒 30+，小麦 60+ |
-| 🍂 秋 | 南瓜、洋葱、蘑菇 | 丰收蛋糕/奶油意面（冬季主力） | 南瓜 40+，蘑菇 30+ |
-| ❄️ 冬 | 囤货消耗期 + 温室大棚 | 用秋季库存做高利润料理 | 无新产，靠前季库存 |
+| 🌸 Spring | Lettuce, Tomato, Carrot, Potato | Salad/Soup (year-round mining rations) | 50+ each |
+| ☀️ Summer | Chili, Blueberry, Corn, Wheat | Spicy Stew / Icy Drink / Flour base | Chili 30+, Wheat 60+ |
+| 🍂 Fall | Pumpkin, Onion, Mushroom | Harvest Cake / Cream Pasta (winter staple) | Pumpkin 40+, Mushroom 30+ |
+| ❄️ Winter | Stockpile consumption + Greenhouse | Use fall stock for high-profit dishes | No new harvest — live off seasonal reserves |
 
-**冬季策略：** 秋季囤 40 个南瓜 + 30 个蘑菇，冬季每日生产丰收蛋糕（+570g/个）和奶油意面（+250g/个）。配合温室种植草莓（每 4 天成熟），冬季日均料理利润可达 2000g+。
+**Winter Strategy:** Stockpile 40 pumpkins + 30 mushrooms in fall. Produce Harvest Cakes (+570g each) and Cream Pasta (+250g each) daily in winter. Pair with greenhouse strawberries (4-day grow cycle) for 2000g+ daily cooking profit.
 
 ---
 
-## 🧮 烹饪技能专精路线
+## 🧮 Cooking Skill Specialization Path
 
-| 专精名称 | 效果 | 解锁要求 | 优先级 |
+| Specialization | Effect | Unlock Condition | Priority |
 |:--------|:----|:---------|:-----:|
-| 食材大师 | 所有料理体力恢复 +15% | 烹饪 10 道料理 | 🥇 第一优先 |
-| 双倍烹饪 | 15% 概率一次出两份 | 烹饪 30 道料理 | 🥇 |
-| 美食家 | 属性增益持续时间 +50% | 烹饪 50 道料理 | 🥈 |
-| 利润嗅觉 | 料理售价 +20% | 城镇等级 A | 🥈 |
-| 魔法烹饪 | 可制作魔法料理（带特殊特效） | 完成法师塔任务 | 🥉 |
+| Ingredient Master | All dishes restore +15% energy | Cook 10 dishes | 🥇 First |
+| Double Cooking | 15% chance to make two at once | Cook 30 dishes | 🥇 |
+| Gourmet | Buff duration +50% | Cook 50 dishes | 🥈 |
+| Profit Nose | Dish sell price +20% | Town Rank A | 🥈 |
+| Magic Cooking | Can make magic dishes (special effects) | Complete wizard tower quest | 🥉 |
 
-> **Tip:** 开局先解锁「食材大师」——所有料理多 15% 体力意味着进矿洞少带 2 个菜，等于多出 6 格背包。
+> **Tip:** Unlock **Ingredient Master** first — 15% more energy from every dish means 2 fewer meals in the mines = 6 extra backpack slots.
 
-*Data source: Fields of Mistria v0.8+ (Early Access), 实测数据*
+*Data source: Fields of Mistria v0.8+ (Early Access), playtested data*

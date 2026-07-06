@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+{{ super() }}
+{% if page and page.meta and page.meta.date %}
+<meta name="article:published_time" content="{{ page.meta.date }}" />
+{% endif %}
+<script>
+(function() {
+  var path = window.location.pathname.replace(/\/+$/, '') || '';
+  var game = 'home';
+  if (path === '' || path === '/') { game = 'home'; }
+  else if (path.startsWith('/stardew')) { game = 'stardew'; }
+  else if (path.startsWith('/farmingsim')) { game = 'farmsim'; }
+  else if (path.startsWith('/palia')) { game = 'palia'; }
+  else if (path.startsWith('/coral-island')) { game = 'coral'; }
+  else if (path.startsWith('/fields-mistria')) { game = 'mistria'; }
+  else if (path.startsWith('/sandrock')) { game = 'sandrock'; }
+  else if (path.startsWith('/sun-haven')) { game = 'sunhaven'; }
+  else if (path.startsWith('/about') || path.startsWith('/guides') || path.startsWith('/tools')) { game = 'home'; }
+  document.documentElement.setAttribute('data-game', game);
+})();
+</script>
+{% endblock %}
+
+{% block content %}
+{{ super() }}
+
+{% if page and page.meta and page.meta.date %}
+<div class="md-content__footer">
+  <hr>
+  <p class="md-last-updated">
+    📅 Last updated: <strong>{{ page.meta.date }}</strong>
+    {% if page.meta.data_source %}
+    · 📡 Source: <a href="{{ page.meta.data_source }}" target="_blank" rel="noopener">{{ page.meta.data_source }}</a>
+    {% endif %}
+  </p>
+</div>
+{% endif %}
+{% endblock %}

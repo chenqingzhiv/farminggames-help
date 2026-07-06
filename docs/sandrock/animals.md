@@ -6,111 +6,111 @@ date: 2026-07-05
 
 # 🐑 My Time at Sandrock — Animals & Mounts Complete Guide
 
-Sandrock 的畜牧业虽不如绿洲城镇发达，但在沙漠环境中，动物产出是不可或缺的稳定收入来源。本攻略覆盖所有农场动物、坐骑系统和战斗宠物。
+Sandrock's animal husbandry system may not be as lush as green valley towns, but in this desert environment, animal products are a reliable and steady income source you shouldn't ignore. This guide covers all farm animals, the mount system, and combat pets.
 
 ---
 
-## 🐔 农场动物一览
+## 🐔 Farm Animals Overview
 
-### 购买与产出
+### Purchase & Produce
 
-| 动物 | 购买价 | 每日产出 | 产出售价 | 回本周期 |
-|:-----|:-------|:---------|:---------|:---------|
-| 🐔 鸡 Chicken | 800 | 鸡蛋×1 | 50 | 16天 |
-| 🐑 羊 Sheep | 2,000 | 羊毛×1 | 150 | 14天 |
-| 🐐 山羊 Goat | 2,500 | 羊奶×1 | 180 | 14天 |
-| 🐄 牛 Cow | 3,000 | 牛奶×1 | 200 | 15天 |
-| 🐃 牦牛 Yak | 4,000 | 牦牛奶×1 | 280 | 15天 |
+| Animal | Purchase Price | Daily Output | Sell Price | Payback Period |
+|:-------|:--------------:|:------------:|:----------:|:--------------:|
+| 🐔 Chicken | 800 | Egg ×1 | 50 | 16 days |
+| 🐑 Sheep | 2,000 | Wool ×1 | 150 | 14 days |
+| 🐐 Goat | 2,500 | Goat Milk ×1 | 180 | 14 days |
+| 🐄 Cow | 3,000 | Milk ×1 | 200 | 15 days |
+| 🐃 Yak | 4,000 | Yak Milk ×1 | 280 | 15 days |
 
-### 动物照顾机制
+### Animal Care Mechanics
 
-| 属性 | 影响 | 维护方式 |
-|:-----|:-----|:---------|
-| ❤️ 好感度 (Affection) | 产出数量/品质 | 每日抚摸、喂食 |
-| 🍽️ 饱食度 (Fullness) | 是否产出 | 干草/饲料 |
-| 🧹 清洁度 (Cleanliness) | 产出品质星级 | 刷毛/清理圈舍 |
-| 😊 心情 (Happiness) | 产出数量 | 放养、装饰、音乐 |
+| Stat | Effect | How to Maintain |
+|:----|:-------|:----------------|
+| ❤️ Affection | Output quantity/quality | Daily petting, feeding |
+| 🍽️ Fullness | Whether they produce | Hay/feed |
+| 🧹 Cleanliness | Output quality stars | Brushing, cleaning enclosure |
+| 😊 Happiness | Output quantity | Free-range, decorations, music |
 
-> **💡 Tip:** 每天早晨抚摸所有动物可提升 10 点好感度。连续 5 天不喂食则动物停止产出，连续 10 天不喂食动物会生病。
-
----
-
-## 🧀 动物产品加工
-
-| 原料 | 加工设备 | 成品 | 加工时间 | 成品售价 | 增值倍数 |
-|:-----|:---------|:-----|:---------|:---------|:---------|
-| 🥛 牛奶 | 奶酪机 | 🧀 奶酪 | 2天 | 360 | **×1.8** |
-| 🥛 羊奶 | 奶酪机 | 🧀 羊奶酪 | 2天 | 400 | **×2.2** |
-| 🥛 牦牛奶 | 奶酪机 | 🧀 牦牛奶酪 | 2天 | 520 | **×1.9** |
-| 🥚 鸡蛋 | 蛋黄机 | 🥫 蛋黄酱 | 1天 | 150 | **×3.0** |
-| 🐑 羊毛 | 织布机 | 🧵 布料 | 1天 | 300 | **×2.0** |
-
-**加工优先级：** 蛋黄酱（鸡蛋）> 布料（羊毛）> 奶酪（牛奶）
+> **💡 Tip:** Petting every animal each morning gives +10 affection points. Missing 5 consecutive days of feeding stops production, and 10 days without food makes them sick.
 
 ---
 
-## 📊 每日利润计算
+## 🧀 Animal Product Processing
 
-| 动物品种 | 数量 | 基础产出/天 | 加工后售价 | 日饲料成本 | **净日利润** |
-|:---------|:-----|:-----------|:-----------|:-----------|:------------|
-| 鸡 | 4 | 4×鸡蛋 | 4×150=600 | 40 | **560** |
-| 羊 | 2 | 2×羊毛 | 2×300=600 | 40 | **560** |
-| 牛 | 2 | 2×牛奶 | 2×360=720 | 40 | **680** |
-| 牦牛 | 2 | 2×牦牛奶 | 2×520=1,040 | 40 | **1,000** |
+| Ingredient | Processing Gear | Product | Time | Sell Price | Value Multiplier |
+|:-----------|:---------------|:--------|:----:|:----------:|:----------------:|
+| 🥛 Milk | Cheese Press | 🧀 Cheese | 2d | 360 | **×1.8** |
+| 🥛 Goat Milk | Cheese Press | 🧀 Goat Cheese | 2d | 400 | **×2.2** |
+| 🥛 Yak Milk | Cheese Press | 🧀 Yak Cheese | 2d | 520 | **×1.9** |
+| 🥚 Egg | Mayo Machine | 🥫 Mayonnaise | 1d | 150 | **×3.0** |
+| 🐑 Wool | Loom | 🧵 Cloth | 1d | 300 | **×2.0** |
 
-> **💡 Tip:** 动物数量不必贪多。4 鸡 + 2 牛 + 2 牦牛是中期最优配置，日纯利润约 2,800 Gols，配合加工设备后可翻倍。
-
----
-
-## 🐎 坐骑系统
-
-| 坐骑 | 获取方式 | 速度 | 耐力 | 特殊能力 |
-|:-----|:---------|:-----|:-----|:---------|
-| 🐴 马 Horse | 马厩购买 5,000 Gols | ★★★ | ★★★ | 无 |
-| 🐪 骆驼 Camel | 沙漠驯服+鞍具 | ★★★ | ★★★★★ | 沙暴中不减耐力 |
-| 🦎 沙漠蜥蜴 Desert Lizard | 野外驯服 | ★★★★ | ★★ | 攀爬能力+1 |
-| 🚲 机械马 Mech Horse | 任务解锁 | ★★★★★ | ★★★★ | 无视地形减速 |
-
-### 驯服坐骑流程
-
-1. **找到目标** —— 骆驼在 Eufaula 沙漠，蜥蜴在 Gecko Station 附近
-2. **投喂食物** —— 每天投喂该动物喜欢的食物
-3. **建立好感** —— 连续投喂 5-7 天，好感度条满即可上鞍
-4. **制作鞍具** —— 在工坊制作对应鞍具（需要皮革×5 + 铜棒×3）
-
-> **💡 Tip:** 骆驼是最推荐的首个坐骑，沙暴中不减耐力的特性在探索沙漠废墟时极为实用。早期不用急着买马，直接驯骆驼更划算。
+**Processing Priority:** Mayonnaise (Eggs) > Cloth (Wool) > Cheese (Milk)
 
 ---
 
-## 🐾 宠物系统
+## 📊 Daily Profit Calculation
 
-| 宠物 | 获取方式 | 类型 | 功能 |
-|:-----|:---------|:-----|:-----|
-| 🐕 沙皮狗 Sand Dog | 任务"沙漠之友" | 战斗宠物 | 攻击敌人，拾取物品 |
-| 🐱 沙漠猫 Desert Cat | 后期任务 | 收集宠物 | 收集附近掉落物 |
-| 🐦 机械鸟 Mech Bird | 蓝图制作 | 侦察宠物 | 标记地图资源点 |
+| Breed | Count | Base Output/Day | Processed Value | Daily Feed Cost | **Net Daily Profit** |
+|:------|:----:|:---------------:|:---------------:|:---------------:|:--------------------:|
+| Chicken | 4 | 4× Eggs | 4×150=600 | 40 | **560** |
+| Sheep | 2 | 2× Wool | 2×300=600 | 40 | **560** |
+| Cow | 2 | 2× Milk | 2×360=720 | 40 | **680** |
+| Yak | 2 | 2× Yak Milk | 2×520=1,040 | 40 | **1,000** |
 
-### 战斗宠物培养
-
-| 属性 | 升级方式 | 上限 |
-|:-----|:---------|:-----|
-| ❤️ 等级 | 使用 + 喂食 | 50级 |
-| ⚔️ 攻击力 | 宠物装备 + 训练 | 取决于装备 |
-| 🛡️ 防御 | 宠物装备 | 取决于装备 |
-| 💨 速度 | 宠物零食 | 固定增益 |
+> **💡 Tip:** Don't overdo animal quantity. 4 chickens + 2 cows + 2 yaks is the optimal mid-game setup, netting about 2,800 Gols/day. Double that once you add processing gear.
 
 ---
 
-## 🏠 畜棚升级
+## 🐎 Mount System
 
-| 等级 | 容量 | 升级费 | 解锁功能 |
-|:-----|:-----|:-------|:---------|
-| 🪵 基础畜棚 | 4 只 | 初始 | 基础饲养 |
-| 🧱 中级畜棚 | 8 只 | 8,000 Gols | 自动喂食器 |
-| 🏛️ 高级畜棚 | 12 只 | 20,000 Gols | 自动清洁 + 加热/降温 |
+| Mount | How to Get | Speed | Stamina | Special Ability |
+|:------|:-----------|:-----:|:-------:|:----------------|
+| 🐴 Horse | Stable purchase 5,000 Gols | ★★★ | ★★★ | None |
+| 🐪 Camel | Desert tame + saddle | ★★★ | ★★★★★ | No stamina drain in sandstorms |
+| 🦎 Desert Lizard | Wild tame | ★★★★ | ★★ | Climbing +1 |
+| 🚲 Mech Horse | Quest unlock | ★★★★★ | ★★★★ | Ignores terrain slowdown |
 
-> **💡 Tip:** 中级畜棚的自动喂食器是质变升级 —— 省去的每日手动喂食时间足以去废墟多挖两层，收益远超 8,000 Gols 的投入。建议工坊等级 5 后立即升级。
+### Taming Process
+
+1. **Find your target** — Camels in Eufaula Desert, lizards near Gecko Station
+2. **Feed it** — Offer its favorite food daily
+3. **Build affection** — Feed 5-7 days straight until the affection bar is full
+4. **Craft a saddle** — Build the matching saddle at your workshop (Leather ×5 + Copper Bar ×3)
+
+> **💡 Tip:** The camel is the best first mount — its sandstorm immunity is invaluable when exploring desert ruins. Don't rush to buy a horse; taming a camel is far more cost-effective early on.
 
 ---
 
-*数据来源：My Time at Sandrock v1.4 游戏内数据*
+## 🐾 Pet System
+
+| Pet | How to Get | Type | Function |
+|:----|:-----------|:-----|:---------|
+| 🐕 Sand Dog | Quest "Desert Friend" | Combat Pet | Attacks enemies, picks up items |
+| 🐱 Desert Cat | Late-game quest | Collection Pet | Gathers nearby drops |
+| 🐦 Mech Bird | Blueprint craft | Scout Pet | Marks resources on map |
+
+### Combat Pet Training
+
+| Stat | Upgrade Method | Cap |
+|:----|:---------------|:----|
+| ❤️ Level | Usage + feeding | 50 |
+| ⚔️ Attack | Pet gear + training | Gear-dependent |
+| 🛡️ Defense | Pet gear | Gear-dependent |
+| 💨 Speed | Pet treats | Fixed buff |
+
+---
+
+## 🏠 Barn Upgrades
+
+| Tier | Capacity | Upgrade Cost | Unlocked Feature |
+|:----|:--------:|:------------:|:-----------------|
+| 🪵 Basic Barn | 4 animals | Default | Basic housing |
+| 🧱 Medium Barn | 8 animals | 8,000 Gols | Auto-feeder |
+| 🏛️ Advanced Barn | 12 animals | 20,000 Gols | Auto-clean + heating/cooling |
+
+> **💡 Tip:** The auto-feeder on the Medium Barn is a game-changer. The daily manual feeding time it saves lets you explore two extra ruin floors — easily worth the 8,000 Gols investment. Upgrade as soon as your workshop hits Lv.5.
+
+---
+
+*Data source: My Time at Sandrock v1.4 in-game data*

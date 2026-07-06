@@ -1,177 +1,177 @@
 ---
-title: Coral Island — 动物养殖完全指南（鸡舍/畜棚/宠物/品质/利润）
-description: Coral Island 动物养殖深度攻略：鸡舍与畜棚全部动物数据、好感度机制、产出品质提升、自动喂食器投资回报、宠物系统、畜产品加工利润表及四季养殖策略
+title: Coral Island — Complete Animal Husbandry Guide (Coop/Barn/Pets/Quality/Profit)
+description: "Coral Island animal husbandry deep dive: all coop and barn animals, friendship mechanics, product quality upgrades, auto-feeder ROI, pet system, animal product processing profit tables, and seasonal farming strategies"
 date: 2026-07-05
 ---
 
-# 🐄 Coral Island — 动物养殖完全指南
+# 🐄 Coral Island — Complete Animal Husbandry Guide
 
-Coral Island 的动物系统比 Stardew Valley 更复杂：品质分四级（普通→银→金→锇），好感度直接影响产品品质，且有独立的宠物机制。本指南从经济角度拆解每只动物的真实 ROI。
-
----
-
-## 🐔 鸡舍动物（Coop Animals）
-
-| 动物 | 购买价 | 成熟天数 | 日产出 | 基础售价 | 产品加工 | 加工后售价 |
-|:----|:-----:|:-------:|:-----:|:--------:|:---------|:---------:|
-| 🐔 鸡 | 800g | 3 天 | 蛋 ×1 | 50g | 蛋黄酱 | 150g |
-| 🦆 鸭 | 1,200g | 4 天 | 鸭蛋 ×1 | 70g | 鸭蛋黄酱 | 200g |
-| 🐰 兔 | 2,000g | 6 天 | 兔毛/兔脚 | 80g（毛） | 布料 | 240g（布） |
-| 🦚 孔雀 | 3,000g | 5 天 | 孔雀羽毛 ×1 | 150g | — | — |
-| 🐣 鸵鸟 | 4,000g | 7 天 | 鸵鸟蛋×1 | 200g | 鸵鸟蛋酱 | 450g |
-
-> **Tip:** 鸵鸟虽然是购买价最高的鸡舍动物，但每个蛋直接卖出 200g 或加工成酱值 450g，**单格日利润远超任何鸡舍动物**。前提是能养到成熟，7 天等待期值得投入。
+Coral Island's animal system is more involved than Stardew Valley's: four quality tiers (Normal → Silver → Gold → Osmium), friendship directly impacts product quality, and there's a separate pet mechanic. This guide breaks down every animal's real ROI from an economic perspective.
 
 ---
 
-## 🐄 畜棚动物（Barn Animals）
+## 🐔 Coop Animals
 
-| 动物 | 购买价 | 成熟天数 | 日产出 | 基础售价 | 产品加工 | 加工后售价 |
-|:----|:-----:|:-------:|:------:|:--------:|:---------|:---------:|
-| 🐄 奶牛 | 1,500g | 3 天 | 牛奶 ×1 | 100g | 奶酪(200g)/黄油(150g)/布丁(250g) | 见下文 |
-| 🐑 绵羊 | 2,000g | 4 天 | 羊毛 ×1 | 120g | 布料 | 240g |
-| 🐐 山羊 | 2,500g | 3 天 | 山羊奶 ×1 | 140g | 山羊奶酪 | 280g |
-| 🐖 猪 | 4,000g | 5 天 | 松露 ×(1-3)/次 | 200g/个 | 松露油 | 400g/个 |
-| 🦌 羊驼 | 5,000g | 6 天 | 羊驼毛 ×1 | 250g | 高品质布料 | 400g |
+| Animal | Purchase Price | Maturity Days | Daily Output | Base Price | Processed Product | Processed Price |
+|:-------|:-------------:|:-------------:|:------------:|:----------:|:-----------------|:---------------:|
+| 🐔 Chicken | 800g | 3 days | 1× Egg | 50g | Mayonnaise | 150g |
+| 🦆 Duck | 1,200g | 4 days | 1× Duck Egg | 70g | Duck Mayonnaise | 200g |
+| 🐰 Rabbit | 2,000g | 6 days | Wool / Rabbit's Foot | 80g (Wool) | Cloth | 240g (Cloth) |
+| 🦚 Peacock | 3,000g | 5 days | 1× Peacock Feather | 150g | — | — |
+| 🐣 Ostrich | 4,000g | 7 days | 1× Ostrich Egg | 200g | Ostrich Egg Mayonnaise | 450g |
 
-> **Tip:** **猪是动物中的利润之王**。松露是地面觅食物品（猪拱出来的），每天可产出 1-3 个，每个加工成松露油价值 400g。3 个松露油 = 1,200g/天。但母猪需要自由放养（不能关在畜棚），冬季不产出。
-
----
-
-## 💖 动物好感度系统详解
-
-### 好感度等级
-
-| 等级 | 简称 | 爱心数 | 效果 |
-|:----|:----|:-----:|:----|
-| 0 | 生疏 | ❌0❤️ | 产出普通品质 |
-| 1 | 友好 | ❤️❤️🤍🤍🤍 | 10% 概率出银品质 |
-| 2 | 亲密 | ❤️❤️❤️🤍🤍 | 25% 银 + 5% 金 |
-| 3 | 伙伴 | ❤️❤️❤️❤️🤍 | 40% 金 + 10% 锇品质 |
-| 4 | 挚友 | ❤️❤️❤️❤️❤️ | 50% 锇 + 30% 金 |
-
-### 好感度获取表
-
-| 行为 | 好感度增量 | 上限 |
-|:----|:---------:|:----|
-| 🫱 抚摸（每日一次） | +15 | 1 次/天 |
-| 🧀 喂食（自动/手动） | +5/次 | — |
-| 🌿 放牧（吃草） | +10/天 | — |
-| 🎶 收音机（鸡舍装饰） | +5/天 | 需要购买收音机 250g |
-| ❄️ 暖炉（冬季） | +10/天 | 需要购买暖炉 500g |
-
-### 品质升级公式
-
-**最终品质 = 基础品质 × (1 + 好感度系数 + 畜牧技能加成 + 饲料加成)**
-
-| 因子 | 加成 | 说明 |
-|:----|:---:|:----|
-| 基础品质 | 100% | 刚买入或低好感 |
-| 满好感 | +50% | 5❤️ 时 |
-| 畜牧技能 Lv.5 | +10% | 解锁 "优质产品" 天赋 |
-| 畜牧技能 Lv.10 | +25% | 解锁 "大师牧人" 天赋 |
-| 高级饲料 | +20% | 购买自动喂食器后搭配优质饲料 |
+> **Tip:** Ostriches have the highest purchase price among coop animals, but each egg sells for 200g raw or 450g processed into mayonnaise. **Per-tile daily profit beats every other coop animal** — the 7-day wait to maturity is well worth it.
 
 ---
 
-## 🏗️ 鸡舍/畜棚升级与自动喂食器 ROI
+## 🐄 Barn Animals
 
-| 建筑 | 升级费用 | 材料需求 | 最大容量 | 自动喂食器价格 | 解锁功能 |
-|:----|:-------:|:--------|:-------:|:-------------:|:--------|
-| 🐔 基础鸡舍 | 2,000g | 木材×50, 石头×30 | 4 只 | 不可装 | 基本养鸡 |
-| 🐔 中级鸡舍 | 5,000g | 硬木×30, 银锭×5 | 8 只 | 3,000g | 鸭/兔入住 |
-| 🐔 高级鸡舍 | 10,000g | 金锭×8, 精炼石英×5 | 12 只 | 3,000g | 孔雀/鸵鸟 |
-| 🐮 基础畜棚 | 3,000g | 木材×80, 石头×40 | 4 只 | 不可装 | 基本奶牛/绵羊 |
-| 🐮 中级畜棚 | 6,000g | 硬木×40, 银锭×8 | 8 只 | 4,000g | 山羊/猪 |
-| 🐮 高级畜棚 | 12,000g | 金锭×10, 精炼石英×8 | 12 只 | 4,000g | 羊驼 |
+| Animal | Purchase Price | Maturity Days | Daily Output | Base Price | Processed Product | Processed Price |
+|:-------|:-------------:|:-------------:|:------------:|:----------:|:-----------------|:---------------:|
+| 🐄 Cow | 1,500g | 3 days | 1× Milk | 100g | Cheese (200g) / Butter (150g) / Pudding (250g) | See below |
+| 🐑 Sheep | 2,000g | 4 days | 1× Wool | 120g | Cloth | 240g |
+| 🐐 Goat | 2,500g | 3 days | 1× Goat Milk | 140g | Goat Cheese | 280g |
+| 🐖 Pig | 4,000g | 5 days | 1-3× Truffle | 200g each | Truffle Oil | 400g each |
+| 🦌 Alpaca | 5,000g | 6 days | 1× Alpaca Wool | 250g | High-Quality Cloth | 400g |
 
-**自动喂食器 ROI 计算：**
-
-| 设备 | 成本 | 节省时间/天 | 天数回本 | 长期价值 |
-|:----|:---:|:----------:|:-------:|:--------|
-| 鸡舍自动喂食器 | 3,000g | 3 分钟 | 无需回本（时间） | 解放双手，不用每天手动放草料 |
-| 畜棚自动喂食器 | 4,000g | 4 分钟 | 同上 | 配合自动集蛋器实现全自动化 |
-
-> **Tip:** **自动集蛋器**（2,000g，中级鸡舍解锁）比自动喂食器更优先购买——它每天自动收集所有蛋/毛，省去挨个点击的时间。自动喂食器 + 自动集蛋器 = 真正的被动收入。
+> **Tip:** **Pigs are the profit kings** of the animal world. Truffles are foraged items (rooted up by pigs), yielding 1-3 per day. Process each into Truffle Oil for 400g. 3 Truffle Oils = 1,200g/day. But pigs need free-range grazing (can't be locked in the barn) and produce nothing in winter.
 
 ---
 
-## 🐾 宠物系统
+## 💖 Animal Friendship System
 
-| 宠物 | 获取方式 | 成本 | 好处 |
-|:----|:--------|:----|:-----|
-| 🐕 狗（柯基/德牧/金毛） | 宠物店购买（周日） | 1,000g | 每天送 1 件礼物，可增加动物好感 |
-| 🐈 猫（橘猫/黑猫/三花） | 宠物店购买（周日） | 1,000g | 每天送 1 件礼物，可赶鸟 |
-| 🐇 兔 | 宠物店购买 | 800g | 无特殊功能，纯陪伴 |
-| 🦎 蜥蜴 | 潜水发现后收养 | 免费 | 无特殊功能，纯收集 |
-| 🐢 龟 | 海滩事件触发 | 免费 | 后院放养，吃杂草 |
+### Friendship Levels
 
-### 宠物好感度
+| Level | Name | Hearts | Effect |
+|:------|:-----|:------:|:-------|
+| 0 | Stranger | ❌0❤️ | Normal quality output |
+| 1 | Friendly | ❤️❤️🤍🤍🤍 | 10% chance of Silver quality |
+| 2 | Close | ❤️❤️❤️🤍🤍 | 25% Silver + 5% Gold |
+| 3 | Buddy | ❤️❤️❤️❤️🤍 | 40% Gold + 10% Osmium |
+| 4 | Best Friend | ❤️❤️❤️❤️❤️ | 50% Osmium + 30% Gold |
 
-| 等级 | 效果 |
-|:----|:-----|
-| 1-3❤️ | 每天送 1 件随机小礼物（种子/觅食/贝壳） |
-| 4❤️ | 解锁宠物抚摸加成：抚摸宠物后+1 体力再生（全天） |
-| 5❤️ | 解锁宠物技能：狗帮忙赶走袭击动物的野生动物，猫帮忙抓老鼠保护饲料 |
+### Friendship Gains
 
----
+| Action | Friendship Gain | Limit |
+|:-------|:--------------:|:------|
+| 🫱 Petting (once daily) | +15 | 1/day |
+| 🧀 Feeding (auto or manual) | +5 each | — |
+| 🌿 Grazing (eating grass) | +10/day | — |
+| 🎶 Radio (coop decor) | +5/day | Requires radio purchase 250g |
+| ❄️ Heater (winter) | +10/day | Requires heater purchase 500g |
 
-## 🧀 畜产品加工路线
+### Quality Upgrade Formula
 
-### 奶制品利润表
+**Final Quality = Base Quality × (1 + Friendship Modifier + Husbandry Skill Bonus + Feed Bonus)**
 
-| 产品 | 原料 | 加工机器 | 加工时间 | 售价 | 利润增幅 |
-|:----|:----|:--------|:-------:|:----:|:-------:|
-| 🥛 牛奶（基础） | — | — | — | 100g | — |
-| 🧀 奶酪 | 牛奶×1 | 奶酪机 | 6 小时 | 200g | +100g (+100%) |
-| 🧈 黄油 | 牛奶×1 | 黄油机 | 4 小时 | 150g | +50g (+50%) |
-| 🍮 布丁 | 牛奶×1 | 布丁机 | 8 小时 | 250g | +150g (+150%) |
-| 🥛 山羊奶 | — | — | — | 140g | — |
-| 🧀 山羊奶酪 | 山羊奶×1 | 奶酪机 | 6 小时 | 280g | +140g (+100%) |
-| 🥚 鸵鸟蛋 | — | — | — | 200g | — |
-| 🫙 鸵鸟蛋酱 | 鸵鸟蛋×1 | 蛋黄酱机 | 4 小时 | 450g | +250g (+125%) |
-
-### 蛋类加工利润表
-
-| 产品 | 原料 | 加工机器 | 加工时间 | 售价 | 利润增幅 |
-|:----|:----|:--------|:-------:|:----:|:-------:|
-| 🥚 鸡蛋 | — | — | — | 50g | — |
-| 🫙 普通蛋黄酱 | 鸡蛋×1 | 蛋黄酱机 | 3 小时 | 150g | +100g (+200%) |
-| 🥚 鸭蛋 | — | — | — | 70g | — |
-| 🫙 鸭蛋黄酱 | 鸭蛋×1 | 蛋黄酱机 | 3 小时 | 200g | +130g (+186%) |
-| 🧶 羊毛/兔毛 | — | — | — | 80~120g | — |
-| 🧥 布料 | 毛料×1 | 织布机 | 4 小时 | 240g | +120~160g |
-
-> **Tip:** **加工优先级：布丁 > 蛋黄酱 > 奶酪 > 黄油**。布丁的利润增幅（+150%）最高但时间最长，适合睡觉前放入机器。如果机器数量有限，蛋黄酱的 +200% 增幅时间比最短，是最高效的选择。
+| Factor | Bonus | Notes |
+|:-------|:----:|:------|
+| Base Quality | 100% | Newly purchased or low friendship |
+| Max Friendship | +50% | At 5❤️ |
+| Husbandry Skill Lv.5 | +10% | Unlocks "Quality Products" perk |
+| Husbandry Skill Lv.10 | +25% | Unlocks "Master Herder" perk |
+| Premium Feed | +20% | Premium feed via auto-feeder |
 
 ---
 
-## 💰 每日利润对比：动物 vs 作物
+## 🏗️ Coop/Barn Upgrades & Auto-Feeder ROI
 
-| 项目 | 单格日利润（基础） | 加工后 | 加工后日利润/格 | 稳定性 |
-|:----|:-----------------:|:------:|:---------------:|:------|
-| 🌱 春季作物平均 | 8~15g/格 | 加工翻倍 | 16~30g/格 | ❌依赖季节 |
-| 🐔 鸡（1 只） | 50g | 蛋黄酱 150g | 150g/天 | ✅全年 |
-| 🦆 鸭（1 只） | 70g | 鸭蛋黄酱 200g | 200g/天 | ✅全年 |
-| 🐄 奶牛（1 只） | 100g | 布丁 250g | 250g/天 | ✅全年 |
-| 🐖 猪（1 只） | 400~600g | 松露油 800~1,200g | **800~1,200g/天** | ❌冬季无产出 |
-| 🐰 兔（1 只） | 80g | 布料 240g | 240g/天 | ✅全年 |
+| Building | Upgrade Cost | Materials | Max Capacity | Auto-Feeder Price | Unlocks |
+|:---------|:-----------:|:----------|:------------:|:-----------------:|:--------|
+| 🐔 Basic Coop | 2,000g | Wood×50, Stone×30 | 4 animals | N/A | Basic chickens |
+| 🐔 Medium Coop | 5,000g | Hardwood×30, Silver Bar×5 | 8 animals | 3,000g | Ducks, Rabbits |
+| 🐔 Deluxe Coop | 10,000g | Gold Bar×8, Refined Quartz×5 | 12 animals | 3,000g | Peacocks, Ostriches |
+| 🐮 Basic Barn | 3,000g | Wood×80, Stone×40 | 4 animals | N/A | Basic cows, sheep |
+| 🐮 Medium Barn | 6,000g | Hardwood×40, Silver Bar×8 | 8 animals | 4,000g | Goats, Pigs |
+| 🐮 Deluxe Barn | 12,000g | Gold Bar×10, Refined Quartz×8 | 12 animals | 4,000g | Alpacas |
 
-### 结论
+**Auto-Feeder ROI Analysis:**
 
-- **猪的单格利润最高**（800-1,200g/天）但冬季停产，适合作为夏季秋季主力收入
-- **奶牛+布丁**是最稳定的被动收入，全年无休
-- **动物整体利润远超作物**（不含加工），但前期投入也大。推荐混合策略：春季种田积累资金 → 夏季扩建畜棚买牛/猪 → 秋季依靠畜产品度过冬季
+| Device | Cost | Time Saved/Day | Days to Break Even | Long-Term Value |
+|:-------|:---:|:--------------:|:------------------:|:----------------|
+| Coop Auto-Feeder | 3,000g | ~3 min | Not monetary | Hands-free feeding, no daily hay refills |
+| Barn Auto-Feeder | 4,000g | ~4 min | Same as above | Fully automated with Auto-Grabber |
+
+> **Tip:** Buy the **Auto-Grabber** (2,000g, unlocks at Medium Coop) before the Auto-Feeder — it collects all eggs and wool daily, saving you from clicking each one. Auto-Feeder + Auto-Grabber = true passive income.
 
 ---
 
-## ❄️ 四季养殖策略
+## 🐾 Pet System
 
-| 季节 | 策略重点 | 注意事项 |
-|:----|:--------|:--------|
-| 🌸 **春** | 买鸡起步（成本低、回报快）→ 攒钱升级鸡舍到中级 → 购入第一只鸭 | 春季作物是主要收入，动物是副线 |
-| ☀️ **夏** | 畜棚升级 → 买第一只奶牛 → 买猪（松露夏季价值最高） | 猪需要自由放牧，留出草地空间 |
-| 🍂 **秋** | 进阶畜棚 → 买鸵鸟/羊驼 → 大量加工畜产品卖秋收高价 | 囤积松露油和布丁，为冬季储备 |
-| ❄️ **冬** | 猪停产，靠奶牛/鸡/羊驼维持收入 → 升级自动喂食器和集蛋器 | 冬季放牧无效，需要囤积干草 |
+| Pet | How to Get | Cost | Benefits |
+|:----|:-----------|:----:|:---------|
+| 🐕 Dog (Corgi/German Shepherd/Golden Retriever) | Pet shop (Sundays) | 1,000g | Brings 1 gift daily, boosts animal friendship |
+| 🐈 Cat (Orange/Black/Calico) | Pet shop (Sundays) | 1,000g | Brings 1 gift daily, scares away birds |
+| 🐇 Bunny | Pet shop | 800g | No special function, just companionship |
+| 🦎 Lizard | Adopt after diving discovery | Free | No special function, collector's item |
+| 🐢 Turtle | Beach event trigger | Free | Roams your yard, eats weeds |
 
-> **Tip:** 冬季所有动物必须关在室内靠干草喂养。建议秋季至少囤积 **100 捆干草**（每个动物每天消耗 1 捆）从 Macy 的杂货店买干草 10g/捆，或在秋季用镰刀收割野草自制。每个动物一冬季（28 天）消耗 28 捆干草，6 只动物 = 168 捆 × 10g = 1,680g，值得提前准备。
+### Pet Friendship
+
+| Level | Effect |
+|:------|:-------|
+| 1-3❤️ | 1 random small gift daily (seeds/forage/shells) |
+| 4❤️ | Petting bonus unlocked: +1 stamina regen all day after petting |
+| 5❤️ | Pet skill unlocked: Dog scares off wildlife attacking animals, Cat catches mice to protect feed |
+
+---
+
+## 🧀 Animal Product Processing Routes
+
+### Dairy Profit Table
+
+| Product | Ingredient | Machine | Processing Time | Sell Price | Profit Increase |
+|:--------|:-----------|:--------|:--------------:|:----------:|:---------------:|
+| 🥛 Milk (base) | — | — | — | 100g | — |
+| 🧀 Cheese | 1× Milk | Cheese Press | 6 hours | 200g | +100g (+100%) |
+| 🧈 Butter | 1× Milk | Butter Churn | 4 hours | 150g | +50g (+50%) |
+| 🍮 Pudding | 1× Milk | Pudding Maker | 8 hours | 250g | +150g (+150%) |
+| 🥛 Goat Milk | — | — | — | 140g | — |
+| 🧀 Goat Cheese | 1× Goat Milk | Cheese Press | 6 hours | 280g | +140g (+100%) |
+| 🥚 Ostrich Egg | — | — | — | 200g | — |
+| 🫙 Ostrich Egg Mayo | 1× Ostrich Egg | Mayo Machine | 4 hours | 450g | +250g (+125%) |
+
+### Egg Processing Profit Table
+
+| Product | Ingredient | Machine | Processing Time | Sell Price | Profit Increase |
+|:--------|:-----------|:--------|:--------------:|:----------:|:---------------:|
+| 🥚 Egg | — | — | — | 50g | — |
+| 🫙 Mayonnaise | 1× Egg | Mayo Machine | 3 hours | 150g | +100g (+200%) |
+| 🥚 Duck Egg | — | — | — | 70g | — |
+| 🫙 Duck Mayonnaise | 1× Duck Egg | Mayo Machine | 3 hours | 200g | +130g (+186%) |
+| 🧶 Wool / Rabbit Wool | — | — | — | 80~120g | — |
+| 🧥 Cloth | 1× Wool | Loom | 4 hours | 240g | +120~160g |
+
+> **Tip:** **Processing priority: Pudding > Mayonnaise > Cheese > Butter.** Pudding has the highest profit increase (+150%) but takes the longest — perfect for loading before bed. If machines are limited, Mayonnaise's +200% in just 3 hours is the most efficient option.
+
+---
+
+## 💰 Daily Profit: Animals vs. Crops
+
+| Category | Per-Tile Daily Profit (Base) | Processed | Post-Process Daily Profit per Tile | Consistency |
+|:---------|:---------------------------:|:---------:|:----------------------------------:|:------------|
+| 🌱 Spring Crops (avg) | 8~15g/tile | ~2× processed | 16~30g/tile | ❌ Season-dependent |
+| 🐔 Chicken (1) | 50g | Mayo 150g | 150g/day | ✅ Year-round |
+| 🦆 Duck (1) | 70g | Duck Mayo 200g | 200g/day | ✅ Year-round |
+| 🐄 Cow (1) | 100g | Pudding 250g | 250g/day | ✅ Year-round |
+| 🐖 Pig (1) | 400~600g | Truffle Oil 800~1,200g | **800~1,200g/day** | ❌ No winter output |
+| 🐰 Rabbit (1) | 80g | Cloth 240g | 240g/day | ✅ Year-round |
+
+### Verdict
+
+- **Pigs have the highest per-tile profit** (800-1,200g/day) but stop in winter — best as a summer/fall primary income
+- **Cow + Pudding** is the most stable passive income, running all year
+- **Animals outpace crops overall** (excluding processing), but upfront costs are higher. Recommended hybrid: spring crops to build capital → summer barn expansion into cows/pigs → fall lean on animal products through winter
+
+---
+
+## ❄️ Seasonal Farming Strategies
+
+| Season | Focus | Notes |
+|:-------|:------|:-------|
+| 🌸 **Spring** | Start with chickens (low cost, fast returns) → save to upgrade coop to Medium → buy first duck | Spring crops are main income; animals are a side line |
+| ☀️ **Summer** | Barn upgrade → buy first cow → buy pigs (truffles peak in summer) | Pigs need free-range grazing — reserve grass space |
+| 🍂 **Fall** | Deluxe barn → buy ostriches/alpacas → mass-process animal products for fall prices | Stockpile truffle oil and pudding for winter |
+| ❄️ **Winter** | Pigs stop producing; rely on cows/chickens/alpacas for income → upgrade auto-feeders and auto-grabbers | Winter grazing doesn't work — stockpile hay |
+
+> **Tip:** In winter, all animals must stay indoors on hay. Stockpile at least **100 bales of hay** (each animal eats 1/day) before winter. Buy hay from Macy's general store at 10g/bale, or harvest wild grass with a scythe in fall. One animal costs 28 bales for winter (28 days). 6 animals = 168 bales × 10g = 1,680g — worth preparing early.

@@ -3,6 +3,8 @@ title: Fields of Mistria — Complete Game Overview
 description: Fields of Mistria complete guide covering farming simulation, RPG mechanics, magic system, and beginner tips for this 2024 release
 ---
 
+<a href="/assets/images/fields-of-mistria-hero.jpg"><img src="/assets/images/fields-of-mistria-hero.jpg" alt="Fields of Mistria" style="width:100%; border-radius:8px; margin-bottom:16px;"></a>
+
 # 🌾 Fields of Mistria — Game Overview
 
 ## About the Game

@@ -6,100 +6,100 @@ date: 2026-07-05
 
 # 🍳 My Time at Sandrock — Complete Cooking Guide
 
-从沙漠食材到顶级料理，烹饪是 Sandrock 中提供关键 Buff、恢复体力以及赚取 Gols 的重要系统。本攻略涵盖所有烹饪站、食谱、Buff 机制和盈利分析。
+From desert ingredients to top-tier cuisine, cooking is a vital system in Sandrock that provides key buffs, stamina recovery, and a solid way to earn Gols. This guide covers all cooking stations, recipes, buff mechanics, and profit analysis.
 
 ---
 
-## 🔥 烹饪站解锁
+## 🔥 Cooking Station Unlocks
 
-| 烹饪站 | 解锁条件 | 核心功能 |
-|:-------|:---------|:---------|
-| 🪵 简易烤架 Basic Grill | 初始自带 | 基础烤肉、烤蔬菜 |
-| 🍲 炉灶 Stove | 工坊 Lv.3 | 煮汤、炖菜、主食 |
-| 🥘 炒锅 Wok | 蓝图购买/制作 | 炒菜、油炸料理 |
-| 🌀 搅拌机 Blender | 工坊 Lv.4 | 饮料、酱汁、冰沙 |
-| 🔥 烤箱 Oven | 工坊 Lv.5 | 烘焙、披萨、甜点 |
-| 🧊 冷藏柜 Fridge | 工坊 Lv.5 | 冷盘、沙拉、发酵食品 |
+| Station | Unlock Condition | Core Function |
+|:--------|:-----------------|:--------------|
+| 🪵 Basic Grill | Starting item | Basic grilled meat and vegetables |
+| 🍲 Stove | Workshop Lv.3 | Soups, stews, mains |
+| 🥘 Wok | Blueprint purchase/craft | Stir-fry, fried dishes |
+| 🌀 Blender | Workshop Lv.4 | Drinks, sauces, smoothies |
+| 🔥 Oven | Workshop Lv.5 | Baking, pizza, desserts |
+| 🧊 Fridge | Workshop Lv.5 | Cold dishes, salads, fermented foods |
 
-> **💡 Tip:** 优先升到工坊 4 解锁搅拌机。战斗 Buff 饮料（仙人掌冰沙）对废墟探索至关重要。
-
----
-
-## 📋 完整食谱速查
-
-### 🥩 战斗 Buff 料理
-
-| 料理 | HP/STA | 效果 | 售价 | 材料 |
-|:-----|:-------|:-----|:-----|:-----|
-| 仙人掌冰沙 | +50HP | +30%攻击 8m | 280 | 仙人掌花×3+冰 |
-| 沙漠炖菜 | +80HP | +25%防御 10m | 350 | 肉×2+仙人掌+香料 |
-| 火烧烤串 | +60HP | +20%暴击 5m | 220 | 辣根+肉+辣椒 |
-| 铁人汤 | +45STA | +30%防御 8m | 310 | 铁色蘑菇+肉骨+水 |
-
-### ⛏️ 体力恢复料理
-
-| 料理 | STA回复 | 售价 | 材料 |
-|:-----|:--------|:-----|:-----|
-| 沙米粥 | +70 | 130 | 沙米+水+糖 |
-| 椰枣能量棒 | +90 | 180 | 椰枣+沙米+蜂蜜 |
-| 丰盛炖肉 | +120 | 320 | 肉×3+土豆+香料 |
-| 沙漠盛宴 | +200 | 680 | 肉×4+稀有蘑菇+椰枣酒 |
-
-### 💰 高利润料理
-
-| 料理 | 成本 | 售价 | 利润率 | 时间 |
-|:-----|:-----|:-----|:-------|:-----|
-| 椰枣酒 | 60 | 420 | 600% | 3d发酵 |
-| 奶酪焗饭 | 150 | 520 | 247% | 2h烤箱 |
-| 香料烤肉 | 200 | 600 | 200% | 1h烤架 |
-| 什锦沙拉 | 120 | 280 | 133% | 10m搅拌 |
+> **💡 Tip:** Prioritize Workshop Lv.4 to unlock the Blender. Combat buff drinks (Cactus Smoothie) are essential for ruin exploration.
 
 ---
 
-## 🧪 食物 Buff 系统
+## 📋 Complete Recipe Reference
 
-| Buff 类型 | 能否叠加 | 说明 |
-|:----------|:---------|:-----|
-| 🎯 战斗 (攻/防/暴击) | ❌ 同类取最高 | 两个攻击+30%不叠加 |
-| ⚡ 体力/生命恢复 | ✅ 可叠加 | 恢复量累计 |
-| 🛠️ 采集效率 | ✅ 不同类可叠 | 采集+挖矿同时生效 |
+### 🥩 Combat Buff Dishes
 
-**最佳废墟前套餐：** 仙人掌冰沙(+30%攻击 8m) + 铁人汤(+30%防御 8m) + 能量饼干(+15%采集 5m)
+| Dish | HP/STA | Effect | Sell Price | Ingredients |
+|:-----|:-------|:-------|:-----------|:------------|
+| Cactus Smoothie | +50HP | +30% Attack 8m | 280 | Cactus Flower ×3 + Ice |
+| Desert Stew | +80HP | +25% Defense 10m | 350 | Meat ×2 + Cactus + Spice |
+| Fiery Skewer | +60HP | +20% Crit 5m | 220 | Horseradish + Meat + Chili |
+| Ironman Soup | +45STA | +30% Defense 8m | 310 | Iron Mushroom + Bone Broth + Water |
 
-> **💡 Tip:** 烹饪 Buff 与装备属性 **独立乘算**。装备+20%攻击，冰沙再×+30%，最终 = **+56%** 攻击。
+### ⛏️ Stamina Recovery Dishes
 
----
+| Dish | STA Restored | Sell Price | Ingredients |
+|:-----|:-------------|:-----------|:------------|
+| Sandrice Porridge | +70 | 130 | Sandrice + Water + Sugar |
+| Date Energy Bar | +90 | 180 | Dates + Sandrice + Honey |
+| Hearty Stew | +120 | 320 | Meat ×3 + Potato + Spice |
+| Desert Feast | +200 | 680 | Meat ×4 + Rare Mushrooms + Date Wine |
 
-## 🏆 烹饪比赛指南
+### 💰 High-Profit Dishes
 
-秋季 **第 15 日** 举行。评分：食材质量 40% + 主题契合 30% + 调料搭配 20% + 摆盘 10%。第一年用沙漠炖菜+仙人掌花配菜稳赢。
-
----
-
-## ⭐ 食材品质机制
-
-| 星级 | Buff 加成 | 售价加成 |
-|:-----|:----------|:---------|
-| ⭐ 普通 | 基础 | 100% |
-| ⭐⭐ 良好 | +20% | 130% |
-| ⭐⭐⭐ 优秀 | +40%, 额外+1属性 | 170% |
-| ⭐⭐⭐⭐ 完美 | +60%, 额外+2属性 | 220% |
-
-> **💡 Tip:** 用优质肥料种植可显著提升食材星级。施肥后的沙米从 ⭐ 提升至 ⭐⭐⭐，料理售价可翻近倍。
+| Dish | Cost | Sell Price | Profit Margin | Time |
+|:-----|:----:|:----------:|:-------------:|:----:|
+| Date Wine | 60 | 420 | 600% | 3d ferment |
+| Cheese Rice Bake | 150 | 520 | 247% | 2h oven |
+| Spiced Roast | 200 | 600 | 200% | 1h grill |
+| Mixed Salad | 120 | 280 | 133% | 10m blend |
 
 ---
 
-## 💵 利润分析：原材料 vs 加工料理
+## 🧪 Food Buff System
 
-| 材料 | 原材料价 | →加工后 | 成品价 | 净增值 |
-|:-----|:---------|:--------|:-------|:-------|
-| 仙人掌花×3 | 60 | 仙人掌冰沙 | 280 | **+220** |
-| 沙米×5 | 25 | 沙米粥 | 130 | **+105** |
-| 肉×2 | 40 | 烤肉 | 180 | **+140** |
-| 椰枣×3 | 30 | 椰枣酒(3d) | 420 | **+390** |
+| Buff Type | Stackable? | Notes |
+|:----------|:-----------|:------|
+| 🎯 Combat (Attack/Defense/Crit) | ❌ Same type — highest wins | Two +30% Attack don't stack |
+| ⚡ Stamina/HP Recovery | ✅ Stacks | Recovery amounts accumulate |
+| 🛠️ Gathering Efficiency | ✅ Different types stack | Gathering + Mining active together |
 
-**结论：** 几乎所有料理加工利润远超直接卖原材料。发酵类（椰枣酒）利润率最高，适合夜间挂机生产。
+**Best Pre-Ruin Combo Meal:** Cactus Smoothie (+30% Attack 8m) + Ironman Soup (+30% Defense 8m) + Energy Biscuit (+15% Gathering 5m)
+
+> **💡 Tip:** Cooking buffs **multiply independently** with gear stats. Gear with +20% Attack + Cactus Smoothie with +30% Attack = **+56%** total Attack.
 
 ---
 
-*数据来源：My Time at Sandrock v1.4 游戏内数据*
+## 🏆 Cooking Contest Guide
+
+Held on **Day 15 of Autumn**. Scoring: Ingredient Quality 40% + Theme Fit 30% + Seasoning Match 20% + Presentation 10%. Year 1, go with Desert Stew + Cactus Flower garnish for a guaranteed win.
+
+---
+
+## ⭐ Ingredient Quality Mechanics
+
+| Stars | Buff Bonus | Price Bonus |
+|:-----|:-----------|:------------|
+| ⭐ Normal | Base | 100% |
+| ⭐⭐ Good | +20% | 130% |
+| ⭐⭐⭐ Excellent | +40%, +1 extra stat | 170% |
+| ⭐⭐⭐⭐ Perfect | +60%, +2 extra stats | 220% |
+
+> **💡 Tip:** Using quality fertilizer while growing ingredients significantly boosts their star rating. Fertilized sandrice can go from ⭐ to ⭐⭐⭐, nearly doubling your dish sell price.
+
+---
+
+## 💵 Profit Analysis: Raw Ingredients vs. Cooked Dishes
+
+| Ingredient | Raw Value | → Cooked Into | Cooked Value | Net Gain |
+|:-----------|:----------|:--------------|:-------------|:---------|
+| Cactus Flower ×3 | 60 | Cactus Smoothie | 280 | **+220** |
+| Sandrice ×5 | 25 | Sandrice Porridge | 130 | **+105** |
+| Meat ×2 | 40 | Grilled Meat | 180 | **+140** |
+| Dates ×3 | 30 | Date Wine (3d) | 420 | **+390** |
+
+**Conclusion:** Nearly every cooking recipe dramatically beats selling raw ingredients. Fermented goods (Date Wine) have the highest profit margin — ideal for overnight passive production.
+
+---
+
+*Data source: My Time at Sandrock v1.4 in-game data*

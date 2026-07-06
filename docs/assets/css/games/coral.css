@@ -1,0 +1,52 @@
+/* ========================================================== */
+/* 🌴 Coral Island — Ocean Breeze · 热带微风                   */
+/*    Palette: Ocean Blue + Coral Red + Sand                  */
+/* ========================================================== */
+
+[data-game="coral"] {
+  /* Core palette */
+  --pm-primary: #0e7490;
+  --pm-primary-light: #06b6d4;
+  --pm-primary-dark: #155e75;
+  --pm-on-primary: #FFFFFF;
+  --pm-accent: #e11d48;
+  --pm-accent-light: #fb7185;
+
+  /* Surfaces */
+  --pm-background: #ECFEFF;
+  --pm-foreground: #1F2937;
+  --pm-muted: #CFFAFE;
+  --pm-card-bg: #FFFFFF;
+  --pm-card-bg-soft: rgba(255,255,255,0.85);
+  --pm-border: #A5F3FC;
+  --pm-border-light: #CFFAFE;
+
+  /* Text */
+  --pm-text: #374151;
+  --pm-text-light: #6B7280;
+  --pm-text-muted: #9CA3AF;
+
+  /* Tints & shadows */
+  --pm-green-tint: rgba(14,116,144,0.08);
+  --pm-amber-tint: rgba(225,29,72,0.08);
+  --pm-shadow-green: rgba(14,116,144,0.12);
+  --pm-shadow-amber: rgba(225,29,72,0.12);
+  --pm-shadow-card: rgba(14,116,144,0.08);
+}
+
+/* ── Coral-specific decorations ─────────────────────────── */
+
+[data-game="coral"] .md-typeset h2 {
+  border-bottom-color: rgba(14,116,144,0.25);
+}
+[data-game="coral"] .md-typeset h2::after {
+  background: #0e7490;
+}
+
+[data-game="coral"] .md-content {
+  border-color: #A5F3FC;
+}
+
+[data-game="coral"] .md-header {
+  border-bottom-color: #A5F3FC;
+}

@@ -4,6 +4,8 @@ description: 1. Sell the starting tractor — too old, inefficient
 date: 2026-06-27
 ---
 
+<a href="/assets/images/farmingsim-25-hero.jpg"><img src="/assets/images/farmingsim-25-hero.jpg" alt="Farming Simulator 25" style="width:100%; border-radius:8px; margin-bottom:16px;"></a>
+
 # Farming Simulator 25 — Complete Guide
 
 ## Game Overview

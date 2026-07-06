@@ -1,6 +1,6 @@
 ---
 title: 🎮 Farming Game List
-description: > 💡 Tip: Guides are continuously updated. Click on a game name to view detailed content.
+description: "Guides are continuously updated. Click on a game name to view detailed content."
 date: 2026-06-27
 ---
 

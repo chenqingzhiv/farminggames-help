@@ -6,89 +6,89 @@ date: 2026-07-05
 
 # 🏠 My Time at Sandrock — Housing & Decor Complete Guide
 
-在沙漠中拥有舒适的家直接关系到体力恢复、机器效率和 NPC 关系。本攻略从房屋升级到庭院布置全覆盖。
+Having a comfortable home in the desert directly affects your stamina recovery, machine efficiency, and NPC relationships. This guide covers everything from house upgrades to yard layout planning.
 
 ---
 
-## 🏗️ 房屋升级路线
+## 🏗️ House Upgrade Path
 
-| 阶段 | 花费 | 核心材料 | 房间 | 解锁功能 |
-|:-----|:-----|:---------|:-----|:---------|
-| 🌵 初始棚屋 | 免费 | 无 | 1 | 基本休息 |
-| 🏚️ 小型 | 5,000 | 木材×50, 铜棒×20 | 2 | 厨房 |
-| 🏠 中型 | 15,000 | 硬木×80, 铁棒×30, 玻璃×10 | 3 | 卧室(能量+) |
-| 🏡 大型 | 35,000 | 橡胶木×60, 锰钢棒×40, 玻璃×20 | 4 | 地下室 |
-| 🏰 豪华宅邸 | 80,000 | 钛合金×50, 镁棒×30, 硅晶片×15 | 6 | 全部功能 |
+| Stage | Cost | Core Materials | Rooms | Unlocked Features |
+|:------|:-----|:---------------|:-----:|:------------------|
+| 🌵 Starter Shack | Free | None | 1 | Basic rest |
+| 🏚️ Small House | 5,000 | Wood ×50, Copper Bar ×20 | 2 | Kitchen |
+| 🏠 Medium House | 15,000 | Hardwood ×80, Iron Bar ×30, Glass ×10 | 3 | Bedroom (+Energy) |
+| 🏡 Large House | 35,000 | Rubber Wood ×60, Manganese Steel Bar ×40, Glass ×20 | 4 | Basement |
+| 🏰 Luxury Mansion | 80,000 | Titanium Alloy ×50, Magnesium Bar ×30, Silicon Wafer ×15 | 6 | All features |
 
-> **💡 Tip:** 推荐节奏：中型（工坊Lv.4前）→ 大型（工坊Lv.6前）→ 豪华（通关后），每级留资金升级机器。不要一口气升满。
-
----
-
-## 🛏️ 房间功能详解
-
-| 房间 | 解锁阶段 | 核心功能 | 最佳布置 |
-|:-----|:---------|:---------|:---------|
-| 🛌 卧室 | 中型 | 体力回复+25%~+75% | 床+衣柜+地毯 |
-| 🍳 厨房 | 小型 | 烹饪Buff时间+50% | 炉灶+冰箱 |
-| 🔧 工坊 | 大型 | 制造速度+10%~+30% | 工作台+工具架+照明 |
-| 🧪 实验室 | 大型 | 研究速度+20% | 分析仪+书架 |
-| 🪴 温室 | 豪华 | 室内种植 | 花盆+灌溉 |
-| 🎮 娱乐室 | 豪华 | 每日被动好感度 | 游戏机+装饰 |
-
-**体力回复公式：** 基础 30 STA × (1 + 卧室加成%)。豪华床(75%) → 30×1.75 = **52.5 STA/晚**，相当于每天多挖 2-3 层废墟。
+> **💡 Tip:** Recommended pace: Medium (before Workshop Lv.4) → Large (before Workshop Lv.6) → Luxury (post-story). Keep some cash aside for machine upgrades at each stage. Don't rush to max it out all at once.
 
 ---
 
-## 📐 蓝图获取与装饰机制
+## 🛏️ Room Functions in Detail
 
-| 蓝图来源 | 举例 | 装饰品 | 属性影响 |
-|:---------|:-----|:-------|:---------|
-| 🛒 家具店(周二~六) | 基础床、椅子 | 🖼️ 挂画 | 魅力+1~3 |
-| 🏚️ 废墟数据光盘 | 高级工作台、装饰灯 |  ️ 地毯 | 体力回复+2%~5% |
-| 🎁 任务奖励 | 限定独家家具 |  ️ 灯具 | 制造速度+1%~3% |
-| 🤝 NPC好感(5/10心) | Mi-an沙地风格套 |  ️ 绿植 | 心情+2/盆 |
+| Room | Unlock Stage | Core Function | Best Setup |
+|:-----|:-------------|:--------------|:-----------|
+| 🛌 Bedroom | Medium House | Stamina recovery +25% to +75% | Bed + wardrobe + rug |
+| 🍳 Kitchen | Small House | Cooking buff duration +50% | Stove + fridge |
+| 🔧 Workshop | Large House | Crafting speed +10% to +30% | Workbench + tool rack + lighting |
+| 🧪 Lab | Large House | Research speed +20% | Analyzer + bookshelf |
+| 🪴 Greenhouse | Luxury Mansion | Indoor planting | Flower pots + irrigation |
+| 🎮 Game Room | Luxury Mansion | Daily passive affection boost | Arcade machine + decorations |
 
-> **💡 Tip:** 房屋魅力值每 10 点 = +1 好感度/次送礼。100 魅力值以上可开派对一次邀请多名 NPC，刷好感效率大幅提升。
-
----
-
-## 🔧 工坊布局原则
-
-| 原则 | 说明 |
-|:-----|:-----|
-| 🔄 原料→加工→成品 | 按流程排列减少走动 |
-| 📦 分类储物 | 矿石、植物、成品分箱 |
-| 🚶 过道1格 | 机器间保留行走空间 |
-| 💡 照明覆盖 | 每台机器旁放灯提效 |
-
-**推荐四区布局：** 熔炉区（靠墙3台）→ 加工区（搅拌机+磨碎机+压缩机）→ 木工区（工作台+裁缝台+组装台）→ 储物区（4~8个箱子）
+**Stamina Recovery Formula:** Base 30 STA × (1 + Bedroom Bonus%). Luxury bed (75%) → 30 × 1.75 = **52.5 STA/night**, which is roughly 2-3 extra ruin floors per day.
 
 ---
 
-## 🌿 庭院扩建
+## 📐 Blueprint Acquisition & Decor Mechanics
 
-| 区域 | 解锁 | 花费 | 推荐用途 |
-|:-----|:-----|:-----|:---------|
-| 前院 | 初始 | 免费 | 邮箱+装饰 |
-| 侧院 | 小型 | 2,000 | 动物栏+种植 |
-| 后院 | 中型 | 5,000 | 大型机器+晾晒架 |
-| 延伸区 | 大型 | 15,000 | 温室+果园 |
+| Blueprint Source | Examples | Decor Items | Stat Effects |
+|:-----------------|:---------|:------------|:-------------|
+| 🛒 Furniture Shop (Tue-Sat) | Basic bed, chairs | 🖼️ Wall paintings | Charm +1~3 |
+| 🏚️ Ruin Data Discs | Advanced workbench, decorative lights | 🏮 Carpets | Stamina recovery +2%~5% |
+| 🎁 Quest Rewards | Exclusive limited furniture | 💡 Lighting | Crafting speed +1%~3% |
+| 🤝 NPC Friendship (5/10 hearts) | Mi-an's Sandy Style Set | 🌿 Potted plants | Mood +2/pot |
 
-**沙漠主题方案：** 入口仙人掌盆栽×2 + 砂岩小径 → 左区小型水池+棕榈树 → 右区多肉植物花园+陶罐 → 后院遮阳棚下放熔炉。
-
-> **💡 Tip:** 纯装饰物可密集放置不占机器空间。深色木制家具+仙人掌绿植组合最省材料且富有 Sandrock 特色。
+> **💡 Tip:** Every 10 Charm points in your home = +1 affection per gift given to NPCs. At 100+ Charm you can host parties inviting multiple NPCs at once, dramatically speeding up friendship grinding.
 
 ---
 
-## 📊 ROI 速查
+## 🔧 Workshop Layout Principles
 
-| 项目 | 投资 | 回报 | 回收期 |
-|:-----|:-----|:-----|:-------|
-| 中型卧室 | 15,000 | 体力+15/天 | ≈100天 |
-| 豪华床 | 8,000 | 体力+7.5/天 | ≈80天 |
-| 厨房 | 5,000 | 烹饪Buff+50% | 2~3次废墟 |
-| 魅力值100 | ≈20,000 | 好感×2 | 送礼20次 |
+| Principle | Explanation |
+|:----------|:------------|
+| 🔄 Raw → Process → Finished | Arrange by workflow to minimize walking |
+| 📦 Categorized Storage | Separate chests for ores, plants, finished goods |
+| 🚶 1-tile aisles | Leave walking space between machines |
+| 💡 Full lighting coverage | Place a light next to each machine for efficiency |
+
+**Recommended 4-Zone Layout:** Furnace Zone (3 units against wall) → Processing Zone (Blender + Grinder + Compressor) → Woodworking Zone (Workbench + Tailoring Table + Assembly Table) → Storage Zone (4-8 chests)
 
 ---
 
-*数据来源：My Time at Sandrock v1.4 游戏内数据*
+## 🌿 Yard Expansion
+
+| Area | Unlock | Cost | Recommended Use |
+|:-----|:-------|:----:|:----------------|
+| Front Yard | Default | Free | Mailbox + decoration |
+| Side Yard | Small House | 2,000 | Animal pen + planting |
+| Back Yard | Medium House | 5,000 | Large machines + drying racks |
+| Extension | Large House | 15,000 | Greenhouse + orchard |
+
+**Desert Theme Idea:** Entry cactus pots ×2 + sandstone path → left zone small pond + palm tree → right zone succulent garden + clay pot → back yard furnace area under a shade canopy.
+
+> **💡 Tip:** Purely decorative items can be packed densely without blocking machine space. Dark wood furniture + cactus greenery combo uses the fewest materials while keeping that Sandrock feel.
+
+---
+
+## 📊 ROI Quick Reference
+
+| Project | Investment | Return | Payback Period |
+|:--------|:-----------|:-------|:---------------|
+| Medium Bedroom | 15,000 | +15 STA/day | ≈100 days |
+| Luxury Bed | 8,000 | +7.5 STA/day | ≈80 days |
+| Kitchen | 5,000 | Cooking Buff +50% | 2-3 ruin runs |
+| Charm 100 | ≈20,000 | 2× affection | 20 gift exchanges |
+
+---
+
+*Data source: My Time at Sandrock v1.4 in-game data*

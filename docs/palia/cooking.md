@@ -6,120 +6,120 @@ date: 2026-07-05
 
 # 🍳 Palia Cooking & Recipes Complete Guide
 
-Cooking 是 Palia 中最具战略深度的技能。食物提供 Focus（专注值），直接决定你的经验获取倍率。本文详解从解锁到高阶盈利的全流程。
+Cooking is the most strategically deep skill in Palia. Food provides Focus, which directly determines your experience gain multiplier. This guide covers everything from unlocking stations to endgame profit strategies.
 
 ---
 
-## 🔧 烹饪台解锁
+## 🔧 Cooking Station Unlocks
 
-| 设备 | 解锁方式 | 用途 |
-|:----|:--------|:----|
-| **Campfire**（篝火） | Learning the Ropes 任务赠送 | 基础烹饪（烤肉、烤鱼、茶） |
-| **Prep Station**（备料台） | Reth 公会商店 1,500金 | 切菜、和面、制作半成品 |
-| **Standard Stove**（炉灶） | Reth 公会商店 2,500金 | 炖菜、炒菜、汤类 |
-| **Standard Oven**（烤箱） | Reth 公会商店 2,000金 | 烘烤类（派、面包、千层） |
-| **Mixing Station**（搅拌台） | Reth 公会商店 1,800金 | 果汁、冰沙、甜品 |
+| Station | Unlock Method | Use |
+|:--------|:--------------|:----|
+| **Campfire** | Learning the Ropes quest reward | Basic cooking (grilled meat, grilled fish, tea) |
+| **Prep Station** | Reth's Guild Store — 1,500 gold | Chopping, kneading, prepping ingredients |
+| **Standard Stove** | Reth's Guild Store — 2,500 gold | Stews, stir-fries, soups |
+| **Standard Oven** | Reth's Guild Store — 2,000 gold | Baking (pies, bread, lasagna) |
+| **Mixing Station** | Reth's Guild Store — 1,800 gold | Juices, smoothies, desserts |
 
-> **Tip:** 优先购买 Prep Station + Standard Stove，这两个覆盖了最多的高收益食谱。Campfire 做基础升 Lv 5 即可。
-
----
-
-## 📊 最佳食谱大全
-
-| 食谱 | 稀有度 | 主要材料 | 专注值 | 售价 | 关键效果 |
-|:----|:-----:|:--------|:-----:|:---:|:--------|
-| Grilled Meat (烤肉) | 普通 | 生肉×2 | 25 | 24 | 基础饱腹 |
-| Fish Stew (鱼汤) | 普通 | 任意鱼+香料+大蒜 | 50 | 55 | 🎣 +钓鱼瞄准速度 |
-| Meaty Stir Fry (炒肉) | 稀有 | 肉+蔬菜+米饭+油 | 150 | 180 | ⛏️ +采掘效率 |
-| Celebration Cake (庆典蛋糕) | 史诗 | 蓝莓+黄油+蛋+面粉+水果 | 375 | 420 | ❤️ 最佳送礼 |
-| Muujin Bahari | 史诗 | 肉+香料+蔬菜+油+蛋 | 500 | 650 | 💪 全属性加成 |
-| Chapaa Masala (咖喱) | 史诗 | 肉+奶+香料+番茄 | 350 | 410 | 🌿 +采集范围 |
-| Bouillabaisse (海鲜汤) | 稀有 | 鲈鱼+牡蛎+土豆+洋葱 | 200 | 240 | 🎣 +钓鱼极品 |
-| Blueberry Pie (蓝莓派) | 稀有 | 黄油+面粉+蓝莓×2 | 220 | 260 | 🎁 NPC好感度 |
-| Sushi (寿司) | 多变 | 任意鱼+米+海苔 | 100 | 135 | ❤️ 多个NPC最爱 |
+> **Tip:** Prioritize the Prep Station + Standard Stove — these two cover the most high-profit recipes. The Campfire is fine for basic leveling up to Lv 5.
 
 ---
 
-## 🔵 Focus 系统详解
+## 📊 Best Recipe Guide
 
-Focus 是 Palia 独有的经验倍率系统：
-
-| Focus 状态 | 经验倍率 | 说明 |
-|:----------|:-------:|:----|
-| 无 Focus | 1× | 无额外经验 |
-| 低 Focus (<50%) | 1.25× | 少量加成 |
-| 中 Focus (50-80%) | 1.5× | 不错加成 |
-| 高 Focus (>80%) | 2× | 最大加成 |
-| **Focus 上限** | — | 随技能等级提升 |
-
-**核心机制**:
-- 吃煮熟的食物获得 Focus 值
-- Focus 值越高，所有技能获得的经验倍率越高
-- Focus 会随着时间自然消耗（做任何技能操作都会消耗）
-- 保持 Focus >80% = 升级速度翻倍
-
-> **Tip:** 练级前先吃一个高 Focus 食物（如 Celebration Cake +375 Focus），然后集中做技能操作，最大化每单位时间的经验收益。
+| Recipe | Rarity | Main Ingredients | Focus Value | Sell Price | Key Effect |
+|:-------|:------:|:-----------------|:-----------:|:----------:|:-----------|
+| Grilled Meat | Common | Raw Meat×2 | 25 | 24 | Basic satiety |
+| Fish Stew | Common | Any Fish + Spices + Garlic | 50 | 55 | 🎣 +Fishing aim speed |
+| Meaty Stir Fry | Rare | Meat + Veg + Rice + Oil | 150 | 180 | ⛏️ +Mining efficiency |
+| Celebration Cake | Epic | Blueberry + Butter + Egg + Flour + Fruit | 375 | 420 | ❤️ Best gifting |
+| Muujin Bahari | Epic | Meat + Spices + Veg + Oil + Egg | 500 | 650 | 💪 All-stat boost |
+| Chapaa Masala | Epic | Meat + Milk + Spices + Tomato | 350 | 410 | 🌿 +Foraging range |
+| Bouillabaisse | Rare | Bass + Oyster + Potato + Onion | 200 | 240 | 🎣 +Fishing quality |
+| Blueberry Pie | Rare | Butter + Flour + Blueberry×2 | 220 | 260 | 🎁 NPC friendship |
+| Sushi | Variable | Any Fish + Rice + Seaweed | 100 | 135 | ❤️ Multiple NPCs' loved gift |
 
 ---
 
-## 🎯 不同活动的最佳食物
+## 🔵 Focus System
 
-| 活动 | 推荐食物 | 理由 |
-|:----|:--------|:----|
-| ⛏️ Mining | Meaty Stir Fry（+采掘效率） | 提高挖矿速度 |
-| 🌿 Foraging | Chapaa Masala（+采集范围） | 一次采更多 |
-| 🎣 Fishing | Fisherman's Brew / Fish Stew | 提升瞄准速度和判定范围 |
-| 🏹 Hunting | Grilled Meat（低成本高Focus） | 批量制作，维持Focus |
-| 🌱 Gardening | 任何水果派 | 兼顾Focus和好感度礼物 |
-| ❤️ 送礼 | Celebration Cake / 蓝莓派 | 几乎所有人喜爱 |
+Focus is Palia's unique experience multiplier system:
 
----
+| Focus State | XP Multiplier | Notes |
+|:------------|:-------------:|:------|
+| No Focus | 1× | No bonus XP |
+| Low Focus (<50%) | 1.25× | Small bonus |
+| Medium Focus (50-80%) | 1.5× | Decent bonus |
+| High Focus (>80%) | 2× | Maximum bonus |
+| **Focus Cap** | — | Increases with skill level |
 
-## ⭐ 品质系统（Ingredient Quality）
+**Core Mechanics:**
+- Eating cooked food gives Focus points
+- The higher your Focus, the higher the XP multiplier for all skills
+- Focus naturally drains over time (any skill action consumes it)
+- Keeping Focus >80% = leveling speed doubled
 
-| 配料品质 | 对菜品影响 | 获得方式 |
-|:--------|:---------|:--------|
-| 普通原料 | 基础菜品品质 | 标准采摘/钓鱼/狩猎 |
-| **⭐ Starred 原料** | **提升成品星级概率** | 高技能、完美操作、Honey Lure |
-| 混合品质 | 取决于平均品质 | 一个星标+三个普通=中等概率出星 |
-
-**关键规则**:
-- 使用星标原料烹饪，成品有更高概率也是星标
-- 星标菜品售价 1.5×，NPC 好感度加成更高
-- 想稳定出星标菜，最好所有原料都是星标
-
-> **Tip:** 批量烹饪时先统计星标原料数量。如果星标原料不够做一整套，考虑先把星标原料单独出售（1.5×）比混入普通菜更划算。
+> **Tip:** Before grinding a skill, eat a high-Focus food (like Celebration Cake at +375 Focus), then dive into skill actions to maximize XP per minute.
 
 ---
 
-## 🎭 剧情烹饪任务
+## 🎯 Best Food Per Activity
 
-| 任务名称 | 需求菜品 | 奖励 |
-|:--------|:--------|:----|
-| Cooking 101 | Grilled Fish / Grilled Meat | 烹饪经验，基础食谱 |
-| Half Boiled | 特定熟食 | 稀有食材 |
-| The Great Human Bake-Off | Macaron | 系列任务+装饰品 |
-| Lost in the Wind | Akwinduu Chapaa | 稀有食谱+经验 |
-| 各NPC烹饪请求 | 多种菜品 | 好感度+金币+独家食谱 |
+| Activity | Recommended Food | Reason |
+|:---------|:-----------------|:-------|
+| ⛏️ Mining | Meaty Stir Fry (+Mining efficiency) | Faster mining speed |
+| 🌿 Foraging | Chapaa Masala (+Foraging range) | Gather more per swing |
+| 🎣 Fishing | Fisherman's Brew / Fish Stew | Better aim speed and catch zone |
+| 🏹 Hunting | Grilled Meat (low cost, high Focus) | Mass-producible, keeps Focus up |
+| 🌱 Gardening | Any Fruit Pie | Balances Focus and gift utility |
+| ❤️ Gifting | Celebration Cake / Blueberry Pie | Almost universally loved |
 
 ---
 
-## 💰 盈利分析
+## ⭐ Quality System (Ingredient Quality)
 
-| 菜品 | 原料成本 | 售价 | 净利润 | 利润率 |
-|:----|:-------:|:---:|:-----:|:-----:|
-| Grilled Meat | 肉×2 (≈30) | 24 | -6 | ❌ 亏本 |
-| Sushi | 鱼+米 (≈50) | 135 | 85 | 170% ✅ |
-| Blueberry Pie | 蓝莓×2+面粉+黄油 (≈160) | 260 | 100 | 62% ✅ |
-| Celebration Cake | 大量原料 (≈200-250) | 420 | 170-220 | 68-85% ✅ |
-| Muujin Bahari | 肉+蔬菜+香料 (≈300) | 650 | 350 | 116% ✅ |
-| Fish Stew | 鱼+香料+蒜 (≈80) | 55 | -25 | ❌ 亏本 |
+| Ingredient Quality | Effect on Dish | How to Obtain |
+|:-------------------|:---------------|:--------------|
+| Normal Ingredients | Base dish quality | Standard gathering/fishing/hunting |
+| **⭐ Starred Ingredients** | **Raises chance of starred dish** | High skill, perfect execution, Honey Lure |
+| Mixed Quality | Depends on average quality | One starred + three normal = moderate chance |
 
-> **Tip:** **Celebration Cake** 是性价比之王——制作门槛不高，售价可观，且是所有NPC的通用最爱礼物。**Muujin Bahari** 是后期最佳刷金菜品。注意 Fish Stew 和 Grilled Meat 原料成本高于售价，只为练级和Focus，不要为了赚钱做。
+**Key Rules:**
+- Using starred ingredients gives your finished dish a higher chance of being starred too
+- Starred dishes sell for 1.5× and give bigger NPC friendship boosts
+- To consistently make starred dishes, use all starred ingredients
 
-### 刷金烹饪流程
+> **Tip:** When batch cooking, count your starred ingredients first. If you don't have enough for a full set, consider selling starred ingredients individually (1.5×) rather than mixing them into normal dishes.
 
-1. **Lv 1-5**: 批量做 Grilled Meat / Grilled Fish → 快速升级，不走盈利路线
-2. **Lv 5-8**: 做 Sushi / Blueberry Pie → 开始盈利
-3. **Lv 8-10+**: 批量做 Celebration Cake → 自用送礼 + 出售两相宜
-4. **Lv 10+ 多人烹饪**: 组织 Cake Party，分工协作一次产出 50-100 个蛋糕
+---
+
+## 🎭 Story Cooking Quests
+
+| Quest Name | Required Dish | Rewards |
+|:-----------|:--------------|:--------|
+| Cooking 101 | Grilled Fish / Grilled Meat | Cooking XP, basic recipes |
+| Half Boiled | Specific cooked food | Rare ingredients |
+| The Great Human Bake-Off | Macaron | Quest chain + decorations |
+| Lost in the Wind | Akwinduu Chapaa | Rare recipe + XP |
+| Various NPC Cooking Requests | Multiple dishes | Friendship + Gold + Exclusive recipes |
+
+---
+
+## 💰 Profit Analysis
+
+| Dish | Ingredient Cost | Sell Price | Net Profit | Profit Margin |
+|:-----|:---------------:|:----------:|:----------:|:-------------:|
+| Grilled Meat | Meat×2 (~30) | 24 | -6 | ❌ Loss |
+| Sushi | Fish+Rice (~50) | 135 | 85 | 170% ✅ |
+| Blueberry Pie | Blueberry×2+Flour+Butter (~160) | 260 | 100 | 62% ✅ |
+| Celebration Cake | Many ingredients (~200-250) | 420 | 170-220 | 68-85% ✅ |
+| Muujin Bahari | Meat+Veg+Spices (~300) | 650 | 350 | 116% ✅ |
+| Fish Stew | Fish+Spices+Garlic (~80) | 55 | -25 | ❌ Loss |
+
+> **Tip:** **Celebration Cake** is the best value dish — not too hard to make, sells well, and is a universal loved gift for all NPCs. **Muujin Bahari** is the best late-game gold-making dish. Note that Fish Stew and Grilled Meat cost more than their sell price — use them for leveling and Focus, not for profit.
+
+### Gold-Making Cooking Flow
+
+1. **Lv 1-5**: Mass-produce Grilled Meat / Grilled Fish → fast leveling, don't worry about profit
+2. **Lv 5-8**: Make Sushi / Blueberry Pie → start turning a profit
+3. **Lv 8-10+**: Mass-produce Celebration Cake → great for self-gifting and selling
+4. **Lv 10+ Group Cooking**: Organize Cake Parties — divide labor to produce 50-100 cakes per session

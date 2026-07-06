@@ -1,6 +1,6 @@
 ---
 title: 📬 Feedback & Suggestions
-description: > Welcome! Leave your comments, suggestions, or additions about the Stardew Valley guides!
+description: "Welcome to leave your comments about the Stardew Valley guides!"
 date: 2026-06-27
 ---
 
