@@ -2,9 +2,72 @@
 
 {% block extrahead %}
 {{ super() }}
+
+{# --- Open Graph / Schema meta --- #}
+{% if page and page.meta and page.meta.description %}
+<meta name="description" content="{{ page.meta.description }}" />
+<meta property="og:description" content="{{ page.meta.description }}" />
+{% endif %}
+<meta property="og:title" content="{{ page.title }} - Farming Games Help" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://farminggames.help{{ page.url }}" />
+<meta name="twitter:card" content="summary_large_image" />
+
 {% if page and page.meta and page.meta.date %}
 <meta name="article:published_time" content="{{ page.meta.date }}" />
 {% endif %}
+
+{# --- JSON-LD Structured Data --- #}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "name": "Farming Games Help",
+      "url": "https://farminggames.help",
+      "description": "Complete guides, databases & interactive tools for cozy farming games — Stardew Valley, Farming Simulator, Palia, Coral Island and more.",
+      "inLanguage": "en",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": "https://farminggames.help/?q={search_term_string}"
+        },
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://farminggames.help/"}{% if page and page.url and page.url != "/" %},
+        {"@type": "ListItem", "position": 2, "name": "{{ page.title | e }}", "item": "https://farminggames.help{{ page.url }}"}{% endif %}
+      ]
+    }{% if page and page.meta and page.meta.date and page.url and page.url != "/" and page.url != "/tools/" and page.url != "/guides/" and page.url != "/news/" %},
+    {
+      "@type": "Article",
+      "headline": "{{ page.title | e }}",
+      "description": "{{ page.meta.description | default(page.title ~ ' guide for farming games') | e }}",
+      "datePublished": "{{ page.meta.date }}",
+      "dateModified": "{{ page.meta.date }}",
+      "author": {
+        "@type": "Organization",
+        "name": "Farming Games Help"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Farming Games Help"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://farminggames.help{{ page.url }}"
+      }
+    }{% endif %}
+  ]
+}
+</script>
+
+{# --- Per-game theme switcher --- #}
 <script>
 (function() {
   var path = window.location.pathname.replace(/\/+$/, '') || '';

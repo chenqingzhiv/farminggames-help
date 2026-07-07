@@ -199,6 +199,17 @@ nav:
       - 🗺️ Zones & Map Guide: sun-haven/zones-guide.md
       - 🌟 Endgame Guide: sun-haven/endgame-guide.md
       - 📅 Seasonal Strategy: sun-haven/seasonal-strategy.md
+  - ⛏️ Core Keeper:
+      - Overview: core-keeper/index.md
+      - 🆕 Getting Started: core-keeper/getting-started.md
+      - 🌱 Crop & Farming Guide: core-keeper/crops.md
+  - 🏹 Palworld:
+      - Overview: palworld/index.md
+      - 🆕 Getting Started: palworld/getting-started.md
+      - ⚡ Work Suitability: palworld/work-suitability.md
+  - 🌲 Don't Starve Together:
+      - Overview: dst/index.md
+      - 🌱 Farming Guide: dst/farming-guide.md
   - 🛠️ Tools:
       - Overview: tools/index.md
       - 🎒 Bundle Tracker: tools/bundle-tracker.md

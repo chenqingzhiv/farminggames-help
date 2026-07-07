@@ -54,8 +54,11 @@ def check_paths():
                     continue
                 if "#" in ref:
                     ref = ref.split("#")[0]
-                md_dir = os.path.dirname(fpath)
-                ref_path = os.path.normpath(os.path.join(md_dir, ref))
+                if ref.startswith("/"):
+                    ref_path = os.path.normpath(os.path.join(DOCS_DIR, ref.lstrip("/")))
+                else:
+                    md_dir = os.path.dirname(fpath)
+                    ref_path = os.path.normpath(os.path.join(md_dir, ref))
                 if not os.path.exists(ref_path):
                     rel = os.path.relpath(fpath, DOCS_DIR)
                     bad_refs.append((rel, ref, ref_path))
