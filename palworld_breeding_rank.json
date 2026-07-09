@@ -1,0 +1,1311 @@
+[
+  {
+    "name": "Lamball",
+    "no": "001",
+    "rank": 1470,
+    "eligible": true,
+    "index_no": 252
+  },
+  {
+    "name": "Cattiva",
+    "no": "002",
+    "rank": 1460,
+    "eligible": true,
+    "index_no": 271
+  },
+  {
+    "name": "Chikipi",
+    "no": "003",
+    "rank": 1500,
+    "eligible": true,
+    "index_no": 288
+  },
+  {
+    "name": "Lifmunk",
+    "no": "004",
+    "rank": 1430,
+    "eligible": true,
+    "index_no": 231
+  },
+  {
+    "name": "Foxparks",
+    "no": "005",
+    "rank": 1400,
+    "eligible": true,
+    "index_no": 245
+  },
+  {
+    "name": "Foxparks Cryst",
+    "no": "005B",
+    "rank": 1305,
+    "eligible": false,
+    "index_no": 462
+  },
+  {
+    "name": "Fuack",
+    "no": "006",
+    "rank": 1330,
+    "eligible": true,
+    "index_no": 284
+  },
+  {
+    "name": "Sparkit",
+    "no": "007",
+    "rank": 1410,
+    "eligible": true,
+    "index_no": 291
+  },
+  {
+    "name": "Tanzee",
+    "no": "008",
+    "rank": 1250,
+    "eligible": true,
+    "index_no": 335
+  },
+  {
+    "name": "Rooby",
+    "no": "009",
+    "rank": 1155,
+    "eligible": true,
+    "index_no": 374
+  },
+  {
+    "name": "Pengullet",
+    "no": "010",
+    "rank": 1350,
+    "eligible": true,
+    "index_no": 248
+  },
+  {
+    "name": "Penking",
+    "no": "011",
+    "rank": 520,
+    "eligible": true,
+    "index_no": 353
+  },
+  {
+    "name": "Jolthog",
+    "no": "012",
+    "rank": 1370,
+    "eligible": true,
+    "index_no": 242
+  },
+  {
+    "name": "Jolthog Cryst",
+    "no": "012B",
+    "rank": 1360,
+    "eligible": false,
+    "index_no": 243
+  },
+  {
+    "name": "Gumoss",
+    "no": "013",
+    "rank": 1240,
+    "eligible": true,
+    "index_no": 340
+  },
+  {
+    "name": "Vixy",
+    "no": "014",
+    "rank": 1450,
+    "eligible": true,
+    "index_no": 306
+  },
+  {
+    "name": "Hoocrates",
+    "no": "015",
+    "rank": 1390,
+    "eligible": true,
+    "index_no": 610
+  },
+  {
+    "name": "Teafant",
+    "no": "016",
+    "rank": 1490,
+    "eligible": true,
+    "index_no": 238
+  },
+  {
+    "name": "Depresso",
+    "no": "017",
+    "rank": 1380,
+    "eligible": true,
+    "index_no": 272
+  },
+  {
+    "name": "Cremis",
+    "no": "018",
+    "rank": 1455,
+    "eligible": true,
+    "index_no": 371
+  },
+  {
+    "name": "Daedream",
+    "no": "019",
+    "rank": 1230,
+    "eligible": true,
+    "index_no": 334
+  },
+  {
+    "name": "Rushoar",
+    "no": "020",
+    "rank": 1130,
+    "eligible": true,
+    "index_no": 230
+  },
+  {
+    "name": "Nox",
+    "no": "021",
+    "rank": 1180,
+    "eligible": true,
+    "index_no": 352
+  },
+  {
+    "name": "Fuddler",
+    "no": "022",
+    "rank": 1220,
+    "eligible": true,
+    "index_no": 329
+  },
+  {
+    "name": "Killamari",
+    "no": "023",
+    "rank": 1290,
+    "eligible": true,
+    "index_no": 313
+  },
+  {
+    "name": "Mau",
+    "no": "024",
+    "rank": 1480,
+    "eligible": true,
+    "index_no": 228
+  },
+  {
+    "name": "Mau Cryst",
+    "no": "024B",
+    "rank": 1440,
+    "eligible": false,
+    "index_no": 229
+  },
+  {
+    "name": "Celaray",
+    "no": "025",
+    "rank": 870,
+    "eligible": true,
+    "index_no": 363
+  },
+  {
+    "name": "Direhowl",
+    "no": "026",
+    "rank": 1060,
+    "eligible": true,
+    "index_no": 239
+  },
+  {
+    "name": "Tocotoco",
+    "no": "027",
+    "rank": 1340,
+    "eligible": true,
+    "index_no": 232
+  },
+  {
+    "name": "Flopie",
+    "no": "028",
+    "rank": 1280,
+    "eligible": true,
+    "index_no": 319
+  },
+  {
+    "name": "Mozzarina",
+    "no": "029",
+    "rank": 910,
+    "eligible": true,
+    "index_no": 314
+  },
+  {
+    "name": "Bristla",
+    "no": "030",
+    "rank": 1320,
+    "eligible": true,
+    "index_no": 246
+  },
+  {
+    "name": "Gobfin",
+    "no": "031",
+    "rank": 1090,
+    "eligible": true,
+    "index_no": 250
+  },
+  {
+    "name": "Gobfin Ignis",
+    "no": "031B",
+    "rank": 1100,
+    "eligible": false,
+    "index_no": 251
+  },
+  {
+    "name": "Hangyu",
+    "no": "032",
+    "rank": 1420,
+    "eligible": true,
+    "index_no": 256
+  },
+  {
+    "name": "Hangyu Cryst",
+    "no": "032B",
+    "rank": 1422,
+    "eligible": false,
+    "index_no": 257
+  },
+  {
+    "name": "Mossanda",
+    "no": "033",
+    "rank": 430,
+    "eligible": true,
+    "index_no": 325
+  },
+  {
+    "name": "Mossanda Lux",
+    "no": "033B",
+    "rank": 390,
+    "eligible": false,
+    "index_no": 326
+  },
+  {
+    "name": "Woolipop",
+    "no": "034",
+    "rank": 1190,
+    "eligible": true,
+    "index_no": 264
+  },
+  {
+    "name": "Caprity",
+    "no": "035",
+    "rank": 930,
+    "eligible": true,
+    "index_no": 302
+  },
+  {
+    "name": "Caprity Noct",
+    "no": "035B",
+    "rank": 855,
+    "eligible": false,
+    "index_no": 463
+  },
+  {
+    "name": "Melpaca",
+    "no": "036",
+    "rank": 890,
+    "eligible": true,
+    "index_no": 266
+  },
+  {
+    "name": "Eikthyrdeer",
+    "no": "037",
+    "rank": 920,
+    "eligible": true,
+    "index_no": 233
+  },
+  {
+    "name": "Eikthyrdeer Terra",
+    "no": "037B",
+    "rank": 900,
+    "eligible": false,
+    "index_no": 234
+  },
+  {
+    "name": "Nitewing",
+    "no": "038",
+    "rank": 420,
+    "eligible": true,
+    "index_no": 318
+  },
+  {
+    "name": "Ribbuny",
+    "no": "039",
+    "rank": 1310,
+    "eligible": true,
+    "index_no": 347
+  },
+  {
+    "name": "Ribbuny Botan",
+    "no": "039B",
+    "rank": 1205,
+    "eligible": false,
+    "index_no": 464
+  },
+  {
+    "name": "Incineram",
+    "no": "040",
+    "rank": 590,
+    "eligible": true,
+    "index_no": 226
+  },
+  {
+    "name": "Incineram Noct",
+    "no": "040B",
+    "rank": 580,
+    "eligible": false,
+    "index_no": 227
+  },
+  {
+    "name": "Cinnamoth",
+    "no": "041",
+    "rank": 490,
+    "eligible": true,
+    "index_no": 367
+  },
+  {
+    "name": "Arsox",
+    "no": "042",
+    "rank": 790,
+    "eligible": true,
+    "index_no": 327
+  },
+  {
+    "name": "Dumud",
+    "no": "043",
+    "rank": 895,
+    "eligible": true,
+    "index_no": 372
+  },
+  {
+    "name": "Cawgnito",
+    "no": "044",
+    "rank": 1080,
+    "eligible": true,
+    "index_no": 269
+  },
+  {
+    "name": "Leezpunk",
+    "no": "045",
+    "rank": 1120,
+    "eligible": true,
+    "index_no": 282
+  },
+  {
+    "name": "Leezpunk Ignis",
+    "no": "045B",
+    "rank": 1140,
+    "eligible": false,
+    "index_no": 283
+  },
+  {
+    "name": "Loupmoon",
+    "no": "046",
+    "rank": 950,
+    "eligible": true,
+    "index_no": 255
+  },
+  {
+    "name": "Loupmoon Cryst",
+    "no": "046B",
+    "rank": 805,
+    "eligible": false,
+    "index_no": 465
+  },
+  {
+    "name": "Galeclaw",
+    "no": "047",
+    "rank": 1030,
+    "eligible": true,
+    "index_no": 236
+  },
+  {
+    "name": "Robinquill",
+    "no": "048",
+    "rank": 1020,
+    "eligible": true,
+    "index_no": 277
+  },
+  {
+    "name": "Robinquill Terra",
+    "no": "048B",
+    "rank": 1000,
+    "eligible": false,
+    "index_no": 278
+  },
+  {
+    "name": "Gorirat",
+    "no": "049",
+    "rank": 1040,
+    "eligible": true,
+    "index_no": 240
+  },
+  {
+    "name": "Gorirat Terra",
+    "no": "049B",
+    "rank": 1030,
+    "eligible": false,
+    "index_no": 241
+  },
+  {
+    "name": "Beegarde",
+    "no": "050",
+    "rank": 1070,
+    "eligible": true,
+    "index_no": 323
+  },
+  {
+    "name": "Elizabee",
+    "no": "051",
+    "rank": 330,
+    "eligible": true,
+    "index_no": 322
+  },
+  {
+    "name": "Grintale",
+    "no": "052",
+    "rank": 510,
+    "eligible": true,
+    "index_no": 366
+  },
+  {
+    "name": "Swee",
+    "no": "053",
+    "rank": 1300,
+    "eligible": true,
+    "index_no": 343
+  },
+  {
+    "name": "Sweepa",
+    "no": "054",
+    "rank": 410,
+    "eligible": true,
+    "index_no": 344
+  },
+  {
+    "name": "Chillet",
+    "no": "055",
+    "rank": 800,
+    "eligible": true,
+    "index_no": 354
+  },
+  {
+    "name": "Chillet Ignis",
+    "no": "055B",
+    "rank": 790,
+    "eligible": false,
+    "index_no": 355
+  },
+  {
+    "name": "Univolt",
+    "no": "056",
+    "rank": 680,
+    "eligible": true,
+    "index_no": 244
+  },
+  {
+    "name": "Foxcicle",
+    "no": "057",
+    "rank": 760,
+    "eligible": true,
+    "index_no": 332
+  },
+  {
+    "name": "Pyrin",
+    "no": "058",
+    "rank": 360,
+    "eligible": true,
+    "index_no": 260
+  },
+  {
+    "name": "Pyrin Noct",
+    "no": "058B",
+    "rank": 240,
+    "eligible": false,
+    "index_no": 261
+  },
+  {
+    "name": "Reindrix",
+    "no": "059",
+    "rank": 880,
+    "eligible": true,
+    "index_no": 303
+  },
+  {
+    "name": "Rayhound",
+    "no": "060",
+    "rank": 740,
+    "eligible": true,
+    "index_no": 328
+  },
+  {
+    "name": "Kitsun",
+    "no": "061",
+    "rank": 830,
+    "eligible": true,
+    "index_no": 281
+  },
+  {
+    "name": "Kitsun Noct",
+    "no": "061B",
+    "rank": 735,
+    "eligible": false,
+    "index_no": 466
+  },
+  {
+    "name": "Dazzi",
+    "no": "062",
+    "rank": 1210,
+    "eligible": true,
+    "index_no": 249
+  },
+  {
+    "name": "Dazzi Noct",
+    "no": "062B",
+    "rank": 1115,
+    "eligible": false,
+    "index_no": 467
+  },
+  {
+    "name": "Lunaris",
+    "no": "063",
+    "rank": 1110,
+    "eligible": true,
+    "index_no": 247
+  },
+  {
+    "name": "Dinossom",
+    "no": "064",
+    "rank": 820,
+    "eligible": true,
+    "index_no": 289
+  },
+  {
+    "name": "Dinossom Lux",
+    "no": "064B",
+    "rank": 810,
+    "eligible": false,
+    "index_no": 290
+  },
+  {
+    "name": "Surfent",
+    "no": "065",
+    "rank": 560,
+    "eligible": true,
+    "index_no": 267
+  },
+  {
+    "name": "Surfent Terra",
+    "no": "065B",
+    "rank": 550,
+    "eligible": false,
+    "index_no": 288
+  },
+  {
+    "name": "Maraith",
+    "no": "066",
+    "rank": 1150,
+    "eligible": true,
+    "index_no": 276
+  },
+  {
+    "name": "Digtoise",
+    "no": "067",
+    "rank": 850,
+    "eligible": true,
+    "index_no": 235
+  },
+  {
+    "name": "Tombat",
+    "no": "068",
+    "rank": 750,
+    "eligible": true,
+    "index_no": 324
+  },
+  {
+    "name": "Lovander",
+    "no": "069",
+    "rank": 940,
+    "eligible": true,
+    "index_no": 309
+  },
+  {
+    "name": "Flambelle",
+    "no": "070",
+    "rank": 1405,
+    "eligible": true,
+    "index_no": 373
+  },
+  {
+    "name": "Vanwyrm",
+    "no": "071",
+    "rank": 660,
+    "eligible": true,
+    "index_no": 286
+  },
+  {
+    "name": "Vanwyrm Cryst",
+    "no": "071B",
+    "rank": 620,
+    "eligible": false,
+    "index_no": 287
+  },
+  {
+    "name": "Bushi",
+    "no": "072",
+    "rank": 640,
+    "eligible": true,
+    "index_no": 361
+  },
+  {
+    "name": "Bushi Noct",
+    "no": "072B",
+    "rank": 650,
+    "eligible": false,
+    "index_no": 362
+  },
+  {
+    "name": "Beakon",
+    "no": "073",
+    "rank": 220,
+    "eligible": true,
+    "index_no": 348
+  },
+  {
+    "name": "Ragnahawk",
+    "no": "074",
+    "rank": 380,
+    "eligible": true,
+    "index_no": 360
+  },
+  {
+    "name": "Katress",
+    "no": "075",
+    "rank": 700,
+    "eligible": true,
+    "index_no": 345
+  },
+  {
+    "name": "Katress Ignis",
+    "no": "075B",
+    "rank": 690,
+    "eligible": false,
+    "index_no": 346
+  },
+  {
+    "name": "Wixen",
+    "no": "076",
+    "rank": 1160,
+    "eligible": true,
+    "index_no": 307
+  },
+  {
+    "name": "Wixen Noct",
+    "no": "076B",
+    "rank": 1150,
+    "eligible": false,
+    "index_no": 308
+  },
+  {
+    "name": "Verdash",
+    "no": "077",
+    "rank": 990,
+    "eligible": true,
+    "index_no": 331
+  },
+  {
+    "name": "Vaelet",
+    "no": "078",
+    "rank": 1050,
+    "eligible": true,
+    "index_no": 317
+  },
+  {
+    "name": "Sibelyx",
+    "no": "079",
+    "rank": 450,
+    "eligible": true,
+    "index_no": 305
+  },
+  {
+    "name": "Elphidran",
+    "no": "080",
+    "rank": 540,
+    "eligible": true,
+    "index_no": 262
+  },
+  {
+    "name": "Elphidran Aqua",
+    "no": "080B",
+    "rank": 530,
+    "eligible": false,
+    "index_no": 263
+  },
+  {
+    "name": "Kelpsea",
+    "no": "081",
+    "rank": 1260,
+    "eligible": true,
+    "index_no": 311
+  },
+  {
+    "name": "Kelpsea Ignis",
+    "no": "081B",
+    "rank": 1270,
+    "eligible": true,
+    "index_no": 312
+  },
+  {
+    "name": "Azurobe",
+    "no": "082",
+    "rank": 500,
+    "eligible": true,
+    "index_no": 270
+  },
+  {
+    "name": "Cryolinx",
+    "no": "083",
+    "rank": 130,
+    "eligible": true,
+    "index_no": 265
+  },
+  {
+    "name": "Cryolinx Terra",
+    "no": "083B",
+    "rank": 160,
+    "eligible": true,
+    "index_no": 468
+  },
+  {
+    "name": "Blazehowl",
+    "no": "084",
+    "rank": 710,
+    "eligible": true,
+    "index_no": 336
+  },
+  {
+    "name": "Blazehowl Noct",
+    "no": "084B",
+    "rank": 670,
+    "eligible": false,
+    "index_no": 337
+  },
+  {
+    "name": "Relaxaurus",
+    "no": "085",
+    "rank": 280,
+    "eligible": true,
+    "index_no": 279
+  },
+  {
+    "name": "Relaxaurus Lux",
+    "no": "085B",
+    "rank": 270,
+    "eligible": false,
+    "index_no": 280
+  },
+  {
+    "name": "Broncherry",
+    "no": "086",
+    "rank": 860,
+    "eligible": true,
+    "index_no": 297
+  },
+  {
+    "name": "Broncherry Aqua",
+    "no": "086B",
+    "rank": 840,
+    "eligible": false,
+    "index_no": 298
+  },
+  {
+    "name": "Petallia",
+    "no": "087",
+    "rank": 780,
+    "eligible": true,
+    "index_no": 365
+  },
+  {
+    "name": "Reptyro",
+    "no": "088",
+    "rank": 320,
+    "eligible": true,
+    "index_no": 274
+  },
+  {
+    "name": "Reptyro Cryst",
+    "no": "088B",
+    "rank": 230,
+    "eligible": false,
+    "index_no": 275
+  },
+  {
+    "name": "Kingpaca",
+    "no": "089",
+    "rank": 470,
+    "eligible": true,
+    "index_no": 338
+  },
+  {
+    "name": "Kingpaca Cryst",
+    "no": "089B",
+    "rank": 440,
+    "eligible": false,
+    "index_no": 339
+  },
+  {
+    "name": "Mammorest",
+    "no": "090",
+    "rank": 300,
+    "eligible": true,
+    "index_no": 294
+  },
+  {
+    "name": "Mammorest Cryst",
+    "no": "090B",
+    "rank": 290,
+    "eligible": false,
+    "index_no": 295
+  },
+  {
+    "name": "Wumpo",
+    "no": "091",
+    "rank": 460,
+    "eligible": true,
+    "index_no": 315
+  },
+  {
+    "name": "Wumpo Botan",
+    "no": "091B",
+    "rank": 480,
+    "eligible": true,
+    "index_no": 316
+  },
+  {
+    "name": "Warsect",
+    "no": "092",
+    "rank": 340,
+    "eligible": true,
+    "index_no": 349
+  },
+  {
+    "name": "Warsect Terra",
+    "no": "092B",
+    "rank": 350,
+    "eligible": false,
+    "index_no": 350
+  },
+  {
+    "name": "Fenglope",
+    "no": "093",
+    "rank": 980,
+    "eligible": true,
+    "index_no": 273
+  },
+  {
+    "name": "Fenglope Lux",
+    "no": "093B",
+    "rank": 835,
+    "eligible": false,
+    "index_no": 469
+  },
+  {
+    "name": "Felbat",
+    "no": "094",
+    "rank": 1010,
+    "eligible": true,
+    "index_no": 296
+  },
+  {
+    "name": "Quivern",
+    "no": "095",
+    "rank": 350,
+    "eligible": true,
+    "index_no": 356
+  },
+  {
+    "name": "Quivern Botan",
+    "no": "095B",
+    "rank": 340,
+    "eligible": true,
+    "index_no": 357
+  },
+  {
+    "name": "Blazamut",
+    "no": "096",
+    "rank": 10,
+    "eligible": true,
+    "index_no": 300
+  },
+  {
+    "name": "Blazamut Ryu",
+    "no": "096B",
+    "rank": 9,
+    "eligible": false,
+    "index_no": 301
+  },
+  {
+    "name": "Helzephyr",
+    "no": "097",
+    "rank": 190,
+    "eligible": true,
+    "index_no": 358
+  },
+  {
+    "name": "Helzephyr Lux",
+    "no": "097B",
+    "rank": 180,
+    "eligible": false,
+    "index_no": 359
+  },
+  {
+    "name": "Astegon",
+    "no": "098",
+    "rank": 150,
+    "eligible": true,
+    "index_no": 330
+  },
+  {
+    "name": "Menasting",
+    "no": "099",
+    "rank": 260,
+    "eligible": true,
+    "index_no": 368
+  },
+  {
+    "name": "Menasting Terra",
+    "no": "099B",
+    "rank": 250,
+    "eligible": false,
+    "index_no": 369
+  },
+  {
+    "name": "Anubis",
+    "no": "100",
+    "rank": 570,
+    "eligible": true,
+    "index_no": 225
+  },
+  {
+    "name": "Jormuntide",
+    "no": "101",
+    "rank": 310,
+    "eligible": true,
+    "index_no": 253
+  },
+  {
+    "name": "Jormuntide Ignis",
+    "no": "101B",
+    "rank": 315,
+    "eligible": false,
+    "index_no": 254
+  },
+  {
+    "name": "Suzaku",
+    "no": "102",
+    "rank": 50,
+    "eligible": true,
+    "index_no": 258
+  },
+  {
+    "name": "Suzaku Aqua",
+    "no": "102B",
+    "rank": 30,
+    "eligible": false,
+    "index_no": 259
+  },
+  {
+    "name": "Grizzbolt",
+    "no": "103",
+    "rank": 200,
+    "eligible": false,
+    "index_no": 237
+  },
+  {
+    "name": "Lyleen",
+    "no": "104",
+    "rank": 250,
+    "eligible": false,
+    "index_no": 320
+  },
+  {
+    "name": "Lyleen Noct",
+    "no": "104B",
+    "rank": 210,
+    "eligible": false,
+    "index_no": 321
+  },
+  {
+    "name": "Faleris",
+    "no": "105",
+    "rank": 370,
+    "eligible": false,
+    "index_no": 299
+  },
+  {
+    "name": "Faleris Aqua",
+    "no": "105",
+    "rank": 245,
+    "eligible": false,
+    "index_no": 470
+  },
+  {
+    "name": "Orserk",
+    "no": "106",
+    "rank": 140,
+    "eligible": false,
+    "index_no": 370
+  },
+  {
+    "name": "Shadowbeak",
+    "no": "107",
+    "rank": 60,
+    "eligible": false,
+    "index_no": 304
+  },
+  {
+    "name": "Paladius",
+    "no": "108",
+    "rank": 80,
+    "eligible": false,
+    "index_no": 351
+  },
+  {
+    "name": "Necromus",
+    "no": "109",
+    "rank": 70,
+    "eligible": false,
+    "index_no": 364
+  },
+  {
+    "name": "Frostallion",
+    "no": "110",
+    "rank": 120,
+    "eligible": false,
+    "index_no": 292
+  },
+  {
+    "name": "Frostallion Noct",
+    "no": "110B",
+    "rank": 100,
+    "eligible": false,
+    "index_no": 293
+  },
+  {
+    "name": "Jetragon",
+    "no": "111",
+    "rank": 90,
+    "eligible": false,
+    "index_no": 333
+  },
+  {
+    "name": "Bellanoir",
+    "no": "112",
+    "rank": 1,
+    "eligible": false,
+    "index_no": 375
+  },
+  {
+    "name": "Bellanoir Libero",
+    "no": "112B",
+    "rank": 1,
+    "eligible": false,
+    "index_no": 376
+  },
+  {
+    "name": "Selyne",
+    "no": "113",
+    "rank": 345,
+    "eligible": false,
+    "index_no": 377
+  },
+  {
+    "name": "Croajiro",
+    "no": "114",
+    "rank": 795,
+    "eligible": true,
+    "index_no": 378
+  },
+  {
+    "name": "Lullu",
+    "no": "115",
+    "rank": 905,
+    "eligible": true,
+    "index_no": 379
+  },
+  {
+    "name": "Shroomer",
+    "no": "116",
+    "rank": 720,
+    "eligible": true,
+    "index_no": 380
+  },
+  {
+    "name": "Shroomer Noct",
+    "no": "116B",
+    "rank": 730,
+    "eligible": true,
+    "index_no": 381
+  },
+  {
+    "name": "Kikit",
+    "no": "117",
+    "rank": 1125,
+    "eligible": false,
+    "index_no": 382
+  },
+  {
+    "name": "Sootseer",
+    "no": "118",
+    "rank": 545,
+    "eligible": false,
+    "index_no": 383
+  },
+  {
+    "name": "Prixter",
+    "no": "119",
+    "rank": 355,
+    "eligible": false,
+    "index_no": 384
+  },
+  {
+    "name": "Knocklem",
+    "no": "120",
+    "rank": 265,
+    "eligible": false,
+    "index_no": 385
+  },
+  {
+    "name": "Yakumo",
+    "no": "121",
+    "rank": 945,
+    "eligible": false,
+    "index_no": 386
+  },
+  {
+    "name": "Dogen",
+    "no": "122",
+    "rank": 665,
+    "eligible": false,
+    "index_no": 387
+  },
+  {
+    "name": "Dazemu",
+    "no": "123",
+    "rank": 675,
+    "eligible": false,
+    "index_no": 388
+  },
+  {
+    "name": "Mimog",
+    "no": "124",
+    "rank": 1200,
+    "eligible": false,
+    "index_no": 389
+  },
+  {
+    "name": "Xenovader",
+    "no": "125",
+    "rank": 465,
+    "eligible": false,
+    "index_no": 390
+  },
+  {
+    "name": "Xenogard",
+    "no": "126",
+    "rank": 435,
+    "eligible": false,
+    "index_no": 391
+  },
+  {
+    "name": "Xenolord",
+    "no": "127",
+    "rank": 265,
+    "eligible": false,
+    "index_no": 393
+  },
+  {
+    "name": "Nitemary",
+    "no": "128",
+    "rank": 705,
+    "eligible": true,
+    "index_no": 394
+  },
+  {
+    "name": "Starryon",
+    "no": "129",
+    "rank": 365,
+    "eligible": true,
+    "index_no": 395
+  },
+  {
+    "name": "Silvegis",
+    "no": "130",
+    "rank": 215,
+    "eligible": true,
+    "index_no": 396
+  },
+  {
+    "name": "Smokie",
+    "no": "131",
+    "rank": 1245,
+    "eligible": true,
+    "index_no": 397
+  },
+  {
+    "name": "Celesdir",
+    "no": "132",
+    "rank": 815,
+    "eligible": false,
+    "index_no": 398
+  },
+  {
+    "name": "Omascul",
+    "no": "133",
+    "rank": 630,
+    "eligible": true,
+    "index_no": 400
+  },
+  {
+    "name": "Splatterina",
+    "no": "134",
+    "rank": 725,
+    "eligible": true,
+    "index_no": 404
+  },
+  {
+    "name": "Tarantriss",
+    "no": "135",
+    "rank": 825,
+    "eligible": true,
+    "index_no": 405
+  },
+  {
+    "name": "Azurmane",
+    "no": "136",
+    "rank": 400,
+    "eligible": true,
+    "index_no": 406
+  },
+  {
+    "name": "Bastigor",
+    "no": "137",
+    "rank": 170,
+    "eligible": false,
+    "index_no": 472
+  },
+  {
+    "name": "Prunelia",
+    "no": "138",
+    "rank": 755,
+    "eligible": true,
+    "index_no": 20
+  },
+  {
+    "name": "Nyafia",
+    "no": "139",
+    "rank": 645,
+    "eligible": true,
+    "index_no": 19
+  },
+  {
+    "name": "Gildane",
+    "no": "140",
+    "rank": 505,
+    "eligible": true,
+    "index_no": 219
+  }
+]
