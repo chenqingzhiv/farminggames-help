@@ -119,7 +119,7 @@ Fish traps work passively — place them in water and collect later.
 
 ## 🍳 Best Fish for Cooking
 
-Some fish are worth more **cooked** than raw. Here's the priority list:
+Some fish are worth more **cooked** than raw. Here's the priority list — but for **every fish recipe with exact ingredients, buff durations, and advanced fish dishes**, see the [Full Cooking Guide →](cooking-guide.md#fish--seafood-dishes).
 
 | Fish | Raw Price | Best Dish | Cooked Value | Profit Over Raw |
 |:----|:---------|:----------|:------------|:---------------|

@@ -99,18 +99,20 @@ Requires a Diving Set or underwater base. Crops here grow well with natural wate
 
 ## 🍳 Cooking & Crop Processing
 
-Farming isn't just about selling raw crops — **cooking** dramatically increases their value.
+Farming isn't just about selling raw crops — **cooking** dramatically increases their value. See the **[Full Cooking Guide](cooking-guide.md)** for every recipe, food buff mechanics, and stage-by-stage food recommendations.
+
+Here's a quick reference for crop-based dishes:
 
 | Recipe | Ingredients | Sell Price | Value Add | Buff |
 |:-------|:-----------|:----------|:---------|:-----|
 | 🥗 **Basic Salad** | Any 2 vegetables | 60g | 2x raw value | +HP regen |
-| 🍞 **Bread** | 3 Wheat | 72g | 3x raw value | +Max HP |
-| 🌮 **Spicy Wrap** | 2 Pepper + 1 Wheat | 85g | ~2x raw | +Mining Speed |
-| 🍍 **Pineapple Juice** | 3 Pineapple | 240g | 2x raw | +Movement Speed |
-| 🥧 **Pumpkin Pie** | 2 Pumpkin + 3 Wheat | 200g | 2.5x raw | +Defence |
-| ☕ **Coffee** | 5 Coffee Beans | 60g | 1x raw | +Move Speed (short) |
+| 🍞 **Bread** | 3 Wheat | 72g | Same as raw | +Max HP (cook for buff, not profit) |
+| 🌮 **Spicy Wrap** | 2 Pepper + 1 Wheat | 120g | +24g over raw | +20% Mining Speed |
+| 🍍 **Pineapple Juice** | 3 Pineapple | 240g | Worse than raw | +20% Move Speed (buff only) |
+| 🥧 **Pumpkin Pie** | 2 Pumpkin + 3 Wheat | 200g | Breaks even | +15% Defence |
+| ☕ **Coffee** | 5 Coffee Beans | 60g | Same as raw | +15% Move Speed (3 min) |
 
-> **💡 Cooking Tip:** Processing crops through cooking at least **doubles** their value. Always cook before selling!
+> **📖 Full guide:** See [Cooking & Food Guide →](cooking-guide.md) — 40+ recipes, buff mechanics, and best foods for every game stage.
 
 ---
 
