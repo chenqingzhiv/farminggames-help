@@ -39,10 +39,11 @@ tags: ["palworld", "pal", "breeding", "work suitability", "base building", "farm
 
 ## 📖 Guides on This Site
 
-| Guide | Description |
-|:------|:------------|
-| 🆕 [Getting Started Guide](/palworld/getting-started/) | First steps, base setup, Pal catching, progression path |
-| ⚡ [Pal Work Suitability Database](/palworld/work-suitability/) | Complete table of every Pal's work skills — best Pals for each job |
+| # | Guide | Description |
+|:-:|:------|:------------|
+| 🆕 | [Getting Started Guide](/palworld/getting-started/) | First steps, base setup, Pal catching, progression path |
+| 🏠 | [Base Building & Defense Guide](/palworld/base-building-defense/) | Optimal base layouts, raid defense systems, raid boss strategies, Pal condensation, and Feybreak Island endgame |
+| ⚡ | [Pal Work Suitability Database](/palworld/work-suitability/) | Complete table of every Pal's work skills — best Pals for each job |
 
 ---
 

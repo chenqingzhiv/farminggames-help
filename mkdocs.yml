@@ -205,6 +205,7 @@ nav:
       - Overview: core-keeper/index.md
       - 🆕 Getting Started: core-keeper/getting-started.md
       - 🌱 Crop & Farming Guide: core-keeper/crops.md
+      - ⛏️ Mining & Automation Guide: core-keeper/mining-automation.md
       - 🐟 Fishing Guide: core-keeper/fishing-guide.md
       - 🍳 Cooking Guide: core-keeper/cooking-guide.md
       - ⚔️ Boss Progression Guide: core-keeper/boss-guide.md
@@ -212,6 +213,7 @@ nav:
       - Overview: palworld/index.md
       - 🆕 Getting Started: palworld/getting-started.md
       - ⚡ Work Suitability: palworld/work-suitability.md
+      - 🏠 Base Building & Defense: palworld/base-building-defense.md
       - 🧬 Breeding Calculator: palworld/breeding-tool.md
       - 📊 Pal Database: palworld/pal-database.md
   - 🌲 Don't Starve Together:

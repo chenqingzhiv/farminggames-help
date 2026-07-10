@@ -57,10 +57,14 @@ Core Keeper's underground is divided into biomes in roughly this progression ord
 
 ## 📖 Guides on This Site
 
-| Guide | Description |
-|:------|:------------|
-| 🆕 [Getting Started Guide](/core-keeper/getting-started/) | First steps, tools, base setup, basic progression |
-| 🌱 [Crop & Farming Guide](/core-keeper/crops/) | Complete crop database, profit tables, best crops by biome |
+| # | Guide | Description |
+|:-:|:------|:------------|
+| 🆕 | [Getting Started Guide](/core-keeper/getting-started/) | First steps, tools, base setup, basic progression |
+| 🌱 | [Crop & Farming Guide](/core-keeper/crops/) | Complete crop database, profit tables, best crops by biome |
+| ⛏️ | [Mining & Automation Guide](/core-keeper/mining-automation/) | Ore progression, drills, conveyor belts, and tech tree upgrades |
+| 🐟 | [Fishing Guide](/core-keeper/fishing-guide/) | All fish species, locations, traps, and rod upgrades |
+| 🍳 | [Cooking Guide](/core-keeper/cooking-guide/) | All recipes, food buffs, and best meals by stage |
+| ⚔️ | [Boss Progression Guide](/core-keeper/boss-guide/) | All bosses in order, strategies, gear recommendations |
 
 ---
 
