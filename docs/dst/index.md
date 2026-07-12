@@ -25,9 +25,11 @@ tags: ["dst", "don't starve together", "farming", "survival", "gardening", "game
 
 ## 📖 Guides on This Site
 
-| Guide | Description |
-|:------|:------------|
-| 🌱 [Farming & Gardening Guide](/dst/farming-guide/) | Complete crop database, giant crops, nutrient system, seasonal planting, and fertiliser guide |
+|| Guide | Description |
+||:------|:------------|
+|| 🧑‍🌾 [Characters Database](/dst/characters/) | Complete database of all 18 DST characters with stats, abilities, unlock requirements, and tier analysis |
+|| 🌱 [Farming & Gardening Guide](/dst/farming-guide/) | Complete crop database, giant crops, nutrient system, seasonal planting, and fertiliser guide |
+| 🌤️ [Seasons & Survival Guide](/dst/seasons-guide/) | Master all 4 seasons — Autumn prep, Winter survival, Spring wetness, Summer wildfires, boss spawns |
 
 ---
 

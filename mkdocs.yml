@@ -219,6 +219,11 @@ nav:
   - 🌲 Don't Starve Together:
       - Overview: dst/index.md
       - 🌱 Farming Guide: dst/farming-guide.md
+      - 🍲 Crock Pot Recipe Finder: tools/dst/crock-pot-recipe-finder.md
+      - 👥 Characters: dst/characters.md
+      - 🌤️ Seasons & Survival: dst/seasons-guide.md
+      - ⚔️ Bosses & Giants: dst/bosses.md
+      - 🥘 Recipe Finder: tools/dst/crock-pot-recipe-finder.md
   - 🛠️ Tools:
       - Overview: tools/index.md
       - 🎒 Bundle Tracker: tools/bundle-tracker.md
