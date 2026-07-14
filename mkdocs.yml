@@ -150,6 +150,7 @@ nav:
       - ⛏️ Mining: coral-island/mining.md
       - 🤿 Diving: coral-island/diving.md
       - 🐟 Fish: coral-island/fish-guide.md
+      - 🌿 Forage & Scavenge: coral-island/forage-guide.md
       - 🐄 Animals: coral-island/animals.md
       - 🧪 Artisan: coral-island/artisan.md
       - 🎪 Festivals & Events: coral-island/festivals.md
@@ -164,6 +165,7 @@ nav:
       - ⛏️ Mining & Combat: fields-mistria/mining.md
       - 🐟 Fish: fields-mistria/fish.md
       - 💝 Gift Guide: fields-mistria/gift-guide.md
+      - 💝 Gift Database: tools/fields-mistria-npc-gift-database.md
       - 🍳 Cooking: fields-mistria/cooking.md
       - 🐄 Animals: fields-mistria/animals.md
       - 🎪 Festivals: fields-mistria/festivals.md
@@ -190,6 +192,7 @@ nav:
       - Overview: sun-haven/index.md
       - Getting Started: sun-haven/getting-started.md
       - 🌱 Crop Profit: sun-haven/crop-profit.md
+      - 📊 Crop Database (All Biomes): tools/sun-haven-crop-database.md
       - 🌿 Farming Deep Dive: sun-haven/farming-deep-dive.md
       - ⚔️ Combat & Magic: sun-haven/combat.md
       - 🐟 Fishing: sun-haven/fishing.md
@@ -210,6 +213,7 @@ nav:
       - 🐟 Fishing Guide: core-keeper/fishing-guide.md
       - 🍳 Cooking Guide: core-keeper/cooking-guide.md
       - ⚔️ Boss Progression Guide: core-keeper/boss-guide.md
+      - 🐟 Fish Profit Calc: tools/core-keeper-fish-profit.md
   - 🏹 Palworld:
       - Overview: palworld/index.md
       - 🆕 Getting Started: palworld/getting-started.md
