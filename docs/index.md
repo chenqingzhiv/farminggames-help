@@ -293,32 +293,35 @@ date: 2026-06-27
     <div class="video-series-progress-item">
       <div class="vsp-top">
         <span class="vsp-name">📦 Mod推荐</span>
+        <span class="vsp-status vsp-complete">2 / 2 ✅</span>
+      </div>
+      <div class="vsp-bar"><div class="vsp-fill" style="width:100%"></div></div>
+      <span class="vsp-label">已完成</span>
+    </div>
+    <div class="video-series-progress-item">
+      <div class="vsp-top">
+        <span class="vsp-name">🎭 搞笑与周边</span>
         <span class="vsp-status vsp-active">0 / 2 🔄</span>
       </div>
       <div class="vsp-bar"><div class="vsp-fill-active" style="width:0%"></div></div>
       <span class="vsp-label">⬅️ 进行中</span>
     </div>
-    <div class="video-series-progress-item">
-      <div class="vsp-top">
-        <span class="vsp-name">🎭 搞笑与周边</span>
-        <span class="vsp-status vsp-pending">0 / 2</span>
-      </div>
-      <div class="vsp-bar"><div class="vsp-fill" style="width:0%"></div></div>
-      <span class="vsp-label">待开始</span>
-    </div>
   </div>
 
   <div class="video-series-footer">
     <div class="video-series-footer-left">
-      <span class="video-series-total">📊 <strong>5个系列</strong> · <strong>13篇攻略</strong> 计划 · <strong>9</strong> 已上线</span>
+      <span class="video-series-total">📊 <strong>5个系列</strong> · <strong>13篇攻略</strong> 计划 · <strong>11</strong> 已上线</span>
     </div>
     <div class="video-series-footer-right">
-      <span class="video-series-next">📅 下篇: <strong>【星露谷物语】12月份人气最高的五个mod（N网）</strong></span>
+      <span class="video-series-next">📅 下篇: <strong>【星露谷物语】哄 堂 大 孝</strong></span>
       <span class="video-series-schedule">🕐 一三五 16:00</span>
     </div>
   </div>
 </div>
 <!-- ===== END VIDEO SERIES BLOCK ===== -->
+
+
+
 
 
 
