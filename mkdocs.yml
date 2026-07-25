@@ -38,6 +38,9 @@ copyright: >-
   <a href="/affiliate-disclosure/">Affiliate Disclosure</a> |
   As an Amazon Associate and Steam Partner, we earn from qualifying purchases.
 
+hooks:
+  - hooks/schema.py
+
 plugins:
   - search
   - macros:

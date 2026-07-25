@@ -17,7 +17,8 @@
 <meta name="article:published_time" content="{{ page.meta.date }}" />
 {% endif %}
 
-{# --- JSON-LD Structured Data --- #}
+{# --- JSON-LD Structured Data (base schemas) --- #}
+{# Article and FAQPage schemas are injected by hooks/schema.py #}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -43,26 +44,7 @@
         {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://farminggames.help/"}{% if page and page.url and page.url != "/" %},
         {"@type": "ListItem", "position": 2, "name": "{{ page.title | e }}", "item": "https://farminggames.help{{ page.url }}"}{% endif %}
       ]
-    }{% if page and page.meta and page.meta.date and page.url and page.url != "/" and page.url != "/tools/" and page.url != "/guides/" and page.url != "/news/" %},
-    {
-      "@type": "Article",
-      "headline": "{{ page.title | e }}",
-      "description": "{{ page.meta.description | default(page.title ~ ' guide for farming games') | e }}",
-      "datePublished": "{{ page.meta.date }}",
-      "dateModified": "{{ page.meta.date }}",
-      "author": {
-        "@type": "Organization",
-        "name": "Farming Games Help"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Farming Games Help"
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://farminggames.help{{ page.url }}"
-      }
-    }{% endif %}
+    }
   ]
 }
 </script>
