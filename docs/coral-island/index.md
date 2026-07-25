@@ -3,7 +3,7 @@ title: Coral Island — Complete Game Overview
 description: Coral Island complete guide — tropical farming simulation by Stairway Games, covering farming, diving, ranching, and island restoration
 ---
 
-<a href="/assets/images/coral-island-hero.jpg"><img src="/assets/images/coral-island-hero.jpg" alt="Coral Island" style="width:100%; border-radius:8px; margin-bottom:16px;"></a>
+<a href="/assets/images/coral-island-hero.webp"><img src="/assets/images/coral-island-hero.webp" loading="lazy" alt="Coral Island - tropical farming game guide with diving, farming and ranching tips" style="width:100%; border-radius:8px; margin-bottom:16px;"></a>
 
 # 🏝️ Coral Island — Game Overview
 

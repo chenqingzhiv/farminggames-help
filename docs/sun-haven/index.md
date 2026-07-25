@@ -3,7 +3,7 @@ title: Sun Haven — Complete Game Overview
 description: Sun Haven complete guide — fantasy farming RPG with multiplayer, covering magic, multiple biomes, skill trees, and the first week of gameplay
 ---
 
-<a href="/assets/images/sun-haven-hero.jpg"><img src="/assets/images/sun-haven-hero.jpg" alt="Sun Haven" style="width:100%; border-radius:8px; margin-bottom:16px;"></a>
+<a href="/assets/images/sun-haven-hero.webp"><img src="/assets/images/sun-haven-hero.webp" loading="lazy" alt="Sun Haven - multi-biome fantasy farming RPG guide with crops, combat, fishing and crafting" style="width:100%; border-radius:8px; margin-bottom:16px;"></a>
 
 # ☀️ Sun Haven — Game Overview
 

@@ -3,7 +3,7 @@ title: Stardew Valley Complete Game Guide
 description: Complete Stardew Valley guide index — covering farming, mining, fishing, social, seasonal guides, 1.6 update, and everything else
 ---
 
-<a href="/assets/images/stardew-valley-hero.jpg"><img src="/assets/images/stardew-valley-hero.jpg" alt="Stardew Valley" style="width:100%; border-radius:8px; margin-bottom:16px;"></a>
+<a href="/assets/images/stardew-valley-hero.webp"><img src="/assets/images/stardew-valley-hero.webp" loading="lazy" alt="Stardew Valley - ultimate farming RPG guide with crops, fishing, mining, NPC gifts and more" style="width:100%; border-radius:8px; margin-bottom:16px;"></a>
 
 # 🌾 Stardew Valley Complete Game Guide
 

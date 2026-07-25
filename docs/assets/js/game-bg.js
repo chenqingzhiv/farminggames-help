@@ -55,7 +55,7 @@
   if (isHome) {
     // 首页 → 8个游戏各取第1张，两行四列 (2x4 grid)
     for (var h = 0; h < HOME_GAMES.length; h++) {
-      bgImages.push('assets/images/game-bg/' + HOME_GAMES[h] + '/0.jpg');
+      bgImages.push('assets/images/game-bg/' + HOME_GAMES[h] + '/0.webp');
     }
     layoutClass = 'bg-layout-home';
   } else {
@@ -64,7 +64,7 @@
       if (GAME_CFG.hasOwnProperty(cls) && bodyClasses.indexOf(cls) !== -1) {
         var cfg = GAME_CFG[cls];
         for (var i = 0; i < cfg.n; i++) {
-          bgImages.push('assets/images/game-bg/' + cfg.dir + '/' + i + '.jpg');
+          bgImages.push('assets/images/game-bg/' + cfg.dir + '/' + i + '.webp');
         }
         layoutClass = 'bg-layout-detail';
         break;
