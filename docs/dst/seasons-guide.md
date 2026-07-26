@@ -550,4 +550,4 @@ The **ideal base location** balances access to multiple biomes with defensibilit
 
 ---
 
-*See also: [🌱 Farming & Gardening Guide](/dst/farming-guide/) | [⚔️ Bosses & Giants](/dst/bosses/) | [🍲 Crock Pot Recipes](/dst/crock-pot-recipes/)*
+*See also: [🌱 Farming & Gardening Guide](/dst/farming-guide/) | [⚔️ Bosses & Giants](/dst/bosses/) | [🍲 Crock Pot Recipe Finder](/tools/dst/crock-pot-recipe-finder/)*

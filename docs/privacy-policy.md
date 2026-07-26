@@ -60,7 +60,7 @@ We may update this policy from time to time. Changes will be posted on this page
 
 ## Contact
 
-If you have questions about this privacy policy, please reach out through our [Feedback page](/feedback/).
+If you have questions about this privacy policy, please reach out through our [Feedback page](/feedback/index/).
 
 ---
 
