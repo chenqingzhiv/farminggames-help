@@ -24,7 +24,7 @@ date: 2026-06-27
       <div class="home-hero-stat-label">Tools</div>
     </div>
     <div class="home-hero-stat">
-      <div class="home-hero-stat-num">8</div>
+      <div class="home-hero-stat-num">9</div>
       <div class="home-hero-stat-label">Games</div>
     </div>
     <div class="home-hero-stat">
@@ -36,7 +36,7 @@ date: 2026-06-27
 
 <hr>
 
-<h2 class="section-title-home">Featured Games <span class="sub">· 8 titles</span></h2>
+<h2 class="section-title-home">Featured Games <span class="sub">· 9 titles</span></h2>
 
 <div class="game-hero-card game-card-stardew" data-href="stardew/" onclick="gameCardClick(event, 'stardew/')">
 <div class="game-hero-card-inner">
@@ -159,6 +159,18 @@ date: 2026-06-27
 <div class="game-card-links">
   <a href="tools/" class="game-card-link">🔧 Tools & Guides</a>
   <a href="tools/game-comparison/" class="game-card-link">📊 Comparison</a>
+</div>
+</div>
+</div>
+
+<div class="game-hero-card game-card-starsand" data-href="starsand-island/" onclick="gameCardClick(event, 'starsand-island/')">
+<div class="game-hero-card-inner">
+<div class="game-card-title"><a href="starsand-island/" class="game-card-title-link">🏝️ Starsand Island</a></div>
+<div class="game-card-sub">✨ New in 2026</div>
+<p>Ghibli-style Chinese farming sim — 40+ animal subspecies, deep gene breeding, and 8 adoptable wild pets.</p>
+<div class="game-card-links">
+  <a href="starsand-island/" class="game-card-link">📖 Full Guide</a>
+  <a href="starsand-island/animals/" class="game-card-link">🐾 Animals &amp; Pets</a>
 </div>
 </div>
 </div>
