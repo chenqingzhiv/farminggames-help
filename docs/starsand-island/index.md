@@ -15,7 +15,7 @@ Starsand Island (星砂岛) is a Ghibli-style island farming simulation game dev
 | Guide | Description |
 |:------|:------------|
 | [Animals & Pet Care Guide](animals) | Complete animal husbandry — pet adoption, farm animals, subspecies breeding, gene system, career path, and profit data |
-| *More guides coming soon...* | |
+| [Crop Profit Guide](crops) | Complete crop profit analysis — spring/summer/fall/winter guides, best crops per season, cross-breeding, artisan processing, and year-1 roadmap |
 
 ## Quick Facts
 
