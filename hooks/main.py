@@ -984,6 +984,34 @@ RELATED_GUIDES = {
         ("stardew/greenhouse-crops/", "温室作物策略"),
     ],
 
+    # ─── Starsand Island ───
+    "starsand-island/": [
+        ("starsand-island/crops/", "Crop Profit Guide"),
+        ("starsand-island/animals/", "Animals & Pets Guide"),
+        ("starsand-island/fishing-gathering/", "Fishing & Gathering Guide"),
+        ("starsand-island/mining-crafting/", "Mining & Crafting Guide"),
+    ],
+    "starsand-island/crops/": [
+        ("starsand-island/", "Starsand Island Overview"),
+        ("starsand-island/animals/", "Animals & Pets Guide"),
+        ("starsand-island/fishing-gathering/", "Fishing & Gathering Guide"),
+    ],
+    "starsand-island/animals/": [
+        ("starsand-island/", "Starsand Island Overview"),
+        ("starsand-island/crops/", "Crop Profit Guide"),
+        ("starsand-island/fishing-gathering/", "Fishing & Gathering Guide"),
+    ],
+    "starsand-island/fishing-gathering/": [
+        ("starsand-island/", "Starsand Island Overview"),
+        ("starsand-island/crops/", "Crop Profit Guide"),
+        ("starsand-island/mining-crafting/", "Mining & Crafting Guide"),
+    ],
+    "starsand-island/mining-crafting/": [
+        ("starsand-island/", "Starsand Island Overview"),
+        ("starsand-island/crops/", "Crop Profit Guide"),
+        ("starsand-island/animals/", "Animals & Pets Guide"),
+    ],
+
     # ─── Database / Codes / News ───
     "database/games/": [
         ("tools/game-comparison/", "Game Comparison Tool"),
