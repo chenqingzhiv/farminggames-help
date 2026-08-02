@@ -990,6 +990,7 @@ RELATED_GUIDES = {
         ("starsand-island/animals/", "Animals & Pets Guide"),
         ("starsand-island/fishing-gathering/", "Fishing & Gathering Guide"),
         ("starsand-island/mining-crafting/", "Mining & Crafting Guide"),
+        ("starsand-island/community-romance/", "Community & Romance Guide"),
     ],
     "starsand-island/crops/": [
         ("starsand-island/", "Starsand Island Overview"),
@@ -1000,6 +1001,7 @@ RELATED_GUIDES = {
         ("starsand-island/", "Starsand Island Overview"),
         ("starsand-island/crops/", "Crop Profit Guide"),
         ("starsand-island/fishing-gathering/", "Fishing & Gathering Guide"),
+        ("starsand-island/community-romance/", "Community & Romance Guide"),
     ],
     "starsand-island/fishing-gathering/": [
         ("starsand-island/", "Starsand Island Overview"),
@@ -1010,6 +1012,14 @@ RELATED_GUIDES = {
         ("starsand-island/", "Starsand Island Overview"),
         ("starsand-island/crops/", "Crop Profit Guide"),
         ("starsand-island/animals/", "Animals & Pets Guide"),
+        ("starsand-island/community-romance/", "Community & Romance Guide"),
+    ],
+    "starsand-island/community-romance/": [
+        ("starsand-island/", "Starsand Island Overview"),
+        ("starsand-island/crops/", "Crop Profit Guide"),
+        ("starsand-island/animals/", "Animals & Pets Guide"),
+        ("starsand-island/fishing-gathering/", "Fishing & Gathering Guide"),
+        ("starsand-island/mining-crafting/", "Mining & Crafting Guide"),
     ],
 
     # ─── Database / Codes / News ───
