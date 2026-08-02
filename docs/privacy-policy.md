@@ -60,7 +60,7 @@ We may update this policy from time to time. Changes will be posted on this page
 
 ## Contact
 
-If you have questions about this privacy policy, please reach out through our [Feedback page](/feedback/index/).
+If you have questions about this privacy policy, please reach out through the feedback widget on any game page, or contact us via the affiliate links and contact channels listed in our [About page](/about/).
 
 ---
 
