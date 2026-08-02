@@ -62,7 +62,7 @@ Affection Points (AP) accumulate toward each heart. The community-verified thres
 | ❤️❤️❤️❤️ 4 | 770 AP | NPC posts **personal requests** on the bulletin board; personal story quests |
 | ❤️❤️❤️❤️❤️ 5 | ~1,520 AP | **Move-in / cohabitation** option |
 
-> **Note on the 4–5 heart thresholds:** community sources disagree — the relationship-system article lists 500 and 750 AP while the dedicated romance guide lists 770 and ~1,520. The developer hasn't officially confirmed the exact values, so treat these as ballpark targets. The unlock *types* at each heart are consistent across sources.
+> **Note on the 4–5 heart thresholds:** the table uses cumulative AP (4 hearts ≈ 770, 5 hearts ≈ 1,520). A separate community article lists different figures (500 and 750) on a different cumulative basis — the developer hasn't officially confirmed exact values, so treat all of these as ballpark targets. The unlock *types* at each heart are consistent across sources.
 
 The chest inside an NPC's bedroom (3 hearts) is the real prize — it holds **exclusive decor** and refreshes weekly, so check it every Sunday alongside your other chores.
 
@@ -85,7 +85,7 @@ Every positive interaction feeds the same pool. Here's everything that awards AP
 | Return a lost item | +20 | Pick up lost items you find around the island |
 | Complete a quest (story / profession) | +50 | The single biggest boost in the game |
 
-A **perfect day** with one NPC — loved gift + chat + their board request + a quest — can hit roughly **95 AP** in one go. Realistically, most players settle into a 20–30 AP/day rhythm per NPC, which puts a 5-heart romance at roughly **6–9 weeks of daily play**. That sounds long, but the mentor characters (see [§10](#why-the-mentors-are-easiest-to-romance)) get there in half the time.
+A **perfect day** with one NPC — loved gift + chat + their board request + a quest — lands around **85 AP** (over **95 AP** when the board request is a hard one). Realistically, most players settle into a 20–30 AP/day rhythm per NPC, which puts a 5-heart romance at roughly **6–9 weeks of daily play**. That sounds long, but the mentor characters (see [§10](#why-the-mentors-are-easiest-to-romance)) get there in half the time.
 
 ---
 
@@ -176,7 +176,7 @@ A year is **112 days** — four 28-day seasons — and a new save always starts 
 | | 18 | Stella |
 | | 22 | Fang (crossover doctor) |
 
-> **⚠️ Summer 13 is the busiest day of the year** — Alex, Aurelis, and Neona all share a birthday. Stock three loved gifts in advance, because the triple birthday falls right in the middle of the Beach Festival's prep week.
+> **⚠️ Summer 13 is the busiest day of the year** — Alex, Aurelis, and Neona all share a birthday. Stock three loved gifts in advance, because the triple birthday falls right in the run-up to the Beach Festival.
 
 ---
 
