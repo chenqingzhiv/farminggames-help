@@ -8,7 +8,7 @@ date: 2026-08-02
 
 > Game version: Early Access (Feb 12, 2026 launch) | Focus: Mining, Smelting & Tool Progression
 
-I've spent over 70 hours underground in Starsand Island since the EA launch, and mining is where this game quietly turns into a money printer. Farming gets all the attention, but the **Moonlit Forest dungeon** — 12 zones of ores, puzzles, and bosses tucked behind your own house — is the real engine room. Copper and Tin fund your first week, Iron and Gold carry your mid-game, and by the time you're smelting Aurorite at Furnace III, you're effectively self-funding every upgrade in the game.
+I've spent over 70 hours underground in Starsand Island since the EA launch, and mining is where this game quietly turns into a money printer. Farming gets all the attention, but the **Moonlit Forest (荧月之森) dungeon** — 12 zones of ores, puzzles, and bosses tucked behind your own house — is the real engine room. Copper and Tin fund your first week, Iron and Gold carry your mid-game, and by the time you're smelting Aurorite at Furnace III, you're effectively self-funding every upgrade in the game.
 
 This guide covers the entire mining pipeline: unlocking the dungeon, what ore spawns where, every tool tier and what it unlocks, all furnace recipes, and how to turn raw stone into steady gold.
 
@@ -43,12 +43,12 @@ Mining proper doesn't start with a pickaxe in hand — the real content lives be
 
 | Step | What to Do | Requirements |
 |:-----|:-----------|:------------|
-| 1 | Join the **Exploration Club** and talk to **Zephyria** (above Green Pasture Ranch) | — |
+| 1 | Join the **Exploration Club** and talk to **Zephyria (岚)** (above Green Pasture Ranch) | — |
 | 2 | Accept her tutorial quest and craft a **Slingshot** | Slingshot blueprint (workbench) |
 | 3 | Find the **Damaged Door** behind your farmhouse | Walk around the back of your starting plot |
 | 4 | Break the door with the Slingshot | Slingshot + ammo |
 | 5 | Step through the portal in the cavern | — |
-| 6 | Report to Zephyria to unlock the **Exploration skill tab** | — |
+| 6 | Report to Zephyria (岚) to unlock the **Exploration skill tab** | — |
 
 > **Tip:** The exploration path also unlocks your first **camp** and the **Moonweaver fast-travel network**. Do this quest before your first winter — the Furnace and tool upgrades it feeds become your most reliable income source once crops slow down.
 
@@ -56,26 +56,26 @@ Mining proper doesn't start with a pickaxe in hand — the real content lives be
 
 - A **Stone Pickaxe** (starter tool) to clear surface rocks and path debris
 - At least **15 Stamina-restoring food** — early mining eats stamina fast
-- The **Impulse Pickaxe blueprint** (500 coins from Zerine's shop) once you reach **Apprentice Crafter**
+- The **Impulse Pickaxe (冲击镐) blueprint** (500g from **Zerine (百里零)**'s shop) once you reach **Apprentice Crafter**
 
 ---
 
-## Moonlit Forest — 12-Zone Dungeon Walkthrough
+## Moonlit Forest (荧月之森) — 12-Zone Dungeon Walkthrough
 
 ![Starsand Island Moonlit Forest dungeon progression map showing all 12 zones in order](images/moonlit-forest-map.webp)
 
-The Moonlit Forest is a long, largely linear dungeon under the island. It is split into **12 named zones**, each with its own ores, enemies, and puzzles. You never need to memorize the whole thing — just follow the zone order and you will naturally collect the ores you need next.
+The Moonlit Forest (荧月之森) is a long, largely linear dungeon under the island. It is split into **12 named zones**, each with its own ores, enemies, and puzzles. You never need to memorize the whole thing — just follow the zone order and you will naturally collect the ores you need next.
 
 | # | Zone | Key Resources | Enemies / Puzzle | Milestone |
 |:-:|:-----|:--------------|:-----------------|:----------|
-| 1 | **Evernight Forest** | Copper, Tin, Quartz, Fluorite | Minimal | First ore nodes |
-| 2 | **Gate of Life** | Quartz, Gravecrystals | Runebird elite, gate puzzles | Gravestar collection |
-| 3 | **Dreamfall Garden** | **Iron Ore** | Luminpath butterfly puzzle | **Crystalith boss** |
-| 4 | **Crystalith Hideout** | **Gold**, Primorite | 3 hidden Gravestars | Camp + fast travel |
-| 5 | **Azure Bay** | (fishing, treasure) | Luminfrog, elevator | Left Ruins Key |
-| 6 | **Mural Valley** | **Coal** | Glintortle boss, Bronze Gate | Right Ruins Key |
-| 7 | **Harvest Yard** | Diamond, Oilstone, Flamecore | Fire/Water arrow barriers | Late-game ore zone |
-| 8 | **Grain Haven** | Diamond, Oilstone, Primorite | Calm mining zone | Deep mining hub |
+| 1 | **Evernight Forest (永夜森林)** | Copper, Tin, Quartz, Fluorite | Minimal | First ore nodes |
+| 2 | **Gate of Life (生机之门)** | Quartz, Gravecrystals | Runebird elite, gate puzzles | Gravestar collection |
+| 3 | **Dreamfall Garden (梦落花园)** | **Iron Ore** | Luminpath butterfly puzzle | **Crystalith boss** |
+| 4 | **Crystalith Hideout (晶石之家)** | **Gold**, Primorite | 3 hidden Gravestars | Camp + fast travel |
+| 5 | **Azure Bay (碧水峡湾)** | (fishing, treasure) | Luminfrog, elevator | Left Ruins Key |
+| 6 | **Mural Valley (画壁)** | **Coal** | Glintortle boss, Bronze Gate | Right Ruins Key |
+| 7 | **Harvest Yard (丰收谷场)** | Diamond, Starflare Crystal, Oilstone, Flamecore | Fire/Water arrow barriers | Late-game ore zone |
+| 8 | **Grain Haven (眠禾乡)** | Diamond, Oilstone, Primorite | Calm mining zone | Deep mining hub |
 | 9 | **Darkwater Shore** | Echo Beans, rare fish | — | Unique farm crops |
 | 10 | **Homeward Trail** | Magnetite | Torch-lighting puzzle, Runebirds | Puzzle zone |
 | 11 | **Serenity's Rest** | Magnetite | Bridge puzzle (Gravecrystals) | Transition zone |
@@ -93,22 +93,23 @@ Every ore in Starsand Island has a home zone and a minimum tool tier. If your pi
 
 | Ore | First Found In | Tool Required | Smelts Into |
 |:----|:---------------|:--------------|:------------|
-| **Stone** | Surface / everywhere | Stone Pickaxe | Stone Brick |
+| **Stone (石头)** | Surface / everywhere | Stone Pickaxe | Stone Brick |
 | **Clay** | Surface / Evernight Forest | Stone Pickaxe | — (crafting) |
-| **Copper** | Evernight Forest (Zone 1) | Impulse Pickaxe | Copper Ingot → Copper Sheet / Bronze |
-| **Tin** | Evernight Forest (Zone 1) | Impulse Pickaxe | Tin Ingot → Bronze |
-| **Fluorite** | Evernight Forest (Zone 1) | Impulse Pickaxe | Radiant Core; repairs camps (5 per camp) |
-| **Quartz** | Gate of Life (Zone 2) | Impulse Pickaxe | Glass Brick → Glass Pane / Prism |
-| **Iron** | Dreamfall Garden (Zone 3) | Impulse Pickaxe | Iron Ingot → Iron Sheet / Alloy |
-| **Gold** | Crystalith Hideout (Zone 4) | Impact Hammer | Gold Ingot → Gold Sheet / Alloy / jewelry |
-| **Primorite** | Crystalith Hideout (Zone 4) | Impact Hammer | Late-game crafting |
-| **Coal** | Mural Valley (Zone 6) | Impact Hammer | Fuel for Furnace II / III |
+| **Copper (铜矿)** | Evernight Forest (Zone 1) | Impulse Pickaxe | Copper Ingot → Copper Sheet / Bronze |
+| **Tin (锡矿)** | Evernight Forest (Zone 1) | Impulse Pickaxe | Tin Ingot → Bronze |
+| **Fluorite (荧石)** | Evernight Forest (Zone 1) | Impulse Pickaxe | Radiant Core; repairs camps (5 per camp) |
+| **Quartz (石英矿)** | Gate of Life (Zone 2) | Impulse Pickaxe | Glass Brick → Glass Pane / Prism |
+| **Iron (铁矿)** | Dreamfall Garden (Zone 3) | Impulse Pickaxe | Iron Ingot → Iron Sheet / Alloy |
+| **Gold (金矿)** | Crystalith Hideout (Zone 4) | Impact Hammer | Gold Ingot → Gold Sheet / Alloy / jewelry |
+| **Primorite (溯石矿)** | Crystalith Hideout (Zone 4) | Impact Hammer | Late-game crafting |
+| **Coal (煤矿)** | Mural Valley (Zone 6) | Impact Hammer | Fuel for Furnace II / III |
+| **Flamecore (炎髓矿)** | Harvest Yard (Zone 7) | Blast Hammer | Flamecore Ingot (Furnace III) |
 | **Magnetite** | Homeward Trail (Zone 10) | Blast Hammer | Magnet / Alloy |
 | **Moonstone** | Moonlight Meadow (Zone 12) | Blast Hammer | Late-game jewelry / crafting |
 | **Aurorite** | Moonlight Meadow (Zone 12) | Blast Hammer | Aurorite Ingot / Eternal Alloy |
-| **Oilstone** | Harvest Yard (Zone 7) | Electric Drill | Fuel for Furnace III |
-| **Starflare Crystal** | Harvest Yard (Zone 7) | Electric Drill | Starflare Core |
-| **Diamond** | Harvest Yard / Grain Haven / Moonlight Meadow | Blast Hammer (Aurorite Pickaxe for Meadow) | Ultimate-tier jewelry, prestige recipes |
+| **Oilstone (油烬岩)** | Harvest Yard (Zone 7) | Electric Drill | Fuel for Furnace III |
+| **Starflare Crystal** | Harvest Yard (Zone 7) | Impact Hammer | Starflare Core |
+| **Diamond (钻石)** | Harvest Yard / Grain Haven / Moonlight Meadow | Blast Hammer | Ultimate-tier jewelry, prestige recipes |
 
 > **Key takeaway:** the game funnels you through the dungeon exactly as your tools improve. If you feel stuck on progression, the answer is almost always "your pickaxe is one tier behind the zone you are trying to clear."
 
@@ -118,23 +119,25 @@ Every ore in Starsand Island has a home zone and a minimum tool tier. If your pi
 
 ![Starsand Island mining tool upgrade chain from Stone Pickaxe to Electric Drill with crafter tiers](images/pickaxe-progression.webp)
 
-Mining tools follow a single upgrade chain: **Stone Pickaxe → Impulse Pickaxe → Impact Hammer → Blast Hammer → Electric Drill**. From the Impulse Pickaxe onward, each tool **consumes the previous one** as a crafting ingredient — so do not sell or toss your old pickaxe.
+Mining tools follow a single upgrade chain: **Stone Pickaxe → Impulse Pickaxe → Impact Hammer → Blast Hammer → Electric Drill**. From the Impulse Pickaxe through the Blast Hammer, each tool **consumes the previous one** as a crafting ingredient — so do not sell or toss your old pickaxe.
 
-All blueprints come from **Zerine's shop** and only appear once you hit the matching **Crafter certification tier**. You cannot skip tiers.
+All blueprints come from **Zerine (百里零)'s shop** and only appear once you hit the matching **Crafter certification tier**. You cannot skip tiers.
 
 | Tool | Crafter Tier | Blueprint Cost | Crafting Materials | Worktable | Mines |
 |:-----|:-------------|:--------------|:-------------------|:----------|:------|
 | **Stone Pickaxe** | Starter | — | Given at start | — | Stone, Clay, surface rocks |
-| **Impulse Pickaxe** | Apprentice | 500 coins | 10 Copper + 10 Fluorite + 5 Softwood + 5 Quartz + 1 Stone Pickaxe | I | Copper, Tin, Quartz, Fluorite, Clay, Gravecrystals |
-| **Impact Hammer** | Junior | 2,500 coins | 4 Hardwood Planks + 4 Iron Sheets + 2 Radiant Crystals + 3 Bronze + 1 Impulse Pickaxe | II | Gold, Primorite, Coal (+ all previous, incl. Iron) — **AoE swing** |
-| **Blast Hammer** | Intermediate | 8,000 coins | 20 Premium Wood + 5 Alloy + 5 Starflare Crystals + 5 Rubber + 1 Impact Hammer | II | Magnetite, Moonstone, Aurorite, Flamecore, Diamond (+ all previous) — larger AoE |
-| **Electric Drill** | Senior | 22,000 coins | 6 Meteor Planks + 5 Chips + 6 Eternal Alloy + 8 High-Performance Wire Sets | III | **All ores** — unlocks Oilstone & Starflare Crystal, mines nearly instantly |
+| **Impulse Pickaxe** | Apprentice | 500g | 10 Copper + 10 Fluorite + 5 Softwood + 5 Quartz + 1 Stone Pickaxe | I | Copper, Tin, Quartz, Fluorite, Clay, Gravecrystals |
+| **Impact Hammer** | Junior | 2,500g | 4 Hardwood Planks + 4 Iron Sheets + 2 Radiant Cores + 3 Bronze + 1 Impulse Pickaxe | II | Gold, Primorite, Coal, Starflare Crystal (+ all previous, incl. Iron) — **AoE swing** |
+| **Blast Hammer** | Intermediate | 8,000g | 20 Premium Wood + 5 Alloy + 5 Starflare Crystals + 5 Rubber + 1 Impact Hammer | II | Magnetite, Moonstone, Aurorite, Flamecore, Diamond (+ all previous) — larger AoE |
+| **Electric Drill** | Senior | 22,000g | 6 Meteor Planks + 5 Chips + 6 Eternal Alloy + 8 High-Performance Wire Sets | III | **All ores** — unlocks Oilstone, mines nearly instantly |
 
-> **Note on Iron:** Iron Ore is listed under the Impulse Pickaxe because the Impact Hammer's own recipe needs **4 Iron Sheets** — the first Iron you gather (from Dreamfall Garden) has to come from Impulse-tier nodes. The Impact Hammer then turns Iron mining into an AoE sweep. Sources vary on the exact threshold between patches, so if a node refuses to break, that is your tool tier talking.
+> **Electric Drill exception:** the Electric Drill breaks the consume-chain — it is crafted **from scratch** and does **not** consume your Blast Hammer. Build it directly, and keep the Blast Hammer for clearing ore clusters.
+
+> **Note on Iron & Starflare:** Iron Ore is listed under the Impulse Pickaxe because the Impact Hammer's own recipe needs **4 Iron Sheets** — the first Iron you gather (from Dreamfall Garden) has to come from Impulse-tier nodes. Likewise, Starflare Crystal sits at Impact Hammer tier precisely so you can gather the 5 needed for the Blast Hammer's own recipe; the Electric Drill then sweeps everything at near-instant speed. Sources vary on the exact thresholds between patches, so if a node refuses to break, that is your tool tier talking.
 
 ### Upgrade Priorities
 
-- **Impulse Pickaxe first — always.** It is cheap (500 coins), unlocks the entire early dungeon, and lets you break **Gravecrystals**, which you need to progress the main story.
+- **Impulse Pickaxe first — always.** It is cheap (500g), unlocks the entire early dungeon, and lets you break **Gravecrystals**, which you need to progress the main story.
 - **Impact Hammer is the biggest single power spike.** The AoE swing clears ore clusters in one hit instead of one node at a time, and it unlocks Gold and Primorite — while turning Iron mining into a fast sweep. Gold is the ore that pays for everything after it.
 - **Blast Hammer is the point of no return for deep mining.** It consumes your Impact Hammer, so build your **second Impact Hammer before upgrading** if you want to keep one as a melee weapon.
 - **Electric Drill shares its recipe with the Chainsaw** (same materials). If you want both tools, gather the materials **twice**.
@@ -189,7 +192,7 @@ Smelting is only the first step. The full processing ladder looks like this:
 
 The **Ore Analyzer** is an underrated money-maker: build it with **8 Hardwood + 2 Copper Sheets**, feed it the Ore Chunks you find while mining, and it converts them into rare parts that sell well and feed endgame crafting.
 
-> **Rule of thumb:** each extra processing step adds a small premium. Ore → Ingot → Sheet typically adds 1–3 coins per step. The exception is the **Separator**, which *decreases* value — always check shop prices before running items through it.
+> **Rule of thumb:** each extra processing step adds a small premium. Ore → Ingot → Sheet typically adds 1–3g per step. The exception is the **Separator**, which *decreases* value — always check shop prices before running items through it.
 
 ---
 
@@ -218,7 +221,7 @@ Camps are the dungeon's checkpoint system, and they make deep mining sustainable
 
 ![Starsand Island Crystalith boss diagram highlighting the glowing abdomen weak point during the power drain phase](images/crystalith-boss.webp)
 
-The **Crystalith** is the first major boss of the Moonlit Forest, guarding Zone 3 (Dreamfall Garden). Beating it opens **Crystalith Hideout** — your first Gold and Primorite source.
+The **Crystalith** is the first major boss of the Moonlit Forest (荧月之森), guarding Zone 3 (Dreamfall Garden (梦落花园)). Beating it opens **Crystalith Hideout** — your first Gold and Primorite source.
 
 ### Pre-Fight Checklist
 
@@ -240,7 +243,7 @@ The **Crystalith** is the first major boss of the Moonlit Forest, guarding Zone 
 
 The Crystalith periodically walks to the central **Moonweaver crystal** and channels energy — its **abdomen glows bright yellow/orange**. This is your window: attacks deal **double damage** during the Power Drain phase. Circle at medium range, dodge the two telegraphed attacks, and unload everything into the glowing abdomen during the channel. It does **not** actually heal from the crystal, so you never need to interrupt the channel — just punish it.
 
-**After the fight:** the Crystalith Hideout opens with Gold and Primorite deposits, 3 hidden Gravestars, and a repair-able camp (5 Fluorite).
+**After the fight:** the Crystalith Hideout opens with Gold and Primorite deposits, 3 hidden Gravestars, and a repairable camp (5 Fluorite).
 
 ---
 
@@ -259,18 +262,18 @@ Mining is the most consistent **mid-to-late game** income source, and the number
 | Iron Ingot | **66g** | Core mid-game seller |
 | Iron Sheet | **69g** | Thin margin over ingot |
 | Bronze | **58g** | Good value; keep some for crafting |
-| Gold Ingot | **88 coins** | The reliable mid-game money-maker |
-| Diamond | **30 coins** | **Do not sell** — use for crafting/gifts |
+| Gold Ingot | **88g** | The reliable mid-game money-maker |
+| Diamond | **30g** | **Do not sell** — use for crafting/gifts |
 
 ### The Three Mining Income Levers
 
-1. **Smelt your high-value ores, especially Gold and Iron.** Gold Ingots sell for **88 coins** each and Iron Ingots for **66 coins** — far above the raw ore. Copper's processing margin is thin (~1g per ingot after charcoal), so treat Copper mainly as crafting material rather than an income source.
-2. **Gold is your mid-game cash cow.** Once the Impact Hammer unlocks Gold in Zone 4, smelt every Gold Ore into **Gold Ingots (88 coins each)**. This single habit funds the Blast Hammer, which is the most expensive purchase on your early list.
+1. **Smelt your high-value ores, especially Gold and Iron.** Gold Ingots sell for **88g** each and Iron Ingots for **66g** — far above the raw ore. Copper's processing margin is thin (~1g per ingot after charcoal), so treat Copper mainly as crafting material rather than an income source.
+2. **Gold is your mid-game cash cow.** Once the Impact Hammer unlocks Gold in Zone 4, smelt every Gold Ore into **Gold Ingots (88g each)**. This single habit funds the Blast Hammer, which is the most expensive purchase on your early list.
 3. **Hoard for the Merchant Ship.** The Merchant Ship visits Starsand Port on Mondays and pays **200% of base value**. Save your smelted ingots (especially Gold and Iron) across the week and sell them in one trip.
 
 ### What NOT to Do
 
-- **Never sell Diamonds** (30 coins) — they are extremely rare and worth far more as crafting material and gifts.
+- **Never sell Diamonds** (30g) — they are extremely rare and worth far more as crafting material and gifts.
 - **Do not overcraft early.** Burning ore and charcoal to rush a sale delays your tool upgrades, and better tools speed up every other income source.
 - **Skip Ingot → Sheet processing for bulk.** The +1–2g margin is real but slow for large volumes; sheet-making is best when you actually need sheets for crafting.
 
@@ -278,7 +281,7 @@ Mining is the most consistent **mid-to-late game** income source, and the number
 
 ## Crafter Profession & Blueprints
 
-Tool and station progression is gated by the **Crafter profession**, mentored by **Zerine**. You rank up by completing her quests, which unlocks new blueprint tiers in her shop.
+Tool and station progression is gated by the **Crafter profession**, mentored by **Zerine (百里零)**. You rank up by completing her quests, which unlocks new blueprint tiers in her shop.
 
 | Crafter Tier | What It Unlocks |
 |:-------------|:----------------|
@@ -300,14 +303,14 @@ Tool and station progression is gated by the **Crafter profession**, mentored by
 - **Stock up on Wood and Charcoal.** Fuel is the silent bottleneck of the entire mining economy.
 - **Repair camps with Fluorite immediately.** The on-site workbench is the difference between a 3-node trip and a 20-node trip.
 - **Bring stamina-restoring food on every run.** Mining stamina cost is the real gate, not damage.
-- **Mine the dungeon for fast respawns.** Moonlit Forest nodes reset **daily at 20:00**; overworld nodes take **2–3 in-game days** to respawn.
+- **Mine the dungeon for fast respawns.** Moonlit Forest (荧月之森) nodes reset **daily at 20:00**; overworld nodes take **2–3 in-game days** to respawn.
 - **Use the bulletin board for mining requests.** Ore-based requests (Copper, Iron, Gold) are among the easiest 1–2 star requests to fulfill and pay 1,500–2,000g/day combined.
 
 ### ❌ Avoid This
 
 - **Mining past your tool tier.** Wasted stamina on unbreakable nodes is the most common newbie drain.
 - **Selling raw ore.** The smelted product is always worth more; raw is only for emergency cash.
-- **Ignoring Zephyria and Zerine.** Their background buffs (Exploration and Crafting) permanently speed up your runs.
+- **Ignoring Zephyria (岚) and Zerine (百里零).** Their background buffs (Exploration and Crafting) permanently speed up your runs.
 - **Upgrading the Blast Hammer before keeping a spare Impact Hammer.** The upgrade consumes it, and the Impact Hammer is the best melee-cum-mining tool until late game.
 - **Using the Separator blindly.** Some processing steps *lower* value — check prices first.
 
@@ -318,11 +321,13 @@ Tool and station progression is gated by the **Crafter profession**, mentored by
 Here is the loop that got me through year one without ever feeling coin-starved:
 
 1. **Morning:** check the Bulletin Board for ore requests (1–2 stars only).
-2. **Afternoon (20:00 reset):** enter the Moonlit Forest — the nodes have just respawned. Clear your target zone for the current tool tier.
+2. **Afternoon (20:00 reset):** enter the Moonlit Forest (荧月之森) — the nodes have just respawned. Clear your target zone for the current tool tier.
 3. **On site:** smelt at a camp furnace, drop ingots in the camp chest.
 4. **Evening:** head back, smelt the rest at home, and process Ore Chunks through the Analyzer.
 5. **Weekly:** hold smelted ingots for the **Merchant Ship on Monday** for 200% value.
 
 ![Starsand Island miner returning from the Moonlit Forest at dusk carrying a full haul of smelted ingots](images/mining-dusk.webp)
 
-Mining is the quiet engine of Starsand Island. Farm for stability, fish for early cash — but mine for the long game. Once the Impact Hammer unlocks Gold and the dungeon's deep nodes come online, the Moonlit Forest becomes a self-funding machine, and every upgrade you buy makes the next run faster.
+Mining is the quiet engine of Starsand Island. Farm for stability, fish for early cash — but mine for the long game. Once the Impact Hammer unlocks Gold and the dungeon's deep nodes come online, the Moonlit Forest (荧月之森) becomes a self-funding machine, and every upgrade you buy makes the next run faster.
+
+*Guide updated for EA version 0.4.2. Data sourced from in-game testing, the Bilibili Wiki, and community research. Prices in in-game gold (g).*
