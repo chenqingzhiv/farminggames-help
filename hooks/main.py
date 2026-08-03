@@ -166,11 +166,13 @@ RELATED_GUIDES = {
         ("stardew/fall-guide/", "Fall Detailed Guide"),
         ("stardew/crops/", "Complete Crop Profit Guide"),
         ("stardew/summer-blueprint/", "Summer Blueprint & Planning"),
+        ("guides/星露谷物语第一年夏季高效经营全攻略/", "第一年夏季全攻略（中文）"),
     ],
     "stardew/summer-blueprint/": [
         ("stardew/summer-guide/", "Summer Detailed Guide"),
         ("stardew/farm-layout/", "Optimal Farm Layout & Automation"),
         ("stardew/crops/", "Complete Crop Profit Guide"),
+        ("guides/星露谷物语第一年夏季高效经营全攻略/", "第一年夏季全攻略（中文）"),
     ],
     "stardew/fall-guide/": [
         ("stardew/winter/", "Winter Detailed Guide"),
@@ -945,6 +947,12 @@ RELATED_GUIDES = {
         ("guides/stardew-valley-beginners-guide/", "Stardew Valley Beginner Guide"),
         ("stardew/year-1-guide/", "Stardew Year 1 Complete Guide"),
         ("stardew/crops/", "Stardew Crop Profit Guide"),
+    ],
+    "guides/星露谷物语第一年夏季高效经营全攻略/": [
+        ("stardew/summer-guide/", "夏季完整攻略"),
+        ("stardew/summer-blueprint/", "夏季蓝图与规划"),
+        ("stardew/crops/", "农作物利润完整指南"),
+        ("stardew/index/", "星露谷物语攻略汇总"),
     ],
     "guides/sunflower-land-saltwort-crop-week/": [
         ("guides/index/", "All Guides"),
