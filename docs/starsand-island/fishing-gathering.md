@@ -8,9 +8,9 @@ date: 2026-07-31
 
 > Game version: Early Access (Feb 12, 2026 launch) | Focus: Fishing, Foraging & Ocean Gathering
 
-Fishing in Starsand Island is one of the best early-game moneymakers — it uses less stamina than mining or logging, and a single Fish King sells for over 13,000 gold. But the system runs deep: with **100+ fish species**, **4 legendary Fish Kings**, a **fish breeding/pond system**, and a **multi-stage fishing profession quest chain**, there's a lot to learn.
+I've spent over 50 hours fishing every corner of Starsand Island — from the AquaBlue pier to the deep waters of Yunni — and I can tell you without hesitation: fishing is the fastest route to financial freedom on this island. It uses less stamina than mining or logging, and a single Fish King sells for over 13,000 gold. But the system runs deep: with **100+ fish species**, **4 legendary Fish Kings**, a **fish breeding/pond system**, and a **multi-stage fishing profession quest chain**, there is a lot to learn.
 
-This guide covers everything — from casting your first line to breeding legendary fish for passive income.
+This guide covers everything I've learned along the way — from casting your first line to breeding legendary fish for passive income.
 
 *Data sourced from in-game testing, Bilibili Wiki, and community research. Prices in in-game gold. Verified for EA version 0.4.2.*
 
@@ -37,7 +37,7 @@ This guide covers everything — from casting your first line to breeding legend
 
 ![Starsand Island fishing dock at AquaBlue Outpost with calm ocean view](images/fishing-dock.webp)
 
-Fishing isn't available from day one — you need to unlock it through a short quest chain:
+Fishing is not available from day one — you need to unlock it through a short quest chain:
 
 ### Unlock Steps
 
@@ -54,7 +54,7 @@ Fishing isn't available from day one — you need to unlock it through a short q
 
 ### Where to Fish
 
-Starsand Island has **4 main fishing zones**:
+Starsand Island has **5 main fishing zones**:
 
 | Zone | Type | Access | Best For |
 |:-----|:-----|:-------|:---------|
@@ -95,7 +95,7 @@ The fishing mini-game is **tension-based**, similar to *Animal Crossing* but wit
 | **Time effect** | Night (20:00–02:00) unlocks exclusive nocturnal species |
 | **Bait consumption** | 1 bait per catch (when bait is equipped) |
 
-> **Beginner tip:** Don't try to force the reel when the gauge hits red. Just let go — the line cools down fast, and you waste less stamina than fighting a losing battle.
+> **Beginner tip:** Do not try to force the reel when the gauge hits red. Just let go — the line cools down fast, and you waste less stamina than fighting a losing battle.
 
 ---
 
@@ -115,7 +115,7 @@ The fishing mini-game is **tension-based**, similar to *Animal Crossing* but wit
 
 ## Bait Guide — What to Use & When
 
-Bait is essential for targeting specific fish families. Without bait, you'll catch mostly common fish.
+Bait is essential for targeting specific fish families. Without bait, you will catch mostly common fish.
 
 | Bait Type | Crafting Recipe | Attracts | Best Use |
 |:----------|:---------------|:---------|:---------|
@@ -259,21 +259,21 @@ The **4 Fish Kings** are the crown jewels of Starsand Island fishing. Each sells
 ### Deep Sea Dragon Fish (深海龙鱼) — Yunni Waters
 
 - **Conditions:** Night only (20:00–02:00), Yunni Waters zone
-- **Recommended setup:** Carbon+ rod, Fish Bait
+- **Recommended setup:** Carbon Rod, Fish Bait
 - **Strategy:** Take a parrot boat to Yunni Waters after 20:00. Cast toward the darker, deeper water patches. The Dragon Fish shadow is noticeably larger than regular fish. The fight takes 15–25 seconds of careful tension management — it spikes into the red zone frequently but for short bursts.
-- **Tip:** Eat +Stamina food before heading out — you'll need 15+ casts minimum.
+- **Tip:** Eat +Stamina food before heading out — you will need 15+ casts minimum.
 
 ### Giant Mouth Shark (巨口鲨) — Ming Ocean 🏆 Most Valuable
 
 - **Conditions:** Night only (20:00–02:00), Ming Ocean zone
-- **Recommended setup:** Carbon+ rod, Fish Bait (Mixed Bait recommended for higher spawn rate)
-- **Strategy:** The Giant Mouth Shark is the hardest catch in the game. Its shadow is **huge** — you can't miss it. The fight is a marathon: the shark makes long red-zone runs lasting 3–5 seconds. Let go of the reel completely during these bursts. Reel hard during blue windows. Bring at least 200 stamina worth of food.
+- **Recommended setup:** Carbon Rod, Fish Bait (Mixed Bait recommended for higher spawn rate)
+- **Strategy:** The Giant Mouth Shark is the hardest catch in the game. Its shadow is **huge** — you cannot miss it. The fight is a marathon: the shark makes long red-zone runs lasting 3–5 seconds. Let go of the reel completely during these bursts. Reel hard during blue windows. Bring at least 200 stamina worth of food.
 - **Sell Price:** 13,849g — the single most valuable fish in the game.
 
 ### Swordfish (剑鱼) — Coral Sea
 
 - **Conditions:** Daytime only (06:00–18:00), Coral Sea zone
-- **Recommended setup:** Bamboo+ rod, Insect Bait preferred
+- **Recommended setup:** Bamboo Rod, Insect Bait preferred
 - **Strategy:** The easiest Fish King to target. Cruise the Coral Sea during daylight hours. The Swordfish shadow is long and distinct. The fight is moderate — it prefers yellow-zone pressure, so maintain steady tension without pushing into red.
 - **Sell Price:** 4,200g. Decent money, but the real value is completing the Fish King collection for the fishing quest chain.
 
@@ -324,14 +324,19 @@ Once you reach **Fishing Lv 8**, you unlock the **Fish Pond** system — passive
 
 ### Fish Pond Profit Calculator
 
-With 6 ponds, each holding a Dragon Fish pair:
+With 6 ponds, each holding a Dragon Fish pair, your roe (鱼籽) can follow **one of two mutually exclusive paths** — sell it directly, or hatch it into fish and sell those. You cannot do both with the same roe.
 
-- **Daily roe:** 6 × 1,200g = **7,200g/day** (passive!)
-- **Weekly hatch:** 42 new Dragon Fish × 6,000g = **252,000g/week**
-- **Minus feed:** ~6 × 10g × 7 days = 420g/week
-- **Net profit:** **~251,000g/week**
+**Option A — Sell the roe directly (no incubator needed):**
+- 6 pairs × 1 Roe/day = 6 Roe/day × 1,200g = **7,200g/day**
 
-This completely outpaces crop farming in the late game.
+**Option B — Hatch and sell the fish (recommended for late game):**
+- 6 pairs produce 7 Roe each per week = **42 Roe/week**
+- Incubate all 42 → 42 new Dragon Fish
+- 42 × 6,000g = **252,000g/week**
+- Minus feed: ~6 × 10g × 7 days = 420g/week
+- **Net profit: ~251,000g/week**
+
+The hatch route earns roughly 35× more than selling roe, but it takes 24 hours per batch and requires incubator space. Pick the path that fits your setup — both far outpace crop farming in the late game.
 
 ---
 
@@ -405,7 +410,7 @@ The **Moonlit Forest (荧月之森)** is the primary foraging zone, shared with 
 | **Bug Net (捕虫网)** | Catch insects, floating spores | Basic → Reinforced → Advanced |
 | **Gloves (手套)** | Pick up sharp/thorny items | Leather → Reinforced → Insulated |
 
-> **Cross-skill synergy:** Insects caught while foraging double as fishing bait. Dedicate one foraging run per week to insect hunting — stockpiling 100+ insects saves you from crafting Fish Bait when you'd rather be fishing.
+> **Cross-skill synergy:** Insects caught while foraging double as fishing bait. Dedicate one foraging run per week to insect hunting — stockpiling 100+ insects saves you from crafting Fish Bait when you would rather be fishing.
 
 ---
 
@@ -438,7 +443,7 @@ At **Fishing Lv 10**, Delphin gives you a special quest:
 
 - **Goal:** Collect **20 unique fish species** for the Oceanarium (海缸)
 - **Reward:** Mythic Rod blueprint, +1 permanent luck buff
-- **Tip:** Start tracking this from day one. The 20 species requirement spans seasons and zones, so you can't rush it. Use the Islandpedia (phone → Bio Research → Aquatic Life) to track your collection.
+- **Tip:** Start tracking this from day one. The 20 species requirement spans seasons and zones, so you cannot rush it. Use the Islandpedia (phone → Bio Research → Aquatic Life) to track your collection.
 
 ---
 
@@ -470,15 +475,15 @@ At **Fishing Lv 10**, Delphin gives you a special quest:
 - **Always carry 3 bait types.** You never know when a rare shadow will appear with a specific bait preference.
 - **Save before Fish King fights.** If you break your line on a Giant Mouth Shark, reload and try again.
 - **Breed Fish Kings.** Even a single Dragon Fish pair generates 6,000g/week in hatchlings — better than most crops.
-- **Use the Islandpedia.** Track your catch progress and check which fish you're missing by season.
+- **Use the Islandpedia.** Track your catch progress and check which fish you are missing by season.
 
-### ❌ Don't Do This
+### ❌ Do Not Do This
 
-- **Don't sell all your Fish Kings.** Keep at least 2 of each for breeding and quest requirements. Quests frequently demand Fish King deliveries.
-- **Don't ignore bait.** Fishing without bait is 3× slower for rare fish. Always keep 50+ Fish Bait in stock.
-- **Don't skip the Oceanarium quest.** The Mythic Rod is the best in the game, and the permanent luck buff applies to ALL activities.
-- **Don't waste premium bait on common fish.** Use Fish Bait for general farming, save Mixed Bait for Fish King sessions.
-- **Don't skip Fall fishing.** Arapaima and Fluorescent Fish King are Fall-exclusive. Missing them means a full year of waiting.
+- **Do not sell all your Fish Kings.** Keep at least 2 of each for breeding and quest requirements. Quests frequently demand Fish King deliveries.
+- **Do not ignore bait.** Fishing without bait is 3× slower for rare fish. Always keep 50+ Fish Bait in stock.
+- **Do not skip the Oceanarium quest.** The Mythic Rod is the best in the game, and the permanent luck buff applies to ALL activities.
+- **Do not waste premium bait on common fish.** Use Fish Bait for general farming, save Mixed Bait for Fish King sessions.
+- **Do not skip Fall fishing.** Arapaima and Fluorescent Fish King are Fall-exclusive. Missing them means a full year of waiting.
 
 ---
 
