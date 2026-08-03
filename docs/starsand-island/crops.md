@@ -94,7 +94,7 @@ Spring has 28 days. These are your starting crops — choose wisely, because you
 | Potato 🥔 | 60g | 6 days | No | 92g | 5.3g/day | 138g | Chance for 2× harvest |
 | Green Bean 🫘 | 70g | 8 days | Every 4 days | 38g | 8.2g/day | 57g | Trellis crop, needs support |
 | Carrot 🥕 | 40g | 5 days | No | 72g | 6.4g/day | 108g | Fast early cash |
-| Radish 🌶️ | 50g | 5 days | No | 80g | 6.0g/day | 120g | |
+| Radish | 50g | 5 days | No | 80g | 6.0g/day | 120g | |
 | Wheat 🌾 | 20g | 4 days | No | 35g | 3.75g/day | 52g | For processing only |
 | Spring Onion 🧅 | 40g | 6 days | Every 3 days | 28g | 5.5g/day | 42g | Decent filler crop |
 | Pea 🫛 | 60g | 7 days | Every 5 days | 42g | 7.6g/day | 63g | Solid multi-harvest |
@@ -167,12 +167,12 @@ Fall is the final outdoor growing season. This is your last chance to stockpile 
 | Cranberry 🫐 | 120g | 9 days | Every 4 days | 52g | 16.0g/day | 78g | Preserves value |
 | Bok Choy 🥬 | 40g | 5 days | No | 75g | 7.0g/day | 112g | Fast filler |
 | Beetroot 🥔 | 70g | 8 days | Every 5 days | 55g | 11.5g/day | 82g | Sugar processing |
-| Yam 🍠 | 90g | 8 days | No | 180g | 11.25g/day | 270g | |
+| Yam | 90g | 8 days | No | 180g | 11.25g/day | 270g | |
 | Broccoli 🥦 | 80g | 7 days | Every 4 days | 48g | 10.3g/day | 72g | |
 | Artichoke 🌿 | 100g | 10 days | Every 5 days | 68g | 11.6g/day | 102g | |
 | Celery 🌿 | 40g | 6 days | No | 68g | 4.67g/day | 102g | |
 | Grape 🍇 | 200g | 14 days | Every 7 days | 110g | 12.9g/day | 165g | Wine processing |
-| Persimmon 🍊 | 150g | 11 days | No | 280g | 11.8g/day | 420g | |
+| Persimmon | 150g | 11 days | No | 280g | 11.8g/day | 420g | |
 | Mushroom (Cultivated) 🍄 | 60g | 6 days | Every 5 days | 45g | 9.5g/day | 67g | Grows in dark soil |
 
 ### Fall Ranking
@@ -228,7 +228,7 @@ Winter is tough in Starsand Island. Outdoor crops die to frost, so you'll need a
 
 ### All-Season Profit Champion
 
-> **🏆 Starfruit** is the undisputed profit king of Starsand Island. With **31.7g/day** base profit and **exponential value** when processed into starfruit wine (**95.1g/day** after processing), it dominates every other crop.
+> **🏆 Starfruit** is the undisputed profit king of Starsand Island. With **31.7g/day** base profit and **~124g/day** when processed into starfruit wine (2,040g wine ÷ 14 days including 2-day processing, minus 300g seed cost), it dominates every other crop.
 
 ---
 
@@ -310,8 +310,8 @@ Processing raw crops into artisan goods is where the real wealth is made. Here's
 
 | Fertilizer | Cost to Make | Effect | Best Used On |
 |:-----------|:-----------:|:-------|:-------------|
-| Compost 🟢 | Free (scraps) | -10% time, +20% yield | Large fields of staple crops |
-| Speed Grow ⚡ | 100g (Pierre's shop) | -25% growth time | Slow-growing crops (starfruit, pumpkin) |
+| Compost 🟢 | Low cost (after bin investment) | -10% time, +20% yield | Large fields of staple crops |
+| Speed Grow ⚡ | 100g (Ding Xiaokui's shop) | -25% growth time | Slow-growing crops (starfruit, pumpkin) |
 | Quality Boost 🌟 | 200g (Ding Xiaokui) | +☆ quality chance | Gift crops, cooking ingredients |
 | Enchanted 🔵 | 5 compost + 1 star gem | -20% time, +50% yield + ☆ | High-value crops (starfruit, pineapple) |
 
@@ -326,7 +326,7 @@ Processing raw crops into artisan goods is where the real wealth is made. Here's
 3. **Prioritize town reputation.** Level 3 unlocks the greenhouse, which is mandatory for winter survival.
 4. **Cross-breed in enchanted soil only.** The 15–20% hybrid rate is too low to waste basic soil space.
 5. **Save 5 of each crop** — you'll need them for quests, cooking, and museum donations.
-6. **Coffee is your friend.** Coffee buff (+2 speed) saves hours of in-game time. Plant coffee in spring.
+6. **Coffee is your friend.** Coffee buff (+2 speed) saves hours of in-game time. Grow it in summer — or keep a greenhouse patch going year-round.
 7. **Giant crops are real.** Cauliflower, melon, and pumpkin can all spawn 3×3 giant versions. Leave them unharvested for decoration or break for extra yield.
 8. **Plan your irrigation.** Watering 100+ crops manually is miserable — rush the sprinkler upgrade at Rep Level 3.
 9. **Sugarcane → sugar → cooking** is an underrated profit chain. Sugar is used in 20+ recipes.
