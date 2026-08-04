@@ -999,28 +999,33 @@ RELATED_GUIDES = {
         ("starsand-island/fishing-gathering/", "Fishing & Gathering Guide"),
         ("starsand-island/mining-crafting/", "Mining & Crafting Guide"),
         ("starsand-island/community-romance/", "Community & Romance Guide"),
+        ("starsand-island/building-home/", "Base Building & Home Design"),
     ],
     "starsand-island/crops/": [
         ("starsand-island/", "Starsand Island Overview"),
         ("starsand-island/animals/", "Animals & Pets Guide"),
         ("starsand-island/fishing-gathering/", "Fishing & Gathering Guide"),
+        ("starsand-island/building-home/", "Base Building & Home Design"),
     ],
     "starsand-island/animals/": [
         ("starsand-island/", "Starsand Island Overview"),
         ("starsand-island/crops/", "Crop Profit Guide"),
         ("starsand-island/fishing-gathering/", "Fishing & Gathering Guide"),
         ("starsand-island/community-romance/", "Community & Romance Guide"),
+        ("starsand-island/building-home/", "Base Building & Home Design"),
     ],
     "starsand-island/fishing-gathering/": [
         ("starsand-island/", "Starsand Island Overview"),
         ("starsand-island/crops/", "Crop Profit Guide"),
         ("starsand-island/mining-crafting/", "Mining & Crafting Guide"),
+        ("starsand-island/building-home/", "Base Building & Home Design"),
     ],
     "starsand-island/mining-crafting/": [
         ("starsand-island/", "Starsand Island Overview"),
         ("starsand-island/crops/", "Crop Profit Guide"),
         ("starsand-island/animals/", "Animals & Pets Guide"),
         ("starsand-island/community-romance/", "Community & Romance Guide"),
+        ("starsand-island/building-home/", "Base Building & Home Design"),
     ],
     "starsand-island/community-romance/": [
         ("starsand-island/", "Starsand Island Overview"),
@@ -1028,6 +1033,27 @@ RELATED_GUIDES = {
         ("starsand-island/animals/", "Animals & Pets Guide"),
         ("starsand-island/fishing-gathering/", "Fishing & Gathering Guide"),
         ("starsand-island/mining-crafting/", "Mining & Crafting Guide"),
+        ("starsand-island/building-home/", "Base Building & Home Design"),
+    ],
+    "starsand-island/building-home/": [
+        ("starsand-island/", "Starsand Island Overview"),
+        ("starsand-island/crops/", "Crop Profit Guide"),
+        ("starsand-island/animals/", "Animals & Pets Guide"),
+        ("starsand-island/fishing-gathering/", "Fishing & Gathering Guide"),
+        ("starsand-island/mining-crafting/", "Mining & Crafting Guide"),
+        ("starsand-island/community-romance/", "Community & Romance Guide"),
+    ],
+
+    # ─── Village in the Shade ───
+    "village-in-the-shade/": [
+        ("village-in-the-shade/beginners-guide/", "Beginner's Guide"),
+        ("guides/best-farming-games-2026/", "Best Farming Games 2026"),
+        ("tools/release-calendar/", "Upcoming Release Calendar"),
+    ],
+    "village-in-the-shade/beginners-guide/": [
+        ("village-in-the-shade/", "Village in the Shade Overview"),
+        ("guides/best-farming-games-2026/", "Best Farming Games 2026"),
+        ("tools/release-calendar/", "Upcoming Release Calendar"),
     ],
 
     # ─── Database / Codes / News ───
