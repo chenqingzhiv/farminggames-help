@@ -8,9 +8,9 @@
 <meta name="description" content="{{ page.meta.description }}" />
 <meta property="og:description" content="{{ page.meta.description }}" />
 {% endif %}
-<meta property="og:title" content="{{ page.title }} - Farming Games Help" />
+<meta property="og:title" content="{% if page.meta and page.meta.title %}{{ page.meta.title }}{% else %}{{ page.title }}{% endif %} - Farming Games Help" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://farminggames.help{{ page.url }}" />
+<meta property="og:url" content="{{ page.canonical_url }}" />
 <meta name="twitter:card" content="summary_large_image" />
 
 {% if page and page.meta and page.meta.date %}
@@ -42,7 +42,7 @@
       "@type": "BreadcrumbList",
       "itemListElement": [
         {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://farminggames.help/"}{% if page and page.url and page.url != "/" %},
-        {"@type": "ListItem", "position": 2, "name": "{{ page.title | e }}", "item": "https://farminggames.help{{ page.url }}"}{% endif %}
+        {"@type": "ListItem", "position": 2, "name": "{{ page.title | e }}", "item": "{{ page.canonical_url }}"}{% endif %}
       ]
     }
   ]
