@@ -24,7 +24,7 @@ date: 2026-06-27
       <div class="home-hero-stat-label">Tools</div>
     </div>
     <div class="home-hero-stat">
-      <div class="home-hero-stat-num">9</div>
+      <div class="home-hero-stat-num">10</div>
       <div class="home-hero-stat-label">Games</div>
     </div>
     <div class="home-hero-stat">
@@ -36,7 +36,7 @@ date: 2026-06-27
 
 <hr>
 
-<h2 class="section-title-home">Featured Games <span class="sub">· 9 titles</span></h2>
+<h2 class="section-title-home">Featured Games <span class="sub">· 10 titles</span></h2>
 
 <div class="game-hero-card game-card-stardew" data-href="stardew/" onclick="gameCardClick(event, 'stardew/')">
 <div class="game-hero-card-inner">
@@ -171,6 +171,18 @@ date: 2026-06-27
 <div class="game-card-links">
   <a href="starsand-island/" class="game-card-link">📖 Full Guide</a>
   <a href="starsand-island/animals/" class="game-card-link">🐾 Animals &amp; Pets</a>
+</div>
+</div>
+</div>
+
+<div class="game-hero-card game-card-village" data-href="village-in-the-shade/" onclick="gameCardClick(event, 'village-in-the-shade/')">
+<div class="game-hero-card-inner">
+<div class="game-card-title"><a href="village-in-the-shade/" class="game-card-title-link">🌘 Village in the Shade</a></div>
+<div class="game-card-sub">🌘 New in 2026</div>
+<p>NIS's horror-tinged farming sim by the Yomawari team — 80+ crops, 8 village rules, and night exploration.</p>
+<div class="game-card-links">
+  <a href="village-in-the-shade/" class="game-card-link">📖 Full Guide</a>
+  <a href="village-in-the-shade/beginners-guide/" class="game-card-link">🌱 Beginner's Guide</a>
 </div>
 </div>
 </div>

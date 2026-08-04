@@ -1,6 +1,6 @@
 ---
 title: "Village in the Shade Beginner's Guide — Money Making, Village Rules & Night Exploration (Hono Gurashi no Niwa)"
-description: "Complete Village in the Shade beginner's guide for the Yomawari team's horror farming sim. Release date and price, Normal vs Safe Livelihood mode, every village rule, the Spring 1–16 unlock timeline, early money making, land expansion costs, mining, hunting and night exploration tips."
+description: "Complete Village in the Shade beginner's guide for the Yomawari team's horror farming sim. Release date and price, Normal vs Peaceful Life mode, every village rule, the Spring 1–16 unlock timeline, early money making, land expansion costs, mining, hunting and night exploration tips."
 date: 2026-08-05
 ---
 
@@ -39,13 +39,13 @@ You play a nameless orphan taken in by **Kagatsu Village** (彼津村), a remote
 
 ---
 
-## Normal Mode vs Safe Livelihood Mode
+## Normal Mode vs Peaceful Life Mode
 
-Before you even plant your first seed, Village in the Shade asks you to pick a mode — and **you cannot switch after the save is created**. This is the most important early decision in the game.
+Before you even plant your first seed, Village in the Shade asks you to pick a mode — and **you cannot switch after the save is created**. This is the most important early decision in the game. The English materials call the relaxed option **Peaceful Life Mode** (Japanese: 安心生活モード).
 
-![Village in the Shade mode comparison — Normal Mode vs Safe Livelihood Mode](images/modes-comparison.webp)
+![Village in the Shade mode comparison — Normal Mode vs Peaceful Life Mode](images/modes-comparison.webp)
 
-| | **Normal Mode** | **Safe Livelihood Mode** |
+| | **Normal Mode** | **Peaceful Life Mode** |
 |:--|:----------------|:-------------------------|
 | **Night exploration** | Unlocked from **Spring 14** | Locked — you are forced to sleep at 23:00 |
 | **Horror events** | Yes — break a rule and Phantoms appear | Removed completely |
@@ -53,7 +53,7 @@ Before you even plant your first seed, Village in the Shade asks you to pick a m
 | **After the ending** | Keep farming in the same save | N/A |
 | **Best for** | Players who want the full experience | Players who want pure, relaxing farming |
 
-If you choose Safe Livelihood Mode, Village in the Shade plays like a classic calm farming sim: nothing bad happens, and 23:00 just sends you to bed. You lose the story, the endings, and roughly half the game's identity. For a guide on the game *as designed*, this guide assumes **Normal Mode** — but the farming, money, and unlock sections below apply to both.
+If you choose Peaceful Life Mode, Village in the Shade plays like a classic calm farming sim: nothing bad happens, and 23:00 just sends you to bed. You lose the story, the endings, and roughly half the game's identity. For a guide on the game *as designed*, this guide assumes **Normal Mode** — but the farming, money, and unlock sections below apply to both.
 
 ---
 
@@ -65,7 +65,7 @@ The village's eight rules are the heart of Village in the Shade. **As long as yo
 
 Seven of the eight rules are documented by players; the last one is part of the story:
 
-1. **Do not go out after 11 PM** — the core night taboo.
+1. **Do not go out after 23:00 (11 PM)** — the core night taboo.
 2. **Do not approach strangers.**
 3. **Do not answer voices from the mountains.**
 4. **Do not leave the village.**
@@ -74,7 +74,7 @@ Seven of the eight rules are documented by players; the last one is part of the 
 7. **Do your part for the village.**
 8. *(Discovered through the main story.)*
 
-> **Practical note:** you are *supposed* to break the curfew to advance the story — night exploration is the only way to reach the game's real content. Plan your rule-breaking: stock rations (兵粮丸), watch your stamina, and be back before the night goes badly wrong. Safe Livelihood Mode skips all of this entirely.
+> **Practical note:** you are *supposed* to break the curfew to advance the story — night exploration is the only way to reach the game's real content. Plan your rule-breaking: stock rations (兵粮丸), watch your stamina, and be back before the night goes badly wrong. Peaceful Life Mode skips all of this entirely.
 
 ---
 
@@ -98,16 +98,18 @@ Village in the Shade gates its systems behind a fixed calendar in the first seas
 | **Spring 16** | Newbie phase ends — help tickets, gifting, prize gacha |
 
 > 💡 **Why Spring 16 matters:** this is when "help tickets" (帮忙券) arrive. Each ticket is a small tutorial side-job from a specific villager, and they hand out **permanent tools and unlocks**. Prioritize these eight:
-> - **驹子** — shrine access / skill-tree upgrades
-> - **裕太** — insect catching / beehives
-> - **洋** — fishing bait
-> - **帷** — plow / paddy-field access
-> - **四郎治** — hunting
-> - **木助** — copper pickaxe
-> - **堇怜** — bow
-> - **莲实** — calendar
+> - **Shrine access / skill-tree upgrades** — villager 驹子
+> - **Insect catching / beehives** — villager 裕太
+> - **Fishing bait** — villager 洋
+> - **Plow / paddy-field access** — villager 帷
+> - **Hunting** — villager 四郎治
+> - **Copper pickaxe** — villager 木助
+> - **Bow** — villager 堇怜
+> - **Calendar** — villager 莲实
 
 **Caution:** one villager's help ticket — **今野** — takes cash from you (up to 1,000 yen). Read the task before you accept it.
+
+> *Note: villager names above are Chinese-community translations of the Japanese NPCs — the official English names arrive with the Fall 2026 Western release.*
 
 ---
 
@@ -153,8 +155,8 @@ Plot 1 is your single best early purchase — it roughly doubles your tillable s
 The farming layer is deep but the *first* hour is simple:
 
 - **Till with the hoe**, plant, water daily. Crops that go unwatered for too long wilt.
-- **Paddy fields need the plow** (unlocked via 帷's help ticket) — you cannot just hoe them.
-- **Raised beds** come from the **shrine skill tree** (via 驹子's tickets) — they improve yield and are worth unlocking early.
+- **Paddy fields need the plow** (unlocked via the 帷 help ticket) — you cannot just hoe them.
+- **Raised beds** come from the **shrine skill tree** (via the 驹子 help tickets) — they improve yield and are worth unlocking early.
 - **Same crop, planted continuously, gains star quality** — starred crops sell for more. Rotating crops resets progress, so specialize in Spring.
 - **Weeds:** use a sickle, or raise ducks — they auto-clear weeds for you.
 - **Sprinklers** automate watering once you can craft them; long-press actions work in batches.
@@ -169,7 +171,7 @@ Mining unlocks on **Spring 8**. Bring a pickaxe and a good stock of field ration
 - The **hammer/pickaxe repels the monsters** in the mine — you are not defenseless, but you are not a fighter either.
 - Smashing rocks can reveal a **lower entrance** — the mine goes deep, not just wide.
 - Every **10 floors** you hit a **minecart checkpoint** that saves progress and lets you return quickly.
-- **木助's help ticket** gives the **copper pickaxe** — take it early, it makes mining dramatically faster.
+- The **copper pickaxe help ticket (木助)** gives the **copper pickaxe** — take it early, it makes mining dramatically faster.
 
 ---
 
@@ -177,7 +179,7 @@ Mining unlocks on **Spring 8**. Bring a pickaxe and a good stock of field ration
 
 Hunting is gated behind a **hunting license** bought at the hunter's hut.
 
-- Use a **bow** (堇怜's ticket) or set **traps** (cage + bait) to take game.
+- Use a **bow** (堇怜's help ticket) or set **traps** (cage + bait) to take game.
 - Each catch earns a **hunting proof** you trade at the hunter's hut for **meat, fur, and bones** — materials that feed both cooking and crafting.
 
 Hunting is a mid-spring income and material source rather than a week-one priority, but it unlocks fast and pays for the bow almost immediately.
@@ -204,7 +206,7 @@ Once the first forced late-night outing happens on **Spring 14**, you can choose
 
 ### ✅ Do This
 
-- **Take 木助's ticket for the copper pickaxe** and 驹子's tickets for shrine skills as soon as they appear — both pay back immediately.
+- **Take the copper-pickaxe help ticket (木助)** and the shrine-skill tickets (驹子) as soon as they appear — both pay back immediately.
 - **Always fill the shipping bin before bed** — it is free money every morning.
 - **Buy Plot 1 as soon as you have 5,000 yen.** It more than doubles your space.
 - **Keep a cucumber on you at night** — the kappa is friendly.
@@ -212,7 +214,7 @@ Once the first forced late-night outing happens on **Spring 14**, you can choose
 
 ### ❌ Do Not Do This
 
-- **Do not accept 今野's task blindly** — it takes up to 1,000 yen of your cash.
+- **Do not accept the 今野 help ticket blindly** — it takes up to 1,000 yen of your cash.
 - **Do not rotate crops in the first month** — star quality only grows with repeated plantings.
 - **Do not ignore the mine until "later"** — copper is the early bottleneck for tools.
 - **Do not stay out past your stamina** — fainting at night can cost you items.
@@ -225,8 +227,8 @@ Once the first forced late-night outing happens on **Spring 14**, you can choose
 ### When does Village in the Shade release in English?
 The Western release is scheduled for **Fall 2026**, published by NIS America. The Steam page is live now, and a Limited Edition is up for pre-order at $89.99. The Japanese version launched on July 30, 2026.
 
-### What is the difference between Normal Mode and Safe Livelihood Mode?
-Normal Mode includes the full horror story, night exploration, and endings. Safe Livelihood Mode removes all horror: you are forced to sleep at 23:00, village secrets stay hidden, and there is no full story or ending. The choice is made when creating the save and **cannot be changed later**.
+### What is the difference between Normal Mode and Peaceful Life Mode?
+Normal Mode includes the full horror story, night exploration, and endings. Peaceful Life Mode (安心生活モード) removes all horror: you are forced to sleep at 23:00, village secrets stay hidden, and there is no full story or ending. The choice is made when creating the save and **cannot be changed later**.
 
 ### When can I explore at night?
 Night exploration unlocks after the forced late-night outing on **Spring 14**. Before that, staying out past 23:00 is only dangerous, not useful.

@@ -14,7 +14,7 @@ date: 2026-08-05
 
 | Guide | Description |
 |:------|:------------|
-| [Beginner's Guide](beginners-guide) | Complete first-season walkthrough — Normal vs Safe Livelihood mode, all village rules, the Spring 1–16 unlock timeline, early money making, land expansion, mining, hunting, night exploration, and pro tips |
+| [Beginner's Guide](beginners-guide) | Complete first-season walkthrough — Normal vs Peaceful Life mode, all village rules, the Spring 1–16 unlock timeline, early money making, land expansion, mining, hunting, night exploration, and pro tips |
 
 ## Quick Facts
 
