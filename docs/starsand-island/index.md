@@ -19,6 +19,7 @@ Starsand Island (星砂岛) is a Ghibli-style island farming simulation game dev
 | [Fishing & Gathering Guide](fishing-gathering) | Complete fishing system — all fish by season, bait strategies, Fish Kings, fish pond breeding, beach foraging, and forest gathering routes |
 | [Mining & Crafting Guide](mining-crafting) | Complete mining system — Moonlit Forest 12-zone walkthrough, all ores by zone, pickaxe-to-drill upgrades, furnace smelting chains, Crystalith boss, and mining profit strategies |
 | [Community & Romance Guide](community-romance) | Complete social layer — all 15 romanceable NPCs and their loved gifts, the 5-heart affection system, NPC birthdays, the Beach & Spring Festivals, shared outings, and cohabitation |
+| [Base Building & Home Design Guide](building-home) | Complete building system — Hopeland expansion, the four homestead properties, Build Mode controls, building materials, Worktable tiers, farm structures, the Greenhouse and World Tree, blueprints, and optimal farm layouts |
 
 ## Quick Facts
 
