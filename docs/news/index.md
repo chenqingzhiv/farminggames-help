@@ -6,6 +6,10 @@ date: 2026-06-27
 
 # 📰 Update Log
 
+## 2026-08-07
+
+- 🐾 New guide: **Your Big, Cute Monster Farm Beginner's Guide** — idle farming, monster quality tiers, fusion formulas, 2+2+2 team setup, and the crop-mutation diamond loop (5 WebP images)
+
 ## 2026-06-27
 
 - 🎯 Added YAML frontmatter to 36 pages (SEO improvement)

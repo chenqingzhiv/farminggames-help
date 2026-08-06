@@ -98,3 +98,6 @@ Browse all guides organized by game.
 ### My Time at Sandrock
 - [💝 NPC Gift Guide](../sandrock/gift-guide.md)
 - [📦 Resources Guide](../sandrock/resources.md)
+
+### Your Big, Cute Monster Farm
+- [🐣 Beginner's Guide](../big-cute-monster-farm/beginners-guide.md) — Idle farming, monster quality tiers, fusion formulas, 2+2+2 team, crop mutation diamonds

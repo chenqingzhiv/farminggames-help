@@ -36,7 +36,7 @@ date: 2026-06-27
 
 <hr>
 
-<h2 class="section-title-home">Featured Games <span class="sub">· 10 titles</span></h2>
+<h2 class="section-title-home">Featured Games <span class="sub">· 11 titles</span></h2>
 
 <div class="game-hero-card game-card-stardew" data-href="stardew/" onclick="gameCardClick(event, 'stardew/')">
 <div class="game-hero-card-inner">
@@ -183,6 +183,18 @@ date: 2026-06-27
 <div class="game-card-links">
   <a href="village-in-the-shade/" class="game-card-link">📖 Full Guide</a>
   <a href="village-in-the-shade/beginners-guide/" class="game-card-link">🌱 Beginner's Guide</a>
+</div>
+</div>
+</div>
+
+<div class="game-hero-card game-card-monsterfarm" data-href="big-cute-monster-farm/" onclick="gameCardClick(event, 'big-cute-monster-farm/')">
+<div class="game-hero-card-inner">
+<div class="game-card-title"><a href="big-cute-monster-farm/" class="game-card-title-link">🐾 Your Big, Cute Monster Farm</a></div>
+<div class="game-card-sub">🐾 Idle Farm · Monster Raising</div>
+<p>KaiPlay's idle creature-farm hit — monsters plant, water and harvest for you while you work. Boss key included.</p>
+<div class="game-card-links">
+  <a href="big-cute-monster-farm/" class="game-card-link">📖 Full Guide</a>
+  <a href="big-cute-monster-farm/beginners-guide/" class="game-card-link">🐣 Beginner's Guide</a>
 </div>
 </div>
 </div>
