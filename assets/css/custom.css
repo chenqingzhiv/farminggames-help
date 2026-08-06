@@ -476,6 +476,10 @@ a.game-hero-card .game-card-link,
   border-left: 4px solid var(--pm-primary);
 }
 .game-card-ranch .game-card-title { color: var(--pm-primary-dark); }
+.game-card-monsterfarm .game-hero-card-inner {
+  border-left: 4px solid #db2777;
+}
+.game-card-monsterfarm .game-card-title { color: #db2777; }
 
 .game-card-title {
   font-size: 1.2rem;
