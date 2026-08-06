@@ -14,6 +14,7 @@ Starsand Island (星砂岛) is a Ghibli-style island farming simulation game dev
 
 | Guide | Description |
 |:------|:------------|
+| [1.0 Update Guide](1.0-update) | Everything in the August 18, 2026 full release — 4-player co-op, 19 new NPC storylines, dating activities, the Autumn Pumpkin Carnival, console launch, and save carryover |
 | [Animals & Pet Care Guide](animals) | Complete animal husbandry — pet adoption, farm animals, subspecies breeding, gene system, career path, and profit data |
 | [Crop Profit Guide](crops) | Complete crop profit analysis — spring/summer/fall/winter guides, best crops per season, cross-breeding, artisan processing, and year-1 roadmap |
 | [Fishing & Gathering Guide](fishing-gathering) | Complete fishing system — all fish by season, bait strategies, Fish Kings, fish pond breeding, beach foraging, and forest gathering routes |
@@ -30,4 +31,4 @@ Starsand Island (星砂岛) is a Ghibli-style island farming simulation game dev
 | EA Release | February 12, 2026 |
 | Price | Standard 98¥ (¥68.6 sale) / Deluxe 156¥ (¥109.2 sale) |
 | Steam Rating | 90% Positive (3436 reviews) |
-| Full Release | Summer 2026 (with 4-player co-op) |
+| Full Release | August 18, 2026 (4-player co-op + console launch, day-one on Game Pass) |

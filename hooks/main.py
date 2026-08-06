@@ -994,6 +994,7 @@ RELATED_GUIDES = {
 
     # ─── Starsand Island ───
     "starsand-island/": [
+        ("starsand-island/1.0-update/", "1.0 Update Guide"),
         ("starsand-island/crops/", "Crop Profit Guide"),
         ("starsand-island/animals/", "Animals & Pets Guide"),
         ("starsand-island/fishing-gathering/", "Fishing & Gathering Guide"),
@@ -1001,14 +1002,23 @@ RELATED_GUIDES = {
         ("starsand-island/community-romance/", "Community & Romance Guide"),
         ("starsand-island/building-home/", "Base Building & Home Design"),
     ],
+    "starsand-island/1.0-update/": [
+        ("starsand-island/", "Starsand Island Overview"),
+        ("starsand-island/community-romance/", "Community & Romance Guide"),
+        ("starsand-island/crops/", "Crop Profit Guide"),
+        ("starsand-island/animals/", "Animals & Pets Guide"),
+        ("starsand-island/building-home/", "Base Building & Home Design"),
+    ],
     "starsand-island/crops/": [
         ("starsand-island/", "Starsand Island Overview"),
+        ("starsand-island/1.0-update/", "1.0 Update Guide"),
         ("starsand-island/animals/", "Animals & Pets Guide"),
         ("starsand-island/fishing-gathering/", "Fishing & Gathering Guide"),
         ("starsand-island/building-home/", "Base Building & Home Design"),
     ],
     "starsand-island/animals/": [
         ("starsand-island/", "Starsand Island Overview"),
+        ("starsand-island/1.0-update/", "1.0 Update Guide"),
         ("starsand-island/crops/", "Crop Profit Guide"),
         ("starsand-island/fishing-gathering/", "Fishing & Gathering Guide"),
         ("starsand-island/community-romance/", "Community & Romance Guide"),
@@ -1016,12 +1026,14 @@ RELATED_GUIDES = {
     ],
     "starsand-island/fishing-gathering/": [
         ("starsand-island/", "Starsand Island Overview"),
+        ("starsand-island/1.0-update/", "1.0 Update Guide"),
         ("starsand-island/crops/", "Crop Profit Guide"),
         ("starsand-island/mining-crafting/", "Mining & Crafting Guide"),
         ("starsand-island/building-home/", "Base Building & Home Design"),
     ],
     "starsand-island/mining-crafting/": [
         ("starsand-island/", "Starsand Island Overview"),
+        ("starsand-island/1.0-update/", "1.0 Update Guide"),
         ("starsand-island/crops/", "Crop Profit Guide"),
         ("starsand-island/animals/", "Animals & Pets Guide"),
         ("starsand-island/community-romance/", "Community & Romance Guide"),
@@ -1029,6 +1041,7 @@ RELATED_GUIDES = {
     ],
     "starsand-island/community-romance/": [
         ("starsand-island/", "Starsand Island Overview"),
+        ("starsand-island/1.0-update/", "1.0 Update Guide"),
         ("starsand-island/crops/", "Crop Profit Guide"),
         ("starsand-island/animals/", "Animals & Pets Guide"),
         ("starsand-island/fishing-gathering/", "Fishing & Gathering Guide"),
@@ -1037,6 +1050,7 @@ RELATED_GUIDES = {
     ],
     "starsand-island/building-home/": [
         ("starsand-island/", "Starsand Island Overview"),
+        ("starsand-island/1.0-update/", "1.0 Update Guide"),
         ("starsand-island/crops/", "Crop Profit Guide"),
         ("starsand-island/animals/", "Animals & Pets Guide"),
         ("starsand-island/fishing-gathering/", "Fishing & Gathering Guide"),
