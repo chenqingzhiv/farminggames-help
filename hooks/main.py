@@ -937,6 +937,7 @@ RELATED_GUIDES = {
         ("tools/game-comparison/", "Game Comparison Tool"),
         ("tools/release-calendar/", "Release Calendar"),
         ("guides/newbie/", "New Player Starter Guide"),
+        ("big-cute-monster-farm/", "Your Big, Cute Monster Farm Guides"),
     ],
     "guides/best-gaming-gear/": [
         ("guides/best-farming-games-2026/", "Best Farming Games 2026"),
@@ -1066,6 +1067,18 @@ RELATED_GUIDES = {
     ],
     "village-in-the-shade/beginners-guide/": [
         ("village-in-the-shade/", "Village in the Shade Overview"),
+        ("guides/best-farming-games-2026/", "Best Farming Games 2026"),
+        ("tools/release-calendar/", "Upcoming Release Calendar"),
+    ],
+
+    # ─── Your Big, Cute Monster Farm ───
+    "big-cute-monster-farm/": [
+        ("big-cute-monster-farm/beginners-guide/", "Beginner's Guide"),
+        ("guides/best-farming-games-2026/", "Best Farming Games 2026"),
+        ("tools/release-calendar/", "Upcoming Release Calendar"),
+    ],
+    "big-cute-monster-farm/beginners-guide/": [
+        ("big-cute-monster-farm/", "Your Big, Cute Monster Farm Overview"),
         ("guides/best-farming-games-2026/", "Best Farming Games 2026"),
         ("tools/release-calendar/", "Upcoming Release Calendar"),
     ],
