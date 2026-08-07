@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated: July 6, 2026**
+**Last updated: August 7, 2026**
 
 ## Who We Are
 
@@ -23,9 +23,21 @@ This data is **anonymized** — we cannot identify individual visitors. Google's
 Our site uses cookies for:
 
 - **Google Analytics**: to track anonymous usage statistics
+- **Advertising**: to personalize ads served by Google AdSense (see below)
 - **Site functionality**: to remember your preferences (e.g., navigation state)
 
 You can disable cookies in your browser settings, but some site features may not work as intended.
+
+## Google AdSense & Advertising
+
+This site may display advertisements served by **Google AdSense**, a third-party advertising service provided by Google Inc.
+
+- Google, as a third-party vendor, uses cookies to serve ads on this site.
+- Google's use of the **DART cookie** enables it to serve ads to users based on their visits to this and other sites on the Internet.
+- You may opt out of the use of the DART cookie by visiting Google's [Ads Settings](https://adssettings.google.com/) page.
+- You can also opt out of some third-party vendors' uses of cookies for interest-based advertising by visiting [www.aboutads.info](https://www.aboutads.info/).
+
+We do not control which specific ads are shown, and we do not receive any personally identifiable information from ad-serving cookies.
 
 ## Amazon Associates
 
@@ -42,6 +54,7 @@ Some of our game pages contain affiliate links to **Steam** (store.steampowered.
 | Service | Purpose | Data Shared |
 |---------|---------|-------------|
 | Google Analytics | Usage analytics | Anonymized browsing data |
+| Google AdSense | Advertising | Cookies (see opt-out above) |
 | Cloudflare | CDN & hosting | IP address (temporary, not logged) |
 | Amazon Associates | Affiliate program | None (click is tracked via affiliate ID) |
 | Steam (Valve) | Affiliate program | None (click is tracked via partner ID) |
@@ -60,7 +73,7 @@ We may update this policy from time to time. Changes will be posted on this page
 
 ## Contact
 
-If you have questions about this privacy policy, please reach out through the feedback widget on any game page, or contact us via the affiliate links and contact channels listed in our [About page](/about/).
+If you have questions about this privacy policy, please [contact us](/contact/) or reach out through the feedback widget on any game page.
 
 ---
 

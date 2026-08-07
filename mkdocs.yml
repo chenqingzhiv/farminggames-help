@@ -28,13 +28,17 @@ extra:
   consent:
     title: Notice
     description: >-
-      This site uses cookies for analytics and contains affiliate links.
+      This site uses cookies for analytics and advertising and contains affiliate links.
       <a href="/privacy-policy/">Privacy Policy</a> |
-      <a href="/affiliate-disclosure/">Affiliate Disclosure</a>
+      <a href="/terms-of-service/">Terms of Service</a> |
+      <a href="/contact/">Contact</a>
 
 copyright: >-
   Farming Games Help &copy; 2026 |
+  <a href="/about/">About</a> |
+  <a href="/contact/">Contact</a> |
   <a href="/privacy-policy/">Privacy Policy</a> |
+  <a href="/terms-of-service/">Terms of Service</a> |
   <a href="/affiliate-disclosure/">Affiliate Disclosure</a> |
   As an Amazon Associate and Steam Partner, we earn from qualifying purchases.
 
@@ -271,5 +275,7 @@ nav:
   - 🌟 5个极其伟大mod: guides/星露谷物语5个极其伟大mod.md
   - 🌿 Sunflower Land Crop Week: guides/sunflower-land-saltwort-crop-week.md
   - About: about.md
+  - 📧 Contact: contact.md
   - 🔒 Privacy Policy: privacy-policy.md
+  - 📄 Terms of Service: terms-of-service.md
   - ⚖️ Affiliate Disclosure: affiliate-disclosure.md
