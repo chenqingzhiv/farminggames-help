@@ -36,7 +36,7 @@ date: 2026-06-27
 
 <hr>
 
-<h2 class="section-title-home">Featured Games <span class="sub">· 11 titles</span></h2>
+<h2 class="section-title-home">Featured Games <span class="sub">· 12 titles</span></h2>
 
 <div class="game-hero-card game-card-stardew" data-href="stardew/" onclick="gameCardClick(event, 'stardew/')">
 <div class="game-hero-card-inner">
@@ -199,6 +199,18 @@ date: 2026-06-27
 </div>
 </div>
 
+<div class="game-hero-card game-card-doloc" data-href="doloc-town/" onclick="gameCardClick(event, 'doloc-town/')">
+<div class="game-hero-card-inner">
+<div class="game-card-title"><a href="doloc-town/" class="game-card-title-link">🌱 Doloc Town</a></div>
+<div class="game-card-sub">☢️ Post-Apo Farm · New in 2026</div>
+<p>RedSaw's 95%-rated post-apocalyptic farming sim — acid rain, scorching sun, and drones that farm for you. 1.0 out now.</p>
+<div class="game-card-links">
+  <a href="doloc-town/" class="game-card-link">📖 Full Guide</a>
+  <a href="doloc-town/beginners-guide/" class="game-card-link">🌱 Beginner's Guide</a>
+</div>
+</div>
+</div>
+
 <hr>
 
 <!-- VIDEO SERIES SECTION REMOVED — content was Chinese-language only -->
@@ -258,11 +270,20 @@ date: 2026-06-27
 <h2 class="section-title-home">Latest Guides <span class="sub">· updated weekly</span></h2>
 
 <div class="article-preview-card">
+  <div class="article-thumb" style="background:radial-gradient(ellipse at 50% 30%, rgba(140,178,112,0.3), transparent 60%);"></div>
+  <div class="article-body-home">
+    <h4>🌱 Doloc Town Beginner's Guide — Farm the Wasteland</h4>
+    <p>Acid rain, scorching sun, and drones: the 4-month calendar, first-season crops, the Salmon Festival fishing payday, and the greenhouse unlock chain.</p>
+    <div class="article-meta"><span>📅 Aug 9, 2026</span><span>📖 15 min read</span><span class="badge-new">NEW</span></div>
+  </div>
+</div>
+
+<div class="article-preview-card">
   <div class="article-thumb"></div>
   <div class="article-body-home">
     <h4>🌷 Stardew Valley Spring Guide — Year 1</h4>
     <p>Maximize your first spring with optimized planting, fishing, and mining strategies for the best start.</p>
-    <div class="article-meta"><span>📅 Jun 21, 2026</span><span>📖 12 min read</span><span class="badge-new">NEW</span></div>
+    <div class="article-meta"><span>📅 Jun 21, 2026</span><span>📖 12 min read</span></div>
   </div>
 </div>
 

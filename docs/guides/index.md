@@ -101,3 +101,6 @@ Browse all guides organized by game.
 
 ### Your Big, Cute Monster Farm
 - [🐣 Beginner's Guide](../big-cute-monster-farm/beginners-guide.md) — Idle farming, monster quality tiers, fusion formulas, 2+2+2 team, crop mutation diamonds
+
+### Doloc Town
+- [🌱 Beginner's Guide](../doloc-town/beginners-guide.md) — Post-apocalyptic farming, the 4-month calendar, acid rain & scorching sun, first-season crops, Salmon Festival fishing, greenhouse unlock chain

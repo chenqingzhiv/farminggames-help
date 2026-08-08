@@ -1083,6 +1083,18 @@ RELATED_GUIDES = {
         ("tools/release-calendar/", "Upcoming Release Calendar"),
     ],
 
+    # ─── Doloc Town ───
+    "doloc-town/": [
+        ("doloc-town/beginners-guide/", "Beginner's Guide"),
+        ("guides/best-farming-games-2026/", "Best Farming Games 2026"),
+        ("tools/release-calendar/", "Upcoming Release Calendar"),
+    ],
+    "doloc-town/beginners-guide/": [
+        ("doloc-town/", "Doloc Town Overview"),
+        ("guides/best-farming-games-2026/", "Best Farming Games 2026"),
+        ("tools/release-calendar/", "Upcoming Release Calendar"),
+    ],
+
     # ─── Database / Codes / News ───
     "database/games/": [
         ("tools/game-comparison/", "Game Comparison Tool"),
