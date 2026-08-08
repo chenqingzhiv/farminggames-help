@@ -35,4 +35,13 @@ Most farming games hand you a watering can and some seeds and point you at a fie
 
 ---
 
+## 🔗 Related Guides
+
+- 🌾 [Stardew Valley Complete Game Guide](/stardew/) — the cozy-farming benchmark that Ancient Farm strips down to its manual core
+- 🌾 [Fields of Mistria Guide](/fields-mistria/) — another low-automation farming sim with a strong town-and-crop loop
+- 🏝️ [Coral Island Guide](/coral-island/) — tropical farming with a big festival and profit-optimization toolbox
+- 🚜 [Farming Simulator 25 Guide](/farmingsim/) — if you'd rather automate the whole field
+
+---
+
 *Guide data gathered from the Steam store page, community walkthroughs and reviews, and Chinese video guide coverage on Bilibili. Prices and ratings reflect the August 2026 state and may change — always check the Steam page before buying.*

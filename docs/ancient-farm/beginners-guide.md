@@ -253,4 +253,13 @@ At **$14.99** (or on sale), it's a pleasant buy if you like slow, hand-crafted f
 
 ---
 
+## 🔗 Related Guides
+
+- 🌾 [Stardew Valley Complete Game Guide](/stardew/) — the cozy-farming benchmark for crop calendars and profit loops
+- 🌾 [Fields of Mistria Guide](/fields-mistria/) — a similarly cozy, low-automation farming sim
+- 🏝️ [Coral Island Guide](/coral-island/) — festival calendar, forage maps, and a full crop-profit calculator
+- 🚜 [Farming Simulator 25 Guide](/farmingsim/) — production chains and crop profit charts if you want the automated end of the genre
+
+---
+
 *Guide data gathered from the Steam store page, community walkthroughs and reviews (Into Indie Games, The Drastik Measure, Simsational Char), and Chinese video guide coverage on Bilibili (Saka-采采's Ancient Farm trial gameplay video, published January 2026). Prices and ratings reflect the August 2026 state and may change — always check the Steam page before buying.*
