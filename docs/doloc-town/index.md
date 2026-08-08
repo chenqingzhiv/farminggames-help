@@ -23,7 +23,7 @@ date: 2026-08-09
 | Developer | RedSaw Games Studio (虹视游戏工作室) |
 | Publisher | Logoi Games |
 | Release | Early Access May 8, 2025 · **1.0 August 6, 2026** (Steam, Windows) |
-| Price | $19.99 base · 20% launch discount to $15.99 until August 20 |
+| Price | $19.99 base · 20% launch discount to $15.99 until August 19 |
 | Steam Rating | 95% positive ("Overwhelmingly Positive"), 1,800+ reviews |
 | Copies Sold | 100,000+ (reported at 1.0 launch) |
 | Playtime | ~25–30 hours main story · 100+ hours with the extended content |

@@ -27,7 +27,7 @@ This guide covers everything I wish I'd known before my first in-game day: how t
 | **Early Access** | May 8, 2025 |
 | **1.0 release** | August 6, 2026 |
 | **Platforms** | PC (Steam, Windows), Unity engine |
-| **Price** | $19.99 base · 20% launch discount to $15.99 until August 20 |
+| **Price** | $19.99 base · 20% launch discount to $15.99 until August 19 |
 | **Steam rating** | 95% positive ("Overwhelmingly Positive"), ~1,800–1,900 reviews |
 | **Copies sold** | 100,000+ at 1.0 launch |
 | **Playtime** | ~25–30 hours main story · 100+ hours total |
@@ -188,7 +188,7 @@ The community's #1 new-player warning: **don't spend points randomly.** Follow t
 
 ## Is Doloc Town Worth It?
 
-At **$19.99 base** (and **$15.99** during the launch sale until August 20), Doloc Town is an easy recommendation if you like farming sims with an edge. The **95% "Overwhelmingly Positive"** rating and the **100,000+ copies** reported at 1.0 launch aren't hype — the game has genuinely deep systems and the weather mechanic makes every season feel different from the last.
+At **$19.99 base** (and **$15.99** during the launch sale until August 19), Doloc Town is an easy recommendation if you like farming sims with an edge. The **95% "Overwhelmingly Positive"** rating and the **100,000+ copies** reported at 1.0 launch aren't hype — the game has genuinely deep systems and the weather mechanic makes every season feel different from the last.
 
 **Who it's for:**
 
@@ -226,7 +226,7 @@ Early Access launched **May 8, 2025**. The **1.0 full release** came on **August
 Yes — English is fully supported. The 1.0 update also added Russian, Japanese, Korean, French, German, and Brazilian Portuguese.
 
 ### How much does it cost?
-**$19.99** base price, with a **20% launch discount to $15.99** that runs until August 20, 2026.
+**$19.99** base price, with a **20% launch discount to $15.99** that runs until August 19, 2026.
 
 ### Is the weather really a problem?
 Yes. Acid rain damages outdoor crops in months 1–2 and a scorching sun damages them in months 3–4. Apocalypse crops (konjac, thunder grass, succulent, wax fruit) resist acid rain; everything else needs indoor space or plastic film.
