@@ -480,6 +480,10 @@ a.game-hero-card .game-card-link,
   border-left: 4px solid #db2777;
 }
 .game-card-monsterfarm .game-card-title { color: #db2777; }
+.game-card-doloc .game-hero-card-inner {
+  border-left: 4px solid #4d7c0f;
+}
+.game-card-doloc .game-card-title { color: #3f6212; }
 
 .game-card-title {
   font-size: 1.2rem;
