@@ -8,6 +8,7 @@ date: 2026-06-27
 
 ## 2026-08-09
 
+- 🏺 New guide: **Ancient Farm Beginner's Guide** — the zero-automation ancient-Egyptian farming sim's three seasons (Peret / Shemu / Akhet), workshop tool chain, merchant price mechanics, and the two-cows-to-cooked-beef money pipeline (5 WebP images)
 - 🌱 New guide: **Doloc Town Beginner's Guide** — the post-apocalyptic farming sim's 4-month calendar, acid rain & scorching sun, first-season crops, Salmon Festival fishing payday, and the greenhouse unlock chain (5 WebP images)
 
 ## 2026-08-07

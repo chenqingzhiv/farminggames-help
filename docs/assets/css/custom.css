@@ -484,6 +484,10 @@ a.game-hero-card .game-card-link,
   border-left: 4px solid #4d7c0f;
 }
 .game-card-doloc .game-card-title { color: #3f6212; }
+.game-card-ancient .game-hero-card-inner {
+  border-left: 4px solid #b8860b;
+}
+.game-card-ancient .game-card-title { color: #8b6914; }
 
 .game-card-title {
   font-size: 1.2rem;

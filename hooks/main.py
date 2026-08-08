@@ -1095,6 +1095,18 @@ RELATED_GUIDES = {
         ("tools/release-calendar/", "Upcoming Release Calendar"),
     ],
 
+    # ─── Ancient Farm ───
+    "ancient-farm/": [
+        ("ancient-farm/beginners-guide/", "Beginner's Guide"),
+        ("guides/best-farming-games-2026/", "Best Farming Games 2026"),
+        ("tools/release-calendar/", "Upcoming Release Calendar"),
+    ],
+    "ancient-farm/beginners-guide/": [
+        ("ancient-farm/", "Ancient Farm Overview"),
+        ("guides/best-farming-games-2026/", "Best Farming Games 2026"),
+        ("tools/release-calendar/", "Upcoming Release Calendar"),
+    ],
+
     # ─── Database / Codes / News ───
     "database/games/": [
         ("tools/game-comparison/", "Game Comparison Tool"),

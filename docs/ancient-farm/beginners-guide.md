@@ -10,7 +10,7 @@ date: 2026-08-09
 
 I picked up **Ancient Farm** shortly after its January 2026 release and put a full first in-game year into it, then went back and re-ran the tutorial a second time to write this guide. If you've ever wanted a farming sim with **zero automation** — no sprinklers, no tractors, no drones, just you, a hammer, and a river — this is it. You start on a patch of debris along the Nile in ancient Egypt, craft every tool by hand, and slowly turn scrubland into a working farm with wheat, coffee trees, and a herd of livestock.
 
-This guide is built from my playthrough plus the Chinese video coverage on Bilibili (the *Saka-采采* full playthrough is the one I kept coming back to) and the community walkthroughs that followed launch. It covers the three seasons, the exact tool-crafting chain, how the merchant's price system actually works, and the livestock pipeline that turns two cows into your first big payday.
+This guide is built from my playthrough plus the Chinese video coverage on Bilibili (the *Saka-采采* trial gameplay video is the one I kept coming back to) and the community walkthroughs that followed launch. It covers the three seasons, the exact tool-crafting chain, how the merchant's price system actually works, and the livestock pipeline that turns two cows into your first big payday.
 
 ![Ancient Farm hero — a riverside Egyptian farm under a hazy sky, with a farm plot and livestock in the foreground](images/hero.webp)
 
@@ -26,7 +26,7 @@ This guide is built from my playthrough plus the Chinese video coverage on Bilib
 | **Publisher** | Ultimate Games S.A. · PlayWay S.A. · Ultimate Publishing |
 | **Release date** | January 8, 2026 (Steam, PC/Windows) |
 | **Price** | $14.99 USD base (regional pricing varies; frequent 40–50% sales) |
-| **Steam rating** | "Mixed" — roughly 58% positive of ~180 reviews (mid-2026) |
+| **Steam rating** | "Mixed" — roughly 60% positive of ~180 reviews (mid-2026) |
 | **Languages** | English, Simplified Chinese, Japanese, German, French, and more (no Traditional Chinese) |
 | **Genre** | 3D cozy farming · crafting · building · no automation |
 | **Minimum specs** | Windows 10 · i5-8400 / Ryzen 5 1600 · 8 GB RAM · GTX 1060 / RX 570 · 5 GB storage |
@@ -198,7 +198,7 @@ These are the tips that survive from the community guides and my own first year:
 
 ## Is Ancient Farm Worth It? (An Honest Take)
 
-Let me be straight, because the Steam rating deserves context. Ancient Farm sits at **"Mixed" — roughly 58% positive of ~180 reviews** as of mid-2026. That's not hype, and I'm not going to pretend otherwise.
+Let me be straight, because the Steam rating deserves context. Ancient Farm sits at **"Mixed" — roughly 60% positive of ~180 reviews** as of mid-2026. That's not hype, and I'm not going to pretend otherwise.
 
 **What it does well:**
 
@@ -222,7 +222,7 @@ Let me be straight, because the Steam rating deserves context. Ancient Farm sits
 | **Seasons** | 3 (Peret, Shemu, Akhet) — crops die in Shemu | 4 months, acid rain + scorching sun | 4 seasons, benign |
 | **Economy** | Seasonal merchant with dynamic prices | Festivals + traders | Dynamic town economy |
 | **Price** | $14.99 | $19.99 ($15.99 launch) | $14.99 |
-| **Steam rating** | Mixed (~58%) | Overwhelmingly Positive (95%) | Overwhelmingly Positive |
+| **Steam rating** | Mixed (~60%) | Overwhelmingly Positive (95%) | Overwhelmingly Positive |
 
 **My verdict:** if you like *relaxed* farming sims — no survival pressure, no enemies, no hunger bar — Ancient Farm is worth its $14.99 on sale, especially if the "no automation, everything by hand" premise appeals to you. If you bounce off repetition quickly or need NPC-rich worlds, wait for a steeper discount or grab Doloc Town or Stardew first. For cozy-game fans who loved the manual grind in early Stardew, it's a genuinely pleasant afternoon-farm.
 
@@ -249,8 +249,8 @@ The merchant **arrives at the dock at the start of each season and stays about f
 Lead the ox to the **coach house**, make sure the small plow is set via the coach house's wooden board, then open the ox's action menu and choose **harness**. The ox attaches to the plow automatically and you can ride it to till large fields.
 
 ### Is Ancient Farm worth buying in 2026?
-At **$14.99** (or on sale), it's a pleasant buy if you like slow, hand-crafted farming with no automation and a pretty Egyptian world. The Steam rating is Mixed (~58%) mostly because the mid-game gets repetitive — set your expectations to "cozy grind, not deep narrative" and you'll enjoy it more.
+At **$14.99** (or on sale), it's a pleasant buy if you like slow, hand-crafted farming with no automation and a pretty Egyptian world. The Steam rating is Mixed (~60%) mostly because the mid-game gets repetitive — set your expectations to "cozy grind, not deep narrative" and you'll enjoy it more.
 
 ---
 
-*Guide data gathered from the Steam store page, community walkthroughs and reviews (Into Indie Games, The Drastik Measure, Simsational Char), and Chinese video guide coverage on Bilibili (Saka-采采's full Ancient Farm playthrough, published January 2026). Prices and ratings reflect the August 2026 state and may change — always check the Steam page before buying.*
+*Guide data gathered from the Steam store page, community walkthroughs and reviews (Into Indie Games, The Drastik Measure, Simsational Char), and Chinese video guide coverage on Bilibili (Saka-采采's Ancient Farm trial gameplay video, published January 2026). Prices and ratings reflect the August 2026 state and may change — always check the Steam page before buying.*

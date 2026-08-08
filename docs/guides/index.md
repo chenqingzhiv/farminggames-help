@@ -104,3 +104,6 @@ Browse all guides organized by game.
 
 ### Doloc Town
 - [🌱 Beginner's Guide](../doloc-town/beginners-guide.md) — Post-apocalyptic farming, the 4-month calendar, acid rain & scorching sun, first-season crops, Salmon Festival fishing, greenhouse unlock chain
+
+### Ancient Farm
+- [🏺 Beginner's Guide](../ancient-farm/beginners-guide.md) — Zero-automation Egyptian farming, the three seasons (Peret / Shemu / Akhet), workshop tool chain, merchant economy, livestock-to-riches pipeline

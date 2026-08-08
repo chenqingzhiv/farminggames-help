@@ -6,7 +6,7 @@ date: 2026-08-09
 
 # 🏺 Ancient Farm Guides
 
-> A2 Softworks' zero-automation farming sim set on the Nile | Released January 8, 2026 | PC (Steam) | "Mixed" (~58% positive)
+> A2 Softworks' zero-automation farming sim set on the Nile | Released January 8, 2026 | PC (Steam) | "Mixed" (~60% positive)
 
 **Ancient Farm** (*古农庄*, *古代农场*) is a 3D cozy farming and building sim from Polish studio **A2 Softworks**. You start on a debris-strewn patch of Nile riverside with a hammer and nothing else, then craft every tool by hand — no automation, no shortcuts. You clear land, till soil, water crops through three Egyptian-named seasons, raise cows, pigs, sheep and oxen, and sell your produce to a merchant who sails in each season. It launched on **January 8, 2026** on Steam for PC.
 
@@ -24,7 +24,7 @@ date: 2026-08-09
 | Publisher | Ultimate Games S.A. · PlayWay S.A. · Ultimate Publishing |
 | Release | January 8, 2026 (Steam, Windows) |
 | Price | $14.99 base · frequent 40–50% sales |
-| Steam Rating | "Mixed" — ~58% positive of ~180 reviews (mid-2026) |
+| Steam Rating | "Mixed" — ~60% positive of ~180 reviews (mid-2026) |
 | Languages | English, Simplified Chinese, Japanese, German, French, and more (no Traditional Chinese) |
 | Genre | 3D cozy farming · crafting · building · zero automation |
 | Style | Ancient Egypt on the Nile — manual farming, seasonal merchant economy, livestock pipeline |
