@@ -8,7 +8,7 @@ date: 2026-08-10
 
 > Game: Halcyon Days at Taoyuan (*桃源村日志*) | Developer: BotanX | Publisher: CubeGame (方块游戏) | Released: January 20, 2026 (Steam) | Price: $11.99 | Platforms: PC (Windows)
 
-I stumbled onto Halcyon Days at Taoyuan while looking for something cozy with a little culture to it, and the first thing that threw me was that **the village has no money**. You don't sell your crops to a shipping bin; you trade them to villagers for the things you need, and every single item in the game carries a hidden value that decides how fair the swap is. It's Stardew Valley's loop — farm, fish, mine, befriend, date — wrapped in the warmest Chinese folklore setting I've played, and sitting at a **"Very Positive" ~87% rating on Steam** with more than a thousand reviews. After the V1.1 flower update landed this summer, it's easy to see why people keep coming back.
+I stumbled onto Halcyon Days at Taoyuan while looking for something cozy with a little culture to it, and the first thing that threw me was that **the village has no money**. You don't sell your crops to a shipping bin; you trade them to villagers for the things you need, and every single item in the game carries a hidden value that decides how fair the swap is. It's Stardew Valley's loop — farm, fish, mine, befriend, date — wrapped in the warmest Chinese folklore setting I've played, and sitting at a **"Very Positive" ~89% rating on Steam** with more than a thousand reviews. After the V1.1 flower update landed this summer, it's easy to see why people keep coming back.
 
 This guide covers the stuff I wish someone had told me on day one: how the barter economy actually works, what to do in your first week, which caves to tackle when, and how to stop being the village's clumsy new arrival and start being the person who shows up to the Dragon Boat Festival with a plan.
 
@@ -27,15 +27,15 @@ This guide covers the stuff I wish someone had told me on day one: how the barte
 | **Release** | January 20, 2026 |
 | **Platforms** | PC (Steam, Windows) |
 | **Price** | $11.99 base · occasional 10% sales (historical low $10.79) |
-| **Steam rating** | "Very Positive" (~87%), 1,000+ reviews |
+| **Steam rating** | "Very Positive" (~89%), 1,000+ reviews |
 | **Genre** | Farming sim · life sim · RPG · creature collecting |
 | **Style** | Chinese folklore pixel art |
 | **Occupations** | 9 — farming, forestry, animal husbandry, fishing, tailoring, cooking, construction, mining, martial arts |
-| **Creatures** | 60+ befriendeable animals and mounts |
+| **Creatures** | 60+ befriendable animals and mounts |
 | **Languages** | English, Simplified Chinese, Traditional Chinese, and more |
 | **Performance** | Runs on very modest hardware (2 GB RAM minimum) |
 
-**What it's really about:** it's a "one-hundred-year village" simulator. You farm, forage, fish, mine, and fight your way through caves; you earn **Contribution Level** by giving back to the community; and you unlock everything from better tools to new farm plots and even a second farm by deepening your place in village life. There are romanceable NPCs, full Chinese-style weddings, and two different story endings depending on how you play.
+**What it's really about:** it's a village-life simulator set in a community sealed off for a thousand years. You farm, forage, fish, mine, and fight your way through caves; you earn **Contribution Level** by giving back to the community; and you unlock everything from better tools to new farm plots and even a second farm by deepening your place in village life. There are romanceable NPCs, full Chinese-style weddings, and two different story endings depending on how you play.
 
 > **The hook:** it's Stardew Valley in a thousand-year-old hidden village, where instead of gold you trade by value — and where the community chest (the Contribution Box) is more important than any wallet.
 
@@ -54,7 +54,7 @@ Taoyuan Village has **no currency**. Every tradable item carries a hidden **Cont
 - **Equivalent exchange.** Two items with the same CV trade one-for-one (Softwood 2 CV ↔ Stone 2 CV, for example). Mixed stacks work too — any combination that adds up to the target CV is accepted, and you can bulk-trade by multiplying.
 - **Donating is a tenth-rate deal.** Giving items to the Contribution Box earns **Contribution Vouchers** worth **1/10 of the item's CV**. Some items can *only* be bought with vouchers, but for anything tradable, **barter is always better value** than donating.
 - **Hold the +/- buttons.** When you're in a trade screen, the quantity buttons can be held down to scroll fast — a lifesaver when you're trading 20 items at once.
-- **Bartering doesn't cost value.** Unlike selling to a shop (which usually gives you less than an item is worth), a fair barter keeps your value intact — so hoarding trade goods is never wasteful.
+- **Bartering doesn't cost value.** There's no shop that buys your produce — a fair swap trades items of equal CV, so your value is preserved and hoarding trade goods is never wasteful.
 
 **Bamboo is your first currency.** Chop one bamboo tree and you get **10 bamboo**, and bamboo is the community's go-to early trade good: it's everywhere, it stacks in a single inventory slot, and the blacksmith takes it for the copper ore you need to upgrade tools. Treat bamboo like pocket money and you'll never be stuck.
 
@@ -187,13 +187,13 @@ The game's first major content drop, **V1.1《花千树》** (roughly "A Thousan
 - **224 new gift-giving dialogues** and ~680 new daily villager dialogues
 - QoL: replace low-tier chests directly with better ones, improved controller support, and mini-game logic updates
 
-The dev team has also teased a **"簪花" (flower-in-hair) update** next, with garden landscaping and more bamboo furniture. The roadmap is alive — which is a good sign for a $11.99 game.
+The dev team has also teased the next update — **V1.1.X「园林系统」(the "Garden System")** — which opens the tier-3 home courtyard to free decoration with bamboo groves, ornamental fish ponds, rockeries, and pavilions. The roadmap is alive — which is a good sign for a $11.99 game.
 
 ---
 
 ## Is It Worth It?
 
-At **$11.99** (and frequently on 10% sale down to ~$10.79), Halcyon Days at Taoyuan is one of the best value farming sims out right now. The **"Very Positive" ~87% rating** with over a thousand reviews, the free content updates through the summer, and the genuinely unique barter economy all justify the price. It's also wonderfully accessible — it runs on hardware most modern cozy games laugh at.
+At **$11.99** (and frequently on 10% sale down to ~$10.79), Halcyon Days at Taoyuan is one of the best value farming sims out right now. The **"Very Positive" ~89% rating** with over a thousand reviews, the free content updates through the summer, and the genuinely unique barter economy all justify the price. It's also wonderfully accessible — it runs on hardware most modern cozy games laugh at.
 
 **Who it's for:**
 
