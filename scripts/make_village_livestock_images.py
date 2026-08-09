@@ -271,7 +271,7 @@ def make_star():
     rounded(d, (26, 268, 774, 330), 10, PANEL)
     d.text((40, 278), "How to raise stars:", font=F_H, fill=PURPLE)
     d.text((40, 304), "Plant the same crop repeatedly · harvest quality carries into processed goods · check the item encyclopedia (bottom-right) for the next threshold", font=F_SMALL, fill=INK)
-    footer(d, "Gold-star entries let you name your own brand at the monthly quality contest (品評会).")
+    footer(d, "Gold-star entries let you name your own brand at the season-end quality contest (品評会).")
     img.save(os.path.join(OUT, "crop-star-quality.webp"), "WEBP", quality=88)
 
 

@@ -15,7 +15,7 @@ date: 2026-08-05
 | Guide | Description |
 |:------|:------------|
 | [Beginner's Guide](beginners-guide) | Complete first-season walkthrough — Normal vs Peaceful Life mode, all village rules, the Spring 1–16 unlock timeline, early money making, land expansion, mining, hunting, night exploration, and pro tips |
-| [🐔 Livestock & Mutant Crops](livestock-mutant-crops) | Raise chickens, cows, sheep and ducks — the barn unlock chain, daily animal care, auto-feeding, the monthly quality contest, soil-seed giant (mutant) crops, and the five-tier crop star quality system |
+| [🐔 Livestock & Mutant Crops](livestock-mutant-crops) | Raise chickens, cows, sheep and ducks — the barn unlock chain, daily animal care, auto-feeding, the season-end quality contest, soil-seed giant (mutant) crops, and the five-tier crop star quality system |
 
 ## Quick Facts
 

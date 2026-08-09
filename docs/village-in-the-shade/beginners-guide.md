@@ -160,7 +160,7 @@ The farming layer is deep but the *first* hour is simple:
 - **Same crop, planted continuously, gains star quality** — starred crops sell for more. Rotating crops resets progress, so specialize in Spring.
 - **Weeds:** use a sickle, or raise ducks — they auto-clear weeds for you.
 - **Sprinklers** automate watering once you can craft them; long-press actions work in batches.
-- **Season-end quality contest (品评会):** submit your best starred crop — winning pays well and raises reputation.
+- **Season-end quality contest (品评会):** held on **Day 27** of every season (the notice arrives on Day 20) — submit your best starred crop; winning pays well and raises reputation.
 
 ---
 

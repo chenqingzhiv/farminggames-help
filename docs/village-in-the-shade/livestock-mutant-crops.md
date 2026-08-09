@@ -1,6 +1,6 @@
 ---
 title: "Village in the Shade Livestock & Mutant Crops Guide — Barns, Chickens, Cows & Giant Crops"
-description: "Village in the Shade livestock guide for the Yomawari team's horror farming sim. How to get chickens, cows and sheep, the barn unlock chain, daily animal care, auto-feeding, the monthly quality contest, plus giant (mutant) crops from the soil-seed lottery and the five-tier crop star quality system — with data comparisons."
+description: "Village in the Shade livestock guide for the Yomawari team's horror farming sim. How to get chickens, cows and sheep, the barn unlock chain, daily animal care, auto-feeding, the season-end quality contest, plus giant (mutant) crops from the soil-seed lottery and the five-tier crop star quality system — with data comparisons."
 date: 2026-08-10
 ---
 
@@ -10,7 +10,7 @@ date: 2026-08-10
 
 When the peddler Chinana dumped a chick on my doorstep in Spring, I assumed livestock was a late-game luxury. It was not — the game hands you your first animal in **week one**, and the entire animal economy quietly becomes one of the strongest income and quality levers in Kagatsu Village. By Summer I was running a full coop plus a cow barn, and once I understood the **mutant-crop system** my harvests changed completely.
 
-This is the guide I wish I had before Day 10. It covers the livestock unlock chain, which animals are actually worth your yen, daily care and friendship, the monthly quality contest, and the **soil-seed giant-crop lottery** — including the five-tier star quality system that sits underneath all of it.
+This is the guide I wish I had before Day 10. It covers the livestock unlock chain, which animals are actually worth your yen, daily care and friendship, the season-end quality contest, and the **soil-seed giant-crop lottery** — including the five-tier star quality system that sits underneath all of it.
 
 ![Village in the Shade livestock and mutant crops — a hen, a chick, a barn, a ghost cow and a giant pumpkin in the twilight](images/livestock-hero.webp)
 
@@ -62,7 +62,7 @@ Why chickens first? Three reasons:
 
 ### The coloured-chick trap
 
-At the **Summer festival** (Day 15), the stalls sell **coloured chicks for ¥1,600 each**. They look adorable. Do not buy a flock of them expecting eggs — **all coloured chicks are male and never lay eggs**. They are collector items, full stop. Spend the yen on a cow instead.
+At the **Summer festival** (Day 15), the stalls sell **coloured chicks for ¥1,600 each**. They look adorable. Do not buy a flock of them expecting eggs — **all festival coloured chicks are male and never lay eggs**. They are collector items, full stop. This is a completely separate system from the **colour chickens** in the table above: once you own two normal chickens and reach **1★ friendship**, you unlock colour variants for your real laying hens — those lay eggs normally. Festival chicks are purely male, purely decorative, and never lay. Spend the yen on a cow instead.
 
 ---
 
@@ -80,9 +80,9 @@ Once the barn is up, cows and sheep become available:
 |:-------|:--------|:-----------|:--------------|
 | **Cow** | Milk | Processed dairy goods | The long-term cash animal |
 | **Sheep** | Wool | Cloth & craft materials | Steady, best for winter prep |
-| **Duck** | Eggs | — | **Auto-cleans weeds** on farm *and* paddy — free labor |
+| **Duck** | Eggs (→ boiled eggs, mayonnaise) | — | **Auto-cleans weeds** on farm *and* paddy — free labor plus an egg stream |
 
-The **duck** is the sleeper pick. While cows are the obvious income animal, a single duck replacing your daily weeding saves hours each season — and the game's weeds will wreck a paddy field if you ignore them.
+The **duck** is the sleeper pick. While cows are the obvious income animal, a single duck replacing your daily weeding saves hours each season — and the game's weeds will wreck a paddy field if you ignore them. Ducks do lay eggs too (they boil or make mayonnaise like chicken eggs), so a weeding duck also pays a small egg rent — though the weed-clearing is the real value, and Japanese guides warn a big flock's eggs pile up fast.
 
 ![Village in the Shade animal comparison — chicken vs duck vs cow vs sheep vs colour chick with early-game value ratings](images/livestock-comparison.webp)
 
@@ -105,13 +105,13 @@ The game is also gentler than its reputation: the developers have confirmed that
 
 ---
 
-## The Monthly Quality Contest (品評会) — Livestock Counts Too
+## The Season-End Quality Contest (品評会) — Livestock Counts Too
 
-Every **27th of the month**, Kagatsu Village holds a **quality contest** — and it judges **crops *and* livestock**, not just produce.
+On **Day 27 of every season**, Kagatsu Village holds its **season-end quality contest** — and it judges **crops *and* livestock**, not just produce.
 
 | Contest fact | Detail |
 |:-------------|:-------|
-| **When** | Day 27 every month |
+| **When** | Day 27 of every season (10:00–16:00 at the plaza; notice arrives Day 20) |
 | **What you submit** | Your best-quality crop *or* animal product |
 | **Silver star** | "So close" — the judge is impressed but not blown away |
 | **Gold star** | You get to **name your own brand** |
@@ -136,7 +136,7 @@ The livestock guide would not be complete without the game's strangest farming s
 
 **Where soil seeds come from:**
 
-Follow the **sludge-like ghost** you meet at night — it plants seeds you can dig up, **three at a time**. Two daytime waterings can also grow **ghost flowers** that become furniture when harvested at night. And beware the dark side of the lottery: soil crops occasionally grow **cursed crops** (祟られた crops). Harvesting one damages you, and the villager **Konno** will offer to sell you the explanation for **¥1,000** — buy it. Cursed crops are the key to a hidden reward: drop them into the **waterfall feeding spot**, and the fish lord there grants **max-HP upgrades**. The offering you need grows each time, so farm soil seeds steadily.
+Follow the **sludge-like ghost** you meet at night — it plants seeds you can dig up, **three at a time**. Two daytime waterings can also grow **ghost flowers** that become furniture when harvested at night. And beware the dark side of the lottery: soil crops occasionally grow **cursed crops** (祟られた). Harvesting one damages you, and the villager **Konno** will offer to sell you the explanation for **¥1,000** — buy it. Cursed crops are the key to a hidden reward: drop them into the **waterfall feeding spot**, and the fish lord there grants **max-HP upgrades**. The offering you need grows each time, so farm soil seeds steadily.
 
 ---
 
@@ -166,7 +166,7 @@ I track my income every season, and the honest comparison looks like this:
 
 | Method | Early income | Effort | Verdict |
 |:-------|:------------:|:------:|:--------|
-| **Fishing** | Eel **¥315** · Salmon **¥225** · White eel **¥2,500** (rare) | High (active) | Best early per-minute cash |
+| **Fishing** | Eel **¥315** · Salmon **¥225** · Albino eel **¥2,500** (rare) | High (active) | Best early per-minute cash |
 | **Crops (starred)** | Scaling with star tier | Medium | The compounding money engine |
 | **Chickens** | Daily eggs → boiled eggs + egg processing | Low | Reliable passive income |
 | **Cows** | Milk → processed dairy | Low | The mid-game upgrade |
@@ -188,7 +188,7 @@ The pattern I found: **fishing funds your first week, crops fund your first mont
 - **Take Rokkaku's help ticket for the boiled-egg recipe** before your first big night trip.
 - **Plan the barn's footprint before you plant Spring crops** — moving a paddy costs a day.
 - **Check the encyclopedia before triggering giant crops** — collection comes first.
-- **Submit your best animal product to the Day 27 quality contest** every month.
+- **Submit your best animal product to the Day 27 season-end quality contest** every season.
 
 ### ❌ Do Not Do This
 
@@ -220,8 +220,8 @@ Plant and harvest the **same crop repeatedly**. When the patch hits a quality th
 ### Do animals die in Village in the Shade?
 Cats and dogs cannot die. Livestock need daily feeding — an unfed animal's mood drops and its produce quality suffers. The Spring 13 "chicken massacre" is a scripted story event, not something you caused.
 
-### What is the monthly quality contest?
-On the **27th of every month**, you submit your best crop or animal product. Silver-star entries are praised; **gold-star entries let you name your own brand** and raise your standing.
+### What is the season-end quality contest?
+On **Day 27 of every season** (10:00–16:00 at the plaza; the notice arrives on Day 20), you submit your best crop or animal product. Silver-star entries are praised; **gold-star entries let you name your own brand** and raise your standing.
 
 ---
 
