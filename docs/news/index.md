@@ -6,6 +6,11 @@ date: 2026-06-27
 
 # 📰 Update Log
 
+## 2026-08-10
+
+- 🏮 New guide: **Halcyon Days at Taoyuan Beginner's Guide** — the Chinese folklore farming sim's no-money barter economy (Contribution Value), a day-by-day first week, the nine occupations, cave combat & martial arts, creatures and mounts, festivals and weddings, and what the V1.1 flower update adds (5 WebP images)
+- 🚀 New guide: **Fields of Mistria 1.0 Update Guide** — the full release of August 5, 2026: marriage (10-heart romance, engagement rings, full weddings) and optional children, the completed town repair story and Renown cap 100, museum 100% completion, the Big Chicken mount, 7 new skill perks, 7 new beta languages, and first-season quick-start for new players (5 WebP images)
+
 ## 2026-08-09
 
 - 🏺 New guide: **Ancient Farm Beginner's Guide** — the zero-automation ancient-Egyptian farming sim's three seasons (Peret / Shemu / Akhet), workshop tool chain, merchant price mechanics, and the two-cows-to-cooked-beef money pipeline (5 WebP images)

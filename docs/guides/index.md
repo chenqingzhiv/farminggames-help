@@ -87,6 +87,7 @@ Browse all guides organized by game.
 - [🚀 Getting Started](../coral-island/getting-started.md)
 
 ### Fields of Mistria
+- [🚀 1.0 Update Guide](../fields-mistria/1.0-update.md) — Marriage, children & the finished town story — everything new in the full release
 - [🌱 Crop Profit Guide](../fields-mistria/crop-profit.md)
 - [🎣 Fish Database](../fields-mistria/fish.md)
 - [💝 Gift Guide](../fields-mistria/gift-guide.md)
@@ -107,3 +108,6 @@ Browse all guides organized by game.
 
 ### Ancient Farm
 - [🏺 Beginner's Guide](../ancient-farm/beginners-guide.md) — Zero-automation Egyptian farming, the three seasons (Peret / Shemu / Akhet), workshop tool chain, merchant economy, livestock-to-riches pipeline
+
+### Halcyon Days at Taoyuan
+- [🌱 Beginner's Guide](../halcyon-days/beginners-guide.md) — Chinese folklore farming sim, the barter economy (Contribution Value), first-week plan, cave combat & martial arts, creatures & mounts, festivals and weddings, V1.1 flower update

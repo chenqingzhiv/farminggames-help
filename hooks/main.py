@@ -535,11 +535,18 @@ RELATED_GUIDES = {
 
     # ─── Fields of Mistria ───
     "fields-mistria/": [
+        ("fields-mistria/1.0-update/", "1.0 Update Guide"),
         ("fields-mistria/getting-started/", "Getting Started Guide"),
         ("fields-mistria/crop-profit/", "Crop Profit Guide"),
         ("fields-mistria/mining/", "Mining & Combat Guide"),
     ],
+    "fields-mistria/1.0-update/": [
+        ("fields-mistria/getting-started/", "Getting Started Guide"),
+        ("fields-mistria/museum/", "Museum Guide"),
+        ("fields-mistria/artisan-and-endgame/", "Artisan & Endgame Guide"),
+    ],
     "fields-mistria/getting-started/": [
+        ("fields-mistria/1.0-update/", "1.0 Update Guide"),
         ("fields-mistria/crop-profit/", "Crop Profit Guide"),
         ("fields-mistria/mining/", "Mining & Combat Guide"),
         ("fields-mistria/fish/", "Fish Guide"),
@@ -590,6 +597,7 @@ RELATED_GUIDES = {
         ("fields-mistria/artisan-and-endgame/", "Artisan & Endgame Guide"),
     ],
     "fields-mistria/artisan-and-endgame/": [
+        ("fields-mistria/1.0-update/", "1.0 Update Guide"),
         ("fields-mistria/crop-profit/", "Crop Profit Guide"),
         ("fields-mistria/crafting/", "Crafting Guide"),
         ("fields-mistria/mining/", "Mining & Combat Guide"),
@@ -600,6 +608,7 @@ RELATED_GUIDES = {
         ("fields-mistria/festivals/", "Festivals Guide"),
     ],
     "fields-mistria/museum/": [
+        ("fields-mistria/1.0-update/", "1.0 Update Guide"),
         ("fields-mistria/getting-started/", "Getting Started Guide"),
         ("fields-mistria/mining/", "Mining & Combat Guide"),
         ("fields-mistria/festivals/", "Festivals Guide"),
@@ -1103,6 +1112,18 @@ RELATED_GUIDES = {
     ],
     "ancient-farm/beginners-guide/": [
         ("ancient-farm/", "Ancient Farm Overview"),
+        ("guides/best-farming-games-2026/", "Best Farming Games 2026"),
+        ("tools/release-calendar/", "Upcoming Release Calendar"),
+    ],
+
+    # ─── Halcyon Days at Taoyuan ───
+    "halcyon-days/": [
+        ("halcyon-days/beginners-guide/", "Beginner's Guide"),
+        ("guides/best-farming-games-2026/", "Best Farming Games 2026"),
+        ("tools/release-calendar/", "Upcoming Release Calendar"),
+    ],
+    "halcyon-days/beginners-guide/": [
+        ("halcyon-days/", "Halcyon Days at Taoyuan Overview"),
         ("guides/best-farming-games-2026/", "Best Farming Games 2026"),
         ("tools/release-calendar/", "Upcoming Release Calendar"),
     ],

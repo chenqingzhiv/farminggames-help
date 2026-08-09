@@ -7,6 +7,8 @@ description: Fields of Mistria complete guide covering farming simulation, RPG m
 
 # 🌾 Fields of Mistria — Game Overview
 
+> 🚀 **Just released (Aug 5, 2026):** the **1.0 update** is here — marriage and children, the finished town story, a fully completable museum, the Big Chicken mount, new perks and 7 new languages. See our [**1.0 Update Guide**](1.0-update.md) for everything new and what to do first.
+
 ## About the Game
 
 **Fields of Mistria** is a farming simulation RPG developed by **NPC Studio**, released in **August 2024** via Early Access on Steam. Set in a charming pastoral town recovering from a mysterious earthquake, players inherit a run-down farm and work to restore both the land and the nearby village.

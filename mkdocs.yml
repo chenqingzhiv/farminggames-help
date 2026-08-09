@@ -169,6 +169,7 @@ nav:
       - 🏠 Housing: coral-island/housing.md
   - ✨ Fields of Mistria:
       - Overview: fields-mistria/index.md
+      - 🚀 1.0 Update Guide: fields-mistria/1.0-update.md
       - Getting Started: fields-mistria/getting-started.md
       - 🌱 Crop Profit: fields-mistria/crop-profit.md
       - 🌿 Seasonal Crop Strategy: fields-mistria/seasonal-strategy.md
@@ -219,6 +220,9 @@ nav:
   - 🏺 Ancient Farm:
       - Overview: ancient-farm/index.md
       - 🌱 Beginner's Guide: ancient-farm/beginners-guide.md
+  - 🏮 Halcyon Days at Taoyuan:
+      - Overview: halcyon-days/index.md
+      - 🌱 Beginner's Guide: halcyon-days/beginners-guide.md
   - ☀️ Sun Haven:
       - Overview: sun-haven/index.md
       - Getting Started: sun-haven/getting-started.md

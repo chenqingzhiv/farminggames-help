@@ -36,7 +36,7 @@ date: 2026-06-27
 
 <hr>
 
-<h2 class="section-title-home">Featured Games <span class="sub">· 13 titles</span></h2>
+<h2 class="section-title-home">Featured Games <span class="sub">· 14 titles</span></h2>
 
 <div class="game-hero-card game-card-stardew" data-href="stardew/" onclick="gameCardClick(event, 'stardew/')">
 <div class="game-hero-card-inner">
@@ -90,10 +90,11 @@ date: 2026-06-27
 <div class="game-hero-card game-card-mistria" data-href="fields-mistria/" onclick="gameCardClick(event, 'fields-mistria/')">
 <div class="game-hero-card-inner">
 <div class="game-card-title"><a href="fields-mistria/" class="game-card-title-link">✨ Fields of Mistria</a></div>
-<div class="game-card-sub">✨ New Release</div>
+<div class="game-card-sub">✨ New Release · 1.0 out now</div>
 <p>Crop profits, mining & combat, fishing, gift guides, crafting, festivals, and museum collections.</p>
 <div class="game-card-links">
   <a href="fields-mistria/" class="game-card-link">📖 Full Guide</a>
+  <a href="fields-mistria/1.0-update/" class="game-card-link">🚀 1.0 Update</a>
   <a href="fields-mistria/getting-started/" class="game-card-link">👶 Beginner</a>
   <a href="fields-mistria/crop-profit/" class="game-card-link">🌱 Crops</a>
   <a href="fields-mistria/mining/" class="game-card-link">⛏️ Mining</a>
@@ -223,6 +224,18 @@ date: 2026-06-27
 </div>
 </div>
 
+<div class="game-hero-card game-card-halcyon" data-href="halcyon-days/" onclick="gameCardClick(event, 'halcyon-days/')">
+<div class="game-hero-card-inner">
+<div class="game-card-title"><a href="halcyon-days/" class="game-card-title-link">🏮 Halcyon Days at Taoyuan</a></div>
+<div class="game-card-sub">🏮 Chinese Folklore · No Money</div>
+<p>BotanX's 87%-rated folklore farming sim — a hidden Peach Blossom Spring village where everything trades by value. Panda mounts, martial arts, and weddings included.</p>
+<div class="game-card-links">
+  <a href="halcyon-days/" class="game-card-link">📖 Full Guide</a>
+  <a href="halcyon-days/beginners-guide/" class="game-card-link">🌱 Beginner's Guide</a>
+</div>
+</div>
+</div>
+
 <hr>
 
 <!-- VIDEO SERIES SECTION REMOVED — content was Chinese-language only -->
@@ -280,6 +293,15 @@ date: 2026-06-27
 <hr>
 
 <h2 class="section-title-home">Latest Guides <span class="sub">· updated weekly</span></h2>
+
+<div class="article-preview-card">
+  <div class="article-thumb" style="background:radial-gradient(ellipse at 50% 30%, rgba(96,140,88,0.35), transparent 60%);"></div>
+  <div class="article-body-home">
+    <h4>🚀 Fields of Mistria 1.0 Update Guide — Marriage, Children &amp; Everything New</h4>
+    <p>The full release is here: 10-heart romance and full weddings, optional children, the completed town repair story, museum 100% completion, the Big Chicken mount, new perks and languages — plus a first-season quick-start.</p>
+    <div class="article-meta"><span>📅 Aug 10, 2026</span><span>📖 12 min read</span><span class="badge-new">NEW</span></div>
+  </div>
+</div>
 
 <div class="article-preview-card">
   <div class="article-thumb" style="background:radial-gradient(ellipse at 50% 30%, rgba(184,134,11,0.35), transparent 60%);"></div>
