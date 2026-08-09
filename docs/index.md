@@ -184,6 +184,7 @@ date: 2026-06-27
 <div class="game-card-links">
   <a href="village-in-the-shade/" class="game-card-link">📖 Full Guide</a>
   <a href="village-in-the-shade/beginners-guide/" class="game-card-link">🌱 Beginner's Guide</a>
+  <a href="village-in-the-shade/livestock-mutant-crops/" class="game-card-link">🐔 Livestock & Mutant Crops</a>
 </div>
 </div>
 </div>
