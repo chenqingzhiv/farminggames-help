@@ -245,7 +245,7 @@ RELATED_GUIDES = {
         ("stardew/walnuts/", "Golden Walnut Collection Guide"),
     ],
     "stardew/feedback/": [
-        ("stardew/index/", "Stardew Valley Complete Guide"),
+        ("stardew/", "Stardew Valley Complete Guide"),
         ("stardew/encyclopedia/", "Complete Encyclopedia Catalog"),
         ("stardew/tier-list/", "Comprehensive Tier List"),
     ],
@@ -262,7 +262,7 @@ RELATED_GUIDES = {
         ("stardew/profit-calc/", "Money-Making Profit Calculator"),
     ],
     "tools/interactive-map/": [
-        ("stardew/index/", "Stardew Valley Complete Guide"),
+        ("stardew/", "Stardew Valley Complete Guide"),
         ("tools/stardew-valley/mining-tracker/", "Mining Tracker"),
         ("tools/stardew-valley/fish-tracker/", "Fish Collection Tracker"),
     ],
@@ -354,7 +354,7 @@ RELATED_GUIDES = {
         ("farmingsim/profit-guide/", "Profit Guide"),
     ],
     "farmingsim/feedback/": [
-        ("farmingsim/index/", "Farming Simulator 25 Guide"),
+        ("farmingsim/", "Farming Simulator 25 Guide"),
         ("farmingsim/getting-started/", "Getting Started Guide"),
         ("farmingsim/crops/", "Crops Guide"),
     ],
@@ -451,7 +451,7 @@ RELATED_GUIDES = {
         ("palia/money-making/", "Money Making Guide"),
     ],
     "palia/feedback/": [
-        ("palia/index/", "Palia Guide Hub"),
+        ("palia/", "Palia Guide Hub"),
         ("palia/guide/", "Beginner Guide"),
         ("palia/crops/", "Crops Guide"),
     ],
@@ -872,23 +872,23 @@ RELATED_GUIDES = {
     ],
     "tools/mods/": [
         ("tools/saves/", "Saves Guide"),
-        ("stardew/index/", "Stardew Valley Complete Guide"),
+        ("stardew/", "Stardew Valley Complete Guide"),
         ("tools/game-comparison/", "Game Comparison"),
     ],
     "tools/saves/": [
         ("tools/mods/", "Mods Guide"),
-        ("tools/index/", "All Tools Index"),
+        ("tools/", "All Tools Index"),
         ("tools/game-comparison/", "Game Comparison"),
     ],
     "tools/game-comparison/": [
         ("tools/release-calendar/", "Release Calendar"),
-        ("tools/index/", "All Tools Index"),
+        ("tools/", "All Tools Index"),
         ("guides/best-farming-games-2026/", "Best Farming Games 2026"),
     ],
     "tools/release-calendar/": [
         ("tools/game-comparison/", "Game Comparison"),
         ("guides/best-farming-games-2026/", "Best Farming Games 2026"),
-        ("tools/index/", "All Tools Index"),
+        ("tools/", "All Tools Index"),
     ],
     "tools/coral-island/crop-profit-calculator/": [
         ("coral-island/crop-profit/", "Coral Island Crop Profit Guide"),
@@ -951,7 +951,7 @@ RELATED_GUIDES = {
     "guides/best-gaming-gear/": [
         ("guides/best-farming-games-2026/", "Best Farming Games 2026"),
         ("tools/mods/", "Mods Guide"),
-        ("tools/index/", "All Tools & Resources"),
+        ("tools/", "All Tools & Resources"),
     ],
     "guides/stardew-valley-2026-beginners-guide/": [
         ("guides/stardew-valley-beginners-guide/", "Stardew Valley Beginner Guide"),
@@ -962,10 +962,10 @@ RELATED_GUIDES = {
         ("stardew/summer-guide/", "夏季完整攻略"),
         ("stardew/summer-blueprint/", "夏季蓝图与规划"),
         ("stardew/crops/", "农作物利润完整指南"),
-        ("stardew/index/", "星露谷物语攻略汇总"),
+        ("stardew/", "星露谷物语攻略汇总"),
     ],
     "guides/sunflower-land-saltwort-crop-week/": [
-        ("guides/index/", "All Guides"),
+        ("guides/", "All Guides"),
         ("tools/game-comparison/", "Game Comparison Tool"),
         ("tools/release-calendar/", "Release Calendar"),
     ],
@@ -974,17 +974,17 @@ RELATED_GUIDES = {
     "guides/成功培育必爆钻石的白色史莱姆/": [
         ("stardew/animals/", "动物养殖利润分析"),
         ("stardew/1.6-update-guide/", "1.6 更新指南"),
-        ("stardew/index/", "星露谷物语攻略汇总"),
+        ("stardew/", "星露谷物语攻略汇总"),
     ],
     "guides/12月份人气最高的五个modn网/": [
         ("guides/星露谷物语5个极其伟大mod/", "5 个极其伟大 Mod"),
         ("tools/mods/", "Mods 指南"),
-        ("stardew/index/", "星露谷物语攻略汇总"),
+        ("stardew/", "星露谷物语攻略汇总"),
     ],
     "guides/星露谷物语5个极其伟大mod/": [
         ("guides/12月份人气最高的五个modn网/", "12 月人气最高的五个 Mod"),
         ("tools/mods/", "Mods 指南"),
-        ("stardew/index/", "星露谷物语攻略汇总"),
+        ("stardew/", "星露谷物语攻略汇总"),
     ],
     "guides/星露谷物语-自动抚摸机/": [
         ("stardew/animals/", "动物养殖利润分析"),
@@ -1071,11 +1071,19 @@ RELATED_GUIDES = {
     # ─── Village in the Shade ───
     "village-in-the-shade/": [
         ("village-in-the-shade/beginners-guide/", "Beginner's Guide"),
+        ("village-in-the-shade/livestock-mutant-crops/", "Livestock & Mutant Crops"),
         ("guides/best-farming-games-2026/", "Best Farming Games 2026"),
         ("tools/release-calendar/", "Upcoming Release Calendar"),
     ],
     "village-in-the-shade/beginners-guide/": [
         ("village-in-the-shade/", "Village in the Shade Overview"),
+        ("village-in-the-shade/livestock-mutant-crops/", "Livestock & Mutant Crops"),
+        ("guides/best-farming-games-2026/", "Best Farming Games 2026"),
+        ("tools/release-calendar/", "Upcoming Release Calendar"),
+    ],
+    "village-in-the-shade/livestock-mutant-crops/": [
+        ("village-in-the-shade/", "Village in the Shade Overview"),
+        ("village-in-the-shade/beginners-guide/", "Beginner's Guide"),
         ("guides/best-farming-games-2026/", "Best Farming Games 2026"),
         ("tools/release-calendar/", "Upcoming Release Calendar"),
     ],
@@ -1137,24 +1145,24 @@ RELATED_GUIDES = {
     "codes/": [
         ("palia/redeem-codes/", "Palia Redeem Codes"),
         ("tools/mods/", "Mods Guide"),
-        ("tools/index/", "All Tools & Resources"),
+        ("tools/", "All Tools & Resources"),
     ],
     "news/": [
-        ("guides/index/", "Latest Guides"),
+        ("guides/", "Latest Guides"),
         ("tools/release-calendar/", "Release Calendar"),
         ("guides/best-farming-games-2026/", "Best Farming Games 2026"),
     ],
 
     # ─── About pages ───
     "about/": [
-        ("tools/index/", "Interactive Tools"),
-        ("guides/index/", "Latest Guides"),
+        ("tools/", "Interactive Tools"),
+        ("guides/", "Latest Guides"),
         ("privacy-policy/", "Privacy Policy"),
     ],
     "privacy-policy/": [
         ("affiliate-disclosure/", "Affiliate Disclosure"),
         ("about/", "About Farming Games Help"),
-        ("tools/index/", "Interactive Tools"),
+        ("tools/", "Interactive Tools"),
     ],
     "affiliate-disclosure/": [
         ("privacy-policy/", "Privacy Policy"),
