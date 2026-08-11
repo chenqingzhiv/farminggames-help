@@ -111,3 +111,6 @@ Browse all guides organized by game.
 
 ### Halcyon Days at Taoyuan
 - [🌱 Beginner's Guide](../halcyon-days/beginners-guide.md) — Chinese folklore farming sim, the barter economy (Contribution Value), first-week plan, cave combat & martial arts, creatures & mounts, festivals and weddings, V1.1 flower update
+
+### Tiny Monster Haven
+- [👾 Beginner's Guide](../tiny-monster-haven/beginners-guide.md) — Idle desktop creature collector, choosing & hatching your starter, the crop-to-stats feeding loop, elemental Haven jobs, cooking recipes, turn-based battles & Monster Essence, Astral variants

@@ -1091,11 +1091,13 @@ RELATED_GUIDES = {
     # ─── Your Big, Cute Monster Farm ───
     "big-cute-monster-farm/": [
         ("big-cute-monster-farm/beginners-guide/", "Beginner's Guide"),
+        ("tiny-monster-haven/", "Tiny Monster Haven Guides"),
         ("guides/best-farming-games-2026/", "Best Farming Games 2026"),
         ("tools/release-calendar/", "Upcoming Release Calendar"),
     ],
     "big-cute-monster-farm/beginners-guide/": [
         ("big-cute-monster-farm/", "Your Big, Cute Monster Farm Overview"),
+        ("tiny-monster-haven/", "Tiny Monster Haven Guides"),
         ("guides/best-farming-games-2026/", "Best Farming Games 2026"),
         ("tools/release-calendar/", "Upcoming Release Calendar"),
     ],
@@ -1103,11 +1105,13 @@ RELATED_GUIDES = {
     # ─── Doloc Town ───
     "doloc-town/": [
         ("doloc-town/beginners-guide/", "Beginner's Guide"),
+        ("tiny-monster-haven/", "Tiny Monster Haven Guides"),
         ("guides/best-farming-games-2026/", "Best Farming Games 2026"),
         ("tools/release-calendar/", "Upcoming Release Calendar"),
     ],
     "doloc-town/beginners-guide/": [
         ("doloc-town/", "Doloc Town Overview"),
+        ("tiny-monster-haven/", "Tiny Monster Haven Guides"),
         ("guides/best-farming-games-2026/", "Best Farming Games 2026"),
         ("tools/release-calendar/", "Upcoming Release Calendar"),
     ],
@@ -1134,6 +1138,18 @@ RELATED_GUIDES = {
         ("halcyon-days/", "Halcyon Days at Taoyuan Overview"),
         ("guides/best-farming-games-2026/", "Best Farming Games 2026"),
         ("tools/release-calendar/", "Upcoming Release Calendar"),
+    ],
+
+    # ─── Tiny Monster Haven ───
+    "tiny-monster-haven/": [
+        ("tiny-monster-haven/beginners-guide/", "Beginner's Guide"),
+        ("big-cute-monster-farm/", "Your Big, Cute Monster Farm Guides"),
+        ("tools/release-calendar/", "Upcoming Release Calendar"),
+    ],
+    "tiny-monster-haven/beginners-guide/": [
+        ("tiny-monster-haven/", "Tiny Monster Haven Overview"),
+        ("big-cute-monster-farm/", "Your Big, Cute Monster Farm Guides"),
+        ("stardew/", "Stardew Valley Complete Guide"),
     ],
 
     # ─── Database / Codes / News ───

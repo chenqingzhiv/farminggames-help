@@ -123,6 +123,14 @@ $(document).ready(function() {
     <td>Official</td>
 </tr>
 <tr>
+    <td><strong>Tiny Monster Haven</strong></td>
+    <td>Aug 11, 2026</td>
+    <td><span class="tag-released">Released</span></td>
+    <td>PC</td>
+    <td>Farming / Creature Collector</td>
+    <td>Steam</td>
+</tr>
+<tr>
     <td><strong>Starsand Island</strong></td>
     <td>2026 (EA)</td>
     <td><span class="tag-upcoming">2026</span></td>

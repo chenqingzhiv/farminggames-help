@@ -6,6 +6,10 @@ date: 2026-06-27
 
 # 📰 Update Log
 
+## 2026-08-12
+
+- 👾 New guide: **Tiny Monster Haven Beginner's Guide** — the cozy idle creature collector's desktop Haven, picking &amp; hatching your starter, the crop-to-stats feeding loop, elemental Haven jobs (water / plant / insect / fire), cooking recipes, turn-based battles &amp; Monster Essence, Astral variants, and day/night seasonal spawns (5 WebP images)
+
 ## 2026-08-10
 
 - 🏮 New guide: **Halcyon Days at Taoyuan Beginner's Guide** — the Chinese folklore farming sim's no-money barter economy (Contribution Value), a day-by-day first week, the nine occupations, cave combat & martial arts, creatures and mounts, festivals and weddings, and what the V1.1 flower update adds (5 WebP images)

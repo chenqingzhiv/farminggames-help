@@ -36,7 +36,7 @@ date: 2026-06-27
 
 <hr>
 
-<h2 class="section-title-home">Featured Games <span class="sub">· 14 titles</span></h2>
+<h2 class="section-title-home">Featured Games <span class="sub">· 15 titles</span></h2>
 
 <div class="game-hero-card game-card-stardew" data-href="stardew/" onclick="gameCardClick(event, 'stardew/')">
 <div class="game-hero-card-inner">
@@ -237,6 +237,18 @@ date: 2026-06-27
 </div>
 </div>
 
+<div class="game-hero-card game-card-tmh" data-href="tiny-monster-haven/" onclick="gameCardClick(event, 'tiny-monster-haven/')">
+<div class="game-hero-card-inner">
+<div class="game-card-title"><a href="tiny-monster-haven/" class="game-card-title-link">👾 Tiny Monster Haven</a></div>
+<div class="game-card-sub">👾 Idle Desktop · New Launch</div>
+<p>Digging Dino's cozy idle creature collector — 50+ monsters water, harvest, pollinate and cook at the bottom of your desktop. Out now on Steam.</p>
+<div class="game-card-links">
+  <a href="tiny-monster-haven/" class="game-card-link">📖 Full Guide</a>
+  <a href="tiny-monster-haven/beginners-guide/" class="game-card-link">👾 Beginner's Guide</a>
+</div>
+</div>
+</div>
+
 <hr>
 
 <!-- VIDEO SERIES SECTION REMOVED — content was Chinese-language only -->
@@ -296,11 +308,20 @@ date: 2026-06-27
 <h2 class="section-title-home">Latest Guides <span class="sub">· updated weekly</span></h2>
 
 <div class="article-preview-card">
+  <div class="article-thumb" style="background:radial-gradient(ellipse at 50% 30%, rgba(124,58,237,0.35), transparent 60%);"></div>
+  <div class="article-body-home">
+    <h4>👾 Tiny Monster Haven Beginner's Guide — Idle Farming With 50+ Monsters</h4>
+    <p>Digging Dino's cozy idle creature collector: pick your starter, the crop-to-stats feeding loop, elemental Haven jobs, cooking recipes, turn-based battles &amp; Monster Essence, and Astral variants.</p>
+    <div class="article-meta"><span>📅 Aug 12, 2026</span><span>📖 12 min read</span><span class="badge-new">NEW</span></div>
+  </div>
+</div>
+
+<div class="article-preview-card">
   <div class="article-thumb" style="background:radial-gradient(ellipse at 50% 30%, rgba(96,140,88,0.35), transparent 60%);"></div>
   <div class="article-body-home">
     <h4>🚀 Fields of Mistria 1.0 Update Guide — Marriage, Children &amp; Everything New</h4>
     <p>The full release is here: 10-heart romance and full weddings, optional children, the completed town repair story, museum 100% completion, the Big Chicken mount, new perks and languages — plus a first-season quick-start.</p>
-    <div class="article-meta"><span>📅 Aug 10, 2026</span><span>📖 12 min read</span><span class="badge-new">NEW</span></div>
+    <div class="article-meta"><span>📅 Aug 10, 2026</span><span>📖 12 min read</span></div>
   </div>
 </div>
 
