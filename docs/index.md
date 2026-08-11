@@ -36,7 +36,7 @@ date: 2026-06-27
 
 <hr>
 
-<h2 class="section-title-home">Featured Games <span class="sub">· 15 titles</span></h2>
+<h2 class="section-title-home">Featured Games <span class="sub">· 16 titles</span></h2>
 
 <div class="game-hero-card game-card-stardew" data-href="stardew/" onclick="gameCardClick(event, 'stardew/')">
 <div class="game-hero-card-inner">
@@ -245,6 +245,18 @@ date: 2026-06-27
 <div class="game-card-links">
   <a href="tiny-monster-haven/" class="game-card-link">📖 Full Guide</a>
   <a href="tiny-monster-haven/beginners-guide/" class="game-card-link">👾 Beginner's Guide</a>
+</div>
+</div>
+</div>
+
+<div class="game-hero-card game-card-farlands" data-href="farlands/" onclick="gameCardClick(event, 'farlands/')">
+<div class="game-hero-card-inner">
+<div class="game-card-title"><a href="farlands/" class="game-card-title-link">🪐 Farlands</a></div>
+<div class="game-card-sub">🪐 Space Farm · 1.0 Out Now</div>
+<p>JanduSoft's space farming sim — buy a whole bargain planet, restore it as a homestead, then fly between worlds to save the solar system. 1.0 out now on all platforms.</p>
+<div class="game-card-links">
+  <a href="farlands/" class="game-card-link">📖 Full Guide</a>
+  <a href="farlands/beginners-guide/" class="game-card-link">🚀 Beginner's Guide</a>
 </div>
 </div>
 </div>

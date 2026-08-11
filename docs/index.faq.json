@@ -41,6 +41,14 @@
         "@type": "Answer",
         "text": "Farm Tomatoes and Bok Choy for consistent income. Hunt Sernuks for meat and leather. Fish in Bahari Bay at dawn/dusk. Mine Pallium nodes for high-value crafts."
       }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Farlands worth buying in 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Farlands is a space farming sim from JanduSoft where you buy a bargain planet and farm across a solar system. It launched in 1.0 on July 16 2026 for $17.99 on PC, Switch, PS4/5 and Xbox. The main story takes about 20-30 hours and includes 8 romanceable characters, 3 seasons of 28 days, spaceship travel and the 1.0 Darmstad endgame. It is Steam Deck Verified and offers good value for a shorter cozy farming game, though its planets are small purpose-built zones rather than open worlds."
+      }
     }
   ]
 }

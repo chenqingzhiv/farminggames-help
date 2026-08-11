@@ -8,6 +8,7 @@ date: 2026-06-27
 
 ## 2026-08-12
 
+- 🪐 New guide: **Farlands Beginner's Guide** — the space farming sim where you buy a whole bargain planet and farm across a solar system: the story behind the cheap planet, the three 28-day seasons, tools &amp; upgrades, spaceship fuel and interplanetary travel, Terbin's shops, romance &amp; marriage, resource planets and mines, and the 1.0 Darmstad endgame (5 WebP images)
 - 👾 New guide: **Tiny Monster Haven Beginner's Guide** — the cozy idle creature collector's desktop Haven, picking &amp; hatching your starter, the crop-to-stats feeding loop, elemental Haven jobs (water / plant / insect / fire), cooking recipes, turn-based battles &amp; Monster Essence, Astral variants, and day/night seasonal spawns (5 WebP images)
 
 ## 2026-08-10
