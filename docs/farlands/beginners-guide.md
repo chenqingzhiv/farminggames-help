@@ -28,7 +28,7 @@ It is, honestly, the most Stardew-coded setup in recent memory — but that's th
 | **1.0 release** | July 16, 2026 — Steam, Nintendo Switch, PS4/5, Xbox One, Xbox Series |
 | **Price** | $17.99 (no subscription, no DLC-gated content) |
 | **Early Access** | July 24, 2024 → July 2026, roughly two years and 10 major updates |
-| **Steam rating** | Mixed overall at launch of 1.0 (69% positive across recent reviews) |
+| **Steam rating** | Very Positive overall (90% of 1,592 all-time reviews); recent 30-day reviews Mixed (69% of 191) — Steam store page, Aug 2026 |
 | **Seasons** | 3 — Hot, Temperate, Cold — each 28 days (an 84-day year) |
 | **Romance** | 8 romanceable characters, marriage included |
 | **Achievements** | 50 total (19 new with 1.0) |
