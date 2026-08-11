@@ -20,7 +20,7 @@ This guide covers everything I wish I'd known in my first two hours: how the idl
 
 ## What Is Tiny Monster Haven?
 
-**Tiny Monster Haven** is a cozy idle creature collector from **Digging Dino**, a small Belgian indie studio (the whole thing is built by solo developer Lodeman). The obvious inspirations are the **Chao garden from Sonic Adventure 2** and **Rusty's Retirement** — two games that proved people will happily maintain a tiny virtual world they can glance at without committing their full attention. Tiny Monster Haven takes that idea and gives it a full monster-collector RPG underneath.
+**Tiny Monster Haven** is a cozy idle creature collector from **Digging Dino**, a small Belgian indie studio (the whole thing is built by solo developer Lodeman). The obvious inspirations are the **Chao Garden from Sonic Adventure 2** and **Rusty's Retirement** — two games that proved people will happily maintain a tiny virtual world they can glance at without committing their full attention. Tiny Monster Haven takes that idea and gives it a full monster-collector RPG underneath.
 
 | Fact | Detail |
 |:-----|:-------|
@@ -52,7 +52,7 @@ The genius of the format is that it's never "on" in the way a real farming sim i
 
 ## Getting Started — Pick a Starter, Hatch Your First Egg
 
-Your first real decision is the **starter monster**. You choose from a small set of starter types and **hatch your first monster egg** — and that little guy is your sidekick, the one monster that follows you around the menus and the face of your Haven until your team grows.
+Your first real decision is the **starter monster**. You choose from a small set of starter types and **hatch your first monster egg** — and that little guy is your sidekick, the one monster that follows you around the menus — and serves as the face of your Haven — until your team grows.
 
 ![Tiny Monster Haven starter selection — three starter monsters on egg platforms with a hatch button at the bottom](images/starter-eggs.webp)
 
@@ -109,7 +109,7 @@ The one learning curve is the UI: in the demo, you had to **select a recipe firs
 3. **Cook it** (faster with a fire type assigned to the kitchen).
 4. **Feed the meal to the monster** whose stat you want boosted.
 
-Early on, cooking is more of a "treat" system than a core income source. But once your monsters hit the level where battles get serious, a well-timed meal is the difference between a close win and a sweep. The demo feedback thread noted there was no way to sell crops or cooked food for coins in the early build — the money in this game comes from *using* the food, not selling it.
+Early on, cooking is more of a "treat" system than a core income source. But once your monsters hit the level where battles get serious, a well-timed meal is the difference between a close win and a sweep. The earliest demo builds had no way to sell crops or cooked food for coins (a later update added the ability to sell surplus items), but the money in this game comes from *using* the food, not selling it.
 
 ---
 

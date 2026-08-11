@@ -330,7 +330,7 @@ date: 2026-06-27
   <div class="article-body-home">
     <h4>🏺 Ancient Farm Beginner's Guide — First Year on the Nile</h4>
     <p>Zero-automation Egyptian farming: the three seasons (Peret, Shemu, Akhet), the workshop tool chain, merchant price mechanics, and the two-cows-to-cooked-beef money pipeline.</p>
-    <div class="article-meta"><span>📅 Aug 9, 2026</span><span>📖 20 min read</span><span class="badge-new">NEW</span></div>
+    <div class="article-meta"><span>📅 Aug 9, 2026</span><span>📖 20 min read</span></div>
   </div>
 </div>
 

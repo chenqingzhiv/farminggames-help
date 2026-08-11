@@ -8,7 +8,7 @@ date: 2026-08-12
 
 > Digging Dino's cozy idle creature collector | Launched August 11, 2026 | PC (Steam) | $7.99 ($7.19 launch week)
 
-**Tiny Monster Haven** is an idle creature collector that lives at the bottom of your desktop. You hatch and raise a team of **50+ monsters** that water crops, harvest, pollinate, and cook for you while you work — and underneath the cozy strip of farm runs a real turn-based battle system, evolutions, Astral variants, and a campaign of Elemental Gurus and tournaments. It's the Chao garden and Rusty's Retirement, crossed with a full monster-tamer RPG.
+**Tiny Monster Haven** is an idle creature collector that lives at the bottom of your desktop. You hatch and raise a team of **50+ monsters** that water crops, harvest, pollinate, and cook for you while you work — and underneath the cozy strip of farm runs a real turn-based battle system, evolutions, Astral variants, and a campaign of Elemental Gurus and tournaments. It's the Chao Garden and Rusty's Retirement, crossed with a full monster-tamer RPG.
 
 ## Available Guides
 
@@ -26,20 +26,12 @@ date: 2026-08-12
 | Monsters | 50+ unique species to hatch and evolve |
 | Play Style | Idle desktop game — runs at the bottom of your screen |
 | Core Loop | Farm crops → feed monsters → battle for Monster Essence → evolve & hatch new eggs |
-| Inspirations | Chao garden (Sonic Adventure 2) · Rusty's Retirement |
+| Inspirations | Chao Garden (Sonic Adventure 2) · Rusty's Retirement |
 | Genre | Cozy farming · creature collector · idle simulation |
 
 ## The Hook
 
 Most farming games put the farm in the middle of your screen and expect your full attention. **Tiny Monster Haven** puts the farm on the *edge* of your screen and lets it run while you do literally anything else. Crops grow in real time, monsters work their elemental jobs automatically, and you check in to harvest, hatch, cook, and battle whenever you want. It's the lowest-pressure monster collector in recent memory — and the collection goal (50+ monsters plus Astral variants) is deep enough to hold you for a long time.
-
----
-
-## 🔗 Related Guides
-
-- 🐾 [Your Big, Cute Monster Farm Guide](/big-cute-monster-farm/) — the other idle monster-farm hit, where monsters plant, water and harvest for you
-- 🌾 [Stardew Valley Complete Game Guide](/stardew/) — the cozy-farming benchmark, if you want your farm full-screen instead of at the bottom of the monitor
-- 🌱 [Doloc Town Guide](/doloc-town/) — a farming sim with real automation depth, from drones to greenhouses
 
 ---
 

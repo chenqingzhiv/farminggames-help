@@ -1144,6 +1144,8 @@ RELATED_GUIDES = {
     "tiny-monster-haven/": [
         ("tiny-monster-haven/beginners-guide/", "Beginner's Guide"),
         ("big-cute-monster-farm/", "Your Big, Cute Monster Farm Guides"),
+        ("stardew/", "Stardew Valley Complete Guide"),
+        ("doloc-town/", "Doloc Town Overview"),
         ("tools/release-calendar/", "Upcoming Release Calendar"),
     ],
     "tiny-monster-haven/beginners-guide/": [
