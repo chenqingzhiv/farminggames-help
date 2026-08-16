@@ -101,7 +101,7 @@ $(document).ready(function() {
 <tr>
     <td><strong>Grave Seasons</strong></td>
     <td>Aug 14, 2026</td>
-    <td><span class="tag-upcoming">Aug 2026</span></td>
+    <td><span class="tag-released">Released</span></td>
     <td>PC</td>
     <td>Farming / Horror</td>
     <td>Steam</td>

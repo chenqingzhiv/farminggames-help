@@ -6,6 +6,10 @@ date: 2026-06-27
 
 # 📰 Update Log
 
+## 2026-08-17
+
+- ⚰️ New guide: **Grave Seasons Beginner's Guide** — Perfect Garbage × Blumhouse Games' cozy-horror farming sim where a supernatural serial killer hides among your neighbors: the escaped-convict story in Ashenridge, the one-year clock and random-killer system, the farm-by-day / investigate-by-night loop, seasonal crops &amp; occult crafting, all seven areas, protecting victims, and romance with 12 candidates (some of them killers) (5 WebP images)
+
 ## 2026-08-12
 
 - 🪐 New guide: **Farlands Beginner's Guide** — the space farming sim where you buy a whole bargain planet and farm across a solar system: the story behind the cheap planet, the three 28-day seasons, tools &amp; upgrades, spaceship fuel and interplanetary travel, Terbin's shops, romance &amp; marriage, resource planets and mines, and the 1.0 Darmstad endgame (5 WebP images)

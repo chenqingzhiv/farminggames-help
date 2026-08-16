@@ -1072,18 +1072,35 @@ RELATED_GUIDES = {
     "village-in-the-shade/": [
         ("village-in-the-shade/beginners-guide/", "Beginner's Guide"),
         ("village-in-the-shade/livestock-mutant-crops/", "Livestock & Mutant Crops"),
+        ("grave-seasons/", "Grave Seasons Guides"),
         ("guides/best-farming-games-2026/", "Best Farming Games 2026"),
         ("tools/release-calendar/", "Upcoming Release Calendar"),
     ],
     "village-in-the-shade/beginners-guide/": [
         ("village-in-the-shade/", "Village in the Shade Overview"),
         ("village-in-the-shade/livestock-mutant-crops/", "Livestock & Mutant Crops"),
+        ("grave-seasons/", "Grave Seasons Guides"),
         ("guides/best-farming-games-2026/", "Best Farming Games 2026"),
         ("tools/release-calendar/", "Upcoming Release Calendar"),
     ],
     "village-in-the-shade/livestock-mutant-crops/": [
         ("village-in-the-shade/", "Village in the Shade Overview"),
         ("village-in-the-shade/beginners-guide/", "Beginner's Guide"),
+        ("grave-seasons/", "Grave Seasons Guides"),
+        ("guides/best-farming-games-2026/", "Best Farming Games 2026"),
+        ("tools/release-calendar/", "Upcoming Release Calendar"),
+    ],
+
+    # ─── Grave Seasons ───
+    "grave-seasons/": [
+        ("grave-seasons/beginners-guide/", "Beginner's Guide"),
+        ("village-in-the-shade/", "Village in the Shade Guides"),
+        ("guides/best-farming-games-2026/", "Best Farming Games 2026"),
+        ("tools/release-calendar/", "Upcoming Release Calendar"),
+    ],
+    "grave-seasons/beginners-guide/": [
+        ("grave-seasons/", "Grave Seasons Overview"),
+        ("village-in-the-shade/", "Village in the Shade Guides"),
         ("guides/best-farming-games-2026/", "Best Farming Games 2026"),
         ("tools/release-calendar/", "Upcoming Release Calendar"),
     ],
