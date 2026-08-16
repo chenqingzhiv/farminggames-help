@@ -49,6 +49,14 @@
         "@type": "Answer",
         "text": "Farlands is a space farming sim from JanduSoft where you buy a bargain planet and farm across a solar system. It launched in 1.0 on July 16 2026 for $17.99 on PC, Switch, PS4/5 and Xbox. The main story takes about 20-30 hours and includes 8 romanceable characters, 3 seasons of 28 days, spaceship travel and the 1.0 Darmstad endgame. It is Steam Deck Verified and offers good value for a shorter cozy farming game, though its planets are small purpose-built zones rather than open worlds."
       }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Grave Seasons worth looking forward to in 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Grave Seasons is a cozy-horror farming sim from Perfect Garbage, published by Blumhouse Games, coming in Fall 2026 for PC, PS5, Xbox Series X|S and Nintendo Switch (delayed from its original August 14 2026 date), and included day one on Xbox Game Pass. You play an escaped convict in the town of Ashenridge with one in-game year to farm, investigate and unmask a supernatural serial killer who is randomly chosen from a pool of candidates every playthrough. It has 7 areas, 30+ residents, 70+ interiors, around a dozen romanceable characters (some may be the killer) and 600+ items. If you want a farming sim with real stakes and strong replay value, it is the most distinctive cozy-adjacent game of the year; if you want a purely relaxed stakes-free farm sim, it is deliberately not that."
+      }
     }
   ]
 }
