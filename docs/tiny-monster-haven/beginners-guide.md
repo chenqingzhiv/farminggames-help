@@ -200,4 +200,13 @@ Absolutely. Recipes give the biggest stat boosts in the game and speed up leveli
 
 ---
 
+## 🔗 Related Guides
+
+- 🌾 [Stardew Valley Complete Game Guide](/stardew/) — the cozy-farming benchmark for crop calendars and profit loops
+- 🐾 [Palworld Guide](/palworld/) — creature collection, base building and defense
+- 🌿 [Fields of Mistria Guide](/fields-mistria/) — cozy farming, crops and romance
+- 🧸 [All Tiny Monster Haven Guides](/tiny-monster-haven/) — the hub
+
+---
+
 *Guide data gathered from the Steam store page, the launch-week press coverage, Steam demo feedback threads, and community walkthroughs. Prices and details reflect the August 11, 2026 launch build and may change with updates — always check the Steam page before buying. This is not an affiliate link.*

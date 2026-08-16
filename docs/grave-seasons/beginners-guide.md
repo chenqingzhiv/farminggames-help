@@ -264,4 +264,14 @@ If the premise — a full farming sim where you investigate a randomized superna
 
 ---
 
+## 🔗 Related Guides
+
+- 🌾 [Stardew Valley Complete Game Guide](/stardew/) — the cozy-farming benchmark for crop calendars and profit loops
+- 🌿 [Village in the Shade Guide](/village-in-the-shade/) — the other cozy-horror farming sim, now on shelves
+- 🏝️ [Coral Island Guide](/coral-island/) — festival calendar, forage maps, and a full crop-profit calculator
+- 🚜 [Farming Simulator 25 Guide](/farmingsim/) — production chains and crop-profit charts for the automated end of the genre
+- ⚰️ [All Grave Seasons Guides](/grave-seasons/) — the hub
+
+---
+
 *This is a pre-release preview guide. Source material: the official announcement trailer and the March 30, 2026 IGN China 11-minute gameplay demo (实机演示) on Bilibili, the PAX East 2026 hands-on demo (the first public playable build), Summer Game Fest 2026 press preview coverage, the Steam store page, and developer interviews — including a Polygon interview translated by 17173 on May 26, 2026. Grave Seasons was delayed from August 14 to an undated Fall 2026 window on June 5, 2026; details reflect the build as shown so far and may change before launch. The game is not yet priced on Steam (only wishlistable) — always check the Steam page before release.*
