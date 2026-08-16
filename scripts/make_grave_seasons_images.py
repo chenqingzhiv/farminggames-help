@@ -143,9 +143,9 @@ def hero():
 
     # footer facts
     rrect(d, (34, 470, W - 34, H - 22), 14, fill=PANEL)
-    facts = "Ashenridge · 30+ residents · 12 romanceable · 7 areas · 70+ interiors"
+    facts = "Ashenridge · 30+ residents · ~12 romanceable · 7 areas · 70+ interiors"
     ctext(d, (W / 2, 505), facts, fit(facts, W - 90, 17, True), fill=GOLD)
-    ctext(d, (W / 2, 542), "Perfect Garbage × Blumhouse Games · Out Aug 14, 2026", fit("Perfect Garbage × Blumhouse Games · Out Aug 14, 2026", W - 90, 14), fill=MUTED)
+    ctext(d, (W / 2, 542), "Perfect Garbage × Blumhouse Games · Coming Fall 2026", fit("Perfect Garbage × Blumhouse Games · Coming Fall 2026", W - 90, 14), fill=MUTED)
     save(img, "grave-seasons-hero.webp")
 
 # ---------------------------------------------------------------- 2. Ashenridge areas
@@ -278,7 +278,7 @@ def killer():
 # ---------------------------------------------------------------- 5. Protect & romance
 def protect_romance():
     img, d = canvas()
-    header(d, "PROTECT THE VICTIMS · ROMANCE 12", "Two goals, one year, all your choices tracked")
+    header(d, "PROTECT THE VICTIMS · ROMANCE A DOZEN", "Two goals, one year, all your choices tracked")
 
     lx = 34
     lw = (W - 68 - 20) / 2
@@ -298,7 +298,7 @@ def protect_romance():
     rx = lx + lw + 20
     rrect(d, (rx, 96, rx + lw, 470), 14, fill=CARD)
     rrect(d, (rx, 96, rx + lw, 140), 14, fill=BLOOD)
-    ctext(d, (rx + lw / 2, 118), "ROMANCE 12 CANDIDATES", fit("ROMANCE 12 CANDIDATES", lw - 16, 16, True), fill=BG)
+    ctext(d, (rx + lw / 2, 118), "ROMANCE A DOZEN CANDIDATES", fit("ROMANCE A DOZEN CANDIDATES", lw - 16, 16, True), fill=BG)
     panel_lines(d, rx + 16, 160, [
         "Build trust through quests",
         "Learn their hidden sides",

@@ -1,16 +1,16 @@
 ---
-title: "Grave Seasons Beginner's Guide — Farm by Day, Unmask a Supernatural Serial Killer by Night"
-description: "Complete Grave Seasons beginner's guide. What the cozy-horror farming sim from Perfect Garbage and Blumhouse Games is, the escaped-convict story in Ashenridge, the one-year clock and how the randomly-assigned killer works, the farm-by-day investigate-by-night loop, seasonal crops and occult crafting, all seven areas of Ashenridge, breaking & entering and villager secrets, protecting the next victim, romance with 12 candidates (some of them killers), New Game+ replayability, a Grave Seasons vs Stardew Valley vs Village in the Shade data comparison, and a pro-tips FAQ."
+title: "Grave Seasons Preview Guide — Farm by Day, Unmask a Supernatural Serial Killer by Night"
+description: "Grave Seasons preview guide for the delayed cozy-horror farming sim from Perfect Garbage and Blumhouse Games (Fall 2026, delayed from August 14). What it is, the escaped-convict story in Ashenridge, the one-year clock and how the randomly-assigned killer works, the farm-by-day investigate-by-night loop, seasonal crops and occult crafting, all seven areas of Ashenridge, breaking & entering and villager secrets, protecting the next victim, romance with around a dozen candidates (some of them killers), New Game+ replayability, a Grave Seasons vs Stardew Valley vs Village in the Shade data comparison, and a pro-tips FAQ — based on the official trailer, the IGN China demo, and the PAX East / Summer Game Fest show builds."
 date: 2026-08-17
 ---
 
-# Grave Seasons Beginner's Guide — Farm by Day, Unmask a Killer by Night
+# Grave Seasons Preview Guide — Farm by Day, Unmask a Killer by Night
 
-> Game: Grave Seasons (*埋谷季* / *送葬季*) | Developer: Perfect Garbage | Publisher: Blumhouse Games | Released: August 14, 2026 | Platforms: PC (Steam), PlayStation 5, Xbox Series X|S, Nintendo Switch · Xbox Game Pass day one
+> Game: Grave Seasons (*埋谷季* / *送葬季*) | Developer: Perfect Garbage | Publisher: Blumhouse Games | Releasing: Fall 2026 — delayed from August 14, 2026 | Platforms: PC (Steam), PlayStation 5, Xbox Series X|S, Nintendo Switch · Xbox Game Pass day one
 
-I have followed **Grave Seasons** since the IGN China gameplay demo went up on Bilibili back in March, and I was at the store page the minute the **August 14, 2026** launch hit. It is the strangest thing to happen to the cozy-farming genre this year: a pixel-art Stardew-style farming sim — crops, fishing, mining, foraging, romance, festivals of small-town life — where **one of your neighbors is a supernatural serial killer**, and you have exactly one in-game year to figure out who.
+I have followed **Grave Seasons** since the IGN China 11-minute gameplay demo (*实机演示*) went up on Bilibili on March 30, and I went hands-on with the show build at PAX East before the delay news broke. It is the strangest thing to happen to the cozy-farming genre this year: a pixel-art Stardew-style farming sim — crops, fishing, mining, foraging, romance, festivals of small-town life — where **one of your neighbors is a supernatural serial killer**, and you have exactly one in-game year to figure out who.
 
-This guide is built from the launch build, the official trailer and the IGN China *实机演示* (11-minute gameplay demo) on Bilibili, plus the press walkthroughs that followed release. It covers what Grave Seasons actually is, how the killer system works, the farm-by-day / investigate-by-night loop, every area of Ashenridge, how to protect the next victim, the 12 romance candidates, and an honest verdict on whether the "cozy horror" pitch delivers.
+**One important note before you read on:** this is a **pre-release preview guide**, not a review of the finished game. Grave Seasons was originally scheduled for **August 14, 2026**, but on **June 5, 2026** developer Perfect Garbage announced the game had been delayed to an undated **Fall 2026** window — the same announcement cancelled the planned June 15 public demo. The game is not out yet, so everything below is built from what's actually playable or shown so far: the official trailer, the IGN China 11-minute gameplay demo on Bilibili, the **PAX East 2026 hands-on demo** (the first public build), and the **Summer Game Fest 2026 press preview**, cross-checked against the Steam store page and developer interviews. I'll flag which details are confirmed by the developer and which come from preview hands-ons.
 
 ![Grave Seasons hero — an idyllic pixel-art farm under a blood-red sky, farming by day while a dark mystery stalks Ashenridge by night](images/grave-seasons-hero.webp)
 
@@ -24,22 +24,23 @@ This guide is built from the launch build, the official trailer and the IGN Chin
 |:-----|:-------|
 | **Developer** | Perfect Garbage (co-founders Emmett Nahil & Son M) |
 | **Publisher** | Blumhouse Games |
-| **Release date** | August 14, 2026 — PC (Steam), PS5, Xbox Series X\|S, Nintendo Switch |
+| **Release window** | Fall 2026 — originally August 14, 2026, delayed June 5, 2026 (no exact date yet) |
+| **Platforms** | PC (Steam), PS5, Xbox Series X\|S, Nintendo Switch |
 | **Game Pass** | Included day one on Xbox Game Pass |
 | **Genre** | Isometric pixel-art farming / life sim · murder mystery · supernatural horror |
 | **Setting** | Ashenridge — a mountainside town; your farm is at the very top |
 | **Playtime core** | One in-game year per playthrough |
 | **Residents** | 30+ townsfolk, 70+ interior locations |
 | **Major areas** | 7 — Your Farm, The Mountainside, The Forest, Local District, Commercial District, Coast & Docks, The Mines |
-| **Romance** | 12 romanceable characters — some may be the killer |
+| **Romance** | Around a dozen romanceable characters (per preview reports) — some may be the killer |
 | **Items** | 600+ to collect, discover or craft |
 | **Killer** | Randomly assigned from a pool of candidates every playthrough |
-| **Mode** | Single-player (Windows PC) |
-| **Announced** | June 2024; release date revealed at the March 2026 Xbox Partner Preview |
+| **Mode** | Single-player |
+| **Announced** | First shown June 2024; August 14 date revealed at the March 2026 Xbox Partner Preview (later delayed) |
 
 **The pitch in one line:** Stardew Valley if the town had a serial killer and the townsfolk were secretly monsters. You farm, you fish, you befriend and romance your neighbors — and you do all of it while investigating who among them is killing people after dark.
 
-> **First-person verdict, up front:** the killer gimmick is not a skin over a normal farming game — it changes how you play *everything*, because every relationship you build and every choice you make can keep someone alive or get them killed. I'll get into the numbers and the honest trade-offs at the end.
+> **First-person take, up front:** from what's playable so far, the killer gimmick is not a skin over a normal farming game — it changes how you play *everything*, because every relationship you build and every choice you make can keep someone alive or get them killed. I'll get into the numbers and the honest trade-offs at the end.
 
 ---
 
@@ -156,18 +157,18 @@ Here's where Grave Seasons goes somewhere almost no farming sim goes: **you can 
 - **The killer has a type.** Learning the killer's kill styles and target preferences lets you predict who is next, which turns protection from luck into strategy.
 - **Some victims can't be saved.** Not every death is preventable, and the game is honest about that. Characters dying unlocks its own storylines.
 
-![Protecting victims and romance in Grave Seasons — craft occult wards to save the next target while building relationships with all 12 romanceable candidates](images/protect-and-romance.webp)
+![Protecting victims and romance in Grave Seasons — craft occult wards to save the next target while building relationships with around a dozen romanceable candidates](images/protect-and-romance.webp)
 
 The "both sides" design shows in the romance system too. You can **romance the killer without knowing it**, and uncovering a character's hidden side while they're a killer — or while they're a victim — is a core part of the storytelling. The game's monsters aren't all villains; they're people with their own struggles in both forms, and some of them can change their fate.
 
 ---
 
-## Romance: 12 Candidates, Some of Them Killers
+## Romance: Around a Dozen Candidates, Some of Them Killers
 
 The social layer of Grave Seasons is standard-issue for the genre, but the stakes are anything but standard:
 
-- **12 romanceable characters** across Ashenridge's 30+ residents.
-- **Romance the killer?** Some of the 12 can be the killer in a given playthrough — which means you can unknowingly build a romance with the person murdering your neighbors.
+- **Around a dozen romanceable characters** across Ashenridge's 30+ residents — preview hands-ons consistently describe "wooing" a dozen or so of the townsfolk, though the developer hasn't pinned down an exact final roster yet.
+- **Romance the killer?** Some of the candidates can be the killer in a given playthrough — which means you can unknowingly build a romance with the person murdering your neighbors.
 - **Romance the victim?** Conversely, getting close to a target can be what saves them.
 - **Dual identities.** Major characters have monster forms that reflect their inner struggles, and the game explores whether you can reach the person beneath the monster — in either role.
 
@@ -177,7 +178,7 @@ For relationship building, expect the familiar farming-sim loop of **quests, gif
 
 ## Replayability: New Game+ and the Random Killer
 
-The single strongest argument for Grave Seasons' price is its replay structure, because the core mystery is randomized:
+The single strongest argument for Grave Seasons' design is its replay structure, because the core mystery is randomized:
 
 - **The killer is different every run.** Each playthrough draws a different supernatural serial killer from the pool of candidates, with their own campaign, motives, kill styles and targets. The "who is it?" question literally has a different answer each time.
 - **Your work carries over.** Progress and decisions are tracked from your previous year into the next playthrough — the game remembers what you did, and the town reflects it.
@@ -195,13 +196,13 @@ Every cozy game gets compared to Stardew Valley, and every horror-flavored farm 
 |:----------|:--------------|:---------------|:---------------------|
 | **Developer** | Perfect Garbage | ConcernedApe | Nippon Ichi Software (Yomawari team) |
 | **Publisher** | Blumhouse Games | ConcernedApe | NIS (JP launch) / NIS America (West) |
-| **Release** | Aug 14, 2026 | Feb 2016 | Jul 30, 2026 (JP) / Fall 2026 (West) |
-| **Price** | Steam regional pricing · on Game Pass | $14.99 | ¥8,200 (PS5/Switch 2/PC), ¥7,200 (Switch) |
+| **Release** | Fall 2026 (delayed from Aug 14) | Feb 2016 | Jul 30, 2026 (JP) / Fall 2026 (West) |
+| **Price** | TBD · day one Game Pass | $14.99 | ¥8,200 (PS5/Switch 2/PC), ¥7,200 (Switch) |
 | **Core loop** | Farm by day, investigate a serial killer by night | Farm, mine, fish, befriend | Farm by day, explore village secrets at night |
 | **Time pressure** | One in-game year | None (relaxed) | Village rules & night dangers |
 | **Killer / mystery** | Random supernatural serial killer every run | None | Haunted village with 8 taboo rules |
 | **Residents** | 30+, 70+ interiors | ~30+ NPCs | A village full of secrets |
-| **Romance** | 12 candidates (some are the killer) | 12 candidates + marriage | Romance + village life |
+| **Romance** | ~a dozen (some are the killer) | 12 candidates + marriage | Romance + village life |
 | **Collectibles** | 600+ items | Many | 80+ crops/flowers, 1,500+ craftables |
 | **Map** | 7 areas of one town | Valley + Ginger Island | One mountain village |
 | **Replayability** | Killer randomizes each playthrough | Mods & completionism | Story-driven |
@@ -240,8 +241,8 @@ Every cozy game gets compared to Stardew Valley, and every horror-flavored farm 
 ### What is Grave Seasons?
 A pixel-art farming and life sim from **Perfect Garbage**, published by **Blumhouse Games**, where you play an escaped convict settling in the town of **Ashenridge**. You farm, fish, mine, forge relationships — and investigate which resident is a **supernatural serial killer**, with one in-game year to unmask them.
 
-### When was Grave Seasons released?
-**August 14, 2026**, on **PC (Steam), PlayStation 5, Xbox Series X|S and Nintendo Switch**. It's included day one on **Xbox Game Pass**.
+### When does Grave Seasons release?
+**Fall 2026** on **PC (Steam), PlayStation 5, Xbox Series X|S and Nintendo Switch** — the original **August 14, 2026** date was delayed on **June 5, 2026**, and no exact replacement date has been announced yet. It's confirmed for day one on **Xbox Game Pass**.
 
 ### How does the killer work in Grave Seasons?
 Each playthrough randomly assigns one resident the role of supernatural serial killer, chosen from a pool of candidates. Every killer has their own campaign, motives, kill styles and targets, so the mystery is different on every run.
@@ -250,7 +251,7 @@ Each playthrough randomly assigns one resident the role of supernatural serial k
 One **in-game year** per playthrough, with a 24-hour day/night cycle. The year's outcome — who lived, who died, what you uncovered — is tallied, and your work carries into the next playthrough.
 
 ### Can you romance the killer in Grave Seasons?
-Yes. There are **12 romanceable characters**, and some of them can be the killer in a given playthrough — so you can build a relationship with the killer without knowing who they are.
+Yes. There are **around a dozen romanceable characters** (per preview hands-ons, the final roster isn't officially confirmed), and some of them can be the killer in a given playthrough — so you can build a relationship with the killer without knowing who they are.
 
 ### How do I protect victims in Grave Seasons?
 Craft **occult ward items** in your shed, identify the killer's likely targets by learning their kill patterns, and build relationships with potential victims — your choices determine who lives and who dies.
@@ -258,9 +259,9 @@ Craft **occult ward items** in your shed, identify the killer's likely targets b
 ### How many areas and residents are there?
 **Seven major areas** (Your Farm, The Mountainside, The Forest, Local District, Commercial District, Coast & Docks, and The Mines), **30+ residents**, **70+ interior locations**, and **600+ items** to collect, discover or craft.
 
-### Is Grave Seasons worth it in 2026?
-If the premise — a full farming sim where you investigate a randomized supernatural murder mystery with real consequences — appeals to you, it's the most distinctive cozy-adjacent game of the year. The random-killer structure gives it strong replay value, and being on **Game Pass** makes it easy to try risk-free. If you want a purely relaxed, stakes-free farm sim, this is deliberately not that.
+### Is Grave Seasons worth looking forward to in 2026?
+If the premise — a full farming sim where you investigate a randomized supernatural murder mystery with real consequences — appeals to you, it's shaping up to be the most distinctive cozy-adjacent game of the year. The random-killer structure gives it strong replay value, and day one **Game Pass** will make it easy to try risk-free when it lands. If you want a purely relaxed, stakes-free farm sim, this is deliberately not that.
 
 ---
 
-*Guide data gathered from the launch build (August 14, 2026), the official trailer and IGN China's 11-minute gameplay demo on Bilibili (实机演示, March 2026), the Steam store page, and press coverage including IGN, GosuGamers and a Polygon developer interview translated by 17173. Prices and details reflect launch week and may change with patches — always check the Steam page before buying.*
+*This is a pre-release preview guide. Source material: the official announcement trailer and the March 30, 2026 IGN China 11-minute gameplay demo (实机演示) on Bilibili, the PAX East 2026 hands-on demo (the first public playable build), Summer Game Fest 2026 press preview coverage, the Steam store page, and developer interviews — including a Polygon interview translated by 17173 on May 26, 2026. Grave Seasons was delayed from August 14 to an undated Fall 2026 window on June 5, 2026; details reflect the build as shown so far and may change before launch. The game is not yet priced on Steam (only wishlistable) — always check the Steam page before release.*

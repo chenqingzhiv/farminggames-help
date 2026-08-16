@@ -8,7 +8,7 @@ date: 2026-06-27
 
 ## 2026-08-17
 
-- ⚰️ New guide: **Grave Seasons Beginner's Guide** — Perfect Garbage × Blumhouse Games' cozy-horror farming sim where a supernatural serial killer hides among your neighbors: the escaped-convict story in Ashenridge, the one-year clock and random-killer system, the farm-by-day / investigate-by-night loop, seasonal crops &amp; occult crafting, all seven areas, protecting victims, and romance with 12 candidates (some of them killers) (5 WebP images)
+- ⚰️ New preview: **Grave Seasons Preview Guide** — Perfect Garbage × Blumhouse Games' cozy-horror farming sim (delayed from August 14 to Fall 2026) where a supernatural serial killer hides among your neighbors: the escaped-convict story in Ashenridge, the one-year clock and random-killer system, the farm-by-day / investigate-by-night loop, seasonal crops &amp; occult crafting, all seven areas, protecting victims, and romance with around a dozen candidates (some of them killers), based on the official trailer, the IGN China demo and the PAX East / Summer Game Fest show builds (5 WebP images)
 
 ## 2026-08-12
 

@@ -100,8 +100,8 @@ $(document).ready(function() {
 </tr>
 <tr>
     <td><strong>Grave Seasons</strong></td>
-    <td>Aug 14, 2026</td>
-    <td><span class="tag-released">Released</span></td>
+    <td>Fall 2026 (delayed from Aug 14)</td>
+    <td><span class="tag-upcoming">Fall 2026</span></td>
     <td>PC</td>
     <td>Farming / Horror</td>
     <td>Steam</td>

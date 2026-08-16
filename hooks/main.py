@@ -1093,7 +1093,7 @@ RELATED_GUIDES = {
 
     # ─── Grave Seasons ───
     "grave-seasons/": [
-        ("grave-seasons/beginners-guide/", "Beginner's Guide"),
+        ("grave-seasons/beginners-guide/", "Preview Guide"),
         ("village-in-the-shade/", "Village in the Shade Guides"),
         ("guides/best-farming-games-2026/", "Best Farming Games 2026"),
         ("tools/release-calendar/", "Upcoming Release Calendar"),

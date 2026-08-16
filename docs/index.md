@@ -264,11 +264,11 @@ date: 2026-06-27
 <div class="game-hero-card game-card-graveseasons" data-href="grave-seasons/" onclick="gameCardClick(event, 'grave-seasons/')">
 <div class="game-hero-card-inner">
 <div class="game-card-title"><a href="grave-seasons/" class="game-card-title-link">⚰️ Grave Seasons</a></div>
-<div class="game-card-sub">⚰️ Cozy Horror · New Launch</div>
-<p>Perfect Garbage × Blumhouse Games' farming sim where a supernatural serial killer hides among your 30+ neighbors. Farm by day, unmask the killer by night — one in-game year to solve it.</p>
+<div class="game-card-sub">⚰️ Cozy Horror · Coming Fall 2026</div>
+<p>Perfect Garbage × Blumhouse Games' farming sim where a supernatural serial killer hides among your 30+ neighbors. Farm by day, unmask the killer by night — one in-game year to solve it. Delayed from August 14 to Fall 2026.</p>
 <div class="game-card-links">
   <a href="grave-seasons/" class="game-card-link">📖 Full Guide</a>
-  <a href="grave-seasons/beginners-guide/" class="game-card-link">⚰️ Beginner's Guide</a>
+  <a href="grave-seasons/beginners-guide/" class="game-card-link">🕵️ Preview Guide</a>
 </div>
 </div>
 </div>
