@@ -205,6 +205,7 @@ Absolutely. Recipes give the biggest stat boosts in the game and speed up leveli
 - 🌾 [Stardew Valley Complete Game Guide](/stardew/) — the cozy-farming benchmark for crop calendars and profit loops
 - 🐾 [Palworld Guide](/palworld/) — creature collection, base building and defense
 - 🌿 [Fields of Mistria Guide](/fields-mistria/) — cozy farming, crops and romance
+- ⚰️ [Grave Seasons Guide](/grave-seasons/) — the cozy-horror farming sim coming Fall 2026
 - 🧸 [All Tiny Monster Haven Guides](/tiny-monster-haven/) — the hub
 
 ---

@@ -270,6 +270,7 @@ If the premise — a full farming sim where you investigate a randomized superna
 - 🌿 [Village in the Shade Guide](/village-in-the-shade/) — the other cozy-horror farming sim, now on shelves
 - 🏝️ [Coral Island Guide](/coral-island/) — festival calendar, forage maps, and a full crop-profit calculator
 - 🚜 [Farming Simulator 25 Guide](/farmingsim/) — production chains and crop-profit charts for the automated end of the genre
+- 👾 [Tiny Monster Haven Guide](/tiny-monster-haven/) — the other brand-new cozy monster-raising sim, out now
 - ⚰️ [All Grave Seasons Guides](/grave-seasons/) — the hub
 
 ---

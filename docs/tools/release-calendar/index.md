@@ -108,8 +108,8 @@ $(document).ready(function() {
 </tr>
 <tr>
     <td><strong>Tales of Seikyu</strong></td>
-    <td>2026 (EA)</td>
-    <td><span class="tag-upcoming">2026</span></td>
+    <td>Jun 11, 2026 (1.0, EA since 2025)</td>
+    <td><span class="tag-released">Released</span></td>
     <td>PC</td>
     <td>Farming / Yokai</td>
     <td>Steam</td>
