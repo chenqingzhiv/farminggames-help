@@ -1,6 +1,6 @@
 ---
 title: "Tales of Seikyu Beginner's Guide — Yokai Forms, First Season Tips & Money Making"
-description: "Complete Tales of Seikyu beginner's guide for 1.0. How the no-hoe yokai farming works, every form unlock (Boar, Slime, Tengu, Yuki-onna, Fox), a day-by-day first-season route, income comparisons (egg-to-mayonnaise, spice rocks, cooking vs fishing), romance and 20 marriage candidates, Fox Ruins survival, and hidden mechanics — with pro tips and an FAQ."
+description: "Complete Tales of Seikyu beginner's guide for 1.0. How the no-hoe yokai farming works, every form unlock (Boar, Slime, Tengu, Yuki-onna, Fox), a day-by-day first-season route, income comparisons (egg-to-mayonnaise, spice rocks, cooking vs fishing), romance and 20 romance candidates (1.0 promo), Fox Ruins survival, and hidden mechanics — with pro tips and an FAQ."
 date: 2026-08-20
 ---
 
@@ -27,13 +27,13 @@ This guide covers what I wish I knew before my first week: how the transformatio
 | **Developer / Publisher** | ACE Entertainment / Fireshine Games |
 | **Steam release** | June 11, 2026 (1.0) · Early Access from May 21, 2025 |
 | **Price** | $24.99 base · **$17.49 during the launch-week discount** |
-| **Rating** | "Very Positive" (~89% positive in the launch window) |
+| **Rating** | "Very Positive" (~85–87% positive in the launch window) |
 | **Forms** | 5 transformation forms: Boar · Slime · Tengu · Yuki-onna · Fox |
-| **Romance** | **20 marriage candidates** (up from 6 in Early Access) |
-| **Fox Ruins** | 86-room dungeon — three forms are locked behind its bosses |
+| **Romance** | 20 romance candidates (1.0 promo; ~18 confirmed marriageable) — up from 6 in Early Access |
+| **Fox Ruins** | 75-room dungeon (1.0) — three forms are locked behind its bosses |
 | **Genre** | Cozy farming · life sim · yokai RPG · romance |
 
-The single biggest difference from Stardew-style games is the tool system. **There is no hoe, no watering can, no axe.** Everything on the farm runs through your yokai transformations, and once that clicks, the whole game opens up. The other surprise is that the game is *not* small — Fox Ruins alone has 86 rooms in 1.0, and the endgame (marriage, ranch facilities, 75+ completion achievements) is a genuinely long project.
+The single biggest difference from Stardew-style games is the tool system. **There is no hoe, no watering can, no axe.** Everything on the farm runs through your yokai transformations, and once that clicks, the whole game opens up. The other surprise is that the game is *not* small — Fox Ruins alone has 75 rooms in 1.0, and the endgame (marriage, ranch facilities, the 75-room *Move Over, Yohji* achievement) is a genuinely long project.
 
 ---
 
@@ -106,7 +106,7 @@ Field expansion is a long game, not a day-one purchase: the **first expansion is
 
 ## Romance & Relationships — Start From Day One
 
-The 1.0 update turned romance from a side feature into a headline one: **20 marriage candidates** (up from just 6 in Early Access), full heart events to level 10, and marriage unlocks at the **tenth heart event**, after which your spouse helps around the farm.
+The 1.0 update turned romance from a side feature into a headline one: **20 romance candidates** per the 1.0 promo (community guides confirm around 18 as marriageable), up from just 6 in Early Access. Heart events run to level 10, and marriage unlocks at the **tenth heart event**, after which your spouse helps around the farm.
 
 - **Two gifts per week per villager, max.** The game enforces this, so plan ahead. If a birthday is coming, gift once in the morning and save the second slot for a higher-value birthday item — two low-value gifts early in the day close the window.
 - **White rocks are a universal fallback** that most villagers appreciate. The one exception: **Hephaestus prefers gold ore.** Craftspeople like Sasaki respond better to raw materials matching their trade (wood and stone over cooked food).
@@ -124,7 +124,7 @@ Fox Ruins is not optional. It's where **three of your five forms come from** (Sl
 
 - **Shiny gems are a trap.** A glowing gem embedded in a ruins wall is a combat encounter with a significantly stronger enemy. Don't interact until you've leveled Boar or Slime form to at least **level 3**.
 - **Night monsters are a different category.** Wanyudo (the wheeled fire monster) can spawn **twice per day** in ruins and wilderness between **midnight and 2am**. If you're farming or exploring at night, expect interruptions.
-- **The ruins are 86 rooms in 1.0.** Full completion is a long-form project, not a first-week task. Treat it as a secondary activity to your daily farm loop.
+- **The ruins are 75 rooms in 1.0** (post-launch updates push it toward ~95). Full completion is a long-form project, not a first-week task. Treat it as a secondary activity to your daily farm loop.
 - **Restore relic waypoints as you find them.** They're teleport points that save you from repeating long walks into the dungeon.
 
 ---
@@ -166,7 +166,7 @@ A handful of systems that most new players discover late — or don't discover a
 ## FAQ
 
 ### Is Tales of Seikyu out of Early Access?
-Yes. The **1.0 version launched June 11, 2026** on Steam, adding Chapter 3, the marriage system, 20 romance candidates, yokai-powered farm automation, festivals, pets and ranch animals, and a crafting UI overhaul.
+Yes. The **1.0 version launched June 11, 2026** on Steam, adding Chapter 3, the marriage system, 20 romance candidates (per 1.0 promo), yokai-powered farm automation, festivals, pets and ranch animals, and a crafting UI overhaul.
 
 ### How do I unlock all yokai forms in Tales of Seikyu?
 Boar unlocks through the main story. **Slime** comes from defeating **Anji**, the first Tanuki boss in Fox Ruins; **Tengu** from defeating **Fujiki**, the second. **Yuki-onna** unlocks deeper in the ruins, and **Fox** is the final form requiring the four earlier ones.
@@ -175,7 +175,7 @@ Boar unlocks through the main story. **Slime** comes from defeating **Anji**, th
 You don't use a hoe. Switch to **Boar form** and use the ground slam — it tills soil, chops trees, and breaks rocks in the same move. The same form handles clearing and gathering.
 
 ### How many romance candidates are in Tales of Seikyu 1.0?
-**20 candidates** (up from 6 in Early Access). Marriage becomes available after the **10th heart event**, and your spouse helps on the farm afterward.
+**20 candidates per the 1.0 promo** (up from 6 in Early Access; guides confirm around 18 marriageable). Marriage becomes available after the **10th heart event**, and your spouse helps on the farm afterward.
 
 ### What's the best early money maker?
 **Egg-to-mayonnaise conversion**: each egg is 20g raw but 200g processed — a tenfold increase. Spice rocks (104g per four rocks from the smelter) and cooking (~22–25% margins) round out a solid first-season income. Fishing is weak at ~500g per session.
@@ -187,7 +187,7 @@ Only once your income and stamina are stable. The **first expansion is free**, t
 **White rocks work universally** except for Hephaestus, who prefers gold ore. Craftspeople like Sasaki prefer raw materials matching their trade. Each villager accepts **two gifts per week** max.
 
 ### Is the Fox Ruins dungeon huge?
-Yes — **86 rooms** in the 1.0 map, with bosses that unlock Slime, Tengu and Yuki-onna. Treat it as a long-term secondary activity, not a first-week task.
+Yes — **75 rooms** in the 1.0 map (post-launch updates push it toward ~95), with bosses that unlock Slime, Tengu and Yuki-onna. Treat it as a long-term secondary activity, not a first-week task.
 
 ---
 

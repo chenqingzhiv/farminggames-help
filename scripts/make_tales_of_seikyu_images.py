@@ -218,7 +218,7 @@ def make_income():
 def make_ruins():
     img = Image.new("RGB", (W, H), BG)
     d = ImageDraw.Draw(img)
-    header(d, "Fox Ruins — 86 Rooms & Form Bosses", "Bring food, a weapon & a waypoint. These catches surprise everyone", DPURPLE)
+    header(d, "Fox Ruins — 75 Rooms & Form Bosses", "Bring food, a weapon & a waypoint. These catches surprise everyone", DPURPLE)
     # left panel: must-knows
     rounded(d, (20, 92, 388, 412), 10, PANEL)
     d.text((34, 104), "What catches you off guard", font=F_H, fill=VERMILION)
