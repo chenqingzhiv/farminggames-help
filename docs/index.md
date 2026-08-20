@@ -332,9 +332,18 @@ date: 2026-06-27
 <h2 class="section-title-home">Latest Guides <span class="sub">· updated weekly</span></h2>
 
 <div class="article-preview-card">
+  <div class="article-thumb" style="background:radial-gradient(ellipse at 50% 30%, rgba(232,121,249,0.35), transparent 60%);"></div>
+  <div class="article-body-home">
+    <h4>🦊 <a href="tales-of-seikyu/">Tales of Seikyu Beginner's Guide — Yokai Island Farm Sim (1.0)</a></h4>
+    <p>The brand-new 1.0 cozy farm sim: the no-hoe transformation system, every yokai form unlock in order, a day-by-day first-season route, egg-to-mayonnaise income loops, all 20 romance candidates, and Fox Ruins survival tips.</p>
+    <div class="article-meta"><span>📅 Aug 20, 2026</span><span>📖 14 min read</span><span class="badge-new">NEW</span></div>
+  </div>
+</div>
+
+<div class="article-preview-card">
   <div class="article-thumb" style="background:radial-gradient(ellipse at 50% 30%, rgba(124,58,237,0.35), transparent 60%);"></div>
   <div class="article-body-home">
-    <h4>👾 Tiny Monster Haven Beginner's Guide — Idle Farming With 50+ Monsters</h4>
+    <h4>👾 <a href="tiny-monster-haven/">Tiny Monster Haven Beginner's Guide — Idle Farming With 50+ Monsters</a></h4>
     <p>Digging Dino's cozy idle creature collector: pick your starter, the crop-to-stats feeding loop, elemental Haven jobs, cooking recipes, turn-based battles &amp; Monster Essence, and Astral variants.</p>
     <div class="article-meta"><span>📅 Aug 12, 2026</span><span>📖 12 min read</span><span class="badge-new">NEW</span></div>
   </div>
@@ -343,7 +352,7 @@ date: 2026-06-27
 <div class="article-preview-card">
   <div class="article-thumb" style="background:radial-gradient(ellipse at 50% 30%, rgba(96,140,88,0.35), transparent 60%);"></div>
   <div class="article-body-home">
-    <h4>🚀 Fields of Mistria 1.0 Update Guide — Marriage, Children &amp; Everything New</h4>
+    <h4>🚀 <a href="fields-mistria/1.0-update/">Fields of Mistria 1.0 Update Guide — Marriage, Children &amp; Everything New</a></h4>
     <p>The full release is here: 10-heart romance and full weddings, optional children, the completed town repair story, museum 100% completion, the Big Chicken mount, new perks and languages — plus a first-season quick-start.</p>
     <div class="article-meta"><span>📅 Aug 10, 2026</span><span>📖 12 min read</span></div>
   </div>
@@ -352,7 +361,7 @@ date: 2026-06-27
 <div class="article-preview-card">
   <div class="article-thumb" style="background:radial-gradient(ellipse at 50% 30%, rgba(184,134,11,0.35), transparent 60%);"></div>
   <div class="article-body-home">
-    <h4>🏺 Ancient Farm Beginner's Guide — First Year on the Nile</h4>
+    <h4>🏺 <a href="ancient-farm/">Ancient Farm Beginner's Guide — First Year on the Nile</a></h4>
     <p>Zero-automation Egyptian farming: the three seasons (Peret, Shemu, Akhet), the workshop tool chain, merchant price mechanics, and the two-cows-to-cooked-beef money pipeline.</p>
     <div class="article-meta"><span>📅 Aug 9, 2026</span><span>📖 20 min read</span></div>
   </div>
@@ -361,7 +370,7 @@ date: 2026-06-27
 <div class="article-preview-card">
   <div class="article-thumb" style="background:radial-gradient(ellipse at 50% 30%, rgba(140,178,112,0.3), transparent 60%);"></div>
   <div class="article-body-home">
-    <h4>🌱 Doloc Town Beginner's Guide — Farm the Wasteland</h4>
+    <h4>🌱 <a href="doloc-town/">Doloc Town Beginner's Guide — Farm the Wasteland</a></h4>
     <p>Acid rain, scorching sun, and drones: the 4-month calendar, first-season crops, the Salmon Festival fishing payday, and the greenhouse unlock chain.</p>
     <div class="article-meta"><span>📅 Aug 9, 2026</span><span>📖 15 min read</span></div>
   </div>
@@ -370,7 +379,7 @@ date: 2026-06-27
 <div class="article-preview-card">
   <div class="article-thumb"></div>
   <div class="article-body-home">
-    <h4>🌷 Stardew Valley Spring Guide — Year 1</h4>
+    <h4>🌷 <a href="stardew/spring-guide/">Stardew Valley Spring Guide — Year 1</a></h4>
     <p>Maximize your first spring with optimized planting, fishing, and mining strategies for the best start.</p>
     <div class="article-meta"><span>📅 Jun 21, 2026</span><span>📖 12 min read</span></div>
   </div>
@@ -379,7 +388,7 @@ date: 2026-06-27
 <div class="article-preview-card">
   <div class="article-thumb" style="background:radial-gradient(ellipse at 50% 30%, rgba(251,191,36,0.2), transparent 60%);"></div>
   <div class="article-body-home">
-    <h4>🚜 FS25 — Best Starting Machinery Loadout</h4>
+    <h4>🚜 <a href="farmingsim/machinery/">FS25 — Best Starting Machinery Loadout</a></h4>
     <p>Which tractors, harvesters, and tools give the best bang for your buck in the early game.</p>
     <div class="article-meta"><span>📅 Jun 19, 2026</span><span>📖 8 min read</span></div>
   </div>
@@ -388,7 +397,7 @@ date: 2026-06-27
 <div class="article-preview-card">
   <div class="article-thumb" style="background:radial-gradient(ellipse at 40% 60%, rgba(168,85,247,0.2), transparent 60%);"></div>
   <div class="article-body-home">
-    <h4>🏹 Palia — Beginner's Guide to Your First Week</h4>
+    <h4>🏹 <a href="palia/guide/">Palia — Beginner's Guide to Your First Week</a></h4>
     <p>What to do in your first 7 days: fishing, farming, hunting, and building relationships.</p>
     <div class="article-meta"><span>📅 Jun 17, 2026</span><span>📖 10 min read</span></div>
   </div>
