@@ -167,10 +167,11 @@ date: 2026-06-27
 <div class="game-hero-card game-card-starsand" data-href="starsand-island/" onclick="gameCardClick(event, 'starsand-island/')">
 <div class="game-hero-card-inner">
 <div class="game-card-title"><a href="starsand-island/" class="game-card-title-link">🏝️ Starsand Island</a></div>
-<div class="game-card-sub">✨ New in 2026</div>
-<p>Ghibli-style Chinese farming sim — 40+ animal subspecies, deep gene breeding, and 8 adoptable wild pets.</p>
+<div class="game-card-sub">🚀 1.0 out now · Aug 18</div>
+<p>Ghibli-style Chinese farming sim — 4-player co-op, 40+ animal subspecies, deep gene breeding, and 8 adoptable wild pets.</p>
 <div class="game-card-links">
   <a href="starsand-island/" class="game-card-link">📖 Full Guide</a>
+  <a href="starsand-island/1.0-update/" class="game-card-link">🚀 1.0 Update</a>
   <a href="starsand-island/animals/" class="game-card-link">🐾 Animals &amp; Pets</a>
 </div>
 </div>
@@ -330,6 +331,15 @@ date: 2026-06-27
 <hr>
 
 <h2 class="section-title-home">Latest Guides <span class="sub">· updated weekly</span></h2>
+
+<div class="article-preview-card">
+  <div class="article-thumb" style="background:radial-gradient(ellipse at 50% 30%, rgba(56,189,248,0.35), transparent 60%);"></div>
+  <div class="article-body-home">
+    <h4>🚀 <a href="starsand-island/1.0-update/">Starsand Island 1.0 Update Guide — 4-Player Co-op, 19 New NPC Storylines & Console Launch</a></h4>
+    <p>The full release is here (Aug 18): 4-player online co-op and the multiplayer shop, 19 new NPC relationship quests, 14 romanceable characters with new dating activities, the Autumn Pumpkin Carnival, EA save carryover, and a pre-launch checklist.</p>
+    <div class="article-meta"><span>📅 Aug 18, 2026</span><span>📖 12 min read</span><span class="badge-new">NEW</span></div>
+  </div>
+</div>
 
 <div class="article-preview-card">
   <div class="article-thumb" style="background:radial-gradient(ellipse at 50% 30%, rgba(232,121,249,0.35), transparent 60%);"></div>
