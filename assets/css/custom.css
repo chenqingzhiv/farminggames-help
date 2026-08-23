@@ -496,6 +496,10 @@ a.game-hero-card .game-card-link,
   border-left: 4px solid #a43a43;
 }
 .game-card-graveseasons .game-card-title { color: #8f2f36; }
+.game-card-gogo .game-hero-card-inner {
+  border-left: 4px solid #10b981;
+}
+.game-card-gogo .game-card-title { color: #059669; }
 
 .game-card-title {
   font-size: 1.2rem;
