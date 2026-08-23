@@ -176,7 +176,7 @@ $(document).ready(function() {
 
 | Game | Date | Verdict |
 |:-----|:-----|:--------|
-| **Go-Go Town!** | May 2026 | Town building + farming, very polished |
+| **Go-Go Town!** | Jul 16, 2026 (1.0) | Town building + farming, very polished |
 | **Everafter Falls** | Apr 2026 | Stardew-like with card combat system |
 | **Little Nemo** | Jan 2026 | Platformer with cozy vibes |
 

@@ -36,7 +36,7 @@ date: 2026-06-27
 
 <hr>
 
-<h2 class="section-title-home">Featured Games <span class="sub">· 17 titles</span></h2>
+<h2 class="section-title-home">Featured Games <span class="sub">· 18 titles</span></h2>
 
 <div class="game-hero-card game-card-stardew" data-href="stardew/" onclick="gameCardClick(event, 'stardew/')">
 <div class="game-hero-card-inner">
@@ -173,6 +173,18 @@ date: 2026-06-27
   <a href="starsand-island/" class="game-card-link">📖 Full Guide</a>
   <a href="starsand-island/1.0-update/" class="game-card-link">🚀 1.0 Update</a>
   <a href="starsand-island/animals/" class="game-card-link">🐾 Animals &amp; Pets</a>
+</div>
+</div>
+</div>
+
+<div class="game-hero-card game-card-gogo" data-href="go-go-town/" onclick="gameCardClick(event, 'go-go-town/')">
+<div class="game-hero-card-inner">
+<div class="game-card-title"><a href="go-go-town/" class="game-card-title-link">🏘️ Go-Go Town!</a></div>
+<div class="game-card-sub">🏘️ Cozy City Builder · 1.0 Out Now</div>
+<p>Prideful Sloth's cozy town-builder + farming sim — run a derelict town for TownCo, recruit residents, hire workers, and automate your production lines. Online co-op up to 4 players.</p>
+<div class="game-card-links">
+  <a href="go-go-town/" class="game-card-link">📖 Full Guide</a>
+  <a href="go-go-town/beginners-guide/" class="game-card-link">🚀 Beginner's Guide</a>
 </div>
 </div>
 </div>
@@ -331,6 +343,15 @@ date: 2026-06-27
 <hr>
 
 <h2 class="section-title-home">Latest Guides <span class="sub">· updated weekly</span></h2>
+
+<div class="article-preview-card">
+  <div class="article-thumb" style="background:radial-gradient(ellipse at 50% 30%, rgba(16,185,129,0.35), transparent 60%);"></div>
+  <div class="article-body-home">
+    <h4>🏘️ <a href="go-go-town/beginners-guide/">Go-Go Town! Beginner's Guide — First Week Tips, Town Goals & Automation (1.0)</a></h4>
+    <p>Prideful Sloth's cozy city-builder + farming sim launched 1.0 on July 16: the TownCo core loop, the Town Goals tutorial, EGO Tech unlock order, resident recruiting (recruit ≠ hire), shop worker occupations, when to buy your first courier, and first-week money making.</p>
+    <div class="article-meta"><span>📅 Aug 24, 2026</span><span>📖 13 min read</span><span class="badge-new">NEW</span></div>
+  </div>
+</div>
 
 <div class="article-preview-card">
   <div class="article-thumb" style="background:radial-gradient(ellipse at 50% 30%, rgba(56,189,248,0.35), transparent 60%);"></div>
