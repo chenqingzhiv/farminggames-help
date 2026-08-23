@@ -197,6 +197,7 @@ Yes — **75 rooms** in the 1.0 map (post-launch updates push it toward ~95), wi
 - ✨ [Fields of Mistria Guide](/fields-mistria/) — another 2026 farming sim with romance and dungeons
 - 🏝️ [Starsand Island Guide](/starsand-island/) — island farming, animals and community
 - 👾 [Tiny Monster Haven Beginner's Guide](/tiny-monster-haven/) — the cozy creature-collector farming sim
+- 🏘️ [Go-Go Town! Beginner's Guide](/go-go-town/) — the cozy city-builder + farming sim that launched 1.0 in July 2026
 - ⚰️ [Grave Seasons Guide](/grave-seasons/) — the cozy-horror farming sim coming Fall 2026
 
 ---
