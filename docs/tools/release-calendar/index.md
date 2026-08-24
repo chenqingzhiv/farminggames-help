@@ -115,6 +115,14 @@ $(document).ready(function() {
     <td>Steam</td>
 </tr>
 <tr>
+    <td><strong>Tiny Eden</strong></td>
+    <td>Sep 7, 2026 (free demo now)</td>
+    <td><span class="tag-upcoming">Sep 2026</span></td>
+    <td>PC</td>
+    <td>Cozy Farming / Indoor Gardening</td>
+    <td>Steam</td>
+</tr>
+<tr>
     <td><strong>Witchbrook</strong></td>
     <td>2026</td>
     <td><span class="tag-upcoming">2026</span></td>

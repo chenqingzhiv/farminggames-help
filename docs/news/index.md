@@ -6,6 +6,10 @@ date: 2026-06-27
 
 # 📰 Update Log
 
+## 2026-08-24
+
+- 🌿 New preview: **Tiny Eden Preview Guide** — the cozy indoor farming sim from Bajka Games × Digital Vortex Entertainment, releasing September 7, 2026 (free demo now, ~91% positive early demo reviews). Turn a bare apartment in a near-future (2050) megacity into an indoor garden: the realistic growing system (soil chemistry, water amounts, indoor temperature, distinct growth phases), the grow-cook-sell-and-deliver loop, the DIY Club reputation system, windowsill-to-rooftop expansion, irrigation automation and your cat, decoration, and a data comparison vs other cozy farming sims — based on the official trailer, the Steam demo, press announcements and a 31-minute Chinese community playthrough on Bilibili (5 WebP images)
+
 ## 2026-08-17
 
 - ⚰️ New preview: **Grave Seasons Preview Guide** — Perfect Garbage × Blumhouse Games' cozy-horror farming sim (delayed from August 14 to Fall 2026) where a supernatural serial killer hides among your neighbors: the escaped-convict story in Ashenridge, the one-year clock and random-killer system, the farm-by-day / investigate-by-night loop, seasonal crops &amp; occult crafting, all seven areas, protecting victims, and romance with around a dozen candidates (some of them killers), based on the official trailer, the IGN China demo and the PAX East / Summer Game Fest show builds (5 WebP images)
