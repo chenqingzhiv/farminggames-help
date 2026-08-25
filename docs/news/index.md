@@ -6,6 +6,10 @@ date: 2026-06-27
 
 # 📰 Update Log
 
+## 2026-08-26
+
+- 👁️ New preview: **Welcome to Elderfield Preview Guide** — Chris Cote × Kwalee's cozy horror farming RPG, releasing September 10, 2026 (free demo now, ~96% "Overwhelmingly Positive" on Steam). Farm the strange in a town where the abnormal is the normal: normal crops growing beside teeth and eyeballs, tentacled cattle, unruly tentacles to cut back, the d6 dice stakes on everyday tasks (trash-can gambles, fights from grass-cutting, the bath that resets monsters, sleep that can end or start a curse), turn-based combat with Action Points and the dead-mall dungeon, befriending or marrying the odd townsfolk, cozy vs hard difficulty, and a data comparison vs other cozy farming sims — based on the official trailer, the free Steam demo, press announcements and a Chinese community playthrough on Bilibili (5 WebP images)
+
 ## 2026-08-24
 
 - 🌿 New preview: **Tiny Eden Preview Guide** — the cozy indoor farming sim from Bajka Games × Digital Vortex Entertainment, releasing September 7, 2026 (free demo now, ~91% positive early demo reviews). Turn a bare apartment in a near-future (2050) megacity into an indoor garden: the realistic growing system (soil chemistry, water amounts, indoor temperature, distinct growth phases), the grow-cook-sell-and-deliver loop, the DIY Club reputation system, windowsill-to-rooftop expansion, irrigation automation and your cat, decoration, and a data comparison vs other cozy farming sims — based on the official trailer, the Steam demo, press announcements and a 31-minute Chinese community playthrough on Bilibili (5 WebP images)

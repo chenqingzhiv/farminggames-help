@@ -1204,6 +1204,15 @@ RELATED_GUIDES = {
         ("about/", "About Farming Games Help"),
         ("guides/best-gaming-gear/", "Best Gaming Gear"),
     ],
+
+    # ─── Welcome to Elderfield ───
+    "welcome-to-elderfield/": [
+        ("welcome-to-elderfield/beginners-guide/", "Preview Guide"),
+        ("grave-seasons/", "Grave Seasons Preview Guide"),
+        ("village-in-the-shade/", "Village in the Shade Guide"),
+        ("go-go-town/", "Go-Go Town! Beginner's Guide"),
+        ("stardew/", "Stardew Valley Complete Guide"),
+    ],
 }
 
 

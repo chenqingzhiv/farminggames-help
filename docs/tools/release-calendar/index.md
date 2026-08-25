@@ -123,6 +123,14 @@ $(document).ready(function() {
     <td>Steam</td>
 </tr>
 <tr>
+    <td><strong>Welcome to Elderfield</strong></td>
+    <td>Sep 10, 2026 (free demo now)</td>
+    <td><span class="tag-upcoming">Sep 2026</span></td>
+    <td>PC</td>
+    <td>Cozy Horror / Farming RPG</td>
+    <td>Steam</td>
+</tr>
+<tr>
     <td><strong>Witchbrook</strong></td>
     <td>2026</td>
     <td><span class="tag-upcoming">2026</span></td>

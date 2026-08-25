@@ -114,3 +114,6 @@ Browse all guides organized by game.
 
 ### Tiny Monster Haven
 - [👾 Beginner's Guide](../tiny-monster-haven/beginners-guide.md) — Idle desktop creature collector, choosing & hatching your starter, the crop-to-stats feeding loop, elemental Haven jobs, cooking recipes, turn-based battles & Monster Essence, Astral variants
+
+### Welcome to Elderfield
+- [🌙 Preview Guide](../welcome-to-elderfield/beginners-guide.md) — Cozy horror farming RPG (Sept 10, 2026), the farm-the-strange loop (corn and pumpkins beside teeth and eyeballs, tentacled cattle, unruly tentacles), d6 dice stakes on everyday tasks, turn-based combat with Action Points and the dead-mall dungeon, befriending or marrying the odd townsfolk, cozy vs hard difficulty

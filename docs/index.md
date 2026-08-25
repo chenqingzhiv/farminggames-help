@@ -36,7 +36,7 @@ date: 2026-06-27
 
 <hr>
 
-<h2 class="section-title-home">Featured Games <span class="sub">· 18 titles</span></h2>
+<h2 class="section-title-home">Featured Games <span class="sub">· 19 titles</span></h2>
 
 <div class="game-hero-card game-card-stardew" data-href="stardew/" onclick="gameCardClick(event, 'stardew/')">
 <div class="game-hero-card-inner">
@@ -185,6 +185,18 @@ date: 2026-06-27
 <div class="game-card-links">
   <a href="go-go-town/" class="game-card-link">📖 Full Guide</a>
   <a href="go-go-town/beginners-guide/" class="game-card-link">🚀 Beginner's Guide</a>
+</div>
+</div>
+</div>
+
+<div class="game-hero-card game-card-elderfield" data-href="welcome-to-elderfield/" onclick="gameCardClick(event, 'welcome-to-elderfield/')">
+<div class="game-hero-card-inner">
+<div class="game-card-title"><a href="welcome-to-elderfield/" class="game-card-title-link">👁️ Welcome to Elderfield</a></div>
+<div class="game-card-sub">👁️ Cozy Horror · Sept 10, 2026</div>
+<p>Chris Cote × Kwalee's cozy horror farming RPG — grow corn and pumpkins beside teeth and eyeballs, cut back the tentacles, dodge the d6 dice, and befriend the odd townsfolk. Free demo now.</p>
+<div class="game-card-links">
+  <a href="welcome-to-elderfield/" class="game-card-link">📖 Full Guide</a>
+  <a href="welcome-to-elderfield/beginners-guide/" class="game-card-link">🌙 Preview Guide</a>
 </div>
 </div>
 </div>
@@ -345,11 +357,20 @@ date: 2026-06-27
 <h2 class="section-title-home">Latest Guides <span class="sub">· updated weekly</span></h2>
 
 <div class="article-preview-card">
+  <div class="article-thumb" style="background:radial-gradient(ellipse at 50% 30%, rgba(130,96,168,0.4), transparent 60%);"></div>
+  <div class="article-body-home">
+    <h4>👁️ <a href="welcome-to-elderfield/beginners-guide/">Welcome to Elderfield Preview Guide — Cozy Horror Farming, the Strange Crops & the Dead Mall</a></h4>
+    <p>Chris Cote × Kwalee's cozy horror farming RPG launches Sept 10: the farm-the-strange loop (corn and pumpkins beside teeth and eyeballs, tentacled cattle), the d6 dice stakes on everyday tasks, turn-based combat with Action Points and the dead-mall dungeon, befriending or marrying the odd townsfolk, and cozy vs hard difficulty.</p>
+    <div class="article-meta"><span>📅 Aug 26, 2026</span><span>📖 13 min read</span><span class="badge-new">NEW</span></div>
+  </div>
+</div>
+
+<div class="article-preview-card">
   <div class="article-thumb" style="background:radial-gradient(ellipse at 50% 30%, rgba(16,185,129,0.35), transparent 60%);"></div>
   <div class="article-body-home">
     <h4>🏘️ <a href="go-go-town/beginners-guide/">Go-Go Town! Beginner's Guide — First Week Tips, Town Goals & Automation (1.0)</a></h4>
     <p>Prideful Sloth's cozy city-builder + farming sim launched 1.0 on July 16: the TownCo core loop, the Town Goals tutorial, EGO Tech unlock order, resident recruiting (recruit ≠ hire), shop worker occupations, when to buy your first courier, and first-week money making.</p>
-    <div class="article-meta"><span>📅 Aug 24, 2026</span><span>📖 13 min read</span><span class="badge-new">NEW</span></div>
+    <div class="article-meta"><span>📅 Aug 24, 2026</span><span>📖 13 min read</span></div>
   </div>
 </div>
 
