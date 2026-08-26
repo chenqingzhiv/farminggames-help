@@ -1,0 +1,3092 @@
+[
+  {
+    "slug": "beginners-guide",
+    "title": "Ancient Farm Beginner's Guide — Seasons, Tool Chain, Merchant & Livestock",
+    "game": "ancient-farm",
+    "url": "/ancient-farm/beginners-guide/",
+    "keywords": [
+      "ancient",
+      "farm",
+      "beginner",
+      "seasons",
+      "tool",
+      "chain"
+    ],
+    "updated": "2026-08-09",
+    "path": "docs/ancient-farm/beginners-guide.md"
+  },
+  {
+    "slug": "index",
+    "title": "Ancient Farm (古农庄) Guides",
+    "game": "ancient-farm",
+    "url": "/ancient-farm/",
+    "keywords": [
+      "ancient",
+      "farm",
+      "zero",
+      "automation",
+      "egyptian",
+      "farming"
+    ],
+    "updated": "2026-08-09",
+    "path": "docs/ancient-farm/index.md"
+  },
+  {
+    "slug": "beginners-guide",
+    "title": "Your Big, Cute Monster Farm Beginner's Guide — Idle Farming, Monster Quality, Fusion & Crop Mutation",
+    "game": "big-cute-monster-farm",
+    "url": "/big-cute-monster-farm/beginners-guide/",
+    "keywords": [
+      "big",
+      "cute",
+      "monster",
+      "farm",
+      "beginner",
+      "idle"
+    ],
+    "updated": "2026-08-07",
+    "path": "docs/big-cute-monster-farm/beginners-guide.md"
+  },
+  {
+    "slug": "index",
+    "title": "Your Big, Cute Monster Farm (幻兽大农场) Guides",
+    "game": "big-cute-monster-farm",
+    "url": "/big-cute-monster-farm/",
+    "keywords": [
+      "big",
+      "cute",
+      "monster",
+      "farm",
+      "idle",
+      "farming"
+    ],
+    "updated": "2026-08-07",
+    "path": "docs/big-cute-monster-farm/index.md"
+  },
+  {
+    "slug": "animals",
+    "title": "Coral Island — Complete Animal Husbandry Guide (Coop/Barn/Pets/Quality/Profit)",
+    "game": "coral-island",
+    "url": "/coral-island/animals/",
+    "keywords": [
+      "coral",
+      "island",
+      "animal",
+      "husbandry",
+      "coop",
+      "barn"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/coral-island/animals.md"
+  },
+  {
+    "slug": "artisan",
+    "title": "Coral Island — Complete Artisan Equipment & Processing Profit Guide",
+    "game": "coral-island",
+    "url": "/coral-island/artisan/",
+    "keywords": [
+      "coral",
+      "island",
+      "artisan",
+      "equipment",
+      "processing",
+      "profit"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/coral-island/artisan.md"
+  },
+  {
+    "slug": "cooking",
+    "title": "Coral Island Cooking Guide — All Recipes, Ingredients, and Meal Benefits",
+    "game": "coral-island",
+    "url": "/coral-island/cooking/",
+    "keywords": [
+      "coral",
+      "island",
+      "cooking",
+      "recipes",
+      "ingredients",
+      "meal"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/coral-island/cooking.md"
+  },
+  {
+    "slug": "crop-profit",
+    "title": "Coral Island — Crop Profit Guide",
+    "game": "coral-island",
+    "url": "/coral-island/crop-profit/",
+    "keywords": [
+      "coral",
+      "island",
+      "crop",
+      "profit",
+      "master",
+      "farm"
+    ],
+    "updated": "2026-06-27",
+    "path": "docs/coral-island/crop-profit.md"
+  },
+  {
+    "slug": "crops",
+    "title": "Coral Island Crops Database — Complete Crop Profit Guide with Seasonal Rankings",
+    "game": "coral-island",
+    "url": "/coral-island/crops/",
+    "keywords": [
+      "coral",
+      "island",
+      "crops",
+      "database",
+      "crop",
+      "profit"
+    ],
+    "updated": "2026-06-26",
+    "path": "docs/coral-island/crops.md"
+  },
+  {
+    "slug": "diving",
+    "title": "Coral Island — Diving & Ocean Restoration Guide",
+    "game": "coral-island",
+    "url": "/coral-island/diving/",
+    "keywords": [
+      "coral",
+      "island",
+      "diving",
+      "ocean",
+      "restoration",
+      "covering"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/coral-island/diving.md"
+  },
+  {
+    "slug": "festivals",
+    "title": "Coral Island Festivals & Events Guide — Complete Calendar",
+    "game": "coral-island",
+    "url": "/coral-island/festivals/",
+    "keywords": [
+      "coral",
+      "island",
+      "festivals",
+      "events",
+      "calendar",
+      "event"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/coral-island/festivals.md"
+  },
+  {
+    "slug": "fish-guide",
+    "title": "Coral Island — Fish Guide & Best Fishing Spots",
+    "game": "coral-island",
+    "url": "/coral-island/fish-guide/",
+    "keywords": [
+      "coral",
+      "island",
+      "fish",
+      "fishing",
+      "spots",
+      "including"
+    ],
+    "updated": "2026-06-27",
+    "path": "docs/coral-island/fish-guide.md"
+  },
+  {
+    "slug": "forage-guide",
+    "title": "Coral Island — Forage & Scavenge Complete Guide",
+    "game": "coral-island",
+    "url": "/coral-island/forage-guide/",
+    "keywords": [
+      "coral",
+      "island",
+      "forage",
+      "scavenge",
+      "database",
+      "forageable"
+    ],
+    "updated": "2026-07-15",
+    "path": "docs/coral-island/forage-guide.md"
+  },
+  {
+    "slug": "getting-started",
+    "title": "Coral Island Complete Beginner Guide — Your First Season",
+    "game": "coral-island",
+    "url": "/coral-island/getting-started/",
+    "keywords": [
+      "coral",
+      "island",
+      "beginner",
+      "first",
+      "season",
+      "covering"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/coral-island/getting-started.md"
+  },
+  {
+    "slug": "housing",
+    "title": "Coral Island Housing Guide — Home Upgrades, Decorations, and Room-by-Room Tips",
+    "game": "coral-island",
+    "url": "/coral-island/housing/",
+    "keywords": [
+      "coral",
+      "island",
+      "housing",
+      "home",
+      "upgrades",
+      "decorations"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/coral-island/housing.md"
+  },
+  {
+    "slug": "index",
+    "title": "Coral Island — Complete Game Overview",
+    "game": "coral-island",
+    "url": "/coral-island/",
+    "keywords": [
+      "coral",
+      "island",
+      "game",
+      "overview",
+      "tropical",
+      "farming"
+    ],
+    "updated": "2026-07-25",
+    "path": "docs/coral-island/index.md"
+  },
+  {
+    "slug": "mining",
+    "title": "Coral Island — Complete Mining Guide (Earth Mine, Water Mine, Wind Mine)",
+    "game": "coral-island",
+    "url": "/coral-island/mining/",
+    "keywords": [
+      "coral",
+      "island",
+      "mining",
+      "earth",
+      "mine",
+      "water"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/coral-island/mining.md"
+  },
+  {
+    "slug": "romance",
+    "title": "Coral Island — Complete Romance, Socializing & Marriage Guide",
+    "game": "coral-island",
+    "url": "/coral-island/romance/",
+    "keywords": [
+      "coral",
+      "island",
+      "romance",
+      "socializing",
+      "marriage",
+      "deep"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/coral-island/romance.md"
+  },
+  {
+    "slug": "seasonal-strategy",
+    "title": "Coral Island Seasonal Strategy — What to Do Each Season",
+    "game": "coral-island",
+    "url": "/coral-island/seasonal-strategy/",
+    "keywords": [
+      "coral",
+      "island",
+      "seasonal",
+      "strategy",
+      "each",
+      "season"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/coral-island/seasonal-strategy.md"
+  },
+  {
+    "slug": "boss-guide",
+    "title": "Core Keeper — Boss Progression Guide (Full 1.0)",
+    "game": "core-keeper",
+    "url": "/core-keeper/boss-guide/",
+    "keywords": [
+      "core",
+      "keeper",
+      "boss",
+      "progression",
+      "full",
+      "covering"
+    ],
+    "updated": "2026-07-10",
+    "path": "docs/core-keeper/boss-guide.md"
+  },
+  {
+    "slug": "cooking-guide",
+    "title": "Core Keeper — Cooking & Food Guide (All Recipes, Buffs, Best Meals)",
+    "game": "core-keeper",
+    "url": "/core-keeper/cooking-guide/",
+    "keywords": [
+      "core",
+      "keeper",
+      "cooking",
+      "food",
+      "recipes",
+      "buffs"
+    ],
+    "updated": "2026-07-10",
+    "path": "docs/core-keeper/cooking-guide.md"
+  },
+  {
+    "slug": "crops",
+    "title": "Core Keeper — Crop & Farming Database (Profit Tables Guide)",
+    "game": "core-keeper",
+    "url": "/core-keeper/crops/",
+    "keywords": [
+      "core",
+      "keeper",
+      "crop",
+      "farming",
+      "database",
+      "profit"
+    ],
+    "updated": "2026-07-10",
+    "path": "docs/core-keeper/crops.md"
+  },
+  {
+    "slug": "fishing-guide",
+    "title": "Core Keeper — Fishing Guide & Fish Database (1.0)",
+    "game": "core-keeper",
+    "url": "/core-keeper/fishing-guide/",
+    "keywords": [
+      "core",
+      "keeper",
+      "fishing",
+      "fish",
+      "database",
+      "species"
+    ],
+    "updated": "2026-07-10",
+    "path": "docs/core-keeper/fishing-guide.md"
+  },
+  {
+    "slug": "getting-started",
+    "title": "Core Keeper — Getting Started Guide for Beginners",
+    "game": "core-keeper",
+    "url": "/core-keeper/getting-started/",
+    "keywords": [
+      "core",
+      "keeper",
+      "getting",
+      "started",
+      "beginners",
+      "new"
+    ],
+    "updated": "2026-07-08",
+    "path": "docs/core-keeper/getting-started.md"
+  },
+  {
+    "slug": "index",
+    "title": "Core Keeper — Complete Guide & Database",
+    "game": "core-keeper",
+    "url": "/core-keeper/",
+    "keywords": [
+      "core",
+      "keeper",
+      "database",
+      "everything",
+      "need",
+      "master"
+    ],
+    "updated": "2026-07-11",
+    "path": "docs/core-keeper/index.md"
+  },
+  {
+    "slug": "mining-automation",
+    "title": "Core Keeper — Mining & Automation Guide (Full Ore Progression + Tech Tree)",
+    "game": "core-keeper",
+    "url": "/core-keeper/mining-automation/",
+    "keywords": [
+      "core",
+      "keeper",
+      "mining",
+      "automation",
+      "full",
+      "ore"
+    ],
+    "updated": "2026-07-11",
+    "path": "docs/core-keeper/mining-automation.md"
+  },
+  {
+    "slug": "beginners-guide",
+    "title": "Doloc Town Beginner's Guide — Calendar, First Crops, Fishing & the Greenhouse Chain",
+    "game": "doloc-town",
+    "url": "/doloc-town/beginners-guide/",
+    "keywords": [
+      "doloc",
+      "town",
+      "beginner",
+      "calendar",
+      "first",
+      "crops"
+    ],
+    "updated": "2026-08-09",
+    "path": "docs/doloc-town/beginners-guide.md"
+  },
+  {
+    "slug": "index",
+    "title": "Doloc Town (多洛可小镇) Guides",
+    "game": "doloc-town",
+    "url": "/doloc-town/",
+    "keywords": [
+      "doloc",
+      "town",
+      "post",
+      "apocalyptic",
+      "farming",
+      "sim"
+    ],
+    "updated": "2026-08-09",
+    "path": "docs/doloc-town/index.md"
+  },
+  {
+    "slug": "bosses",
+    "title": "Don't Starve Together — Complete Bosses & Giants Database",
+    "game": "dst",
+    "url": "/dst/bosses/",
+    "keywords": [
+      "don",
+      "starve",
+      "together",
+      "bosses",
+      "giants",
+      "database"
+    ],
+    "updated": "2026-07-13",
+    "path": "docs/dst/bosses.md"
+  },
+  {
+    "slug": "characters",
+    "title": "Don't Starve Together — Complete Characters Database",
+    "game": "dst",
+    "url": "/dst/characters/",
+    "keywords": [
+      "don",
+      "starve",
+      "together",
+      "characters",
+      "database",
+      "stats"
+    ],
+    "updated": "2026-07-13",
+    "path": "docs/dst/characters.md"
+  },
+  {
+    "slug": "farming-guide",
+    "title": "Don't Starve Together — Complete Farming & Gardening Guide",
+    "game": "dst",
+    "url": "/dst/farming-guide/",
+    "keywords": [
+      "don",
+      "starve",
+      "together",
+      "farming",
+      "gardening",
+      "master"
+    ],
+    "updated": "2026-07-08",
+    "path": "docs/dst/farming-guide.md"
+  },
+  {
+    "slug": "index",
+    "title": "Don't Starve Together — Farming & Survival Guide",
+    "game": "dst",
+    "url": "/dst/",
+    "keywords": [
+      "don",
+      "starve",
+      "together",
+      "farming",
+      "survival",
+      "master"
+    ],
+    "updated": "2026-07-13",
+    "path": "docs/dst/index.md"
+  },
+  {
+    "slug": "seasons-guide",
+    "title": "Don't Starve Together — Complete Seasons & Survival Guide",
+    "game": "dst",
+    "url": "/dst/seasons-guide/",
+    "keywords": [
+      "don",
+      "starve",
+      "together",
+      "seasons",
+      "survival",
+      "master"
+    ],
+    "updated": "2026-07-13",
+    "path": "docs/dst/seasons-guide.md"
+  },
+  {
+    "slug": "beginners-guide",
+    "title": "Farlands Beginner's Guide — Buying a Planet and Space Farming in 2026",
+    "game": "farlands",
+    "url": "/farlands/beginners-guide/",
+    "keywords": [
+      "farlands",
+      "beginner",
+      "buying",
+      "planet",
+      "space",
+      "farming"
+    ],
+    "updated": "2026-08-12",
+    "path": "docs/farlands/beginners-guide.md"
+  },
+  {
+    "slug": "index",
+    "title": "Farlands Guides",
+    "game": "farlands",
+    "url": "/farlands/",
+    "keywords": [
+      "farlands",
+      "space",
+      "farming",
+      "sim",
+      "jandusoft",
+      "where"
+    ],
+    "updated": "2026-08-12",
+    "path": "docs/farlands/index.md"
+  },
+  {
+    "slug": "animals",
+    "title": "Farming Simulator 25 Animal Husbandry Guide — All Animals, Housing & Profit",
+    "game": "farmingsim",
+    "url": "/farmingsim/animals/",
+    "keywords": [
+      "farming",
+      "simulator",
+      "animal",
+      "husbandry",
+      "animals",
+      "housing"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/farmingsim/animals.md"
+  },
+  {
+    "slug": "contracts",
+    "title": "Farming Simulator 25 Contracts Guide — Work, Profit, and AI Helper Strategy",
+    "game": "farmingsim",
+    "url": "/farmingsim/contracts/",
+    "keywords": [
+      "farming",
+      "simulator",
+      "contracts",
+      "work",
+      "profit",
+      "helper"
+    ],
+    "updated": "2026-07-06",
+    "path": "docs/farmingsim/contracts.md"
+  },
+  {
+    "slug": "crops",
+    "title": "Farming Simulator 25 Complete Crop Profit Table",
+    "game": "farmingsim",
+    "url": "/farmingsim/crops/",
+    "keywords": [
+      "farming",
+      "simulator",
+      "crop",
+      "profit",
+      "table",
+      "comparison"
+    ],
+    "updated": "2026-07-06",
+    "path": "docs/farmingsim/crops.md"
+  },
+  {
+    "slug": "feedback",
+    "title": "📬 Feedback & Suggestions",
+    "game": "farmingsim",
+    "url": "/farmingsim/feedback/",
+    "keywords": [
+      "feedback",
+      "suggestions",
+      "welcome",
+      "leave",
+      "opinions",
+      "about"
+    ],
+    "updated": "2026-06-27",
+    "path": "docs/farmingsim/feedback.md"
+  },
+  {
+    "slug": "forestry",
+    "title": "Farming Simulator 25 Forestry Guide — Logging, Trees, Wood Processing & Profit",
+    "game": "farmingsim",
+    "url": "/farmingsim/forestry/",
+    "keywords": [
+      "farming",
+      "simulator",
+      "forestry",
+      "logging",
+      "trees",
+      "wood"
+    ],
+    "updated": "2026-07-06",
+    "path": "docs/farmingsim/forestry.md"
+  },
+  {
+    "slug": "getting-started",
+    "title": "Farming Simulator 25 Beginner Guide",
+    "game": "farmingsim",
+    "url": "/farmingsim/getting-started/",
+    "keywords": [
+      "farming",
+      "simulator",
+      "beginner",
+      "tutorial",
+      "scratch",
+      "covering"
+    ],
+    "updated": "2026-07-06",
+    "path": "docs/farmingsim/getting-started.md"
+  },
+  {
+    "slug": "index",
+    "title": "Farming Simulator 25 — Complete Guide",
+    "game": "farmingsim",
+    "url": "/farmingsim/",
+    "keywords": [
+      "farming",
+      "simulator",
+      "sell",
+      "starting",
+      "tractor",
+      "too"
+    ],
+    "updated": "2026-06-27",
+    "path": "docs/farmingsim/index.md"
+  },
+  {
+    "slug": "machinery",
+    "title": "Farming Simulator 25 Machinery Buying Guide",
+    "game": "farmingsim",
+    "url": "/farmingsim/machinery/",
+    "keywords": [
+      "farming",
+      "simulator",
+      "machinery",
+      "buying",
+      "tractor",
+      "harvester"
+    ],
+    "updated": "2026-07-06",
+    "path": "docs/farmingsim/machinery.md"
+  },
+  {
+    "slug": "maps-guide",
+    "title": "Farming Simulator 25 Maps & Field Guide — Best Fields, Land Purchase Strategy",
+    "game": "farmingsim",
+    "url": "/farmingsim/maps-guide/",
+    "keywords": [
+      "farming",
+      "simulator",
+      "maps",
+      "field",
+      "fields",
+      "land"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/farmingsim/maps-guide.md"
+  },
+  {
+    "slug": "production-chains",
+    "title": "Farming Simulator 25 — Production Chains & Processing Guide",
+    "game": "farmingsim",
+    "url": "/farmingsim/production-chains/",
+    "keywords": [
+      "farming",
+      "simulator",
+      "production",
+      "chains",
+      "processing",
+      "master"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/farmingsim/production-chains.md"
+  },
+  {
+    "slug": "profit-guide",
+    "title": "Farming Simulator 25 — Crop Profit Chart & Complete Profit Guide",
+    "game": "farmingsim",
+    "url": "/farmingsim/profit-guide/",
+    "keywords": [
+      "farming",
+      "simulator",
+      "crop",
+      "profit",
+      "chart",
+      "understanding"
+    ],
+    "updated": "2026-06-27",
+    "path": "docs/farmingsim/profit-guide.md"
+  },
+  {
+    "slug": "vehicle-compare",
+    "title": "Farming Simulator 25 — Vehicle Comparison Guide",
+    "game": "farmingsim",
+    "url": "/farmingsim/vehicle-compare/",
+    "keywords": [
+      "farming",
+      "simulator",
+      "vehicle",
+      "comparison",
+      "choosing",
+      "right"
+    ],
+    "updated": "2026-06-27",
+    "path": "docs/farmingsim/vehicle-compare.md"
+  },
+  {
+    "slug": "1.0-update",
+    "title": "Fields of Mistria 1.0 Update Guide — Marriage, Children & Everything New",
+    "game": "fields-mistria",
+    "url": "/fields-mistria/1.0-update/",
+    "keywords": [
+      "fields",
+      "mistria",
+      "update",
+      "marriage",
+      "children",
+      "everything"
+    ],
+    "updated": "2026-08-10",
+    "path": "docs/fields-mistria/1.0-update.md"
+  },
+  {
+    "slug": "animals",
+    "title": "Fields of Mistria — Animals & Pets Ultimate Guide",
+    "game": "fields-mistria",
+    "url": "/fields-mistria/animals/",
+    "keywords": [
+      "fields",
+      "mistria",
+      "animals",
+      "pets",
+      "ultimate",
+      "breakdown"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/fields-mistria/animals.md"
+  },
+  {
+    "slug": "artisan-and-endgame",
+    "title": "🏭 Fields of Mistria — Complete Artisan Processing & Endgame Profit Model",
+    "game": "fields-mistria",
+    "url": "/fields-mistria/artisan-and-endgame/",
+    "keywords": [
+      "fields",
+      "mistria",
+      "artisan",
+      "processing",
+      "endgame",
+      "profit"
+    ],
+    "updated": "2026-07-06",
+    "path": "docs/fields-mistria/artisan-and-endgame.md"
+  },
+  {
+    "slug": "cooking",
+    "title": "Fields of Mistria — Cooking Deep Guide & Recipe Compendium",
+    "game": "fields-mistria",
+    "url": "/fields-mistria/cooking/",
+    "keywords": [
+      "fields",
+      "mistria",
+      "cooking",
+      "deep",
+      "recipe",
+      "compendium"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/fields-mistria/cooking.md"
+  },
+  {
+    "slug": "crafting",
+    "title": "Fields of Mistria — Crafting & Forging Guide",
+    "game": "fields-mistria",
+    "url": "/fields-mistria/crafting/",
+    "keywords": [
+      "fields",
+      "mistria",
+      "crafting",
+      "forging",
+      "breakdown",
+      "system"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/fields-mistria/crafting.md"
+  },
+  {
+    "slug": "crop-profit",
+    "title": "Fields of Mistria — Crop Profit Guide",
+    "game": "fields-mistria",
+    "url": "/fields-mistria/crop-profit/",
+    "keywords": [
+      "fields",
+      "mistria",
+      "crop",
+      "profit",
+      "maximize",
+      "farm"
+    ],
+    "updated": "2026-06-27",
+    "path": "docs/fields-mistria/crop-profit.md"
+  },
+  {
+    "slug": "festivals",
+    "title": "Fields of Mistria — Festivals & Events Guide",
+    "game": "fields-mistria",
+    "url": "/fields-mistria/festivals/",
+    "keywords": [
+      "fields",
+      "mistria",
+      "festivals",
+      "events",
+      "walkthrough",
+      "year"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/fields-mistria/festivals.md"
+  },
+  {
+    "slug": "fish",
+    "title": "Fields of Mistria Fish Database — All Fish with Locations, Seasons, and Sell Prices",
+    "game": "fields-mistria",
+    "url": "/fields-mistria/fish/",
+    "keywords": [
+      "fields",
+      "mistria",
+      "fish",
+      "database",
+      "locations",
+      "seasons"
+    ],
+    "updated": "2026-06-26",
+    "path": "docs/fields-mistria/fish.md"
+  },
+  {
+    "slug": "getting-started",
+    "title": "Fields of Mistria Complete Beginner Guide — First Season & Beyond",
+    "game": "fields-mistria",
+    "url": "/fields-mistria/getting-started/",
+    "keywords": [
+      "fields",
+      "mistria",
+      "beginner",
+      "first",
+      "season",
+      "beyond"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/fields-mistria/getting-started.md"
+  },
+  {
+    "slug": "gift-guide",
+    "title": "Fields of Mistria — NPC Gift Guide & Friendship",
+    "game": "fields-mistria",
+    "url": "/fields-mistria/gift-guide/",
+    "keywords": [
+      "fields",
+      "mistria",
+      "npc",
+      "gift",
+      "friendship",
+      "build"
+    ],
+    "updated": "2026-06-27",
+    "path": "docs/fields-mistria/gift-guide.md"
+  },
+  {
+    "slug": "housing",
+    "title": "Fields of Mistria — Housing Upgrades & Decor Complete Guide",
+    "game": "fields-mistria",
+    "url": "/fields-mistria/housing/",
+    "keywords": [
+      "fields",
+      "mistria",
+      "housing",
+      "upgrades",
+      "decor",
+      "deep"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/fields-mistria/housing.md"
+  },
+  {
+    "slug": "index",
+    "title": "Fields of Mistria — Complete Game Overview",
+    "game": "fields-mistria",
+    "url": "/fields-mistria/",
+    "keywords": [
+      "fields",
+      "mistria",
+      "game",
+      "overview",
+      "covering",
+      "farming"
+    ],
+    "updated": "2026-08-10",
+    "path": "docs/fields-mistria/index.md"
+  },
+  {
+    "slug": "mining",
+    "title": "Fields of Mistria — Mining & Combat Deep Dive",
+    "game": "fields-mistria",
+    "url": "/fields-mistria/mining/",
+    "keywords": [
+      "fields",
+      "mistria",
+      "mining",
+      "combat",
+      "deep",
+      "dive"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/fields-mistria/mining.md"
+  },
+  {
+    "slug": "museum",
+    "title": "Fields of Mistria — Museum Donation & Collection Complete Guide",
+    "game": "fields-mistria",
+    "url": "/fields-mistria/museum/",
+    "keywords": [
+      "fields",
+      "mistria",
+      "museum",
+      "donation",
+      "collection",
+      "deep"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/fields-mistria/museum.md"
+  },
+  {
+    "slug": "seasonal-strategy",
+    "title": "Fields of Mistria — Seasonal Crop Strategy Guide",
+    "game": "fields-mistria",
+    "url": "/fields-mistria/seasonal-strategy/",
+    "keywords": [
+      "fields",
+      "mistria",
+      "seasonal",
+      "crop",
+      "strategy",
+      "math"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/fields-mistria/seasonal-strategy.md"
+  },
+  {
+    "slug": "beginners-guide",
+    "title": "Go-Go Town! Beginner's Guide — First Week Tips, Town Goals & Automation (1.0)",
+    "game": "go-go-town",
+    "url": "/go-go-town/beginners-guide/",
+    "keywords": [
+      "town",
+      "beginner",
+      "first",
+      "week",
+      "goals",
+      "automation"
+    ],
+    "updated": "2026-08-24",
+    "path": "docs/go-go-town/beginners-guide.md"
+  },
+  {
+    "slug": "index",
+    "title": "Go-Go Town! Guides",
+    "game": "go-go-town",
+    "url": "/go-go-town/",
+    "keywords": [
+      "town",
+      "cozy",
+      "building",
+      "farming",
+      "game",
+      "prideful"
+    ],
+    "updated": "2026-08-24",
+    "path": "docs/go-go-town/index.md"
+  },
+  {
+    "slug": "beginners-guide",
+    "title": "Grave Seasons Preview Guide — Farm by Day, Unmask a Supernatural Serial Killer by Night",
+    "game": "grave-seasons",
+    "url": "/grave-seasons/beginners-guide/",
+    "keywords": [
+      "grave",
+      "seasons",
+      "preview",
+      "farm",
+      "day",
+      "unmask"
+    ],
+    "updated": "2026-08-17",
+    "path": "docs/grave-seasons/beginners-guide.md"
+  },
+  {
+    "slug": "index",
+    "title": "Grave Seasons Guides",
+    "game": "grave-seasons",
+    "url": "/grave-seasons/",
+    "keywords": [
+      "grave",
+      "seasons",
+      "preview",
+      "delayed",
+      "cozy",
+      "horror"
+    ],
+    "updated": "2026-08-17",
+    "path": "docs/grave-seasons/index.md"
+  },
+  {
+    "slug": "best-farming-games-2026",
+    "title": "Best Farming Games in 2026: A Complete Guide for Beginners and Busy Players",
+    "game": "guides",
+    "url": "/guides/best-farming-games-2026/",
+    "keywords": [
+      "farming",
+      "games",
+      "beginners",
+      "busy",
+      "players",
+      "curated"
+    ],
+    "updated": "2026-07-19",
+    "path": "docs/guides/best-farming-games-2026.md"
+  },
+  {
+    "slug": "best-gaming-gear",
+    "title": "Best Gaming Gear for Farming & Simulation Games (2026)",
+    "game": "guides",
+    "url": "/guides/best-gaming-gear/",
+    "keywords": [
+      "gaming",
+      "gear",
+      "farming",
+      "simulation",
+      "games",
+      "upgrade"
+    ],
+    "updated": "2026-07-06",
+    "path": "docs/guides/best-gaming-gear.md"
+  },
+  {
+    "slug": "index",
+    "title": "📖 Guide Index",
+    "game": "guides",
+    "url": "/guides/",
+    "keywords": [
+      "index",
+      "browse",
+      "beginner",
+      "advanced",
+      "stardew",
+      "farming"
+    ],
+    "updated": "2026-06-27",
+    "path": "docs/guides/index.md"
+  },
+  {
+    "slug": "newbie",
+    "title": "Farming Games — Beginner Guide",
+    "game": "guides",
+    "url": "/guides/newbie/",
+    "keywords": [
+      "farming",
+      "games",
+      "beginner"
+    ],
+    "updated": "2026-06-27",
+    "path": "docs/guides/newbie.md"
+  },
+  {
+    "slug": "stardew-valley-2026-beginners-guide",
+    "title": "Stardew Valley 2026 终极入门指南",
+    "game": "guides",
+    "url": "/guides/stardew-valley-2026-beginners-guide/",
+    "keywords": [
+      "stardew"
+    ],
+    "updated": "2026-07-19",
+    "path": "docs/guides/stardew-valley-2026-beginners-guide.md"
+  },
+  {
+    "slug": "stardew-valley-beginners-guide",
+    "title": "Stardew Valley Beginner's Guide: Day 1 Complete Walkthrough",
+    "game": "guides",
+    "url": "/guides/stardew-valley-beginners-guide/",
+    "keywords": [
+      "stardew",
+      "beginner",
+      "day",
+      "walkthrough",
+      "character",
+      "creation"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/guides/stardew-valley-beginners-guide.md"
+  },
+  {
+    "slug": "sunflower-land-saltwort-crop-week",
+    "title": "Sunflower Land Crop Week 攻略：Saltwort 最大化收益指南（7月19-26日）",
+    "game": "guides",
+    "url": "/guides/sunflower-land-saltwort-crop-week/",
+    "keywords": [
+      "sunflower",
+      "land",
+      "crop",
+      "week",
+      "saltwort"
+    ],
+    "updated": "2026-07-19",
+    "path": "docs/guides/sunflower-land-saltwort-crop-week.md"
+  },
+  {
+    "slug": "beginners-guide",
+    "title": "Halcyon Days at Taoyuan Beginner's Guide — Barter, First Week, Caves & Martial Arts",
+    "game": "halcyon-days",
+    "url": "/halcyon-days/beginners-guide/",
+    "keywords": [
+      "halcyon",
+      "days",
+      "taoyuan",
+      "beginner",
+      "barter",
+      "first"
+    ],
+    "updated": "2026-08-10",
+    "path": "docs/halcyon-days/beginners-guide.md"
+  },
+  {
+    "slug": "index",
+    "title": "Halcyon Days at Taoyuan (桃源村日志) Guides",
+    "game": "halcyon-days",
+    "url": "/halcyon-days/",
+    "keywords": [
+      "halcyon",
+      "days",
+      "taoyuan",
+      "chinese",
+      "folklore",
+      "farming"
+    ],
+    "updated": "2026-08-10",
+    "path": "docs/halcyon-days/index.md"
+  },
+  {
+    "slug": "animals",
+    "title": "Palia Animals & Pets Guide — Wildlife, Hunting, and Companions",
+    "game": "palia",
+    "url": "/palia/animals/",
+    "keywords": [
+      "palia",
+      "animals",
+      "pets",
+      "wildlife",
+      "hunting",
+      "companions"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/palia/animals.md"
+  },
+  {
+    "slug": "artisan",
+    "title": "Palia Artisan Goods Guide — Preserves, Processing, and Quality",
+    "game": "palia",
+    "url": "/palia/artisan/",
+    "keywords": [
+      "palia",
+      "artisan",
+      "goods",
+      "preserves",
+      "processing",
+      "quality"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/palia/artisan.md"
+  },
+  {
+    "slug": "beginner-tips",
+    "title": "Palia Quick Tips for Beginners",
+    "game": "palia",
+    "url": "/palia/beginner-tips/",
+    "keywords": [
+      "palia",
+      "quick",
+      "beginners",
+      "essential",
+      "help",
+      "new"
+    ],
+    "updated": "2026-07-09",
+    "path": "docs/palia/beginner-tips.md"
+  },
+  {
+    "slug": "cooking",
+    "title": "Palia Cooking & Recipes Guide — Stations, Focus System, Best Dishes, and Profit Analysis",
+    "game": "palia",
+    "url": "/palia/cooking/",
+    "keywords": [
+      "palia",
+      "cooking",
+      "recipes",
+      "stations",
+      "focus",
+      "system"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/palia/cooking.md"
+  },
+  {
+    "slug": "crop-profit",
+    "title": "Palia — Crop Profit Guide",
+    "game": "palia",
+    "url": "/palia/crop-profit/",
+    "keywords": [
+      "palia",
+      "crop",
+      "profit",
+      "optimize",
+      "garden",
+      "layout"
+    ],
+    "updated": "2026-06-27",
+    "path": "docs/palia/crop-profit.md"
+  },
+  {
+    "slug": "crops",
+    "title": "Palia Crops Database — All Crop Types with Grow Times, Seed Costs, and Profit per Harvest",
+    "game": "palia",
+    "url": "/palia/crops/",
+    "keywords": [
+      "palia",
+      "crops",
+      "database",
+      "crop",
+      "types",
+      "grow"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/palia/crops.md"
+  },
+  {
+    "slug": "feedback",
+    "title": "📬 Feedback & Suggestions",
+    "game": "palia",
+    "url": "/palia/feedback/",
+    "keywords": [
+      "feedback",
+      "suggestions",
+      "welcome",
+      "leave",
+      "opinions",
+      "about"
+    ],
+    "updated": "2026-06-27",
+    "path": "docs/palia/feedback.md"
+  },
+  {
+    "slug": "festivals",
+    "title": "Palia Festivals & Events Calendar — All Seasonal Celebrations",
+    "game": "palia",
+    "url": "/palia/festivals/",
+    "keywords": [
+      "palia",
+      "festivals",
+      "events",
+      "calendar",
+      "seasonal",
+      "celebrations"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/palia/festivals.md"
+  },
+  {
+    "slug": "fish-guide",
+    "title": "Palia — Fishing Guide",
+    "game": "palia",
+    "url": "/palia/fish-guide/",
+    "keywords": [
+      "palia",
+      "fishing",
+      "covering",
+      "fish",
+      "species",
+      "including"
+    ],
+    "updated": "2026-06-27",
+    "path": "docs/palia/fish-guide.md"
+  },
+  {
+    "slug": "fish",
+    "title": "Palia Fish Database — Complete Fish Catalog with Locations, Bait Requirements, and Bundle Info",
+    "game": "palia",
+    "url": "/palia/fish/",
+    "keywords": [
+      "palia",
+      "fish",
+      "database",
+      "catalog",
+      "locations",
+      "bait"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/palia/fish.md"
+  },
+  {
+    "slug": "friendship",
+    "title": "Complete Friendship & Romance Guide for Palia — All NPC preferences, weekly wants, romance levels, and fastest path to max relationships",
+    "game": "palia",
+    "url": "/palia/friendship/",
+    "keywords": [
+      "friendship",
+      "romance",
+      "palia",
+      "npc",
+      "preferences",
+      "weekly"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/palia/friendship.md"
+  },
+  {
+    "slug": "guide",
+    "title": "Palia Complete Beginner Guide",
+    "game": "palia",
+    "url": "/palia/guide/",
+    "keywords": [
+      "palia",
+      "beginner",
+      "covering",
+      "fishing",
+      "money",
+      "making"
+    ],
+    "updated": "2026-07-06",
+    "path": "docs/palia/guide.md"
+  },
+  {
+    "slug": "housing",
+    "title": "Palia — Complete Housing & Decorating Guide (Plot Unlocks, House Upgrades, Furniture Categories, Harmony System, Gardening, Outdoor Decor)",
+    "game": "palia",
+    "url": "/palia/housing/",
+    "keywords": [
+      "palia",
+      "housing",
+      "decorating",
+      "plot",
+      "unlocks",
+      "house"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/palia/housing.md"
+  },
+  {
+    "slug": "hunting",
+    "title": "Palia Hunting & Bug Catching Guide — Creatures, Bows, Bombs, and Profit Strategies",
+    "game": "palia",
+    "url": "/palia/hunting/",
+    "keywords": [
+      "palia",
+      "hunting",
+      "bug",
+      "catching",
+      "creatures",
+      "bows"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/palia/hunting.md"
+  },
+  {
+    "slug": "index",
+    "title": "Palia — Complete Guide",
+    "game": "palia",
+    "url": "/palia/",
+    "keywords": [
+      "palia",
+      "tutorial",
+      "unlock",
+      "basic",
+      "tools"
+    ],
+    "updated": "2026-06-27",
+    "path": "docs/palia/index.md"
+  },
+  {
+    "slug": "maps-guide",
+    "title": "Palia Maps & Zones Guide — Kilima Valley, Bahari Bay, and Navigation",
+    "game": "palia",
+    "url": "/palia/maps-guide/",
+    "keywords": [
+      "palia",
+      "maps",
+      "zones",
+      "kilima",
+      "bahari",
+      "bay"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/palia/maps-guide.md"
+  },
+  {
+    "slug": "money-making",
+    "title": "Palia Money Making Guide — Best Ways to Earn Gold",
+    "game": "palia",
+    "url": "/palia/money-making/",
+    "keywords": [
+      "palia",
+      "money",
+      "making",
+      "ways",
+      "earn",
+      "gold"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/palia/money-making.md"
+  },
+  {
+    "slug": "redeem-codes",
+    "title": "Palia Redeem Codes (Active & Expired)",
+    "game": "palia",
+    "url": "/palia/redeem-codes/",
+    "keywords": [
+      "palia",
+      "redeem",
+      "codes",
+      "active",
+      "expired",
+      "find"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/palia/redeem-codes.md"
+  },
+  {
+    "slug": "seasons",
+    "title": "Palia Seasons Guide — What to Focus On at Every Stage",
+    "game": "palia",
+    "url": "/palia/seasons/",
+    "keywords": [
+      "palia",
+      "seasons",
+      "focus",
+      "stage",
+      "during",
+      "each"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/palia/seasons.md"
+  },
+  {
+    "slug": "base-building-defense",
+    "title": "Palworld — Base Building & Raid Defense Guide (Endgame Layouts + Fortifications)",
+    "game": "palworld",
+    "url": "/palworld/base-building-defense/",
+    "keywords": [
+      "palworld",
+      "base",
+      "building",
+      "raid",
+      "defense",
+      "endgame"
+    ],
+    "updated": "2026-07-11",
+    "path": "docs/palworld/base-building-defense.md"
+  },
+  {
+    "slug": "breeding-tool",
+    "title": "Palworld — Pal Breeding Calculator & Guide",
+    "game": "palworld",
+    "url": "/palworld/breeding-tool/",
+    "keywords": [
+      "palworld",
+      "pal",
+      "breeding",
+      "calculator",
+      "interactive",
+      "select"
+    ],
+    "updated": "2026-07-10",
+    "path": "docs/palworld/breeding-tool.md"
+  },
+  {
+    "slug": "getting-started",
+    "title": "Palworld — Getting Started Guide for Beginners",
+    "game": "palworld",
+    "url": "/palworld/getting-started/",
+    "keywords": [
+      "palworld",
+      "getting",
+      "started",
+      "beginners",
+      "new",
+      "beginner"
+    ],
+    "updated": "2026-07-08",
+    "path": "docs/palworld/getting-started.md"
+  },
+  {
+    "slug": "index",
+    "title": "Palworld — Complete Guide & Pal Database",
+    "game": "palworld",
+    "url": "/palworld/",
+    "keywords": [
+      "palworld",
+      "pal",
+      "database",
+      "everything",
+      "need",
+      "conquer"
+    ],
+    "updated": "2026-07-11",
+    "path": "docs/palworld/index.md"
+  },
+  {
+    "slug": "pal-database",
+    "title": "Palworld — Complete Pal Database (Work Suitability, Drops & Stats)",
+    "game": "palworld",
+    "url": "/palworld/pal-database/",
+    "keywords": [
+      "palworld",
+      "pal",
+      "database",
+      "work",
+      "suitability",
+      "drops"
+    ],
+    "updated": "2026-07-10",
+    "path": "docs/palworld/pal-database.md"
+  },
+  {
+    "slug": "work-suitability",
+    "title": "Palworld — Pal Work Suitability Database (Best Pals for Every Job)",
+    "game": "palworld",
+    "url": "/palworld/work-suitability/",
+    "keywords": [
+      "palworld",
+      "pal",
+      "work",
+      "suitability",
+      "database",
+      "pals"
+    ],
+    "updated": "2026-07-08",
+    "path": "docs/palworld/work-suitability.md"
+  },
+  {
+    "slug": "animals",
+    "title": "My Time at Sandrock — Animals & Mounts Complete Guide",
+    "game": "sandrock",
+    "url": "/sandrock/animals/",
+    "keywords": [
+      "time",
+      "sandrock",
+      "animals",
+      "mounts",
+      "animal",
+      "mount"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/sandrock/animals.md"
+  },
+  {
+    "slug": "artisan",
+    "title": "My Time at Sandrock Artisan Guide — Processing, Refining, and Crafting",
+    "game": "sandrock",
+    "url": "/sandrock/artisan/",
+    "keywords": [
+      "time",
+      "sandrock",
+      "artisan",
+      "processing",
+      "refining",
+      "crafting"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/sandrock/artisan.md"
+  },
+  {
+    "slug": "combat",
+    "title": "My Time at Sandrock — Ruins & Combat Guide",
+    "game": "sandrock",
+    "url": "/sandrock/combat/",
+    "keywords": [
+      "time",
+      "sandrock",
+      "ruins",
+      "combat",
+      "comprehensive",
+      "covering"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/sandrock/combat.md"
+  },
+  {
+    "slug": "cooking",
+    "title": "My Time at Sandrock — Complete Cooking Guide",
+    "game": "sandrock",
+    "url": "/sandrock/cooking/",
+    "keywords": [
+      "time",
+      "sandrock",
+      "cooking",
+      "master",
+      "culinary",
+      "arts"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/sandrock/cooking.md"
+  },
+  {
+    "slug": "crops",
+    "title": "My Time at Sandrock — Crops & Farming Complete Guide",
+    "game": "sandrock",
+    "url": "/sandrock/crops/",
+    "keywords": [
+      "time",
+      "sandrock",
+      "crops",
+      "farming",
+      "deep",
+      "dive"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/sandrock/crops.md"
+  },
+  {
+    "slug": "festivals",
+    "title": "My Time at Sandrock Festivals & Events — Complete Guide",
+    "game": "sandrock",
+    "url": "/sandrock/festivals/",
+    "keywords": [
+      "time",
+      "sandrock",
+      "festivals",
+      "events",
+      "dates",
+      "competition"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/sandrock/festivals.md"
+  },
+  {
+    "slug": "fishing",
+    "title": "My Time at Sandrock — Fishing & Bug Catching Complete Guide",
+    "game": "sandrock",
+    "url": "/sandrock/fishing/",
+    "keywords": [
+      "time",
+      "sandrock",
+      "fishing",
+      "bug",
+      "catching",
+      "insect"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/sandrock/fishing.md"
+  },
+  {
+    "slug": "getting-started",
+    "title": "My Time at Sandrock Complete Workshop Starter Guide",
+    "game": "sandrock",
+    "url": "/sandrock/getting-started/",
+    "keywords": [
+      "time",
+      "sandrock",
+      "workshop",
+      "starter",
+      "set",
+      "earn"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/sandrock/getting-started.md"
+  },
+  {
+    "slug": "gift-guide",
+    "title": "My Time at Sandrock — NPC Gift Guide",
+    "game": "sandrock",
+    "url": "/sandrock/gift-guide/",
+    "keywords": [
+      "time",
+      "sandrock",
+      "npc",
+      "gift",
+      "building",
+      "friendships"
+    ],
+    "updated": "2026-06-27",
+    "path": "docs/sandrock/gift-guide.md"
+  },
+  {
+    "slug": "housing",
+    "title": "My Time at Sandrock — Housing & Decor Complete Guide",
+    "game": "sandrock",
+    "url": "/sandrock/housing/",
+    "keywords": [
+      "time",
+      "sandrock",
+      "housing",
+      "decor",
+      "house",
+      "upgrades"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/sandrock/housing.md"
+  },
+  {
+    "slug": "index",
+    "title": "My Time at Sandrock — Complete Game Overview",
+    "game": "sandrock",
+    "url": "/sandrock/",
+    "keywords": [
+      "time",
+      "sandrock",
+      "game",
+      "overview",
+      "desert",
+      "workshop"
+    ],
+    "updated": "2026-07-25",
+    "path": "docs/sandrock/index.md"
+  },
+  {
+    "slug": "resources",
+    "title": "My Time at Sandrock — Resource & Material Guide",
+    "game": "sandrock",
+    "url": "/sandrock/resources/",
+    "keywords": [
+      "time",
+      "sandrock",
+      "resource",
+      "material",
+      "surviving",
+      "thriving"
+    ],
+    "updated": "2026-06-27",
+    "path": "docs/sandrock/resources.md"
+  },
+  {
+    "slug": "seasonal-guide",
+    "title": "My Time at Sandrock — Seasonal & Monthly Guide",
+    "game": "sandrock",
+    "url": "/sandrock/seasonal-guide/",
+    "keywords": [
+      "time",
+      "sandrock",
+      "seasonal",
+      "monthly",
+      "month",
+      "year"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/sandrock/seasonal-guide.md"
+  },
+  {
+    "slug": "workshop-optimization",
+    "title": "My Time at Sandrock — Workshop Optimization Guide",
+    "game": "sandrock",
+    "url": "/sandrock/workshop-optimization/",
+    "keywords": [
+      "time",
+      "sandrock",
+      "workshop",
+      "optimization",
+      "maximize",
+      "gol"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/sandrock/workshop-optimization.md"
+  },
+  {
+    "slug": "index",
+    "title": "Stardew Valley 1.6 Update — Everything New Complete Guide",
+    "game": "stardew",
+    "url": "/stardew/1.6-update-guide/",
+    "keywords": [
+      "stardew",
+      "update",
+      "everything",
+      "new",
+      "ultimate",
+      "deep"
+    ],
+    "updated": "2026-07-06",
+    "path": "docs/stardew/1.6-update-guide/index.md"
+  },
+  {
+    "slug": "ancient-fruit-empire",
+    "title": "🏛️ Stardew Valley — Ancient Fruit Empire Setup Guide (1.6)",
+    "game": "stardew",
+    "url": "/stardew/ancient-fruit-empire/",
+    "keywords": [
+      "stardew",
+      "ancient",
+      "fruit",
+      "empire",
+      "setup",
+      "data"
+    ],
+    "updated": "2026-07-06",
+    "path": "docs/stardew/ancient-fruit-empire.md"
+  },
+  {
+    "slug": "animals",
+    "title": "Stardew Valley Animals Guide — All Barn &amp; Coop Animals, Products &amp; Profit (1.6)",
+    "game": "stardew",
+    "url": "/stardew/animals/",
+    "keywords": [
+      "stardew",
+      "animals",
+      "barn",
+      "amp",
+      "coop",
+      "products"
+    ],
+    "updated": "2026-07-03",
+    "path": "docs/stardew/animals.md"
+  },
+  {
+    "slug": "artisan",
+    "title": "🧑‍🍳 Artisan Goods Profit Comparison",
+    "game": "stardew",
+    "url": "/stardew/artisan/",
+    "keywords": [
+      "artisan",
+      "goods",
+      "profit",
+      "comparison",
+      "data",
+      "version"
+    ],
+    "updated": "2026-06-27",
+    "path": "docs/stardew/artisan.md"
+  },
+  {
+    "slug": "boots",
+    "title": "Stardew Valley Complete Boots & Footwear Guide",
+    "game": "stardew",
+    "url": "/stardew/boots/",
+    "keywords": [
+      "stardew",
+      "boots",
+      "footwear",
+      "catalog",
+      "defense",
+      "immunity"
+    ],
+    "updated": "2026-07-06",
+    "path": "docs/stardew/boots.md"
+  },
+  {
+    "slug": "bundle-reference",
+    "title": "Stardew Valley Bundle Reference — Complete Community Center Bundle Checklist (1.6)",
+    "game": "stardew",
+    "url": "/stardew/bundle-reference/",
+    "keywords": [
+      "stardew",
+      "bundle",
+      "reference",
+      "community",
+      "center",
+      "checklist"
+    ],
+    "updated": "2026-07-06",
+    "path": "docs/stardew/bundle-reference.md"
+  },
+  {
+    "slug": "cooking",
+    "title": "Stardew Valley Complete Cooking Recipe Guide",
+    "game": "stardew",
+    "url": "/stardew/cooking/",
+    "keywords": [
+      "stardew",
+      "cooking",
+      "recipe",
+      "full",
+      "dishes",
+      "table"
+    ],
+    "updated": "2026-07-06",
+    "path": "docs/stardew/cooking.md"
+  },
+  {
+    "slug": "crafting",
+    "title": "🧪 Stardew Valley Complete Crafting Guide",
+    "game": "stardew",
+    "url": "/stardew/crafting/",
+    "keywords": [
+      "stardew",
+      "crafting",
+      "data",
+      "version",
+      "craftable",
+      "items"
+    ],
+    "updated": "2026-07-03",
+    "path": "docs/stardew/crafting.md"
+  },
+  {
+    "slug": "crops",
+    "title": "Stardew Valley Crops Guide — Full Season Profit Table &amp; Best Crops by Season (1.6)",
+    "game": "stardew",
+    "url": "/stardew/crops/",
+    "keywords": [
+      "stardew",
+      "crops",
+      "full",
+      "season",
+      "profit",
+      "table"
+    ],
+    "updated": "2026-06-27",
+    "path": "docs/stardew/crops.md"
+  },
+  {
+    "slug": "encyclopedia",
+    "title": "Stardew Valley — Complete Encyclopedia",
+    "game": "stardew",
+    "url": "/stardew/encyclopedia/",
+    "keywords": [
+      "stardew",
+      "encyclopedia"
+    ],
+    "updated": "2026-06-27",
+    "path": "docs/stardew/encyclopedia.md"
+  },
+  {
+    "slug": "equipment",
+    "title": "Stardew Valley Equipment Guide — Best Weapons, Rings, Boots &amp; Tool Upgrades",
+    "game": "stardew",
+    "url": "/stardew/equipment/",
+    "keywords": [
+      "stardew",
+      "equipment",
+      "weapons",
+      "rings",
+      "boots",
+      "amp"
+    ],
+    "updated": "2026-07-03",
+    "path": "docs/stardew/equipment.md"
+  },
+  {
+    "slug": "fall-guide",
+    "title": "Stardew Valley Complete Fall Guide",
+    "game": "stardew",
+    "url": "/stardew/fall-guide/",
+    "keywords": [
+      "stardew",
+      "fall",
+      "most",
+      "profitable",
+      "crops",
+      "cranberry"
+    ],
+    "updated": "2026-07-06",
+    "path": "docs/stardew/fall-guide.md"
+  },
+  {
+    "slug": "farm-layout",
+    "title": "Stardew Valley Farm Layout Planning",
+    "game": "stardew",
+    "url": "/stardew/farm-layout/",
+    "keywords": [
+      "stardew",
+      "farm",
+      "layout",
+      "planning",
+      "beginner",
+      "economic"
+    ],
+    "updated": "2026-07-06",
+    "path": "docs/stardew/farm-layout.md"
+  },
+  {
+    "slug": "feedback",
+    "title": "📬 Feedback & Suggestions",
+    "game": "stardew",
+    "url": "/stardew/feedback/",
+    "keywords": [
+      "feedback",
+      "suggestions",
+      "welcome",
+      "leave",
+      "comments",
+      "about"
+    ],
+    "updated": "2026-06-27",
+    "path": "docs/stardew/feedback.md"
+  },
+  {
+    "slug": "festivals",
+    "title": "Stardew Valley Festivals Guide — All Events, Rewards &amp; Winning Strategies",
+    "game": "stardew",
+    "url": "/stardew/festivals/",
+    "keywords": [
+      "stardew",
+      "festivals",
+      "events",
+      "rewards",
+      "amp",
+      "winning"
+    ],
+    "updated": "2026-07-06",
+    "path": "docs/stardew/festivals.md"
+  },
+  {
+    "slug": "fish-pond-guide",
+    "title": "Stardew Valley Fish Pond Guide — Complete Roe Production, Pond Products & Profit (1.6)",
+    "game": "stardew",
+    "url": "/stardew/fish-pond-guide/",
+    "keywords": [
+      "stardew",
+      "fish",
+      "pond",
+      "roe",
+      "production",
+      "products"
+    ],
+    "updated": "2026-07-06",
+    "path": "docs/stardew/fish-pond-guide.md"
+  },
+  {
+    "slug": "fish",
+    "title": "Stardew Valley Fish Guide — Complete Fish Species Table with Seasons &amp; Locations",
+    "game": "stardew",
+    "url": "/stardew/fish/",
+    "keywords": [
+      "stardew",
+      "fish",
+      "species",
+      "table",
+      "seasons",
+      "amp"
+    ],
+    "updated": "2026-06-27",
+    "path": "docs/stardew/fish.md"
+  },
+  {
+    "slug": "fishing",
+    "title": "Stardew Valley Complete Fishing Guide",
+    "game": "stardew",
+    "url": "/stardew/fishing/",
+    "keywords": [
+      "stardew",
+      "fishing",
+      "fish",
+      "species",
+      "list",
+      "spots"
+    ],
+    "updated": "2026-07-06",
+    "path": "docs/stardew/fishing.md"
+  },
+  {
+    "slug": "forage-guide",
+    "title": "Stardew Valley Forage Guide — Complete Forage & Wild Seed Database (1.6)",
+    "game": "stardew",
+    "url": "/stardew/forage-guide/",
+    "keywords": [
+      "stardew",
+      "forage",
+      "wild",
+      "seed",
+      "database",
+      "foraging"
+    ],
+    "updated": "2026-07-06",
+    "path": "docs/stardew/forage-guide.md"
+  },
+  {
+    "slug": "fruit-trees",
+    "title": "Stardew Valley Fruit Tree Guide — Complete Profit Analysis, Payback Period & Layout (1.6)",
+    "game": "stardew",
+    "url": "/stardew/fruit-trees/",
+    "keywords": [
+      "stardew",
+      "fruit",
+      "tree",
+      "profit",
+      "analysis",
+      "payback"
+    ],
+    "updated": "2026-07-06",
+    "path": "docs/stardew/fruit-trees.md"
+  },
+  {
+    "slug": "ginger-island",
+    "title": "Stardew Valley Ginger Island Guide — Volcano Dungeon, Walnuts &amp; Complete Walkthrough",
+    "game": "stardew",
+    "url": "/stardew/ginger-island/",
+    "keywords": [
+      "stardew",
+      "ginger",
+      "island",
+      "volcano",
+      "dungeon",
+      "walnuts"
+    ],
+    "updated": "2026-07-04",
+    "path": "docs/stardew/ginger-island.md"
+  },
+  {
+    "slug": "greenhouse-crops",
+    "title": "Stardew Valley Greenhouse Crops Guide",
+    "game": "stardew",
+    "url": "/stardew/greenhouse-crops/",
+    "keywords": [
+      "stardew",
+      "greenhouse",
+      "crops",
+      "maximize",
+      "profits",
+      "year"
+    ],
+    "updated": "2026-06-27",
+    "path": "docs/stardew/greenhouse-crops.md"
+  },
+  {
+    "slug": "hats",
+    "title": "Stardew Valley Complete Hat Collection Guide",
+    "game": "stardew",
+    "url": "/stardew/hats/",
+    "keywords": [
+      "stardew",
+      "hat",
+      "collection",
+      "catalog",
+      "locations",
+      "effects"
+    ],
+    "updated": "2026-07-06",
+    "path": "docs/stardew/hats.md"
+  },
+  {
+    "slug": "index",
+    "title": "Stardew Valley Complete Game Guide",
+    "game": "stardew",
+    "url": "/stardew/",
+    "keywords": [
+      "stardew",
+      "game",
+      "index",
+      "covering",
+      "farming",
+      "mining"
+    ],
+    "updated": "2026-07-25",
+    "path": "docs/stardew/index.md"
+  },
+  {
+    "slug": "mining",
+    "title": "Stardew Valley Mining Guide — Floors 1-120 Complete Walkthrough &amp; Ore Values",
+    "game": "stardew",
+    "url": "/stardew/mining/",
+    "keywords": [
+      "stardew",
+      "mining",
+      "floors",
+      "walkthrough",
+      "amp",
+      "ore"
+    ],
+    "updated": "2026-07-25",
+    "path": "docs/stardew/mining.md"
+  },
+  {
+    "slug": "museum",
+    "title": "Stardew Valley Museum Guide — Complete Artifact &amp; Mineral Collection Checklist",
+    "game": "stardew",
+    "url": "/stardew/museum/",
+    "keywords": [
+      "stardew",
+      "museum",
+      "artifact",
+      "amp",
+      "mineral",
+      "collection"
+    ],
+    "updated": "2026-07-06",
+    "path": "docs/stardew/museum.md"
+  },
+  {
+    "slug": "npc-gifts",
+    "title": "Stardew Valley NPC Gift Guide — Complete Loved/Liked Gifts for All Villagers",
+    "game": "stardew",
+    "url": "/stardew/npc-gifts/",
+    "keywords": [
+      "stardew",
+      "npc",
+      "gift",
+      "loved",
+      "liked",
+      "gifts"
+    ],
+    "updated": "2026-06-27",
+    "path": "docs/stardew/npc-gifts.md"
+  },
+  {
+    "slug": "perfect-completion",
+    "title": "Stardew Valley 100% Completion Checklist — Everything You Need for Perfection",
+    "game": "stardew",
+    "url": "/stardew/perfect-completion/",
+    "keywords": [
+      "stardew",
+      "completion",
+      "checklist",
+      "everything",
+      "need",
+      "perfection"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/stardew/perfect-completion.md"
+  },
+  {
+    "slug": "planting-calendar",
+    "title": "Stardew Valley Planting Calendar — Year 1-2 Complete Planting Schedule",
+    "game": "stardew",
+    "url": "/stardew/planting-calendar/",
+    "keywords": [
+      "stardew",
+      "planting",
+      "calendar",
+      "year",
+      "schedule",
+      "optimal"
+    ],
+    "updated": "2026-07-03",
+    "path": "docs/stardew/planting-calendar.md"
+  },
+  {
+    "slug": "profit-calc",
+    "title": "💰 Complete Money-Making Profit Calculator",
+    "game": "stardew",
+    "url": "/stardew/profit-calc/",
+    "keywords": [
+      "money",
+      "making",
+      "profit",
+      "calculator",
+      "data",
+      "version"
+    ],
+    "updated": "2026-06-27",
+    "path": "docs/stardew/profit-calc.md"
+  },
+  {
+    "slug": "pumpkin-vs-cranberries",
+    "title": "🎃 Pumpkin vs Cranberries — Stardew Valley Fall Crop Showdown",
+    "game": "stardew",
+    "url": "/stardew/pumpkin-vs-cranberries/",
+    "keywords": [
+      "pumpkin",
+      "cranberries",
+      "stardew",
+      "fall",
+      "crop",
+      "showdown"
+    ],
+    "updated": "2026-07-06",
+    "path": "docs/stardew/pumpkin-vs-cranberries.md"
+  },
+  {
+    "slug": "rings",
+    "title": "Stardew Valley Complete Ring Catalog",
+    "game": "stardew",
+    "url": "/stardew/rings/",
+    "keywords": [
+      "stardew",
+      "ring",
+      "catalog",
+      "effects",
+      "acquisition",
+      "methods"
+    ],
+    "updated": "2026-07-06",
+    "path": "docs/stardew/rings.md"
+  },
+  {
+    "slug": "schedule",
+    "title": "Stardew Valley NPC Schedule & Festival Calendar",
+    "game": "stardew",
+    "url": "/stardew/schedule/",
+    "keywords": [
+      "stardew",
+      "npc",
+      "schedule",
+      "festival",
+      "calendar",
+      "daily"
+    ],
+    "updated": "2026-07-06",
+    "path": "docs/stardew/schedule.md"
+  },
+  {
+    "slug": "skills",
+    "title": "Stardew Valley Skills Guide — Best Skill Tree Choices",
+    "game": "stardew",
+    "url": "/stardew/skills/",
+    "keywords": [
+      "stardew",
+      "skills",
+      "skill",
+      "tree",
+      "choices",
+      "farming"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/stardew/skills.md"
+  },
+  {
+    "slug": "spring-guide",
+    "title": "🌷 Complete Spring Guide",
+    "game": "stardew",
+    "url": "/stardew/spring-guide/",
+    "keywords": [
+      "spring",
+      "stardew",
+      "win",
+      "very",
+      "start",
+      "first"
+    ],
+    "updated": "2026-06-27",
+    "path": "docs/stardew/spring-guide.md"
+  },
+  {
+    "slug": "summer-blueprint",
+    "title": "☀️ Stardew Valley Year 1 Summer Blueprint — Maximize Profit with Data-Driven Planting",
+    "game": "stardew",
+    "url": "/stardew/summer-blueprint/",
+    "keywords": [
+      "stardew",
+      "year",
+      "summer",
+      "blueprint",
+      "maximize",
+      "profit"
+    ],
+    "updated": "2026-07-04",
+    "path": "docs/stardew/summer-blueprint.md"
+  },
+  {
+    "slug": "summer-guide",
+    "title": "Stardew Valley Complete Summer Guide",
+    "game": "stardew",
+    "url": "/stardew/summer-guide/",
+    "keywords": [
+      "stardew",
+      "summer",
+      "crop",
+      "recommendations",
+      "blueberries",
+      "big"
+    ],
+    "updated": "2026-07-06",
+    "path": "docs/stardew/summer-guide.md"
+  },
+  {
+    "slug": "tier-list",
+    "title": "🏆 Complete Crop Tier Ranking",
+    "game": "stardew",
+    "url": "/stardew/tier-list/",
+    "keywords": [
+      "crop",
+      "tier",
+      "ranking",
+      "data",
+      "version",
+      "stardew"
+    ],
+    "updated": "2026-06-27",
+    "path": "docs/stardew/tier-list.md"
+  },
+  {
+    "slug": "totems",
+    "title": "Stardew Valley Totems & Warp Guide — Complete Teleport Reference",
+    "game": "stardew",
+    "url": "/stardew/totems/",
+    "keywords": [
+      "stardew",
+      "totems",
+      "warp",
+      "teleport",
+      "reference",
+      "totem"
+    ],
+    "updated": "2026-07-06",
+    "path": "docs/stardew/totems.md"
+  },
+  {
+    "slug": "trinkets",
+    "title": "Stardew Valley 1.6 Trinkets Guide — Complete List",
+    "game": "stardew",
+    "url": "/stardew/trinkets/",
+    "keywords": [
+      "stardew",
+      "trinkets",
+      "list",
+      "new",
+      "trinket",
+      "items"
+    ],
+    "updated": "2026-07-06",
+    "path": "docs/stardew/trinkets.md"
+  },
+  {
+    "slug": "walnuts",
+    "title": "Stardew Valley Golden Walnut Guide — All 130 Locations",
+    "game": "stardew",
+    "url": "/stardew/walnuts/",
+    "keywords": [
+      "stardew",
+      "golden",
+      "walnut",
+      "locations",
+      "walkthrough",
+      "walnuts"
+    ],
+    "updated": "2026-07-06",
+    "path": "docs/stardew/walnuts.md"
+  },
+  {
+    "slug": "weapons",
+    "title": "Stardew Valley Complete Weapons & Combat Guide",
+    "game": "stardew",
+    "url": "/stardew/weapons/",
+    "keywords": [
+      "stardew",
+      "weapons",
+      "combat",
+      "weapon",
+      "catalog",
+      "stats"
+    ],
+    "updated": "2026-07-06",
+    "path": "docs/stardew/weapons.md"
+  },
+  {
+    "slug": "wine-brewing",
+    "title": "Stardew Valley Wine & Brewing Guide — Artisan Profits with Kegs and Preserves Jars",
+    "game": "stardew",
+    "url": "/stardew/wine-brewing/",
+    "keywords": [
+      "stardew",
+      "wine",
+      "brewing",
+      "artisan",
+      "profits",
+      "kegs"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/stardew/wine-brewing.md"
+  },
+  {
+    "slug": "winter",
+    "title": "Stardew Valley Winter Guide",
+    "game": "stardew",
+    "url": "/stardew/winter/",
+    "keywords": [
+      "stardew",
+      "winter",
+      "activities",
+      "mining",
+      "rush",
+      "festivals"
+    ],
+    "updated": "2026-07-06",
+    "path": "docs/stardew/winter.md"
+  },
+  {
+    "slug": "index",
+    "title": "Stardew Valley Year 1 Complete Guide",
+    "game": "stardew",
+    "url": "/stardew/year-1-guide/",
+    "keywords": [
+      "stardew",
+      "year",
+      "master",
+      "first",
+      "our",
+      "day"
+    ],
+    "updated": "2026-07-06",
+    "path": "docs/stardew/year-1-guide/index.md"
+  },
+  {
+    "slug": "year-2-guide",
+    "title": "Stardew Valley Year 2+ Guide — What to Do After Year 1",
+    "game": "stardew",
+    "url": "/stardew/year-2-guide/",
+    "keywords": [
+      "stardew",
+      "year",
+      "after",
+      "covering",
+      "endgame",
+      "progression"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/stardew/year-2-guide.md"
+  },
+  {
+    "slug": "1.0-update",
+    "title": "Starsand Island 1.0 Update Guide — 4-Player Co-op, 19 New NPC Storylines, Autumn Pumpkin Carnival & Console Launch (Aug 18, 2026)",
+    "game": "starsand-island",
+    "url": "/starsand-island/1.0-update/",
+    "keywords": [
+      "starsand",
+      "island",
+      "update",
+      "player",
+      "new",
+      "npc"
+    ],
+    "updated": "2026-08-07",
+    "path": "docs/starsand-island/1.0-update.md"
+  },
+  {
+    "slug": "animals",
+    "title": "Starsand Island Animal Guide — Pets, Farm Animals, Subspecies Breeding & Gene System (2026 EA)",
+    "game": "starsand-island",
+    "url": "/starsand-island/animals/",
+    "keywords": [
+      "starsand",
+      "island",
+      "animal",
+      "pets",
+      "farm",
+      "animals"
+    ],
+    "updated": "2026-07-27",
+    "path": "docs/starsand-island/animals.md"
+  },
+  {
+    "slug": "building-home",
+    "title": "Starsand Island Base Building & Home Design Guide — Land Expansion, Build Mode, Farm Structures & Decor (2026 EA)",
+    "game": "starsand-island",
+    "url": "/starsand-island/building-home/",
+    "keywords": [
+      "starsand",
+      "island",
+      "base",
+      "building",
+      "home",
+      "design"
+    ],
+    "updated": "2026-08-05",
+    "path": "docs/starsand-island/building-home.md"
+  },
+  {
+    "slug": "community-romance",
+    "title": "Starsand Island Community & Romance Guide — All 15 NPCs, Gifts, Heart Levels & Festivals (2026 EA)",
+    "game": "starsand-island",
+    "url": "/starsand-island/community-romance/",
+    "keywords": [
+      "starsand",
+      "island",
+      "community",
+      "romance",
+      "npcs",
+      "gifts"
+    ],
+    "updated": "2026-08-03",
+    "path": "docs/starsand-island/community-romance.md"
+  },
+  {
+    "slug": "crops",
+    "title": "Starsand Island Crop Profit Guide — Best Crops for Every Season (2026 EA)",
+    "game": "starsand-island",
+    "url": "/starsand-island/crops/",
+    "keywords": [
+      "starsand",
+      "island",
+      "crop",
+      "profit",
+      "crops",
+      "season"
+    ],
+    "updated": "2026-07-29",
+    "path": "docs/starsand-island/crops.md"
+  },
+  {
+    "slug": "fishing-gathering",
+    "title": "Starsand Island Fishing & Gathering Guide — All Fish, Bait, Fish Kings & Beach Foraging (2026 EA)",
+    "game": "starsand-island",
+    "url": "/starsand-island/fishing-gathering/",
+    "keywords": [
+      "starsand",
+      "island",
+      "fishing",
+      "gathering",
+      "fish",
+      "bait"
+    ],
+    "updated": "2026-07-31",
+    "path": "docs/starsand-island/fishing-gathering.md"
+  },
+  {
+    "slug": "index",
+    "title": "Starsand Island (星砂岛) Guides",
+    "game": "starsand-island",
+    "url": "/starsand-island/",
+    "keywords": [
+      "starsand",
+      "island",
+      "farming",
+      "animals",
+      "pets",
+      "breeding"
+    ],
+    "updated": "2026-07-27",
+    "path": "docs/starsand-island/index.md"
+  },
+  {
+    "slug": "mining-crafting",
+    "title": "Starsand Island Mining & Crafting Guide — Moonlit Forest, All Ores, Tool Upgrades & Smelting (2026 EA)",
+    "game": "starsand-island",
+    "url": "/starsand-island/mining-crafting/",
+    "keywords": [
+      "starsand",
+      "island",
+      "mining",
+      "crafting",
+      "moonlit",
+      "forest"
+    ],
+    "updated": "2026-08-02",
+    "path": "docs/starsand-island/mining-crafting.md"
+  },
+  {
+    "slug": "animals",
+    "title": "Sun Haven Animals & Pets Complete Guide — All Animals, Care, Profit & Artisan Processing",
+    "game": "sun-haven",
+    "url": "/sun-haven/animals/",
+    "keywords": [
+      "sun",
+      "haven",
+      "animals",
+      "pets",
+      "care",
+      "profit"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/sun-haven/animals.md"
+  },
+  {
+    "slug": "combat",
+    "title": "Sun Haven — Complete Combat & Magic Guide",
+    "game": "sun-haven",
+    "url": "/sun-haven/combat/",
+    "keywords": [
+      "sun",
+      "haven",
+      "combat",
+      "magic",
+      "master",
+      "weapon"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/sun-haven/combat.md"
+  },
+  {
+    "slug": "cooking",
+    "title": "Sun Haven Cooking Guide — All Recipes, Ingredients, and Meal Buffs",
+    "game": "sun-haven",
+    "url": "/sun-haven/cooking/",
+    "keywords": [
+      "sun",
+      "haven",
+      "cooking",
+      "recipes",
+      "ingredients",
+      "meal"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/sun-haven/cooking.md"
+  },
+  {
+    "slug": "crafting",
+    "title": "Sun Haven Crafting & Artisan Guide — Workbenches, Recipes, and Production Chains",
+    "game": "sun-haven",
+    "url": "/sun-haven/crafting/",
+    "keywords": [
+      "sun",
+      "haven",
+      "crafting",
+      "artisan",
+      "workbenches",
+      "recipes"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/sun-haven/crafting.md"
+  },
+  {
+    "slug": "crop-profit",
+    "title": "Sun Haven — Crop Profit Guide",
+    "game": "sun-haven",
+    "url": "/sun-haven/crop-profit/",
+    "keywords": [
+      "sun",
+      "haven",
+      "crop",
+      "profit",
+      "maximizing",
+      "requires"
+    ],
+    "updated": "2026-06-27",
+    "path": "docs/sun-haven/crop-profit.md"
+  },
+  {
+    "slug": "endgame-guide",
+    "title": "Sun Haven Endgame Guide — What to Do After the Main Story",
+    "game": "sun-haven",
+    "url": "/sun-haven/endgame-guide/",
+    "keywords": [
+      "sun",
+      "haven",
+      "endgame",
+      "after",
+      "main",
+      "story"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/sun-haven/endgame-guide.md"
+  },
+  {
+    "slug": "farming-deep-dive",
+    "title": "Sun Haven — Farming Deep Dive Guide (Three Biomes, Sprinklers, Fertilizer & Magic)",
+    "game": "sun-haven",
+    "url": "/sun-haven/farming-deep-dive/",
+    "keywords": [
+      "sun",
+      "haven",
+      "farming",
+      "deep",
+      "dive",
+      "three"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/sun-haven/farming-deep-dive.md"
+  },
+  {
+    "slug": "festivals",
+    "title": "Sun Haven — Festivals & Events Complete Guide (Full Calendar/Competition Strategies/Rewards Table/Romance Events/Year 1 Preparation)",
+    "game": "sun-haven",
+    "url": "/sun-haven/festivals/",
+    "keywords": [
+      "sun",
+      "haven",
+      "festivals",
+      "events",
+      "full",
+      "calendar"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/sun-haven/festivals.md"
+  },
+  {
+    "slug": "fishing",
+    "title": "Sun Haven — Fishing Complete Guide (Three Biomes/Rod Upgrades/Minigame/Skill Tree/Legendary Fish/Bug Net)",
+    "game": "sun-haven",
+    "url": "/sun-haven/fishing/",
+    "keywords": [
+      "sun",
+      "haven",
+      "fishing",
+      "three",
+      "biomes",
+      "rod"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/sun-haven/fishing.md"
+  },
+  {
+    "slug": "getting-started",
+    "title": "Sun Haven Complete Beginner Guide — First Week & Beyond",
+    "game": "sun-haven",
+    "url": "/sun-haven/getting-started/",
+    "keywords": [
+      "sun",
+      "haven",
+      "beginner",
+      "first",
+      "week",
+      "beyond"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/sun-haven/getting-started.md"
+  },
+  {
+    "slug": "housing",
+    "title": "Sun Haven Housing Guide — House Upgrades, Furniture, and Town Building",
+    "game": "sun-haven",
+    "url": "/sun-haven/housing/",
+    "keywords": [
+      "sun",
+      "haven",
+      "housing",
+      "house",
+      "upgrades",
+      "furniture"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/sun-haven/housing.md"
+  },
+  {
+    "slug": "index",
+    "title": "Sun Haven — Complete Game Overview",
+    "game": "sun-haven",
+    "url": "/sun-haven/",
+    "keywords": [
+      "sun",
+      "haven",
+      "game",
+      "overview",
+      "fantasy",
+      "farming"
+    ],
+    "updated": "2026-07-25",
+    "path": "docs/sun-haven/index.md"
+  },
+  {
+    "slug": "npc-gifts",
+    "title": "Sun Haven — NPC Gift Guide",
+    "game": "sun-haven",
+    "url": "/sun-haven/npc-gifts/",
+    "keywords": [
+      "sun",
+      "haven",
+      "npc",
+      "gift",
+      "building",
+      "relationships"
+    ],
+    "updated": "2026-06-27",
+    "path": "docs/sun-haven/npc-gifts.md"
+  },
+  {
+    "slug": "seasonal-strategy",
+    "title": "Sun Haven Seasonal Strategy — Complete Year-Round Guide",
+    "game": "sun-haven",
+    "url": "/sun-haven/seasonal-strategy/",
+    "keywords": [
+      "sun",
+      "haven",
+      "seasonal",
+      "strategy",
+      "year",
+      "round"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/sun-haven/seasonal-strategy.md"
+  },
+  {
+    "slug": "zones-guide",
+    "title": "Sun Haven Zone Map Guide — Nel'Vari, Withergate, and Sun Haven Exploration",
+    "game": "sun-haven",
+    "url": "/sun-haven/zones-guide/",
+    "keywords": [
+      "sun",
+      "haven",
+      "zone",
+      "map",
+      "nel",
+      "vari"
+    ],
+    "updated": "2026-07-05",
+    "path": "docs/sun-haven/zones-guide.md"
+  },
+  {
+    "slug": "beginners-guide",
+    "title": "Tales of Seikyu Beginner's Guide — Yokai Forms, First Season Tips & Money Making",
+    "game": "tales-of-seikyu",
+    "url": "/tales-of-seikyu/beginners-guide/",
+    "keywords": [
+      "tales",
+      "seikyu",
+      "beginner",
+      "yokai",
+      "forms",
+      "first"
+    ],
+    "updated": "2026-08-20",
+    "path": "docs/tales-of-seikyu/beginners-guide.md"
+  },
+  {
+    "slug": "index",
+    "title": "Tales of Seikyu Guides",
+    "game": "tales-of-seikyu",
+    "url": "/tales-of-seikyu/",
+    "keywords": [
+      "tales",
+      "seikyu",
+      "yokai",
+      "farming",
+      "sim",
+      "ace"
+    ],
+    "updated": "2026-08-20",
+    "path": "docs/tales-of-seikyu/index.md"
+  },
+  {
+    "slug": "beginners-guide",
+    "title": "Tiny Eden Preview Guide — Cozy Indoor Farming in a 2050 Megacity Apartment",
+    "game": "tiny-eden",
+    "url": "/tiny-eden/beginners-guide/",
+    "keywords": [
+      "tiny",
+      "eden",
+      "preview",
+      "cozy",
+      "indoor",
+      "farming"
+    ],
+    "updated": "2026-08-24",
+    "path": "docs/tiny-eden/beginners-guide.md"
+  },
+  {
+    "slug": "index",
+    "title": "Tiny Eden Guides",
+    "game": "tiny-eden",
+    "url": "/tiny-eden/",
+    "keywords": [
+      "tiny",
+      "eden",
+      "cozy",
+      "indoor",
+      "farming",
+      "sim"
+    ],
+    "updated": "2026-08-24",
+    "path": "docs/tiny-eden/index.md"
+  },
+  {
+    "slug": "beginners-guide",
+    "title": "Tiny Monster Haven Beginner's Guide — Idle Desktop Farming With 50+ Monsters",
+    "game": "tiny-monster-haven",
+    "url": "/tiny-monster-haven/beginners-guide/",
+    "keywords": [
+      "tiny",
+      "monster",
+      "haven",
+      "beginner",
+      "idle",
+      "desktop"
+    ],
+    "updated": "2026-08-12",
+    "path": "docs/tiny-monster-haven/beginners-guide.md"
+  },
+  {
+    "slug": "index",
+    "title": "Tiny Monster Haven Guides",
+    "game": "tiny-monster-haven",
+    "url": "/tiny-monster-haven/",
+    "keywords": [
+      "tiny",
+      "monster",
+      "haven",
+      "cozy",
+      "idle",
+      "creature"
+    ],
+    "updated": "2026-08-12",
+    "path": "docs/tiny-monster-haven/index.md"
+  },
+  {
+    "slug": "beginners-guide",
+    "title": "Village in the Shade Beginner's Guide — Money Making, Village Rules & Night Exploration (Hono Gurashi no Niwa)",
+    "game": "village-in-the-shade",
+    "url": "/village-in-the-shade/beginners-guide/",
+    "keywords": [
+      "village",
+      "shade",
+      "beginner",
+      "money",
+      "making",
+      "rules"
+    ],
+    "updated": "2026-08-05",
+    "path": "docs/village-in-the-shade/beginners-guide.md"
+  },
+  {
+    "slug": "index",
+    "title": "Village in the Shade Guides — Hono Gurashi no Niwa",
+    "game": "village-in-the-shade",
+    "url": "/village-in-the-shade/",
+    "keywords": [
+      "village",
+      "shade",
+      "hono",
+      "gurashi",
+      "niwa",
+      "yomawari"
+    ],
+    "updated": "2026-08-05",
+    "path": "docs/village-in-the-shade/index.md"
+  },
+  {
+    "slug": "livestock-mutant-crops",
+    "title": "Village in the Shade Livestock & Mutant Crops Guide — Barns, Chickens, Cows & Giant Crops",
+    "game": "village-in-the-shade",
+    "url": "/village-in-the-shade/livestock-mutant-crops/",
+    "keywords": [
+      "village",
+      "shade",
+      "livestock",
+      "mutant",
+      "crops",
+      "barns"
+    ],
+    "updated": "2026-08-10",
+    "path": "docs/village-in-the-shade/livestock-mutant-crops.md"
+  },
+  {
+    "slug": "beginners-guide",
+    "title": "Welcome to Elderfield Preview Guide — Cozy Horror Farming, the Strange Crops & the Dead Mall",
+    "game": "welcome-to-elderfield",
+    "url": "/welcome-to-elderfield/beginners-guide/",
+    "keywords": [
+      "welcome",
+      "elderfield",
+      "preview",
+      "cozy",
+      "horror",
+      "farming"
+    ],
+    "updated": "2026-08-26",
+    "path": "docs/welcome-to-elderfield/beginners-guide.md"
+  },
+  {
+    "slug": "index",
+    "title": "Welcome to Elderfield Guides",
+    "game": "welcome-to-elderfield",
+    "url": "/welcome-to-elderfield/",
+    "keywords": [
+      "welcome",
+      "elderfield",
+      "chris",
+      "cote",
+      "kwalee",
+      "cozy"
+    ],
+    "updated": "2026-08-26",
+    "path": "docs/welcome-to-elderfield/index.md"
+  }
+]
