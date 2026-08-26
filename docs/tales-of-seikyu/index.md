@@ -15,6 +15,7 @@ date: 2026-08-20
 | Guide | Description |
 |:------|:------------|
 | [🚀 Beginner's Guide](beginners-guide.md) | Everything for your first season — how the no-hoe transformation system works, every form unlock in order, a day-by-day first-week route, income comparisons (egg-to-mayonnaise vs fishing), romance and 20 romance candidates, Fox Ruins survival, hidden mechanics, pro tips and an FAQ |
+| [🎣 Fishing Guide](fishing.md) | Complete fishing mechanics, seasonal fish list with 37 species, best casting locations, rod upgrades and bait progression, and pro tips for rare catches like Blobfish and Siberian Taimen |
 
 ## Quick Facts
 

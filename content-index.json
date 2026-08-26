@@ -3104,5 +3104,21 @@
     ],
     "updated": "2026-08-26",
     "path": "docs/go-go-town/fishing.md"
+  },
+  {
+    "slug": "fishing",
+    "title": "Master Tales of Seikyu Fishing: The Complete Guide",
+    "game": "tales-of-seikyu",
+    "url": "/tales-of-seikyu/fishing/",
+    "keywords": [
+      "tales",
+      "of",
+      "seikyu",
+      "fishing",
+      "guide",
+      "fish"
+    ],
+    "updated": "2026-08-26",
+    "path": "docs/tales-of-seikyu/fishing.md"
   }
 ]

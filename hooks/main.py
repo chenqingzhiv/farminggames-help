@@ -1205,6 +1205,20 @@ RELATED_GUIDES = {
         ("guides/best-gaming-gear/", "Best Gaming Gear"),
     ],
 
+    # ─── Tales of Seikyu ───
+    "tales-of-seikyu/": [
+        ("tales-of-seikyu/beginners-guide/", "Beginner's Guide"),
+        ("tales-of-seikyu/fishing/", "Fishing Guide"),
+    ],
+    "tales-of-seikyu/beginners-guide/": [
+        ("tales-of-seikyu/", "Tales of Seikyu Overview"),
+        ("tales-of-seikyu/fishing/", "Fishing Guide"),
+    ],
+    "tales-of-seikyu/fishing/": [
+        ("tales-of-seikyu/", "Tales of Seikyu Overview"),
+        ("tales-of-seikyu/beginners-guide/", "Beginner's Guide"),
+    ],
+
     # ─── Go-Go Town! ───
     "go-go-town/fishing/": [
         ("go-go-town/", "Go-Go Town! Overview"),
