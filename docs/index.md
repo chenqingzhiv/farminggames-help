@@ -357,6 +357,15 @@ date: 2026-06-27
 <h2 class="section-title-home">Latest Guides <span class="sub">· updated weekly</span></h2>
 
 <div class="article-preview-card">
+  <div class="article-thumb" style="background:radial-gradient(ellipse at 50% 30%, rgba(14,165,233,0.4), transparent 60%);"></div>
+  <div class="article-body-home">
+    <h4>🎣 <a href="go-go-town/fishing/">Go-Go Town! Fishing Guide — Every Fish, Junk Spots &amp; Worker Automation (1.0)</a></h4>
+    <p>The complete 1.0 fishing compendium: every confirmed catch from Octowurst to Big Bone, standard vs junk fishing spots per district, rod and gear progression, automating the Fishing Zone with town workers, Treasure Hunting collection rewards, and money-making per hour.</p>
+    <div class="article-meta"><span>📅 Aug 26, 2026</span><span>📖 8 min read</span><span class="badge-new">NEW</span></div>
+  </div>
+</div>
+
+<div class="article-preview-card">
   <div class="article-thumb" style="background:radial-gradient(ellipse at 50% 30%, rgba(130,96,168,0.4), transparent 60%);"></div>
   <div class="article-body-home">
     <h4>👁️ <a href="welcome-to-elderfield/beginners-guide/">Welcome to Elderfield Preview Guide — Cozy Horror Farming, the Strange Crops & the Dead Mall</a></h4>

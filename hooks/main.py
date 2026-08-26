@@ -1205,6 +1205,13 @@ RELATED_GUIDES = {
         ("guides/best-gaming-gear/", "Best Gaming Gear"),
     ],
 
+    # ─── Go-Go Town! ───
+    "go-go-town/fishing/": [
+        ("go-go-town/", "Go-Go Town! Overview"),
+        ("go-go-town/beginners-guide/", "Beginner's Guide"),
+        ("stardew/fishing/", "Stardew Valley Fishing Guide"),
+    ],
+
     # ─── Welcome to Elderfield ───
     "welcome-to-elderfield/": [
         ("welcome-to-elderfield/beginners-guide/", "Preview Guide"),

@@ -15,6 +15,7 @@ date: 2026-08-24
 | Guide | Description |
 |:------|:------------|
 | [🚀 Beginner's Guide](beginners-guide.md) | Everything for your first week — the TownCo core loop, Town Goals tutorial, EGO Tech unlock order, resident recruiting (recruit ≠ hire), shop worker occupations, when to buy your first courier, first-week money making (geode vs pet rock prices), tourist desires, storage sizes, map landmarks, pro tips and an FAQ |
+| [🎣 Fishing Guide](fishing.md) | Every confirmed fish and junk-spot catch (Octowurst, Big Bone, Tree Swing), standard vs junk fishing spots and where they spawn per district, rod & gear progression, worker automation for the Fishing Zone, Treasure Hunting collection rewards, and money-making tips |
 
 ## Quick Facts
 

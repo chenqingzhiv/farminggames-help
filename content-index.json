@@ -3088,5 +3088,21 @@
     ],
     "updated": "2026-08-26",
     "path": "docs/welcome-to-elderfield/index.md"
+  },
+  {
+    "slug": "fishing",
+    "title": "Go-Go Town! Fishing Guide — Every Fish, Junk Spots & Worker Automation (1.0)",
+    "game": "go-go-town",
+    "url": "/go-go-town/fishing/",
+    "keywords": [
+      "fishing",
+      "fish",
+      "list",
+      "rod",
+      "spots",
+      "junk"
+    ],
+    "updated": "2026-08-26",
+    "path": "docs/go-go-town/fishing.md"
   }
 ]
