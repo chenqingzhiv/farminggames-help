@@ -1226,6 +1226,11 @@ RELATED_GUIDES = {
         ("stardew/fishing/", "Stardew Valley Fishing Guide"),
     ],
 
+    "go-go-town/crops/": [
+        ("go-go-town/beginners-guide/", "Go-Go Town! Beginner's Guide — First Week Tips, Town Goals & Automation (1.0)"),
+        ("go-go-town/", "Go-Go Town! Guides"),
+        ("go-go-town/fishing/", "Go-Go Town! Fishing Guide — Every Fish, Junk Spots & Worker Automation (1.0)")
+    ],
     # ─── Welcome to Elderfield ───
     "welcome-to-elderfield/": [
         ("welcome-to-elderfield/beginners-guide/", "Preview Guide"),

@@ -3120,5 +3120,14 @@
     ],
     "updated": "2026-08-26",
     "path": "docs/tales-of-seikyu/fishing.md"
+  },
+  {
+    "slug": "crops",
+    "title": "Go-Go Town! Crops Guide — Best Crops, Seasons, and Money-Making Tips",
+    "game": "go-go-town",
+    "url": "/go-go-town/crops/",
+    "keywords": ["go-go town crops", "go-go town farming guide", "go-go town best crops", "go-go town seeds", "go-go town money making"],
+    "updated": "2026-08-29",
+    "path": "docs/go-go-town/crops.md"
   }
 ]

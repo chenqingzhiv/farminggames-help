@@ -357,6 +357,14 @@ date: 2026-06-27
 <h2 class="section-title-home">Latest Guides <span class="sub">· updated weekly</span></h2>
 
 <div class="article-preview-card">
+  <div class="article-thumb" style="background:radial-gradient(ellipse at 50% 30%, rgba(236,72,153,0.4), transparent 60%);"></div>
+  <div class="article-body-home">
+    <h4>🌱 <a href="go-go-town/crops/">Go-Go Town! Crops Guide — Best Crops, Seasons, and Money-Making Tips</a></h4>
+    <p>A complete guide to farming crops in Go-Go Town!, including the best seeds per season, growth times, sell prices, and money-making strategies.</p>
+    <div class="article-meta"><span>📅 Aug 29, 2026</span><span>📖 6 min read</span><span class="badge-new">NEW</span></div>
+  </div>
+</div>
+<div class="article-preview-card">
   <div class="article-thumb" style="background:radial-gradient(ellipse at 50% 30%, rgba(239,68,68,0.35), transparent 60%);"></div>
   <div class="article-body-home">
     <h4>🎣 <a href="tales-of-seikyu/fishing/">Master Tales of Seikyu Fishing: The Complete Guide</a></h4>
