@@ -90,3 +90,40 @@
      全链路通了再恢复正式管线
 - **教训**：常量化选择器虽然便于维护，但平台大版本升级会让整批常量瞬时
   失效；建议每 1-2 周做一次 probe smoke test，发现漂移立即修
+
+### 2026-09-05 续 · 第二轮调试（"继续"指令后追加 5 次尝试 · 通道彻底熔断）
+
+- **真因深挖**：原以为是 CSS Modules 让选择器失效，实则更深层 —— DeepSeek
+  服务端根本不响应所有发送。三次发送对比证据：
+
+  | # | 时间 | 发送方式 | 深度思考 | 智能搜索 | textarea | 消息渲染 | 助手响应 |
+  |---|---|---|---|---|---|---|---|
+  | 1 | 06:01 | 按钮点击 | ON | ON | 清空 | ✓（prompt 镜像） | ✗（10 min 无） |
+  | 2 | 06:23 | Enter | OFF | ON | 清空 | ✗（无） | ✗ |
+  | 3 | 06:38 | 按钮点击 | OFF | ON | 清空 | ✗（vlText 只有工具栏） | ✗（8 min 无） |
+
+- **Enter 键假发送根因**：合成 KeyboardEvent('Enter') 清空 textarea 客户端
+  状态、URL 切到 /a/chat/s/<uuid>，但**消息从不 POST 到服务器**（3 次 reload
+  对话都返回空消息列表）。按钮点击（depth-1 climb from textarea，优先
+  primary+filled 圆形按钮）会读 DOM `textarea.value` 直接提交，与 React 受控
+  state 是否同步无关 —— 06:01 唯一让消息到达服务器的方式就是按钮点击。
+- **服务器彻底不响应**：即便深度思考已关、按钮点击确认送达（sidebar 自动
+  生成标题"Ancient Farm Crops Guide"、conversation UUID 已分配），消息列表
+  渲染为空、120 秒 + 240 秒两次 probe 都没 assistant container 出现、无"繁忙/
+  重试"等错误提示文本。这是账号层/区域/额度/服务端问题，非自动化通道可修复。
+- **已实操的脚本修复（下次开工直接复用，无需再探）**：
+  - send 改用按钮点击（depth-1 climb，primary+filled 优先），Enter 留 fallback
+  - toggle 检测按 label（"智能搜索"/"深度思考"）找 clickable ancestor，
+    CSS-Modules 免疫；强制深度思考 OFF 是必需
+  - findArticle 改用 h1-climb + Pro Tips/FAQ 文本探针，外加排除 prompt
+    镜像（"Write a complete, publishable SEO guide" 字符串）+ last-match
+    fallback 取最新回答
+  - waitArticle 用 text-length stable across 2 polls（≥4000 chars）作完成
+    判定，不依赖任何类名
+- **通道彻底失败的应急方案（待用户决策，不擅自执行）**：
+  - A：等待 1-2 天让 DeepSeek 配额/服务恢复，下次自动化轮再试
+  - B：用户**手工**在 DeepSeek 网页生成 ancient-farm/crops 文章，把 markdown
+    贴到 `.pipeline-prompt-done.md`，智能体接续 QA + 整合 + build + push
+  - C：临时降级到 ChatGLM 网页版生成英文攻略（用户偏好 ChatGLM 做代码，
+    内容生成属授权外使用，需用户明确同意）
+  - D：本期跳过，等下周六再跑（方案 B 每周一次，下一轮 09-12 06:00）
