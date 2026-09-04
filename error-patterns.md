@@ -127,3 +127,26 @@
   - C：临时降级到 ChatGLM 网页版生成英文攻略（用户偏好 ChatGLM 做代码，
     内容生成属授权外使用，需用户明确同意）
   - D：本期跳过，等下周六再跑（方案 B 每周一次，下一轮 09-12 06:00）
+    （系统已选 D；下周六开工第一刀跑 `ping_alive.js` 体检通道再决定）
+
+### 2026-09-05 第三轮 · ping_alive + ds_bridge_generate 实测（"继续"指令第 3 次）
+
+- **短期通道体检成本极低**：写了一个轻量 `pipeline-tools/ping_alive.js`（~30s
+  内完成 PONG 验证），未来每轮开工第一刀都可用它确认通道状态。
+- **关键发现（实锤，长 prompt 静默丢弃）**：trivial PONG 10s 往返通畅（按钮点击
+  + 深度思考 OFF + 智能搜索 ON，与文章生成链路完全相同），但 1937 字符
+  article prompt 在 480s + 3×60s 共 660s 内无 assistant 响应：
+  - 对话 UUID=7a933828-f10c-4c6c-8e0f-d0b2739916b5（消息抵达服务端后已创建）
+  - 消息列表完全为空、h1s 空、biggestDiv=1161（仅侧边栏文本）、无 stop 按钮
+  - bodyLen 全程冻结 157232（无任何 assistant 内容渲染）
+- **客户端链路 100% 正常**（同样的 fill+native setter+按钮点击+深度思考 OFF+智能
+  搜索 ON 对短 prompt 完美）。**DeepSeek 服务层对长 prompt 静默丢弃**，疑似
+  区域/账号层的内容审核或 quota 限额，非自动化可修复。
+- **应对策略**：系统自动选了 D 选项（本期跳过）。下一轮 09-12 06:00 开工时：
+  1. 第一刀跑 `ping_alive.js`（≤30s），trivial PONG 不通→选 A 等待
+  2. PONG 通：直接跑 `ds_bridge_generate.js`，超时即熔断转 D 不再重试
+  3. 若用户修复 DeepSeek 账号/区域/配额 → 同一脚本直接复用，无需重写
+- **本次累计消耗**：智能体操作积分约 50（ping 一次 + 生成一次 + 3×60s 末
+  检），无 DeepSeek 积分消费，无文章产出，无污染产物。
+- **本轮新增脚本**：`pipeline-tools/ping_alive.js`（轻量通道体检，~30s 出结
+  论；下次开工第一刀可用）。
