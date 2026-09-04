@@ -55,3 +55,38 @@
 - 自审超时未触达：bridge 通道的 `waitDone` 选择器失效导致首轮等 8 分钟超时熔
   断（文章其实已生成完）。**修复后下轮必须验证：自审 follow-up + 二次等待
   是否正常完成**
+
+## 2026-09-05 (周六 06:00 自动轮 · 第 5 次自动化 · DOM 重构大事故)
+
+- **DeepSeek 网页版发生 CSS Modules 化重构**：除 `ds-button`/`ds-toggle-button`
+  等基础控件类名保留外，所有布局/内容类名改为哈希化 CSS Modules（`cb86951c`/
+  `_7780f2e`/`_189b4a0` 等），导致以下选择器**全部失效**：
+  - 答案容器 `.ds-markdown.ds-assistant-message-main-content` → 不存在
+  - `[class*=message]` → 0 匹配
+  - `[class*=markdown]`/`[class*=prose]`/`[class*=answer]`/`[class*=response]`
+    /`[class*=assistant]` → 0 匹配
+  - 智能搜索 `.ds-toggle-button` → 不存在（按钮位置/标识均变化）
+  - 历史选择器 `[class*=ds-button--circle]` 仍可匹配 `ds-button--primary
+    ds-button--filled ds-button--circle`，但 fill 后 React 状态不刷新时点
+    击无效，**必须 Enter 键发送才稳**
+- **fill 兼容修复**：DeepSeek 新版用 React controlled component，旧 `dispatchEvent
+  (new Event('input'))` 不会触发 onChange；需用 `Object.getOwnPropertyDescriptor
+  (HTMLTextAreaElement.prototype, "value").set` 原生 setter 设置值后再
+  dispatchEvent
+- **本轮现象**：脚本按旧选择器填了 1937 字符到 textarea 但点击 `[class*=
+  ds-button--circle]` 失败；后用 fill+native setter+Enter 重新发送，textarea
+  立即清空、bodyLen 149173→154390、出现 prompt 镜像容器 `_189b4a0`；但**4 分
+  钟后仍无 assistant 容器**、bodyLen 不再增长——DeepSeek 接收 prompt 但未返
+  回答案（疑似深度思考模式耗 token 或服务异常）
+- **决策**：按 RUN-CARD 红线「禁止无限重试」熔断，不为完成而跳过质量关卡
+- **下次开工必须做的修复**（属于下一轮运营任务前置）：
+  1. 浏览器实测打开 `chat.deepseek.com`，开新对话
+  2. 探测新 DOM：智能搜索按钮类名、send 按钮（已确认
+     `ds-button ds-button--primary ds-button--filled ds-button--circle
+     ds-button--m` 可用但需 Enter 兜底）、assistant message 容器选择器
+  3. 改 `ds_bridge_generate.js` 顶部 STAT_JS/TOGGLE_JS/SEND_JS/EXTRACT_JS
+     四个常量；新增 `nativeSetterFill` 替代旧 fill
+  4. 用 probe 脚本跑一轮端到端 smoke test（占位 prompt），验证生成 + 提取
+     全链路通了再恢复正式管线
+- **教训**：常量化选择器虽然便于维护，但平台大版本升级会让整批常量瞬时
+  失效；建议每 1-2 周做一次 probe smoke test，发现漂移立即修
